@@ -1,0 +1,253 @@
+{
+  "audio": "page-020.mp3",
+  "words": [
+    {
+      "text": "Faida",
+      "start": 0.178708,
+      "end": 0.464749,
+      "sourceIndex": 1
+    },
+    {
+      "text": "ya",
+      "start": 0.564875,
+      "end": 0.679291,
+      "sourceIndex": 2
+    },
+    {
+      "text": "kula",
+      "start": 0.707875,
+      "end": 1.008208,
+      "sourceIndex": 3
+    },
+    {
+      "text": "matunda",
+      "start": 1.036833,
+      "end": 1.494499,
+      "sourceIndex": 4
+    },
+    {
+      "text": "yaliyosafishwa",
+      "start": 1.523125,
+      "end": 2.438458,
+      "sourceIndex": 5
+    },
+    {
+      "text": "Hatua",
+      "start": 2.467041,
+      "end": 2.881791,
+      "sourceIndex": 6
+    },
+    {
+      "text": "za",
+      "start": 2.910416,
+      "end": 3.053416,
+      "sourceIndex": 7
+    },
+    {
+      "text": "kusafisha",
+      "start": 3.082041,
+      "end": 3.711332,
+      "sourceIndex": 8
+    },
+    {
+      "text": "matunda",
+      "start": 3.739916,
+      "end": 4.297707,
+      "sourceIndex": 9
+    },
+    {
+      "text": "moja",
+      "start": 5.377583,
+      "end": 5.720833,
+      "sourceIndex": 28
+    },
+    {
+      "text": "Kuokota",
+      "start": 5.935375,
+      "end": 6.578958,
+      "sourceIndex": 10
+    },
+    {
+      "text": "tunda",
+      "start": 6.621833,
+      "end": 7.079499,
+      "sourceIndex": 11
+    },
+    {
+      "text": "mbili",
+      "start": 8.166458,
+      "end": 8.438208,
+      "sourceIndex": 24
+    },
+    {
+      "text": "Kuandaa",
+      "start": 8.638458,
+      "end": 9.139041,
+      "sourceIndex": 12
+    },
+    {
+      "text": "vifaa",
+      "start": 9.167625,
+      "end": 9.568083,
+      "sourceIndex": 13
+    },
+    {
+      "text": "vya",
+      "start": 9.596666,
+      "end": 9.768291,
+      "sourceIndex": 14
+    },
+    {
+      "text": "kusafishia",
+      "start": 9.796916,
+      "end": 10.569207,
+      "sourceIndex": 15
+    },
+    {
+      "text": "tunda",
+      "start": 10.612125,
+      "end": 10.998291,
+      "sourceIndex": 16
+    },
+    {
+      "text": "Maji",
+      "start": 12.099541,
+      "end": 12.314082,
+      "sourceIndex": 17
+    },
+    {
+      "text": "safi",
+      "start": 12.457083,
+      "end": 12.871833,
+      "sourceIndex": 18
+    },
+    {
+      "text": "na",
+      "start": 12.900458,
+      "end": 12.986249,
+      "sourceIndex": 19
+    },
+    {
+      "text": "salama",
+      "start": 13.014875,
+      "end": 13.644166,
+      "sourceIndex": 20
+    },
+    {
+      "text": "bakuli",
+      "start": 13.772875,
+      "end": 14.273458,
+      "sourceIndex": 21
+    },
+    {
+      "text": "na",
+      "start": 14.302041,
+      "end": 14.416457,
+      "sourceIndex": 22
+    },
+    {
+      "text": "kikombe",
+      "start": 14.459375,
+      "end": 15.145875,
+      "sourceIndex": 23
+    },
+    {
+      "text": "tatu",
+      "start": 16.232833,
+      "end": 16.547458,
+      "sourceIndex": 27
+    },
+    {
+      "text": "Kusafisha",
+      "start": 16.733416,
+      "end": 17.477124,
+      "sourceIndex": 25
+    },
+    {
+      "text": "tunda",
+      "start": 17.520041,
+      "end": 17.963416,
+      "sourceIndex": 26
+    },
+    {
+      "text": "nne",
+      "start": 19.036041,
+      "end": 19.279166,
+      "sourceIndex": 40
+    },
+    {
+      "text": "Kula",
+      "start": 19.479416,
+      "end": 19.836957,
+      "sourceIndex": 37
+    },
+    {
+      "text": "tunda",
+      "start": 19.879875,
+      "end": 20.237416,
+      "sourceIndex": 38
+    },
+    {
+      "text": "lililosafishwa",
+      "start": 20.266,
+      "end": 21.453083,
+      "sourceIndex": 39
+    },
+    {
+      "text": "tano",
+      "start": 22.540041,
+      "end": 22.811791,
+      "sourceIndex": 41
+    },
+    {
+      "text": "Kuwa",
+      "start": 23.012,
+      "end": 23.28375,
+      "sourceIndex": 29
+    },
+    {
+      "text": "na",
+      "start": 23.312375,
+      "end": 23.441083,
+      "sourceIndex": 30
+    },
+    {
+      "text": "afya",
+      "start": 23.484,
+      "end": 23.841541,
+      "sourceIndex": 31
+    },
+    {
+      "text": "njema",
+      "start": 23.870125,
+      "end": 24.256291,
+      "sourceIndex": 32
+    },
+    {
+      "text": "na",
+      "start": 24.284916,
+      "end": 24.385041,
+      "sourceIndex": 33
+    },
+    {
+      "text": "kucheza",
+      "start": 24.413625,
+      "end": 24.914208,
+      "sourceIndex": 34
+    },
+    {
+      "text": "kwa",
+      "start": 24.957083,
+      "end": 25.114416,
+      "sourceIndex": 35
+    },
+    {
+      "text": "furaha",
+      "start": 25.143,
+      "end": 25.786583,
+      "sourceIndex": 36
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

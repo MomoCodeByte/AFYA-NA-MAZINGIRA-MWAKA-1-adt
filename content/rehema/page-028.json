@@ -1,0 +1,415 @@
+{
+  "audio": "page-028.mp3",
+  "words": [
+    {
+      "text": "Vifaa",
+      "start": 0.178708,
+      "end": 0.479041,
+      "sourceIndex": 1
+    },
+    {
+      "text": "vinavyotumika",
+      "start": 0.579166,
+      "end": 1.594624,
+      "sourceIndex": 2
+    },
+    {
+      "text": "kusafishia",
+      "start": 1.623208,
+      "end": 2.381208,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kucha",
+      "start": 2.409833,
+      "end": 2.724458,
+      "sourceIndex": 4
+    },
+    {
+      "text": "wembe",
+      "start": 2.767375,
+      "end": 3.082,
+      "sourceIndex": 5
+    },
+    {
+      "text": "kikata",
+      "start": 3.124958,
+      "end": 3.639833,
+      "sourceIndex": 9
+    },
+    {
+      "text": "kucha",
+      "start": 3.682708,
+      "end": 3.983041,
+      "sourceIndex": 10
+    },
+    {
+      "text": "sabuni",
+      "start": 4.011666,
+      "end": 4.555124,
+      "sourceIndex": 58
+    },
+    {
+      "text": "brashi",
+      "start": 4.58375,
+      "end": 5.084333,
+      "sourceIndex": 59
+    },
+    {
+      "text": "mkasi",
+      "start": 5.12725,
+      "end": 5.6135,
+      "sourceIndex": 59
+    },
+    {
+      "text": "beseni",
+      "start": 5.642125,
+      "end": 6.185583,
+      "sourceIndex": 59
+    },
+    {
+      "text": "taulo",
+      "start": 6.2285,
+      "end": 6.671875,
+      "sourceIndex": 67
+    },
+    {
+      "text": "Kazi",
+      "start": 6.729041,
+      "end": 7.072291,
+      "sourceIndex": 68
+    },
+    {
+      "text": "ya",
+      "start": 7.100916,
+      "end": 7.201041,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kufanya",
+      "start": 7.229625,
+      "end": 7.687291,
+      "sourceIndex": 68
+    },
+    {
+      "text": "Mshirikishe",
+      "start": 7.730208,
+      "end": 8.473916,
+      "sourceIndex": 68
+    },
+    {
+      "text": "mwenzako",
+      "start": 8.5025,
+      "end": 9.103166,
+      "sourceIndex": 68
+    },
+    {
+      "text": "namna",
+      "start": 9.131791,
+      "end": 9.475041,
+      "sourceIndex": 68
+    },
+    {
+      "text": "unavyosafisha",
+      "start": 9.503666,
+      "end": 10.504791,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kucha",
+      "start": 10.547708,
+      "end": 10.991083,
+      "sourceIndex": 68
+    },
+    {
+      "text": "Namna",
+      "start": 12.056625,
+      "end": 12.285458,
+      "sourceIndex": 68
+    },
+    {
+      "text": "ya",
+      "start": 12.399875,
+      "end": 12.514291,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kukata",
+      "start": 12.542916,
+      "end": 13.086374,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kucha",
+      "start": 13.115,
+      "end": 13.60125,
+      "sourceIndex": 68
+    },
+    {
+      "text": "moja",
+      "start": 14.688208,
+      "end": 15.017166,
+      "sourceIndex": 68
+    },
+    {
+      "text": "Chukua",
+      "start": 15.203083,
+      "end": 15.617833,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kifaa",
+      "start": 15.646458,
+      "end": 16.003999,
+      "sourceIndex": 68
+    },
+    {
+      "text": "safi",
+      "start": 16.032625,
+      "end": 16.404458,
+      "sourceIndex": 68
+    },
+    {
+      "text": "na",
+      "start": 16.433083,
+      "end": 16.518874,
+      "sourceIndex": 68
+    },
+    {
+      "text": "salama",
+      "start": 16.5475,
+      "end": 17.062375,
+      "sourceIndex": 68
+    },
+    {
+      "text": "cha",
+      "start": 17.10525,
+      "end": 17.291166,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kukatia",
+      "start": 17.319791,
+      "end": 17.949082,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kucha",
+      "start": 17.992,
+      "end": 18.449666,
+      "sourceIndex": 68
+    },
+    {
+      "text": "mbili",
+      "start": 19.536625,
+      "end": 19.794041,
+      "sourceIndex": 68
+    },
+    {
+      "text": "Kata",
+      "start": 19.994291,
+      "end": 20.337541,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kucha",
+      "start": 20.366125,
+      "end": 20.666458,
+      "sourceIndex": 68
+    },
+    {
+      "text": "ya",
+      "start": 20.695083,
+      "end": 20.795208,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kidole",
+      "start": 20.823791,
+      "end": 21.324374,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kimoja",
+      "start": 21.367291,
+      "end": 21.867874,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kimoja",
+      "start": 21.91075,
+      "end": 22.568625,
+      "sourceIndex": 68
+    },
+    {
+      "text": "tatu",
+      "start": 23.655625,
+      "end": 23.955958,
+      "sourceIndex": 68
+    },
+    {
+      "text": "Safisha",
+      "start": 24.141875,
+      "end": 24.72825,
+      "sourceIndex": 68
+    },
+    {
+      "text": "vifaa",
+      "start": 24.756875,
+      "end": 25.143041,
+      "sourceIndex": 68
+    },
+    {
+      "text": "ulivyokatia",
+      "start": 25.171625,
+      "end": 26.058333,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kucha",
+      "start": 26.10125,
+      "end": 26.573208,
+      "sourceIndex": 68
+    },
+    {
+      "text": "nne",
+      "start": 27.660166,
+      "end": 27.846082,
+      "sourceIndex": 68
+    },
+    {
+      "text": "Safisha",
+      "start": 28.032041,
+      "end": 28.704249,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kucha",
+      "start": 28.732833,
+      "end": 29.047458,
+      "sourceIndex": 68
+    },
+    {
+      "text": "za",
+      "start": 29.076083,
+      "end": 29.219083,
+      "sourceIndex": 68
+    },
+    {
+      "text": "mikono",
+      "start": 29.247708,
+      "end": 29.733958,
+      "sourceIndex": 68
+    },
+    {
+      "text": "na",
+      "start": 29.762583,
+      "end": 29.862708,
+      "sourceIndex": 68
+    },
+    {
+      "text": "miguu",
+      "start": 29.891291,
+      "end": 30.377541,
+      "sourceIndex": 68
+    },
+    {
+      "text": "tano",
+      "start": 31.450208,
+      "end": 31.736249,
+      "sourceIndex": 68
+    },
+    {
+      "text": "Tumia",
+      "start": 31.950791,
+      "end": 32.394166,
+      "sourceIndex": 68
+    },
+    {
+      "text": "brashi",
+      "start": 32.42275,
+      "end": 33.009125,
+      "sourceIndex": 68
+    },
+    {
+      "text": "maji",
+      "start": 33.137875,
+      "end": 33.509708,
+      "sourceIndex": 68
+    },
+    {
+      "text": "na",
+      "start": 33.538333,
+      "end": 33.624124,
+      "sourceIndex": 68
+    },
+    {
+      "text": "sabuni",
+      "start": 33.65275,
+      "end": 34.181916,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kusafishia",
+      "start": 34.210541,
+      "end": 35.011457,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kucha",
+      "start": 35.054333,
+      "end": 35.511999,
+      "sourceIndex": 68
+    },
+    {
+      "text": "sita",
+      "start": 36.584666,
+      "end": 37.013707,
+      "sourceIndex": 68
+    },
+    {
+      "text": "Kausha",
+      "start": 37.213958,
+      "end": 37.700208,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kwa",
+      "start": 37.728833,
+      "end": 37.871833,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kutumia",
+      "start": 37.900458,
+      "end": 38.458249,
+      "sourceIndex": 68
+    },
+    {
+      "text": "kitambaa",
+      "start": 38.486833,
+      "end": 39.073208,
+      "sourceIndex": 68
+    },
+    {
+      "text": "au",
+      "start": 39.116125,
+      "end": 39.330666,
+      "sourceIndex": 68
+    },
+    {
+      "text": "taulo",
+      "start": 39.373583,
+      "end": 39.788333,
+      "sourceIndex": 68
+    },
+    {
+      "text": "safi",
+      "start": 39.816916,
+      "end": 40.360374,
+      "sourceIndex": 68
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

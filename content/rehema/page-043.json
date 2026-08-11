@@ -1,0 +1,313 @@
+{
+  "audio": "page-043.mp3",
+  "words": [
+    {
+      "text": "moja",
+      "start": 0.193,
+      "end": 0.507625,
+      "sourceIndex": 2
+    },
+    {
+      "text": "Funua",
+      "start": 0.707875,
+      "end": 1.15125,
+      "sourceIndex": 3
+    },
+    {
+      "text": "mfuniko",
+      "start": 1.179875,
+      "end": 1.751958,
+      "sourceIndex": 4
+    },
+    {
+      "text": "wa",
+      "start": 1.780541,
+      "end": 1.866332,
+      "sourceIndex": 5
+    },
+    {
+      "text": "shimo",
+      "start": 1.894958,
+      "end": 2.281124,
+      "sourceIndex": 6
+    },
+    {
+      "text": "la",
+      "start": 2.309708,
+      "end": 2.452708,
+      "sourceIndex": 7
+    },
+    {
+      "text": "choo",
+      "start": 2.481333,
+      "end": 2.753083,
+      "sourceIndex": 8
+    },
+    {
+      "text": "kabla",
+      "start": 2.796,
+      "end": 3.21075,
+      "sourceIndex": 9
+    },
+    {
+      "text": "hujakitumia",
+      "start": 3.239375,
+      "end": 4.312041,
+      "sourceIndex": 10
+    },
+    {
+      "text": "mbili",
+      "start": 5.4205,
+      "end": 5.677916,
+      "sourceIndex": 11
+    },
+    {
+      "text": "Tumia",
+      "start": 5.90675,
+      "end": 6.378708,
+      "sourceIndex": 12
+    },
+    {
+      "text": "choo",
+      "start": 6.421625,
+      "end": 6.693375,
+      "sourceIndex": 13
+    },
+    {
+      "text": "kwa",
+      "start": 6.721958,
+      "end": 6.850666,
+      "sourceIndex": 14
+    },
+    {
+      "text": "usahihi",
+      "start": 6.879291,
+      "end": 7.494291,
+      "sourceIndex": 15
+    },
+    {
+      "text": "kwa",
+      "start": 7.537166,
+      "end": 7.694499,
+      "sourceIndex": 16
+    },
+    {
+      "text": "kulenga",
+      "start": 7.723125,
+      "end": 8.238,
+      "sourceIndex": 17
+    },
+    {
+      "text": "shimo",
+      "start": 8.266583,
+      "end": 8.795749,
+      "sourceIndex": 18
+    },
+    {
+      "text": "tatu",
+      "start": 9.868416,
+      "end": 10.183041,
+      "sourceIndex": 19
+    },
+    {
+      "text": "Jisafishe",
+      "start": 10.383291,
+      "end": 11.126999,
+      "sourceIndex": 20
+    },
+    {
+      "text": "kwa",
+      "start": 11.155625,
+      "end": 11.298625,
+      "sourceIndex": 21
+    },
+    {
+      "text": "kutumia",
+      "start": 11.32725,
+      "end": 11.856416,
+      "sourceIndex": 22
+    },
+    {
+      "text": "maji",
+      "start": 11.885,
+      "end": 12.22825,
+      "sourceIndex": 23
+    },
+    {
+      "text": "safi",
+      "start": 12.271166,
+      "end": 12.685916,
+      "sourceIndex": 24
+    },
+    {
+      "text": "baada",
+      "start": 12.714541,
+      "end": 13.057791,
+      "sourceIndex": 25
+    },
+    {
+      "text": "ya",
+      "start": 13.086375,
+      "end": 13.1865,
+      "sourceIndex": 26
+    },
+    {
+      "text": "kujisaidia",
+      "start": 13.215083,
+      "end": 14.216208,
+      "sourceIndex": 27
+    },
+    {
+      "text": "Vilevile",
+      "start": 15.274583,
+      "end": 15.889583,
+      "sourceIndex": 28
+    },
+    {
+      "text": "unaweza",
+      "start": 16.104125,
+      "end": 16.719125,
+      "sourceIndex": 29
+    },
+    {
+      "text": "kujipangusa",
+      "start": 16.747708,
+      "end": 17.577208,
+      "sourceIndex": 30
+    },
+    {
+      "text": "kwa",
+      "start": 17.605833,
+      "end": 17.748833,
+      "sourceIndex": 31
+    },
+    {
+      "text": "kutumia",
+      "start": 17.777458,
+      "end": 18.306624,
+      "sourceIndex": 32
+    },
+    {
+      "text": "karatasi",
+      "start": 18.33525,
+      "end": 18.978833,
+      "sourceIndex": 33
+    },
+    {
+      "text": "laini",
+      "start": 19.007416,
+      "end": 19.436457,
+      "sourceIndex": 34
+    },
+    {
+      "text": "nne",
+      "start": 20.509166,
+      "end": 20.680791,
+      "sourceIndex": 35
+    },
+    {
+      "text": "Funika",
+      "start": 20.881,
+      "end": 21.36725,
+      "sourceIndex": 36
+    },
+    {
+      "text": "shimo",
+      "start": 21.395875,
+      "end": 21.782041,
+      "sourceIndex": 37
+    },
+    {
+      "text": "la",
+      "start": 21.810625,
+      "end": 21.939333,
+      "sourceIndex": 38
+    },
+    {
+      "text": "choo",
+      "start": 21.967958,
+      "end": 22.239708,
+      "sourceIndex": 39
+    },
+    {
+      "text": "vizuri",
+      "start": 22.268291,
+      "end": 22.797457,
+      "sourceIndex": 40
+    },
+    {
+      "text": "baada",
+      "start": 22.826083,
+      "end": 23.169333,
+      "sourceIndex": 41
+    },
+    {
+      "text": "ya",
+      "start": 23.197958,
+      "end": 23.298083,
+      "sourceIndex": 42
+    },
+    {
+      "text": "kujisaidia",
+      "start": 23.326666,
+      "end": 24.342124,
+      "sourceIndex": 43
+    },
+    {
+      "text": "tano",
+      "start": 25.41475,
+      "end": 25.700791,
+      "sourceIndex": 44
+    },
+    {
+      "text": "Nawa",
+      "start": 25.915333,
+      "end": 26.201374,
+      "sourceIndex": 45
+    },
+    {
+      "text": "vizuri",
+      "start": 26.229958,
+      "end": 26.744833,
+      "sourceIndex": 46
+    },
+    {
+      "text": "mikono",
+      "start": 26.78775,
+      "end": 27.274,
+      "sourceIndex": 47
+    },
+    {
+      "text": "kwa",
+      "start": 27.316916,
+      "end": 27.459916,
+      "sourceIndex": 48
+    },
+    {
+      "text": "maji",
+      "start": 27.488541,
+      "end": 27.846082,
+      "sourceIndex": 49
+    },
+    {
+      "text": "safi",
+      "start": 27.889,
+      "end": 28.318041,
+      "sourceIndex": 50
+    },
+    {
+      "text": "na",
+      "start": 28.346666,
+      "end": 28.432457,
+      "sourceIndex": 51
+    },
+    {
+      "text": "sabuni",
+      "start": 28.461083,
+      "end": 29.090374,
+      "sourceIndex": 52
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

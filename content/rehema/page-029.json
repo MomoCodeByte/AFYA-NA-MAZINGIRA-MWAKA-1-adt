@@ -1,0 +1,151 @@
+{
+  "audio": "page-029.mp3",
+  "words": [
+    {
+      "text": "Vitendo",
+      "start": 0.178708,
+      "end": 0.593458,
+      "sourceIndex": 2
+    },
+    {
+      "text": "vya",
+      "start": 0.693583,
+      "end": 0.865208,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kukata",
+      "start": 0.893833,
+      "end": 1.380083,
+      "sourceIndex": 4
+    },
+    {
+      "text": "kucha",
+      "start": 1.408708,
+      "end": 1.866374,
+      "sourceIndex": 5
+    },
+    {
+      "text": "moja",
+      "start": 2.974833,
+      "end": 3.303791,
+      "sourceIndex": 17
+    },
+    {
+      "text": "Kukata",
+      "start": 3.518291,
+      "end": 4.018874,
+      "sourceIndex": 6
+    },
+    {
+      "text": "kucha",
+      "start": 4.0475,
+      "end": 4.39075,
+      "sourceIndex": 7
+    },
+    {
+      "text": "kwa",
+      "start": 4.419333,
+      "end": 4.576666,
+      "sourceIndex": 8
+    },
+    {
+      "text": "kikata",
+      "start": 4.60525,
+      "end": 5.134416,
+      "sourceIndex": 10
+    },
+    {
+      "text": "kucha",
+      "start": 5.163041,
+      "end": 5.620707,
+      "sourceIndex": 11
+    },
+    {
+      "text": "mbili",
+      "start": 6.721958,
+      "end": 6.993708,
+      "sourceIndex": 24
+    },
+    {
+      "text": "kutumia",
+      "start": 7.20825,
+      "end": 7.794625,
+      "sourceIndex": 9
+    },
+    {
+      "text": "Kukata",
+      "start": 7.823208,
+      "end": 8.295166,
+      "sourceIndex": 12
+    },
+    {
+      "text": "kucha",
+      "start": 8.323791,
+      "end": 8.667041,
+      "sourceIndex": 13
+    },
+    {
+      "text": "kwa",
+      "start": 8.695666,
+      "end": 8.852999,
+      "sourceIndex": 14
+    },
+    {
+      "text": "kutumia",
+      "start": 8.881583,
+      "end": 9.439374,
+      "sourceIndex": 15
+    },
+    {
+      "text": "wembe",
+      "start": 9.467958,
+      "end": 9.896999,
+      "sourceIndex": 16
+    },
+    {
+      "text": "tatu",
+      "start": 11.012583,
+      "end": 11.341541,
+      "sourceIndex": 25
+    },
+    {
+      "text": "Kusafisha",
+      "start": 11.54175,
+      "end": 12.22825,
+      "sourceIndex": 18
+    },
+    {
+      "text": "mikono",
+      "start": 12.256875,
+      "end": 12.757458,
+      "sourceIndex": 19
+    },
+    {
+      "text": "kwa",
+      "start": 12.800333,
+      "end": 12.943333,
+      "sourceIndex": 20
+    },
+    {
+      "text": "maji",
+      "start": 12.971958,
+      "end": 13.358124,
+      "sourceIndex": 21
+    },
+    {
+      "text": "na",
+      "start": 13.386708,
+      "end": 13.472499,
+      "sourceIndex": 22
+    },
+    {
+      "text": "sabuni",
+      "start": 13.501125,
+      "end": 14.159,
+      "sourceIndex": 23
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

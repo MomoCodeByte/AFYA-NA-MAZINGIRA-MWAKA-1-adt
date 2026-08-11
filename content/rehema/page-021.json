@@ -1,0 +1,73 @@
+{
+  "audio": "page-021.mp3",
+  "words": [
+    {
+      "text": "Madhara",
+      "start": 0.193,
+      "end": 0.53625,
+      "sourceIndex": 2
+    },
+    {
+      "text": "ya",
+      "start": 0.650666,
+      "end": 0.765082,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kula",
+      "start": 0.793708,
+      "end": 1.108333,
+      "sourceIndex": 4
+    },
+    {
+      "text": "matunda",
+      "start": 1.136958,
+      "end": 1.623208,
+      "sourceIndex": 5
+    },
+    {
+      "text": "bila",
+      "start": 1.651833,
+      "end": 1.952166,
+      "sourceIndex": 6
+    },
+    {
+      "text": "kusafisha",
+      "start": 1.980791,
+      "end": 2.767416,
+      "sourceIndex": 7
+    },
+    {
+      "text": "moja",
+      "start": 3.861541,
+      "end": 4.304916,
+      "sourceIndex": 8
+    },
+    {
+      "text": "mbili",
+      "start": 5.506291,
+      "end": 5.921041,
+      "sourceIndex": 9
+    },
+    {
+      "text": "tatu",
+      "start": 7.108125,
+      "end": 7.580083,
+      "sourceIndex": 10
+    },
+    {
+      "text": "nne",
+      "start": 8.767166,
+      "end": 9.053207,
+      "sourceIndex": 11
+    },
+    {
+      "text": "tano",
+      "start": 10.197375,
+      "end": 10.64075,
+      "sourceIndex": 12
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

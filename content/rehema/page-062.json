@@ -1,0 +1,121 @@
+{
+  "audio": "page-062.mp3",
+  "words": [
+    {
+      "text": "Chura",
+      "start": 0.178708,
+      "end": 0.493333,
+      "sourceIndex": 13
+    },
+    {
+      "text": "Chui",
+      "start": 0.593458,
+      "end": 0.836583,
+      "sourceIndex": 12
+    },
+    {
+      "text": "Mamba",
+      "start": 0.865208,
+      "end": 1.208458,
+      "sourceIndex": 14
+    },
+    {
+      "text": "Ngâ€",
+      "start": 1.237083,
+      "end": 1.337208,
+      "sourceIndex": 15
+    },
+    {
+      "text": "ombe",
+      "start": 1.380083,
+      "end": 1.694708,
+      "sourceIndex": 16
+    },
+    {
+      "text": "Tembo",
+      "start": 1.737625,
+      "end": 2.109458,
+      "sourceIndex": 1
+    },
+    {
+      "text": "Kazi",
+      "start": 2.152416,
+      "end": 2.495666,
+      "sourceIndex": 2
+    },
+    {
+      "text": "ya",
+      "start": 2.52425,
+      "end": 2.624375,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kufanya",
+      "start": 2.652958,
+      "end": 3.153541,
+      "sourceIndex": 4
+    },
+    {
+      "text": "Andika",
+      "start": 3.182166,
+      "end": 3.639832,
+      "sourceIndex": 5
+    },
+    {
+      "text": "majina",
+      "start": 3.668416,
+      "end": 4.140374,
+      "sourceIndex": 6
+    },
+    {
+      "text": "ya",
+      "start": 4.169,
+      "end": 4.269125,
+      "sourceIndex": 7
+    },
+    {
+      "text": "wanyama",
+      "start": 4.297708,
+      "end": 4.712458,
+      "sourceIndex": 8
+    },
+    {
+      "text": "waliopo",
+      "start": 4.755375,
+      "end": 5.284541,
+      "sourceIndex": 9
+    },
+    {
+      "text": "katika",
+      "start": 5.327458,
+      "end": 5.799416,
+      "sourceIndex": 10
+    },
+    {
+      "text": "picha",
+      "start": 5.842333,
+      "end": 6.185583,
+      "sourceIndex": 11
+    },
+    {
+      "text": "hizi",
+      "start": 6.214208,
+      "end": 6.614666,
+      "sourceIndex": 17
+    },
+    {
+      "text": "moja",
+      "start": 7.680208,
+      "end": 8.123583,
+      "sourceIndex": 18
+    },
+    {
+      "text": "mbili",
+      "start": 9.324958,
+      "end": 9.739708,
+      "sourceIndex": 18
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

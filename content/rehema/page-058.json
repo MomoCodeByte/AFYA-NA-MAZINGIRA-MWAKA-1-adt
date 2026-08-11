@@ -1,0 +1,397 @@
+{
+  "audio": "page-058.mp3",
+  "words": [
+    {
+      "text": "Matumizi",
+      "start": 0.207333,
+      "end": 0.707916,
+      "sourceIndex": 1
+    },
+    {
+      "text": "ya",
+      "start": 0.836625,
+      "end": 0.922416,
+      "sourceIndex": 2
+    },
+    {
+      "text": "alama",
+      "start": 0.951041,
+      "end": 1.337207,
+      "sourceIndex": 3
+    },
+    {
+      "text": "za",
+      "start": 1.365791,
+      "end": 1.537416,
+      "sourceIndex": 4
+    },
+    {
+      "text": "tahadhari",
+      "start": 1.566,
+      "end": 2.223875,
+      "sourceIndex": 5
+    },
+    {
+      "text": "katika",
+      "start": 2.266833,
+      "end": 2.681583,
+      "sourceIndex": 6
+    },
+    {
+      "text": "mazingira",
+      "start": 2.710166,
+      "end": 3.325166,
+      "sourceIndex": 7
+    },
+    {
+      "text": "yetu",
+      "start": 3.353791,
+      "end": 3.725624,
+      "sourceIndex": 8
+    },
+    {
+      "text": "Alama",
+      "start": 3.768541,
+      "end": 4.183291,
+      "sourceIndex": 9
+    },
+    {
+      "text": "za",
+      "start": 4.211916,
+      "end": 4.354916,
+      "sourceIndex": 10
+    },
+    {
+      "text": "tahadhari",
+      "start": 4.383541,
+      "end": 4.998541,
+      "sourceIndex": 11
+    },
+    {
+      "text": "hutumika",
+      "start": 5.027125,
+      "end": 5.642125,
+      "sourceIndex": 12
+    },
+    {
+      "text": "kuonya",
+      "start": 5.685,
+      "end": 6.214166,
+      "sourceIndex": 13
+    },
+    {
+      "text": "kukataza",
+      "start": 6.357208,
+      "end": 7.015083,
+      "sourceIndex": 14
+    },
+    {
+      "text": "na",
+      "start": 7.043708,
+      "end": 7.143833,
+      "sourceIndex": 15
+    },
+    {
+      "text": "kuelekeza",
+      "start": 7.172416,
+      "end": 8.016249,
+      "sourceIndex": 16
+    },
+    {
+      "text": "Vilevile",
+      "start": 9.081791,
+      "end": 9.653874,
+      "sourceIndex": 17
+    },
+    {
+      "text": "hutambulisha",
+      "start": 9.8255,
+      "end": 10.597791,
+      "sourceIndex": 18
+    },
+    {
+      "text": "hatari",
+      "start": 10.626416,
+      "end": 11.112666,
+      "sourceIndex": 19
+    },
+    {
+      "text": "inayoweza",
+      "start": 11.141291,
+      "end": 11.799166,
+      "sourceIndex": 20
+    },
+    {
+      "text": "kutokea",
+      "start": 11.827791,
+      "end": 12.342666,
+      "sourceIndex": 21
+    },
+    {
+      "text": "endapo",
+      "start": 12.371291,
+      "end": 12.800332,
+      "sourceIndex": 22
+    },
+    {
+      "text": "hutofuata",
+      "start": 12.84325,
+      "end": 13.544041,
+      "sourceIndex": 23
+    },
+    {
+      "text": "maelekezo",
+      "start": 13.572666,
+      "end": 14.445082,
+      "sourceIndex": 24
+    },
+    {
+      "text": "Zifuatazo",
+      "start": 15.51775,
+      "end": 16.232833,
+      "sourceIndex": 25
+    },
+    {
+      "text": "ni",
+      "start": 16.34725,
+      "end": 16.447375,
+      "sourceIndex": 26
+    },
+    {
+      "text": "baadhi",
+      "start": 16.475958,
+      "end": 16.904999,
+      "sourceIndex": 27
+    },
+    {
+      "text": "ya",
+      "start": 16.933625,
+      "end": 17.019416,
+      "sourceIndex": 28
+    },
+    {
+      "text": "alama",
+      "start": 17.048041,
+      "end": 17.448499,
+      "sourceIndex": 29
+    },
+    {
+      "text": "za",
+      "start": 17.477125,
+      "end": 17.634458,
+      "sourceIndex": 30
+    },
+    {
+      "text": "tahadhari",
+      "start": 17.663041,
+      "end": 18.449666,
+      "sourceIndex": 31
+    },
+    {
+      "text": "Alama",
+      "start": 19.536625,
+      "end": 19.794041,
+      "sourceIndex": 32
+    },
+    {
+      "text": "ya",
+      "start": 19.92275,
+      "end": 20.022875,
+      "sourceIndex": 33
+    },
+    {
+      "text": "moto",
+      "start": 20.0515,
+      "end": 20.423333,
+      "sourceIndex": 34
+    },
+    {
+      "text": "Alama",
+      "start": 20.451958,
+      "end": 20.809499,
+      "sourceIndex": 35
+    },
+    {
+      "text": "ya",
+      "start": 20.838083,
+      "end": 20.923874,
+      "sourceIndex": 36
+    },
+    {
+      "text": "umeme",
+      "start": 20.9525,
+      "end": 21.352958,
+      "sourceIndex": 37
+    },
+    {
+      "text": "mkubwa",
+      "start": 21.381583,
+      "end": 21.896458,
+      "sourceIndex": 38
+    },
+    {
+      "text": "Alama",
+      "start": 21.925041,
+      "end": 22.282582,
+      "sourceIndex": 39
+    },
+    {
+      "text": "ya",
+      "start": 22.311208,
+      "end": 22.411333,
+      "sourceIndex": 40
+    },
+    {
+      "text": "hatari",
+      "start": 22.439916,
+      "end": 22.954791,
+      "sourceIndex": 41
+    },
+    {
+      "text": "Alama",
+      "start": 22.997708,
+      "end": 23.355249,
+      "sourceIndex": 42
+    },
+    {
+      "text": "ya",
+      "start": 23.383875,
+      "end": 23.469666,
+      "sourceIndex": 43
+    },
+    {
+      "text": "usafi",
+      "start": 23.498291,
+      "end": 23.984541,
+      "sourceIndex": 44
+    },
+    {
+      "text": "wa",
+      "start": 24.013166,
+      "end": 24.084666,
+      "sourceIndex": 45
+    },
+    {
+      "text": "mazingira",
+      "start": 24.113291,
+      "end": 24.799791,
+      "sourceIndex": 46
+    },
+    {
+      "text": "Alama",
+      "start": 24.828375,
+      "end": 25.200208,
+      "sourceIndex": 47
+    },
+    {
+      "text": "ya",
+      "start": 25.228833,
+      "end": 25.328958,
+      "sourceIndex": 48
+    },
+    {
+      "text": "kivuko",
+      "start": 25.357541,
+      "end": 25.886707,
+      "sourceIndex": 49
+    },
+    {
+      "text": "cha",
+      "start": 25.929625,
+      "end": 26.115541,
+      "sourceIndex": 50
+    },
+    {
+      "text": "Alama",
+      "start": 26.144166,
+      "end": 26.515999,
+      "sourceIndex": 54
+    },
+    {
+      "text": "ya",
+      "start": 26.544625,
+      "end": 26.64475,
+      "sourceIndex": 55
+    },
+    {
+      "text": "mlipuko",
+      "start": 26.687625,
+      "end": 27.274,
+      "sourceIndex": 56
+    },
+    {
+      "text": "waenda",
+      "start": 27.302625,
+      "end": 27.674458,
+      "sourceIndex": 57
+    },
+    {
+      "text": "kwa",
+      "start": 27.717375,
+      "end": 27.860375,
+      "sourceIndex": 57
+    },
+    {
+      "text": "miguu",
+      "start": 27.889,
+      "end": 28.332375,
+      "sourceIndex": 57
+    },
+    {
+      "text": "Alama",
+      "start": 28.375291,
+      "end": 28.761457,
+      "sourceIndex": 57
+    },
+    {
+      "text": "ya",
+      "start": 28.790041,
+      "end": 28.890166,
+      "sourceIndex": 58
+    },
+    {
+      "text": "hifadhi",
+      "start": 28.91875,
+      "end": 29.405,
+      "sourceIndex": 59
+    },
+    {
+      "text": "ya",
+      "start": 29.433625,
+      "end": 29.519416,
+      "sourceIndex": 60
+    },
+    {
+      "text": "Alama",
+      "start": 29.548041,
+      "end": 29.934207,
+      "sourceIndex": 62
+    },
+    {
+      "text": "ya",
+      "start": 29.962833,
+      "end": 30.062958,
+      "sourceIndex": 63
+    },
+    {
+      "text": "reli",
+      "start": 30.091541,
+      "end": 30.420499,
+      "sourceIndex": 64
+    },
+    {
+      "text": "inakatisha",
+      "start": 30.463375,
+      "end": 31.164166,
+      "sourceIndex": 65
+    },
+    {
+      "text": "wanyama",
+      "start": 31.192791,
+      "end": 31.750582,
+      "sourceIndex": 65
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

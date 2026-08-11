@@ -1,0 +1,721 @@
+{
+  "audio": "page-031.mp3",
+  "words": [
+    {
+      "text": "Kwa",
+      "start": 0.164416,
+      "end": 0.178707,
+      "sourceIndex": 2
+    },
+    {
+      "text": "nini",
+      "start": 0.264541,
+      "end": 0.593499,
+      "sourceIndex": 3
+    },
+    {
+      "text": "tunasafisha",
+      "start": 0.636375,
+      "end": 1.480208,
+      "sourceIndex": 4
+    },
+    {
+      "text": "nywele",
+      "start": 1.508791,
+      "end": 1.952166,
+      "sourceIndex": 5
+    },
+    {
+      "text": "Nywele",
+      "start": 3.103541,
+      "end": 3.303749,
+      "sourceIndex": 6
+    },
+    {
+      "text": "hushika",
+      "start": 3.4325,
+      "end": 3.947375,
+      "sourceIndex": 7
+    },
+    {
+      "text": "vumbi",
+      "start": 3.975958,
+      "end": 4.347791,
+      "sourceIndex": 8
+    },
+    {
+      "text": "kwa",
+      "start": 4.39075,
+      "end": 4.53375,
+      "sourceIndex": 9
+    },
+    {
+      "text": "urahisi",
+      "start": 4.562375,
+      "end": 5.22025,
+      "sourceIndex": 10
+    },
+    {
+      "text": "Yafaa",
+      "start": 6.292916,
+      "end": 6.564666,
+      "sourceIndex": 11
+    },
+    {
+      "text": "nywele",
+      "start": 6.693375,
+      "end": 7.036625,
+      "sourceIndex": 12
+    },
+    {
+      "text": "zitunzwe",
+      "start": 7.065208,
+      "end": 7.680208,
+      "sourceIndex": 13
+    },
+    {
+      "text": "kwa",
+      "start": 7.723125,
+      "end": 7.880458,
+      "sourceIndex": 14
+    },
+    {
+      "text": "kuoshwa",
+      "start": 7.909041,
+      "end": 8.452499,
+      "sourceIndex": 15
+    },
+    {
+      "text": "kwa",
+      "start": 8.481125,
+      "end": 8.624125,
+      "sourceIndex": 16
+    },
+    {
+      "text": "maji",
+      "start": 8.65275,
+      "end": 8.996,
+      "sourceIndex": 17
+    },
+    {
+      "text": "safi",
+      "start": 9.038916,
+      "end": 9.467957,
+      "sourceIndex": 18
+    },
+    {
+      "text": "na",
+      "start": 9.496583,
+      "end": 9.582374,
+      "sourceIndex": 19
+    },
+    {
+      "text": "sabuni",
+      "start": 9.611,
+      "end": 10.226,
+      "sourceIndex": 20
+    },
+    {
+      "text": "Pia",
+      "start": 11.284333,
+      "end": 11.484541,
+      "sourceIndex": 21
+    },
+    {
+      "text": "zikatwe",
+      "start": 11.684791,
+      "end": 12.299791,
+      "sourceIndex": 22
+    },
+    {
+      "text": "ili",
+      "start": 12.342666,
+      "end": 12.614416,
+      "sourceIndex": 23
+    },
+    {
+      "text": "ziwe",
+      "start": 12.643,
+      "end": 12.943333,
+      "sourceIndex": 24
+    },
+    {
+      "text": "fupi",
+      "start": 12.98625,
+      "end": 13.372416,
+      "sourceIndex": 25
+    },
+    {
+      "text": "na",
+      "start": 13.401041,
+      "end": 13.501166,
+      "sourceIndex": 26
+    },
+    {
+      "text": "zipendeze",
+      "start": 13.52975,
+      "end": 14.344958,
+      "sourceIndex": 27
+    },
+    {
+      "text": "Nywele",
+      "start": 15.431916,
+      "end": 15.617832,
+      "sourceIndex": 28
+    },
+    {
+      "text": "chafu",
+      "start": 15.746583,
+      "end": 16.132749,
+      "sourceIndex": 29
+    },
+    {
+      "text": "husababisha",
+      "start": 16.161333,
+      "end": 16.962249,
+      "sourceIndex": 30
+    },
+    {
+      "text": "harufu",
+      "start": 16.990833,
+      "end": 17.462791,
+      "sourceIndex": 31
+    },
+    {
+      "text": "mbaya",
+      "start": 17.491416,
+      "end": 17.806041,
+      "sourceIndex": 32
+    },
+    {
+      "text": "ya",
+      "start": 17.834666,
+      "end": 17.934791,
+      "sourceIndex": 33
+    },
+    {
+      "text": "jasho",
+      "start": 17.963375,
+      "end": 18.521166,
+      "sourceIndex": 34
+    },
+    {
+      "text": "Vilevile",
+      "start": 19.593833,
+      "end": 20.180208,
+      "sourceIndex": 35
+    },
+    {
+      "text": "huweza",
+      "start": 20.366125,
+      "end": 20.838083,
+      "sourceIndex": 36
+    },
+    {
+      "text": "kuhifadhi",
+      "start": 20.866708,
+      "end": 21.495999,
+      "sourceIndex": 37
+    },
+    {
+      "text": "wadudu",
+      "start": 21.524583,
+      "end": 21.982249,
+      "sourceIndex": 38
+    },
+    {
+      "text": "kama",
+      "start": 22.025166,
+      "end": 22.325499,
+      "sourceIndex": 39
+    },
+    {
+      "text": "chawa",
+      "start": 22.368416,
+      "end": 22.883291,
+      "sourceIndex": 40
+    },
+    {
+      "text": "Chawa",
+      "start": 23.955958,
+      "end": 24.199083,
+      "sourceIndex": 41
+    },
+    {
+      "text": "hunyonya",
+      "start": 24.299208,
+      "end": 24.785458,
+      "sourceIndex": 42
+    },
+    {
+      "text": "damu",
+      "start": 24.814083,
+      "end": 25.157333,
+      "sourceIndex": 43
+    },
+    {
+      "text": "na",
+      "start": 25.185916,
+      "end": 25.286041,
+      "sourceIndex": 44
+    },
+    {
+      "text": "kusababisha",
+      "start": 25.314625,
+      "end": 26.115541,
+      "sourceIndex": 45
+    },
+    {
+      "text": "homa",
+      "start": 26.158458,
+      "end": 26.616124,
+      "sourceIndex": 46
+    },
+    {
+      "text": "Nywele",
+      "start": 27.731708,
+      "end": 27.917624,
+      "sourceIndex": 47
+    },
+    {
+      "text": "zisafishwe",
+      "start": 28.046333,
+      "end": 28.775749,
+      "sourceIndex": 48
+    },
+    {
+      "text": "kuepuka",
+      "start": 28.818666,
+      "end": 29.390749,
+      "sourceIndex": 49
+    },
+    {
+      "text": "magonjwa",
+      "start": 29.419333,
+      "end": 29.977124,
+      "sourceIndex": 50
+    },
+    {
+      "text": "ya",
+      "start": 30.005708,
+      "end": 30.105833,
+      "sourceIndex": 51
+    },
+    {
+      "text": "mba",
+      "start": 30.134458,
+      "end": 30.334666,
+      "sourceIndex": 52
+    },
+    {
+      "text": "na",
+      "start": 30.363291,
+      "end": 30.449082,
+      "sourceIndex": 53
+    },
+    {
+      "text": "mapunye",
+      "start": 30.477708,
+      "end": 31.035499,
+      "sourceIndex": 54
+    },
+    {
+      "text": "Nywele",
+      "start": 32.151041,
+      "end": 32.351249,
+      "sourceIndex": 55
+    },
+    {
+      "text": "zinafaa",
+      "start": 32.479958,
+      "end": 33.037749,
+      "sourceIndex": 56
+    },
+    {
+      "text": "kusafishwa",
+      "start": 33.066375,
+      "end": 33.752875,
+      "sourceIndex": 57
+    },
+    {
+      "text": "kila",
+      "start": 33.79575,
+      "end": 34.110375,
+      "sourceIndex": 58
+    },
+    {
+      "text": "siku",
+      "start": 34.139,
+      "end": 34.639583,
+      "sourceIndex": 59
+    },
+    {
+      "text": "Pia",
+      "start": 35.683625,
+      "end": 35.912458,
+      "sourceIndex": 60
+    },
+    {
+      "text": "tunyoe",
+      "start": 36.127,
+      "end": 36.584666,
+      "sourceIndex": 61
+    },
+    {
+      "text": "nywele",
+      "start": 36.613291,
+      "end": 36.942249,
+      "sourceIndex": 62
+    },
+    {
+      "text": "mara",
+      "start": 36.970833,
+      "end": 37.314083,
+      "sourceIndex": 63
+    },
+    {
+      "text": "kwa",
+      "start": 37.356958,
+      "end": 37.514291,
+      "sourceIndex": 64
+    },
+    {
+      "text": "mara",
+      "start": 37.542916,
+      "end": 37.957666,
+      "sourceIndex": 65
+    },
+    {
+      "text": "Tuepuke",
+      "start": 39.058916,
+      "end": 39.530874,
+      "sourceIndex": 66
+    },
+    {
+      "text": "kuchangia",
+      "start": 39.659625,
+      "end": 40.246,
+      "sourceIndex": 67
+    },
+    {
+      "text": "vifaa",
+      "start": 40.274583,
+      "end": 40.675041,
+      "sourceIndex": 68
+    },
+    {
+      "text": "vya",
+      "start": 40.703666,
+      "end": 40.875291,
+      "sourceIndex": 69
+    },
+    {
+      "text": "kunyolea",
+      "start": 40.903875,
+      "end": 41.433041,
+      "sourceIndex": 70
+    },
+    {
+      "text": "nywele",
+      "start": 41.461666,
+      "end": 41.905041,
+      "sourceIndex": 71
+    },
+    {
+      "text": "Tukichangia",
+      "start": 42.992,
+      "end": 43.607,
+      "sourceIndex": 72
+    },
+    {
+      "text": "vifaa",
+      "start": 43.735708,
+      "end": 44.136166,
+      "sourceIndex": 73
+    },
+    {
+      "text": "tutapata",
+      "start": 44.16475,
+      "end": 44.794041,
+      "sourceIndex": 74
+    },
+    {
+      "text": "maambukizi",
+      "start": 44.822666,
+      "end": 45.552082,
+      "sourceIndex": 75
+    },
+    {
+      "text": "ya",
+      "start": 45.580666,
+      "end": 45.666457,
+      "sourceIndex": 76
+    },
+    {
+      "text": "magonjwa",
+      "start": 45.695083,
+      "end": 46.352958,
+      "sourceIndex": 77
+    },
+    {
+      "text": "Magonjwa",
+      "start": 47.425625,
+      "end": 47.883291,
+      "sourceIndex": 78
+    },
+    {
+      "text": "hayo",
+      "start": 48.012,
+      "end": 48.340958,
+      "sourceIndex": 79
+    },
+    {
+      "text": "ni",
+      "start": 48.369583,
+      "end": 48.483999,
+      "sourceIndex": 80
+    },
+    {
+      "text": "mba",
+      "start": 48.512583,
+      "end": 48.755708,
+      "sourceIndex": 81
+    },
+    {
+      "text": "mapunye",
+      "start": 48.870125,
+      "end": 49.356375,
+      "sourceIndex": 82
+    },
+    {
+      "text": "na",
+      "start": 49.385,
+      "end": 49.513708,
+      "sourceIndex": 83
+    },
+    {
+      "text": "VVU",
+      "start": 49.542333,
+      "end": 49.871291,
+      "sourceIndex": 84
+    },
+    {
+      "text": "Mtoto",
+      "start": 50.95825,
+      "end": 51.272875,
+      "sourceIndex": 118
+    },
+    {
+      "text": "mwenye",
+      "start": 51.415916,
+      "end": 51.687666,
+      "sourceIndex": 119
+    },
+    {
+      "text": "mapunye",
+      "start": 51.71625,
+      "end": 52.2025,
+      "sourceIndex": 120
+    },
+    {
+      "text": "Zoezi",
+      "start": 52.231125,
+      "end": 52.731708,
+      "sourceIndex": 120
+    },
+    {
+      "text": "la",
+      "start": 52.760291,
+      "end": 52.931916,
+      "sourceIndex": 120
+    },
+    {
+      "text": "nne",
+      "start": 52.960541,
+      "end": 53.318082,
+      "sourceIndex": 120
+    },
+    {
+      "text": "moja",
+      "start": 54.46225,
+      "end": 54.791208,
+      "sourceIndex": 120
+    },
+    {
+      "text": "Andika",
+      "start": 54.991416,
+      "end": 55.434791,
+      "sourceIndex": 120
+    },
+    {
+      "text": "faida",
+      "start": 55.463375,
+      "end": 55.935333,
+      "sourceIndex": 120
+    },
+    {
+      "text": "nne",
+      "start": 55.963958,
+      "end": 56.164166,
+      "sourceIndex": 120
+    },
+    {
+      "text": "za",
+      "start": 56.192791,
+      "end": 56.364416,
+      "sourceIndex": 120
+    },
+    {
+      "text": "kunyoa",
+      "start": 56.393,
+      "end": 56.864958,
+      "sourceIndex": 120
+    },
+    {
+      "text": "nywele",
+      "start": 56.893583,
+      "end": 57.365541,
+      "sourceIndex": 120
+    },
+    {
+      "text": "mbili",
+      "start": 58.466833,
+      "end": 58.752874,
+      "sourceIndex": 120
+    },
+    {
+      "text": "Nywele",
+      "start": 58.953083,
+      "end": 59.282041,
+      "sourceIndex": 120
+    },
+    {
+      "text": "chafu",
+      "start": 59.324958,
+      "end": 59.696791,
+      "sourceIndex": 120
+    },
+    {
+      "text": "zina",
+      "start": 59.725416,
+      "end": 60.040041,
+      "sourceIndex": 120
+    },
+    {
+      "text": "madhara",
+      "start": 60.068666,
+      "end": 60.569249,
+      "sourceIndex": 120
+    },
+    {
+      "text": "gani",
+      "start": 60.597833,
+      "end": 61.055499,
+      "sourceIndex": 120
+    },
+    {
+      "text": "tatu",
+      "start": 62.142458,
+      "end": 62.471416,
+      "sourceIndex": 120
+    },
+    {
+      "text": "Ni",
+      "start": 62.671625,
+      "end": 62.77175,
+      "sourceIndex": 120
+    },
+    {
+      "text": "mdudu",
+      "start": 62.800333,
+      "end": 63.243708,
+      "sourceIndex": 120
+    },
+    {
+      "text": "gani",
+      "start": 63.286625,
+      "end": 63.644166,
+      "sourceIndex": 120
+    },
+    {
+      "text": "hupatikana",
+      "start": 63.67275,
+      "end": 64.387833,
+      "sourceIndex": 120
+    },
+    {
+      "text": "kwenye",
+      "start": 64.430791,
+      "end": 64.702541,
+      "sourceIndex": 120
+    },
+    {
+      "text": "nywele",
+      "start": 64.731125,
+      "end": 65.060083,
+      "sourceIndex": 120
+    },
+    {
+      "text": "chafu",
+      "start": 65.102958,
+      "end": 65.603541,
+      "sourceIndex": 120
+    },
+    {
+      "text": "nne",
+      "start": 66.676208,
+      "end": 66.905041,
+      "sourceIndex": 120
+    },
+    {
+      "text": "Kuchangia",
+      "start": 67.090958,
+      "end": 67.705958,
+      "sourceIndex": 120
+    },
+    {
+      "text": "vifaa",
+      "start": 67.734541,
+      "end": 68.134999,
+      "sourceIndex": 120
+    },
+    {
+      "text": "vya",
+      "start": 68.163625,
+      "end": 68.33525,
+      "sourceIndex": 120
+    },
+    {
+      "text": "kunyolea",
+      "start": 68.363833,
+      "end": 68.892999,
+      "sourceIndex": 120
+    },
+    {
+      "text": "nywele",
+      "start": 68.921625,
+      "end": 69.279166,
+      "sourceIndex": 120
+    },
+    {
+      "text": "kunasababisha",
+      "start": 69.322083,
+      "end": 70.223124,
+      "sourceIndex": 120
+    },
+    {
+      "text": "magonjwa",
+      "start": 70.251708,
+      "end": 70.809499,
+      "sourceIndex": 120
+    },
+    {
+      "text": "gani",
+      "start": 70.838083,
+      "end": 71.281458,
+      "sourceIndex": 120
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

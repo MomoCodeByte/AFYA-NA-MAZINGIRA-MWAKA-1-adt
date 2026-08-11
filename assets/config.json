@@ -1,0 +1,46 @@
+﻿{
+    "title":  "Afya na Mazingira: Kitabu cha Mwanafunzi, Mwaka wa Kwanza",
+    "bundleVersion":  "1",
+    "languages":  {
+                      "available":  [
+                                        "sw-TZ"
+                                    ],
+                      "default":  "sw-TZ"
+                  },
+    "features":  {
+                     "signLanguage":  false,
+                     "easyRead":  true,
+                     "glossary":  false,
+                     "eli5":  false,
+                     "readAloud":  true,
+                     "autoplay":  false,
+                     "showTutorial":  false,
+                     "showNavigationControls":  true,
+                     "describeImages":  true,
+                     "notepad":  false,
+                     "state":  true,
+                     "characterDisplay":  false,
+                     "highlight":  true,
+                     "activities":  false
+                 },
+    "analytics":  {
+                      "enabled":  false,
+                      "siteId":  0
+                  },
+    "defaultSettings":  {
+                            "dockLayout":  {
+                                               "width":  "full",
+                                               "position":  "bottom",
+                                               "align":  "spread"
+                                           },
+                            "theme":  "dark",
+                            "iconSize":  "md",
+                            "reduceMotion":  false
+                        },
+    "lockedSettings":  [
+                           "dockLayout",
+                           "theme",
+                           "iconSize",
+                           "reduceMotion"
+                       ]
+}

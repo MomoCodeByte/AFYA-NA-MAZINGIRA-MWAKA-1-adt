@@ -1,0 +1,169 @@
+{
+  "audio": "page-025.mp3",
+  "words": [
+    {
+      "text": "Hatua",
+      "start": 0.178708,
+      "end": 0.493333,
+      "sourceIndex": 12
+    },
+    {
+      "text": "za",
+      "start": 0.593458,
+      "end": 0.750791,
+      "sourceIndex": 13
+    },
+    {
+      "text": "kusafisha",
+      "start": 0.779416,
+      "end": 1.494499,
+      "sourceIndex": 14
+    },
+    {
+      "text": "kinywa",
+      "start": 1.537416,
+      "end": 2.037999,
+      "sourceIndex": 15
+    },
+    {
+      "text": "moja",
+      "start": 3.117833,
+      "end": 3.432458,
+      "sourceIndex": 16
+    },
+    {
+      "text": "Kuweka",
+      "start": 3.647041,
+      "end": 4.104707,
+      "sourceIndex": 17
+    },
+    {
+      "text": "dawa",
+      "start": 4.133291,
+      "end": 4.462249,
+      "sourceIndex": 18
+    },
+    {
+      "text": "ya",
+      "start": 4.490833,
+      "end": 4.590958,
+      "sourceIndex": 19
+    },
+    {
+      "text": "meno",
+      "start": 4.619583,
+      "end": 4.934208,
+      "sourceIndex": 20
+    },
+    {
+      "text": "kwenye",
+      "start": 4.977125,
+      "end": 5.248875,
+      "sourceIndex": 21
+    },
+    {
+      "text": "mswaki",
+      "start": 5.277458,
+      "end": 5.921041,
+      "sourceIndex": 22
+    },
+    {
+      "text": "mbili",
+      "start": 7.008,
+      "end": 7.308333,
+      "sourceIndex": 23
+    },
+    {
+      "text": "a",
+      "start": 7.565791,
+      "end": 7.723124,
+      "sourceIndex": 24
+    },
+    {
+      "text": "b",
+      "start": 7.751708,
+      "end": 7.937624,
+      "sourceIndex": 25
+    },
+    {
+      "text": "c",
+      "start": 7.980541,
+      "end": 8.295166,
+      "sourceIndex": 26
+    },
+    {
+      "text": "Kusugua",
+      "start": 8.338083,
+      "end": 8.953083,
+      "sourceIndex": 27
+    },
+    {
+      "text": "meno",
+      "start": 8.981708,
+      "end": 9.439374,
+      "sourceIndex": 28
+    },
+    {
+      "text": "tatu",
+      "start": 10.554916,
+      "end": 10.926749,
+      "sourceIndex": 2
+    },
+    {
+      "text": "Kusafisha",
+      "start": 11.127,
+      "end": 11.856416,
+      "sourceIndex": 4
+    },
+    {
+      "text": "ulimi",
+      "start": 11.899333,
+      "end": 12.457124,
+      "sourceIndex": 5
+    },
+    {
+      "text": "nne",
+      "start": 13.544041,
+      "end": 13.772874,
+      "sourceIndex": 3
+    },
+    {
+      "text": "Kusukutua",
+      "start": 13.987416,
+      "end": 14.759707,
+      "sourceIndex": 6
+    },
+    {
+      "text": "kwa",
+      "start": 14.788333,
+      "end": 14.931333,
+      "sourceIndex": 7
+    },
+    {
+      "text": "maji",
+      "start": 14.959958,
+      "end": 15.317499,
+      "sourceIndex": 8
+    },
+    {
+      "text": "safi",
+      "start": 15.360416,
+      "end": 15.789457,
+      "sourceIndex": 9
+    },
+    {
+      "text": "na",
+      "start": 15.818083,
+      "end": 15.918208,
+      "sourceIndex": 10
+    },
+    {
+      "text": "salama",
+      "start": 15.946791,
+      "end": 16.633291,
+      "sourceIndex": 11
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

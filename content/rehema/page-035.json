@@ -1,0 +1,121 @@
+{
+  "audio": "page-035.mp3",
+  "words": [
+    {
+      "text": "Hatua",
+      "start": 0.178708,
+      "end": 0.507666,
+      "sourceIndex": 2
+    },
+    {
+      "text": "za",
+      "start": 0.607791,
+      "end": 0.765124,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kufua",
+      "start": 0.793708,
+      "end": 1.237083,
+      "sourceIndex": 4
+    },
+    {
+      "text": "nguo",
+      "start": 1.265666,
+      "end": 1.637499,
+      "sourceIndex": 5
+    },
+    {
+      "text": "Angalia",
+      "start": 1.680416,
+      "end": 2.209582,
+      "sourceIndex": 6
+    },
+    {
+      "text": "picha",
+      "start": 2.2525,
+      "end": 2.581458,
+      "sourceIndex": 7
+    },
+    {
+      "text": "namba",
+      "start": 2.610083,
+      "end": 2.953333,
+      "sourceIndex": 8
+    },
+    {
+      "text": "moja",
+      "start": 2.981916,
+      "end": 3.368082,
+      "sourceIndex": 9
+    },
+    {
+      "text": "hadi",
+      "start": 3.396666,
+      "end": 3.696999,
+      "sourceIndex": 10
+    },
+    {
+      "text": "tano",
+      "start": 3.739916,
+      "end": 4.097457,
+      "sourceIndex": 11
+    },
+    {
+      "text": "kisha",
+      "start": 4.140375,
+      "end": 4.469333,
+      "sourceIndex": 12
+    },
+    {
+      "text": "fanya",
+      "start": 4.497958,
+      "end": 4.869791,
+      "sourceIndex": 13
+    },
+    {
+      "text": "zoezi",
+      "start": 4.898416,
+      "end": 5.356082,
+      "sourceIndex": 14
+    },
+    {
+      "text": "la",
+      "start": 5.384666,
+      "end": 5.499082,
+      "sourceIndex": 15
+    },
+    {
+      "text": "sita",
+      "start": 5.527708,
+      "end": 6.042583,
+      "sourceIndex": 16
+    },
+    {
+      "text": "moja",
+      "start": 7.136708,
+      "end": 7.508541,
+      "sourceIndex": 17
+    },
+    {
+      "text": "mbili",
+      "start": 7.708791,
+      "end": 8.195041,
+      "sourceIndex": 18
+    },
+    {
+      "text": "nne",
+      "start": 9.353541,
+      "end": 9.639582,
+      "sourceIndex": 20
+    },
+    {
+      "text": "tatu",
+      "start": 10.78375,
+      "end": 11.184208,
+      "sourceIndex": 20
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

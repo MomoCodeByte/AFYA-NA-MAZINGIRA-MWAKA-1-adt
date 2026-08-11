@@ -1,0 +1,307 @@
+{
+  "audio": "page-023.mp3",
+  "words": [
+    {
+      "text": "Zoezi",
+      "start": 0.178708,
+      "end": 0.550541,
+      "sourceIndex": 2
+    },
+    {
+      "text": "la",
+      "start": 0.650666,
+      "end": 0.793666,
+      "sourceIndex": 3
+    },
+    {
+      "text": "tano",
+      "start": 0.822291,
+      "end": 1.179832,
+      "sourceIndex": 4
+    },
+    {
+      "text": "Katika",
+      "start": 1.22275,
+      "end": 1.651791,
+      "sourceIndex": 5
+    },
+    {
+      "text": "vikundi",
+      "start": 1.680416,
+      "end": 2.195291,
+      "sourceIndex": 6
+    },
+    {
+      "text": "vidogo",
+      "start": 2.223916,
+      "end": 2.724499,
+      "sourceIndex": 7
+    },
+    {
+      "text": "vidogo",
+      "start": 2.753083,
+      "end": 3.396666,
+      "sourceIndex": 8
+    },
+    {
+      "text": "jadili",
+      "start": 3.525416,
+      "end": 4.011666,
+      "sourceIndex": 9
+    },
+    {
+      "text": "maswali",
+      "start": 4.054583,
+      "end": 4.569458,
+      "sourceIndex": 10
+    },
+    {
+      "text": "yafuatayo",
+      "start": 4.598041,
+      "end": 5.427541,
+      "sourceIndex": 11
+    },
+    {
+      "text": "moja",
+      "start": 6.493125,
+      "end": 6.822083,
+      "sourceIndex": 12
+    },
+    {
+      "text": "Kwanini",
+      "start": 7.022291,
+      "end": 7.465666,
+      "sourceIndex": 13
+    },
+    {
+      "text": "tunashauriwa",
+      "start": 7.508583,
+      "end": 8.352416,
+      "sourceIndex": 14
+    },
+    {
+      "text": "kufanya",
+      "start": 8.381,
+      "end": 8.824375,
+      "sourceIndex": 15
+    },
+    {
+      "text": "mazoezi",
+      "start": 8.852958,
+      "end": 9.482249,
+      "sourceIndex": 16
+    },
+    {
+      "text": "kila",
+      "start": 9.525166,
+      "end": 9.825499,
+      "sourceIndex": 17
+    },
+    {
+      "text": "siku",
+      "start": 9.854125,
+      "end": 10.354708,
+      "sourceIndex": 18
+    },
+    {
+      "text": "mbili",
+      "start": 11.427333,
+      "end": 11.684749,
+      "sourceIndex": 19
+    },
+    {
+      "text": "Taja",
+      "start": 11.885,
+      "end": 12.271166,
+      "sourceIndex": 20
+    },
+    {
+      "text": "mifano",
+      "start": 12.314083,
+      "end": 12.757458,
+      "sourceIndex": 21
+    },
+    {
+      "text": "ya",
+      "start": 12.786041,
+      "end": 12.857541,
+      "sourceIndex": 22
+    },
+    {
+      "text": "mazoezi",
+      "start": 12.886166,
+      "end": 13.472541,
+      "sourceIndex": 23
+    },
+    {
+      "text": "yanayosaidia",
+      "start": 13.501125,
+      "end": 14.387833,
+      "sourceIndex": 24
+    },
+    {
+      "text": "kujenga",
+      "start": 14.430791,
+      "end": 14.931374,
+      "sourceIndex": 25
+    },
+    {
+      "text": "na",
+      "start": 14.959958,
+      "end": 15.074374,
+      "sourceIndex": 26
+    },
+    {
+      "text": "kuimarisha",
+      "start": 15.117291,
+      "end": 15.803791,
+      "sourceIndex": 27
+    },
+    {
+      "text": "misuli",
+      "start": 15.846666,
+      "end": 16.290041,
+      "sourceIndex": 28
+    },
+    {
+      "text": "ya",
+      "start": 16.318666,
+      "end": 16.404457,
+      "sourceIndex": 29
+    },
+    {
+      "text": "mwili",
+      "start": 16.433083,
+      "end": 16.804916,
+      "sourceIndex": 30
+    },
+    {
+      "text": "Afya",
+      "start": 16.847833,
+      "end": 17.219666,
+      "sourceIndex": 31
+    },
+    {
+      "text": "bora",
+      "start": 17.248291,
+      "end": 17.577249,
+      "sourceIndex": 32
+    },
+    {
+      "text": "husaidia",
+      "start": 17.620125,
+      "end": 18.263708,
+      "sourceIndex": 33
+    },
+    {
+      "text": "mwili",
+      "start": 18.292333,
+      "end": 18.606958,
+      "sourceIndex": 34
+    },
+    {
+      "text": "kujikinga",
+      "start": 18.649875,
+      "end": 19.264875,
+      "sourceIndex": 35
+    },
+    {
+      "text": "na",
+      "start": 19.293458,
+      "end": 19.379249,
+      "sourceIndex": 36
+    },
+    {
+      "text": "magonjwa",
+      "start": 19.407875,
+      "end": 19.937041,
+      "sourceIndex": 37
+    },
+    {
+      "text": "mbali",
+      "start": 19.965666,
+      "end": 20.280291,
+      "sourceIndex": 38
+    },
+    {
+      "text": "mbali",
+      "start": 20.308916,
+      "end": 20.766582,
+      "sourceIndex": 39
+    },
+    {
+      "text": "Katika",
+      "start": 21.810625,
+      "end": 22.110958,
+      "sourceIndex": 40
+    },
+    {
+      "text": "sura",
+      "start": 22.211083,
+      "end": 22.582916,
+      "sourceIndex": 41
+    },
+    {
+      "text": "ya",
+      "start": 22.611541,
+      "end": 22.725957,
+      "sourceIndex": 42
+    },
+    {
+      "text": "tatu",
+      "start": 22.768875,
+      "end": 23.112125,
+      "sourceIndex": 43
+    },
+    {
+      "text": "tutajifunza",
+      "start": 23.155041,
+      "end": 23.984541,
+      "sourceIndex": 44
+    },
+    {
+      "text": "njia",
+      "start": 24.027458,
+      "end": 24.342083,
+      "sourceIndex": 45
+    },
+    {
+      "text": "mbali",
+      "start": 24.370708,
+      "end": 24.713958,
+      "sourceIndex": 46
+    },
+    {
+      "text": "mbali",
+      "start": 24.742583,
+      "end": 25.085833,
+      "sourceIndex": 47
+    },
+    {
+      "text": "za",
+      "start": 25.114416,
+      "end": 25.286041,
+      "sourceIndex": 48
+    },
+    {
+      "text": "kujikinga",
+      "start": 25.328958,
+      "end": 25.972541,
+      "sourceIndex": 49
+    },
+    {
+      "text": "na",
+      "start": 26.001125,
+      "end": 26.086916,
+      "sourceIndex": 50
+    },
+    {
+      "text": "magonjwa",
+      "start": 26.115541,
+      "end": 26.802041,
+      "sourceIndex": 51
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

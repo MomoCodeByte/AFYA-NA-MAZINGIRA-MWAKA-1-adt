@@ -1,0 +1,61 @@
+{
+  "audio": "page-070.mp3",
+  "words": [
+    {
+      "text": "Kutoa",
+      "start": 0.178708,
+      "end": 0.436124,
+      "sourceIndex": 1
+    },
+    {
+      "text": "huduma",
+      "start": 0.53625,
+      "end": 0.965291,
+      "sourceIndex": 2
+    },
+    {
+      "text": "ya",
+      "start": 0.993916,
+      "end": 1.094041,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kwanza",
+      "start": 1.122666,
+      "end": 1.523124,
+      "sourceIndex": 4
+    },
+    {
+      "text": "kwa",
+      "start": 1.566,
+      "end": 1.723333,
+      "sourceIndex": 5
+    },
+    {
+      "text": "mtu",
+      "start": 1.76625,
+      "end": 2.038,
+      "sourceIndex": 6
+    },
+    {
+      "text": "aliyenaswa",
+      "start": 2.080875,
+      "end": 2.810291,
+      "sourceIndex": 7
+    },
+    {
+      "text": "na",
+      "start": 2.838916,
+      "end": 2.924707,
+      "sourceIndex": 8
+    },
+    {
+      "text": "umeme",
+      "start": 2.953333,
+      "end": 3.453916,
+      "sourceIndex": 9
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

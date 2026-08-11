@@ -1,0 +1,127 @@
+{
+  "audio": "page-032.mp3",
+  "words": [
+    {
+      "text": "Kuoga",
+      "start": 0.178708,
+      "end": 0.493333,
+      "sourceIndex": 1
+    },
+    {
+      "text": "Vifaa",
+      "start": 0.593458,
+      "end": 0.993916,
+      "sourceIndex": 2
+    },
+    {
+      "text": "vya",
+      "start": 1.022541,
+      "end": 1.208457,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kuogea",
+      "start": 1.237083,
+      "end": 1.766249,
+      "sourceIndex": 4
+    },
+    {
+      "text": "taulo",
+      "start": 1.809166,
+      "end": 2.209624,
+      "sourceIndex": 5
+    },
+    {
+      "text": "sabuni",
+      "start": 2.238208,
+      "end": 2.781666,
+      "sourceIndex": 6
+    },
+    {
+      "text": "kitambaa",
+      "start": 2.824583,
+      "end": 3.396666,
+      "sourceIndex": 7
+    },
+    {
+      "text": "dodoki",
+      "start": 3.425291,
+      "end": 3.954457,
+      "sourceIndex": 8
+    },
+    {
+      "text": "beseni",
+      "start": 3.997375,
+      "end": 4.51225,
+      "sourceIndex": 9
+    },
+    {
+      "text": "kandambili",
+      "start": 4.555166,
+      "end": 5.227374,
+      "sourceIndex": 10
+    },
+    {
+      "text": "kopo",
+      "start": 5.27025,
+      "end": 5.642083,
+      "sourceIndex": 11
+    },
+    {
+      "text": "Hatua",
+      "start": 5.685,
+      "end": 6.128375,
+      "sourceIndex": 12
+    },
+    {
+      "text": "za",
+      "start": 6.157,
+      "end": 6.314333,
+      "sourceIndex": 13
+    },
+    {
+      "text": "kuoga",
+      "start": 6.342916,
+      "end": 6.900707,
+      "sourceIndex": 14
+    },
+    {
+      "text": "moja",
+      "start": 7.980541,
+      "end": 8.323791,
+      "sourceIndex": 15
+    },
+    {
+      "text": "Kuvua",
+      "start": 8.552625,
+      "end": 9.096083,
+      "sourceIndex": 17
+    },
+    {
+      "text": "nguo",
+      "start": 9.124708,
+      "end": 9.596666,
+      "sourceIndex": 18
+    },
+    {
+      "text": "mbili",
+      "start": 10.697958,
+      "end": 10.983999,
+      "sourceIndex": 16
+    },
+    {
+      "text": "Kujimwagia",
+      "start": 11.212833,
+      "end": 12.042333,
+      "sourceIndex": 19
+    },
+    {
+      "text": "maji",
+      "start": 12.070958,
+      "end": 12.614416,
+      "sourceIndex": 20
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

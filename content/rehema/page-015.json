@@ -1,0 +1,181 @@
+{
+  "audio": "page-015.mp3",
+  "words": [
+    {
+      "text": "Vyakula",
+      "start": 0.178708,
+      "end": 0.607749,
+      "sourceIndex": 1
+    },
+    {
+      "text": "vinavyoliwa",
+      "start": 0.707875,
+      "end": 1.465875,
+      "sourceIndex": 2
+    },
+    {
+      "text": "mchana",
+      "start": 1.4945,
+      "end": 1.894958,
+      "sourceIndex": 3
+    },
+    {
+      "text": "Vyakula",
+      "start": 1.923583,
+      "end": 2.438458,
+      "sourceIndex": 4
+    },
+    {
+      "text": "vinavyoliwa",
+      "start": 2.467041,
+      "end": 3.239332,
+      "sourceIndex": 5
+    },
+    {
+      "text": "jioni",
+      "start": 3.267958,
+      "end": 3.639791,
+      "sourceIndex": 6
+    },
+    {
+      "text": "Zoezi",
+      "start": 3.682708,
+      "end": 4.154666,
+      "sourceIndex": 7
+    },
+    {
+      "text": "la",
+      "start": 4.183291,
+      "end": 4.311999,
+      "sourceIndex": 8
+    },
+    {
+      "text": "moja",
+      "start": 4.340625,
+      "end": 4.812583,
+      "sourceIndex": 9
+    },
+    {
+      "text": "moja",
+      "start": 5.892458,
+      "end": 6.249999,
+      "sourceIndex": 10
+    },
+    {
+      "text": "Taja",
+      "start": 6.435916,
+      "end": 6.807749,
+      "sourceIndex": 11
+    },
+    {
+      "text": "vyakula",
+      "start": 6.836375,
+      "end": 7.336958,
+      "sourceIndex": 12
+    },
+    {
+      "text": "unavyokula",
+      "start": 7.365541,
+      "end": 8.152166,
+      "sourceIndex": 13
+    },
+    {
+      "text": "asubuhi",
+      "start": 8.180791,
+      "end": 8.810082,
+      "sourceIndex": 14
+    },
+    {
+      "text": "mchana",
+      "start": 8.938791,
+      "end": 9.382166,
+      "sourceIndex": 15
+    },
+    {
+      "text": "na",
+      "start": 9.41075,
+      "end": 9.510875,
+      "sourceIndex": 16
+    },
+    {
+      "text": "jioni",
+      "start": 9.539458,
+      "end": 10.097249,
+      "sourceIndex": 17
+    },
+    {
+      "text": "mbili",
+      "start": 11.169916,
+      "end": 11.455957,
+      "sourceIndex": 18
+    },
+    {
+      "text": "Eleza",
+      "start": 11.6705,
+      "end": 12.171083,
+      "sourceIndex": 19
+    },
+    {
+      "text": "ni",
+      "start": 12.199666,
+      "end": 12.328374,
+      "sourceIndex": 20
+    },
+    {
+      "text": "kwa",
+      "start": 12.371291,
+      "end": 12.528624,
+      "sourceIndex": 21
+    },
+    {
+      "text": "nini",
+      "start": 12.557208,
+      "end": 12.857541,
+      "sourceIndex": 22
+    },
+    {
+      "text": "tunakula",
+      "start": 12.900458,
+      "end": 13.544041,
+      "sourceIndex": 23
+    },
+    {
+      "text": "chakula",
+      "start": 13.586958,
+      "end": 14.259166,
+      "sourceIndex": 24
+    },
+    {
+      "text": "tatu",
+      "start": 15.360416,
+      "end": 15.675041,
+      "sourceIndex": 25
+    },
+    {
+      "text": "Chora",
+      "start": 15.875291,
+      "end": 16.247124,
+      "sourceIndex": 26
+    },
+    {
+      "text": "vyakula",
+      "start": 16.27575,
+      "end": 16.804916,
+      "sourceIndex": 27
+    },
+    {
+      "text": "unavyopenda",
+      "start": 16.833541,
+      "end": 17.677374,
+      "sourceIndex": 28
+    },
+    {
+      "text": "kula",
+      "start": 17.72025,
+      "end": 18.149291,
+      "sourceIndex": 29
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

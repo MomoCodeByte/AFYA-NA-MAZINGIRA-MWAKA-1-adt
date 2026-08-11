@@ -1,0 +1,559 @@
+{
+  "audio": "page-049.mp3",
+  "words": [
+    {
+      "text": "Mazingira",
+      "start": 0.193,
+      "end": 0.793666,
+      "sourceIndex": 2
+    },
+    {
+      "text": "ni",
+      "start": 0.908125,
+      "end": 1.022541,
+      "sourceIndex": 3
+    },
+    {
+      "text": "vitu",
+      "start": 1.051125,
+      "end": 1.394375,
+      "sourceIndex": 4
+    },
+    {
+      "text": "vyote",
+      "start": 1.423,
+      "end": 1.809166,
+      "sourceIndex": 5
+    },
+    {
+      "text": "vinavyotuzunguka",
+      "start": 1.852041,
+      "end": 3.039124,
+      "sourceIndex": 6
+    },
+    {
+      "text": "kama",
+      "start": 3.082041,
+      "end": 3.382374,
+      "sourceIndex": 7
+    },
+    {
+      "text": "vile",
+      "start": 3.411,
+      "end": 3.68275,
+      "sourceIndex": 8
+    },
+    {
+      "text": "hewa",
+      "start": 3.711333,
+      "end": 4.097499,
+      "sourceIndex": 9
+    },
+    {
+      "text": "maji",
+      "start": 4.226208,
+      "end": 4.612374,
+      "sourceIndex": 10
+    },
+    {
+      "text": "na",
+      "start": 4.640958,
+      "end": 4.741083,
+      "sourceIndex": 11
+    },
+    {
+      "text": "mimea",
+      "start": 4.769666,
+      "end": 5.284541,
+      "sourceIndex": 12
+    },
+    {
+      "text": "Hivyo",
+      "start": 6.350125,
+      "end": 6.607541,
+      "sourceIndex": 13
+    },
+    {
+      "text": "inatupasa",
+      "start": 6.707666,
+      "end": 7.422749,
+      "sourceIndex": 14
+    },
+    {
+      "text": "kusafisha",
+      "start": 7.451375,
+      "end": 8.152166,
+      "sourceIndex": 15
+    },
+    {
+      "text": "na",
+      "start": 8.180791,
+      "end": 8.280916,
+      "sourceIndex": 16
+    },
+    {
+      "text": "kutunza",
+      "start": 8.3095,
+      "end": 8.810083,
+      "sourceIndex": 17
+    },
+    {
+      "text": "mazingira",
+      "start": 8.838666,
+      "end": 9.467957,
+      "sourceIndex": 18
+    },
+    {
+      "text": "yetu",
+      "start": 9.496583,
+      "end": 9.782624,
+      "sourceIndex": 19
+    },
+    {
+      "text": "ya",
+      "start": 9.811208,
+      "end": 9.896999,
+      "sourceIndex": 20
+    },
+    {
+      "text": "nyumbani",
+      "start": 9.925625,
+      "end": 10.411875,
+      "sourceIndex": 21
+    },
+    {
+      "text": "na",
+      "start": 10.4405,
+      "end": 10.526291,
+      "sourceIndex": 22
+    },
+    {
+      "text": "shuleni",
+      "start": 10.554916,
+      "end": 11.155582,
+      "sourceIndex": 23
+    },
+    {
+      "text": "Mazingira",
+      "start": 12.213958,
+      "end": 12.728833,
+      "sourceIndex": 24
+    },
+    {
+      "text": "safi",
+      "start": 12.857541,
+      "end": 13.229374,
+      "sourceIndex": 25
+    },
+    {
+      "text": "huvutia",
+      "start": 13.258,
+      "end": 13.858666,
+      "sourceIndex": 26
+    },
+    {
+      "text": "na",
+      "start": 13.887291,
+      "end": 13.987416,
+      "sourceIndex": 27
+    },
+    {
+      "text": "kupendeza",
+      "start": 14.016,
+      "end": 14.631,
+      "sourceIndex": 28
+    },
+    {
+      "text": "sana",
+      "start": 14.659625,
+      "end": 15.145875,
+      "sourceIndex": 29
+    },
+    {
+      "text": "Vilevile",
+      "start": 16.218541,
+      "end": 16.804916,
+      "sourceIndex": 30
+    },
+    {
+      "text": "huepusha",
+      "start": 16.976541,
+      "end": 17.620124,
+      "sourceIndex": 31
+    },
+    {
+      "text": "wadudu",
+      "start": 17.64875,
+      "end": 18.092125,
+      "sourceIndex": 32
+    },
+    {
+      "text": "na",
+      "start": 18.120708,
+      "end": 18.220833,
+      "sourceIndex": 33
+    },
+    {
+      "text": "vijidudu",
+      "start": 18.249416,
+      "end": 18.892999,
+      "sourceIndex": 34
+    },
+    {
+      "text": "vya",
+      "start": 18.935916,
+      "end": 19.093249,
+      "sourceIndex": 35
+    },
+    {
+      "text": "magonjwa",
+      "start": 19.121833,
+      "end": 19.779708,
+      "sourceIndex": 36
+    },
+    {
+      "text": "Hivyo",
+      "start": 20.852416,
+      "end": 21.252874,
+      "sourceIndex": 37
+    },
+    {
+      "text": "maisha",
+      "start": 21.438791,
+      "end": 21.853541,
+      "sourceIndex": 38
+    },
+    {
+      "text": "ya",
+      "start": 21.882166,
+      "end": 21.982291,
+      "sourceIndex": 39
+    },
+    {
+      "text": "viumbe",
+      "start": 22.010875,
+      "end": 22.425625,
+      "sourceIndex": 40
+    },
+    {
+      "text": "yanahitaji",
+      "start": 22.45425,
+      "end": 23.255166,
+      "sourceIndex": 41
+    },
+    {
+      "text": "uwepo",
+      "start": 23.298041,
+      "end": 23.755707,
+      "sourceIndex": 42
+    },
+    {
+      "text": "wa",
+      "start": 23.798625,
+      "end": 23.884416,
+      "sourceIndex": 43
+    },
+    {
+      "text": "mazingira",
+      "start": 23.913041,
+      "end": 24.528041,
+      "sourceIndex": 44
+    },
+    {
+      "text": "safi",
+      "start": 24.556625,
+      "end": 24.971375,
+      "sourceIndex": 45
+    },
+    {
+      "text": "na",
+      "start": 25.0,
+      "end": 25.085791,
+      "sourceIndex": 46
+    },
+    {
+      "text": "salama",
+      "start": 25.114416,
+      "end": 25.757999,
+      "sourceIndex": 47
+    },
+    {
+      "text": "Tazama",
+      "start": 26.85925,
+      "end": 27.231083,
+      "sourceIndex": 48
+    },
+    {
+      "text": "picha",
+      "start": 27.374125,
+      "end": 27.703083,
+      "sourceIndex": 49
+    },
+    {
+      "text": "hii",
+      "start": 27.731708,
+      "end": 27.974833,
+      "sourceIndex": 50
+    },
+    {
+      "text": "kisha",
+      "start": 28.01775,
+      "end": 28.375291,
+      "sourceIndex": 51
+    },
+    {
+      "text": "jibu",
+      "start": 28.403875,
+      "end": 28.732833,
+      "sourceIndex": 52
+    },
+    {
+      "text": "maswali",
+      "start": 28.761458,
+      "end": 29.290624,
+      "sourceIndex": 53
+    },
+    {
+      "text": "Maswali",
+      "start": 29.319208,
+      "end": 29.962791,
+      "sourceIndex": 54
+    },
+    {
+      "text": "moja",
+      "start": 31.006875,
+      "end": 31.335833,
+      "sourceIndex": 55
+    },
+    {
+      "text": "Taja",
+      "start": 31.52175,
+      "end": 31.879291,
+      "sourceIndex": 56
+    },
+    {
+      "text": "vifaa",
+      "start": 31.907875,
+      "end": 32.308333,
+      "sourceIndex": 57
+    },
+    {
+      "text": "vingine",
+      "start": 32.336958,
+      "end": 32.780333,
+      "sourceIndex": 58
+    },
+    {
+      "text": "vinavyotumika",
+      "start": 32.823208,
+      "end": 33.781458,
+      "sourceIndex": 59
+    },
+    {
+      "text": "kusafisha",
+      "start": 33.810083,
+      "end": 34.439374,
+      "sourceIndex": 60
+    },
+    {
+      "text": "mazingira",
+      "start": 34.467958,
+      "end": 35.183041,
+      "sourceIndex": 61
+    },
+    {
+      "text": "mbili",
+      "start": 36.284333,
+      "end": 36.556083,
+      "sourceIndex": 62
+    },
+    {
+      "text": "Ni",
+      "start": 36.770583,
+      "end": 36.870708,
+      "sourceIndex": 63
+    },
+    {
+      "text": "wadudu",
+      "start": 36.899333,
+      "end": 37.356999,
+      "sourceIndex": 64
+    },
+    {
+      "text": "gani",
+      "start": 37.399875,
+      "end": 37.728833,
+      "sourceIndex": 65
+    },
+    {
+      "text": "wanaopatikana",
+      "start": 37.757416,
+      "end": 38.687041,
+      "sourceIndex": 66
+    },
+    {
+      "text": "katika",
+      "start": 38.729958,
+      "end": 39.144708,
+      "sourceIndex": 67
+    },
+    {
+      "text": "mazingira",
+      "start": 39.173333,
+      "end": 39.831208,
+      "sourceIndex": 68
+    },
+    {
+      "text": "machafu",
+      "start": 39.859833,
+      "end": 40.503416,
+      "sourceIndex": 69
+    },
+    {
+      "text": "tatu",
+      "start": 41.576083,
+      "end": 41.876416,
+      "sourceIndex": 70
+    },
+    {
+      "text": "Baada",
+      "start": 42.076666,
+      "end": 42.434207,
+      "sourceIndex": 71
+    },
+    {
+      "text": "ya",
+      "start": 42.462833,
+      "end": 42.562958,
+      "sourceIndex": 72
+    },
+    {
+      "text": "kuokota",
+      "start": 42.591541,
+      "end": 43.192207,
+      "sourceIndex": 73
+    },
+    {
+      "text": "takataka",
+      "start": 43.220833,
+      "end": 43.878708,
+      "sourceIndex": 74
+    },
+    {
+      "text": "unapaswa",
+      "start": 43.907333,
+      "end": 44.522333,
+      "sourceIndex": 75
+    },
+    {
+      "text": "kufanya",
+      "start": 44.550916,
+      "end": 45.022874,
+      "sourceIndex": 76
+    },
+    {
+      "text": "nini",
+      "start": 45.0515,
+      "end": 45.437666,
+      "sourceIndex": 77
+    },
+    {
+      "text": "nne",
+      "start": 46.524583,
+      "end": 46.753416,
+      "sourceIndex": 78
+    },
+    {
+      "text": "Mazingira",
+      "start": 46.967958,
+      "end": 47.640166,
+      "sourceIndex": 79
+    },
+    {
+      "text": "yasiyo",
+      "start": 47.66875,
+      "end": 48.097791,
+      "sourceIndex": 80
+    },
+    {
+      "text": "safi",
+      "start": 48.126416,
+      "end": 48.512582,
+      "sourceIndex": 81
+    },
+    {
+      "text": "husababisha",
+      "start": 48.541208,
+      "end": 49.327833,
+      "sourceIndex": 82
+    },
+    {
+      "text": "madhara",
+      "start": 49.356416,
+      "end": 49.842666,
+      "sourceIndex": 83
+    },
+    {
+      "text": "gani",
+      "start": 49.871291,
+      "end": 50.328957,
+      "sourceIndex": 84
+    },
+    {
+      "text": "tano",
+      "start": 51.415916,
+      "end": 51.701957,
+      "sourceIndex": 85
+    },
+    {
+      "text": "Chora",
+      "start": 51.887875,
+      "end": 52.259708,
+      "sourceIndex": 86
+    },
+    {
+      "text": "picha",
+      "start": 52.288333,
+      "end": 52.617291,
+      "sourceIndex": 87
+    },
+    {
+      "text": "za",
+      "start": 52.645875,
+      "end": 52.788875,
+      "sourceIndex": 88
+    },
+    {
+      "text": "vifaa",
+      "start": 52.8175,
+      "end": 53.203666,
+      "sourceIndex": 89
+    },
+    {
+      "text": "vya",
+      "start": 53.23225,
+      "end": 53.403875,
+      "sourceIndex": 90
+    },
+    {
+      "text": "usafi",
+      "start": 53.4325,
+      "end": 53.904458,
+      "sourceIndex": 91
+    },
+    {
+      "text": "wa",
+      "start": 53.933083,
+      "end": 54.018874,
+      "sourceIndex": 92
+    },
+    {
+      "text": "mazingira",
+      "start": 54.0475,
+      "end": 54.819791,
+      "sourceIndex": 93
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

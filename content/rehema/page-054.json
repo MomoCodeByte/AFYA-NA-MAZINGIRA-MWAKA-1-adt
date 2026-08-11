@@ -1,0 +1,43 @@
+{
+  "audio": "page-054.mp3",
+  "words": [
+    {
+      "text": "Mazingira",
+      "start": 0.207333,
+      "end": 0.707916,
+      "sourceIndex": 1
+    },
+    {
+      "text": "hatarishi",
+      "start": 0.836625,
+      "end": 1.651833,
+      "sourceIndex": 2
+    },
+    {
+      "text": "moja",
+      "start": 2.760291,
+      "end": 3.203666,
+      "sourceIndex": 3
+    },
+    {
+      "text": "mbili",
+      "start": 4.405041,
+      "end": 4.819791,
+      "sourceIndex": 4
+    },
+    {
+      "text": "tatu",
+      "start": 6.006875,
+      "end": 6.478833,
+      "sourceIndex": 5
+    },
+    {
+      "text": "nne",
+      "start": 7.651583,
+      "end": 7.937624,
+      "sourceIndex": 6
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

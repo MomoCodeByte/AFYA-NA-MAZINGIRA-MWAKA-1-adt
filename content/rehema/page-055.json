@@ -1,0 +1,175 @@
+{
+  "audio": "page-055.mp3",
+  "words": [
+    {
+      "text": "Maswali",
+      "start": 0.207333,
+      "end": 0.850916,
+      "sourceIndex": 2
+    },
+    {
+      "text": "moja",
+      "start": 2.0595,
+      "end": 2.417041,
+      "sourceIndex": 3
+    },
+    {
+      "text": "Taja",
+      "start": 2.602958,
+      "end": 2.960499,
+      "sourceIndex": 4
+    },
+    {
+      "text": "mazingira",
+      "start": 2.989125,
+      "end": 3.618416,
+      "sourceIndex": 5
+    },
+    {
+      "text": "hatarishi",
+      "start": 3.647041,
+      "end": 4.290624,
+      "sourceIndex": 6
+    },
+    {
+      "text": "yaliyopo",
+      "start": 4.319208,
+      "end": 4.862666,
+      "sourceIndex": 7
+    },
+    {
+      "text": "nyumbani",
+      "start": 4.891291,
+      "end": 5.406166,
+      "sourceIndex": 8
+    },
+    {
+      "text": "au",
+      "start": 5.449083,
+      "end": 5.606416,
+      "sourceIndex": 9
+    },
+    {
+      "text": "shuleni",
+      "start": 5.635,
+      "end": 6.25,
+      "sourceIndex": 10
+    },
+    {
+      "text": "mbili",
+      "start": 7.308333,
+      "end": 7.580083,
+      "sourceIndex": 11
+    },
+    {
+      "text": "Eleza",
+      "start": 7.766,
+      "end": 8.25225,
+      "sourceIndex": 12
+    },
+    {
+      "text": "kwa",
+      "start": 8.295208,
+      "end": 8.452541,
+      "sourceIndex": 13
+    },
+    {
+      "text": "kifupi",
+      "start": 8.481125,
+      "end": 9.024583,
+      "sourceIndex": 14
+    },
+    {
+      "text": "namna",
+      "start": 9.0675,
+      "end": 9.396458,
+      "sourceIndex": 15
+    },
+    {
+      "text": "utakavyomshauri",
+      "start": 9.439375,
+      "end": 10.597833,
+      "sourceIndex": 16
+    },
+    {
+      "text": "rafiki",
+      "start": 10.64075,
+      "end": 11.141333,
+      "sourceIndex": 17
+    },
+    {
+      "text": "yako",
+      "start": 11.169916,
+      "end": 11.498874,
+      "sourceIndex": 18
+    },
+    {
+      "text": "anayependa",
+      "start": 11.54175,
+      "end": 12.285458,
+      "sourceIndex": 19
+    },
+    {
+      "text": "kwenda",
+      "start": 12.328375,
+      "end": 12.657333,
+      "sourceIndex": 20
+    },
+    {
+      "text": "kwenye",
+      "start": 12.700208,
+      "end": 12.971958,
+      "sourceIndex": 21
+    },
+    {
+      "text": "mazingira",
+      "start": 13.000583,
+      "end": 13.615583,
+      "sourceIndex": 22
+    },
+    {
+      "text": "hatarishi",
+      "start": 13.644166,
+      "end": 14.416457,
+      "sourceIndex": 23
+    },
+    {
+      "text": "Vitendo",
+      "start": 15.474833,
+      "end": 15.860999,
+      "sourceIndex": 24
+    },
+    {
+      "text": "hatarishi",
+      "start": 15.961083,
+      "end": 16.747708,
+      "sourceIndex": 25
+    },
+    {
+      "text": "moja",
+      "start": 17.848958,
+      "end": 18.220791,
+      "sourceIndex": 26
+    },
+    {
+      "text": "mbili",
+      "start": 18.421041,
+      "end": 18.907291,
+      "sourceIndex": 28
+    },
+    {
+      "text": "tatu",
+      "start": 20.037166,
+      "end": 20.423332,
+      "sourceIndex": 29
+    },
+    {
+      "text": "nne",
+      "start": 20.637875,
+      "end": 21.038333,
+      "sourceIndex": 29
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

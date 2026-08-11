@@ -1,0 +1,103 @@
+{
+  "audio": "page-001.mp3",
+  "words": [
+    {
+      "text": "Afya",
+      "start": 0.207333,
+      "end": 0.450458,
+      "sourceIndex": 0
+    },
+    {
+      "text": "na",
+      "start": 0.579166,
+      "end": 0.664957,
+      "sourceIndex": 1
+    },
+    {
+      "text": "Mazingira",
+      "start": 0.693583,
+      "end": 1.365791,
+      "sourceIndex": 2
+    },
+    {
+      "text": "Kitabu",
+      "start": 1.408708,
+      "end": 1.894958,
+      "sourceIndex": 3
+    },
+    {
+      "text": "cha",
+      "start": 1.937875,
+      "end": 2.1095,
+      "sourceIndex": 4
+    },
+    {
+      "text": "Mwanafunzi",
+      "start": 2.138083,
+      "end": 2.824583,
+      "sourceIndex": 5
+    },
+    {
+      "text": "Kundirika",
+      "start": 2.8675,
+      "end": 3.468166,
+      "sourceIndex": 6
+    },
+    {
+      "text": "la",
+      "start": 3.496791,
+      "end": 3.625499,
+      "sourceIndex": 7
+    },
+    {
+      "text": "Kwanza",
+      "start": 3.668416,
+      "end": 4.040249,
+      "sourceIndex": 8
+    },
+    {
+      "text": "Mwaka",
+      "start": 4.068875,
+      "end": 4.412125,
+      "sourceIndex": 9
+    },
+    {
+      "text": "wa",
+      "start": 4.44075,
+      "end": 4.540875,
+      "sourceIndex": 10
+    },
+    {
+      "text": "Kwanza",
+      "start": 4.58375,
+      "end": 4.969916,
+      "sourceIndex": 11
+    },
+    {
+      "text": "Taasisi",
+      "start": 5.012833,
+      "end": 5.613499,
+      "sourceIndex": 12
+    },
+    {
+      "text": "ya",
+      "start": 5.642125,
+      "end": 5.727916,
+      "sourceIndex": 13
+    },
+    {
+      "text": "Elimu",
+      "start": 5.756541,
+      "end": 6.085499,
+      "sourceIndex": 14
+    },
+    {
+      "text": "Tanzania",
+      "start": 6.128375,
+      "end": 6.886375,
+      "sourceIndex": 15
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

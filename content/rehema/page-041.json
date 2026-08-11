@@ -1,0 +1,421 @@
+{
+  "audio": "page-041.mp3",
+  "words": [
+    {
+      "text": "sita",
+      "start": 0.178708,
+      "end": 0.579166,
+      "sourceIndex": 2
+    },
+    {
+      "text": "Hifadhi",
+      "start": 0.750791,
+      "end": 1.251374,
+      "sourceIndex": 3
+    },
+    {
+      "text": "vyombo",
+      "start": 1.279958,
+      "end": 1.666124,
+      "sourceIndex": 4
+    },
+    {
+      "text": "mahali",
+      "start": 1.69475,
+      "end": 2.138125,
+      "sourceIndex": 5
+    },
+    {
+      "text": "safi",
+      "start": 2.166708,
+      "end": 2.595749,
+      "sourceIndex": 6
+    },
+    {
+      "text": "ili",
+      "start": 2.638666,
+      "end": 2.881791,
+      "sourceIndex": 7
+    },
+    {
+      "text": "visichafuke",
+      "start": 2.910416,
+      "end": 3.897249,
+      "sourceIndex": 8
+    },
+    {
+      "text": "Kazi",
+      "start": 4.977125,
+      "end": 5.177333,
+      "sourceIndex": 9
+    },
+    {
+      "text": "ya",
+      "start": 5.277458,
+      "end": 5.377583,
+      "sourceIndex": 10
+    },
+    {
+      "text": "kufanya",
+      "start": 5.406166,
+      "end": 5.863832,
+      "sourceIndex": 11
+    },
+    {
+      "text": "Osha",
+      "start": 5.892458,
+      "end": 6.207083,
+      "sourceIndex": 12
+    },
+    {
+      "text": "vyombo",
+      "start": 6.235708,
+      "end": 6.621874,
+      "sourceIndex": 13
+    },
+    {
+      "text": "vya",
+      "start": 6.650458,
+      "end": 6.822083,
+      "sourceIndex": 14
+    },
+    {
+      "text": "chakula",
+      "start": 6.850666,
+      "end": 7.365541,
+      "sourceIndex": 15
+    },
+    {
+      "text": "kwa",
+      "start": 7.408458,
+      "end": 7.565791,
+      "sourceIndex": 16
+    },
+    {
+      "text": "kufuata",
+      "start": 7.594375,
+      "end": 8.209375,
+      "sourceIndex": 17
+    },
+    {
+      "text": "hatua",
+      "start": 8.238,
+      "end": 8.810083,
+      "sourceIndex": 18
+    },
+    {
+      "text": "Zoezi",
+      "start": 9.882708,
+      "end": 10.297458,
+      "sourceIndex": 19
+    },
+    {
+      "text": "la",
+      "start": 10.411916,
+      "end": 10.569249,
+      "sourceIndex": 20
+    },
+    {
+      "text": "kumi",
+      "start": 10.612125,
+      "end": 11.069791,
+      "sourceIndex": 21
+    },
+    {
+      "text": "moja",
+      "start": 12.142458,
+      "end": 12.471416,
+      "sourceIndex": 22
+    },
+    {
+      "text": "Taja",
+      "start": 12.657333,
+      "end": 13.014874,
+      "sourceIndex": 23
+    },
+    {
+      "text": "vifaa",
+      "start": 13.043458,
+      "end": 13.443916,
+      "sourceIndex": 24
+    },
+    {
+      "text": "vinne",
+      "start": 13.472541,
+      "end": 13.830082,
+      "sourceIndex": 25
+    },
+    {
+      "text": "vinavyotumika",
+      "start": 13.873,
+      "end": 14.845541,
+      "sourceIndex": 26
+    },
+    {
+      "text": "kusafishia",
+      "start": 14.874125,
+      "end": 15.617833,
+      "sourceIndex": 27
+    },
+    {
+      "text": "vyombo",
+      "start": 15.646458,
+      "end": 16.061208,
+      "sourceIndex": 28
+    },
+    {
+      "text": "vya",
+      "start": 16.089833,
+      "end": 16.261458,
+      "sourceIndex": 29
+    },
+    {
+      "text": "chakula",
+      "start": 16.290041,
+      "end": 16.890707,
+      "sourceIndex": 30
+    },
+    {
+      "text": "mbili",
+      "start": 17.977708,
+      "end": 18.249458,
+      "sourceIndex": 31
+    },
+    {
+      "text": "Andika",
+      "start": 18.463958,
+      "end": 18.921624,
+      "sourceIndex": 32
+    },
+    {
+      "text": "majina",
+      "start": 18.950208,
+      "end": 19.393583,
+      "sourceIndex": 33
+    },
+    {
+      "text": "ya",
+      "start": 19.422208,
+      "end": 19.522333,
+      "sourceIndex": 34
+    },
+    {
+      "text": "vyombo",
+      "start": 19.550916,
+      "end": 19.951374,
+      "sourceIndex": 35
+    },
+    {
+      "text": "ulivyowahi",
+      "start": 19.994291,
+      "end": 20.709374,
+      "sourceIndex": 36
+    },
+    {
+      "text": "kuviosha",
+      "start": 20.752291,
+      "end": 21.510291,
+      "sourceIndex": 37
+    },
+    {
+      "text": "tatu",
+      "start": 22.582958,
+      "end": 22.868999,
+      "sourceIndex": 38
+    },
+    {
+      "text": "Taja",
+      "start": 23.097833,
+      "end": 23.441083,
+      "sourceIndex": 39
+    },
+    {
+      "text": "sehemu",
+      "start": 23.469666,
+      "end": 24.013124,
+      "sourceIndex": 40
+    },
+    {
+      "text": "nne",
+      "start": 24.056083,
+      "end": 24.241999,
+      "sourceIndex": 41
+    },
+    {
+      "text": "za",
+      "start": 24.270583,
+      "end": 24.442208,
+      "sourceIndex": 42
+    },
+    {
+      "text": "kuhifadhi",
+      "start": 24.470833,
+      "end": 25.114416,
+      "sourceIndex": 43
+    },
+    {
+      "text": "vyombo",
+      "start": 25.143,
+      "end": 25.543458,
+      "sourceIndex": 44
+    },
+    {
+      "text": "vilivyooshwa",
+      "start": 25.572083,
+      "end": 26.501708,
+      "sourceIndex": 45
+    },
+    {
+      "text": "nne",
+      "start": 27.574375,
+      "end": 27.760291,
+      "sourceIndex": 46
+    },
+    {
+      "text": "Orodhesha",
+      "start": 27.974833,
+      "end": 28.618416,
+      "sourceIndex": 47
+    },
+    {
+      "text": "magonjwa",
+      "start": 28.647041,
+      "end": 29.204832,
+      "sourceIndex": 48
+    },
+    {
+      "text": "yanayosababishwa",
+      "start": 29.233416,
+      "end": 30.306082,
+      "sourceIndex": 49
+    },
+    {
+      "text": "na",
+      "start": 30.334666,
+      "end": 30.420457,
+      "sourceIndex": 50
+    },
+    {
+      "text": "matumizi",
+      "start": 30.449083,
+      "end": 31.078374,
+      "sourceIndex": 51
+    },
+    {
+      "text": "ya",
+      "start": 31.106958,
+      "end": 31.192749,
+      "sourceIndex": 52
+    },
+    {
+      "text": "vyombo",
+      "start": 31.221375,
+      "end": 31.607541,
+      "sourceIndex": 53
+    },
+    {
+      "text": "vichafu",
+      "start": 31.636166,
+      "end": 32.322666,
+      "sourceIndex": 54
+    },
+    {
+      "text": "tano",
+      "start": 33.409625,
+      "end": 33.681375,
+      "sourceIndex": 55
+    },
+    {
+      "text": "Taja",
+      "start": 33.895875,
+      "end": 34.253416,
+      "sourceIndex": 56
+    },
+    {
+      "text": "wadudu",
+      "start": 34.282041,
+      "end": 34.682499,
+      "sourceIndex": 57
+    },
+    {
+      "text": "wanaovutiwa",
+      "start": 34.711083,
+      "end": 35.511999,
+      "sourceIndex": 58
+    },
+    {
+      "text": "na",
+      "start": 35.540625,
+      "end": 35.64075,
+      "sourceIndex": 59
+    },
+    {
+      "text": "vyombo",
+      "start": 35.669333,
+      "end": 36.069791,
+      "sourceIndex": 60
+    },
+    {
+      "text": "vichafu",
+      "start": 36.098416,
+      "end": 36.799207,
+      "sourceIndex": 61
+    },
+    {
+      "text": "sita",
+      "start": 37.84325,
+      "end": 38.243708,
+      "sourceIndex": 62
+    },
+    {
+      "text": "Taja",
+      "start": 38.429625,
+      "end": 38.758583,
+      "sourceIndex": 63
+    },
+    {
+      "text": "sababu",
+      "start": 38.787166,
+      "end": 39.287749,
+      "sourceIndex": 64
+    },
+    {
+      "text": "mbili",
+      "start": 39.316375,
+      "end": 39.616708,
+      "sourceIndex": 65
+    },
+    {
+      "text": "za",
+      "start": 39.645291,
+      "end": 39.802624,
+      "sourceIndex": 66
+    },
+    {
+      "text": "kuosha",
+      "start": 39.83125,
+      "end": 40.303208,
+      "sourceIndex": 67
+    },
+    {
+      "text": "vyombo",
+      "start": 40.331791,
+      "end": 40.732249,
+      "sourceIndex": 68
+    },
+    {
+      "text": "vya",
+      "start": 40.760875,
+      "end": 40.9325,
+      "sourceIndex": 69
+    },
+    {
+      "text": "chakula",
+      "start": 40.961083,
+      "end": 41.561749,
+      "sourceIndex": 70
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

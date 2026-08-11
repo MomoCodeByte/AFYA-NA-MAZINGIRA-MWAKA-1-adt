@@ -1,0 +1,451 @@
+{
+  "audio": "page-036.mp3",
+  "words": [
+    {
+      "text": "tano",
+      "start": 0.193,
+      "end": 0.450416,
+      "sourceIndex": 1
+    },
+    {
+      "text": "Zoezi",
+      "start": 0.650666,
+      "end": 1.179832,
+      "sourceIndex": 2
+    },
+    {
+      "text": "la",
+      "start": 1.208458,
+      "end": 1.337166,
+      "sourceIndex": 3
+    },
+    {
+      "text": "sita",
+      "start": 1.365791,
+      "end": 1.780541,
+      "sourceIndex": 4
+    },
+    {
+      "text": "Panga",
+      "start": 1.823458,
+      "end": 2.180999,
+      "sourceIndex": 5
+    },
+    {
+      "text": "sentensi",
+      "start": 2.223916,
+      "end": 2.896124,
+      "sourceIndex": 6
+    },
+    {
+      "text": "kwa",
+      "start": 2.939,
+      "end": 3.082,
+      "sourceIndex": 7
+    },
+    {
+      "text": "mtiririko",
+      "start": 3.124958,
+      "end": 3.854374,
+      "sourceIndex": 8
+    },
+    {
+      "text": "wa",
+      "start": 3.882958,
+      "end": 3.968749,
+      "sourceIndex": 9
+    },
+    {
+      "text": "matukio",
+      "start": 3.997375,
+      "end": 4.555166,
+      "sourceIndex": 10
+    },
+    {
+      "text": "katika",
+      "start": 4.598041,
+      "end": 5.084291,
+      "sourceIndex": 11
+    },
+    {
+      "text": "picha",
+      "start": 5.12725,
+      "end": 5.556291,
+      "sourceIndex": 12
+    },
+    {
+      "text": "moja",
+      "start": 6.650458,
+      "end": 6.993708,
+      "sourceIndex": 13
+    },
+    {
+      "text": "Suuza",
+      "start": 7.179625,
+      "end": 7.737416,
+      "sourceIndex": 14
+    },
+    {
+      "text": "nguo",
+      "start": 7.766,
+      "end": 8.066333,
+      "sourceIndex": 15
+    },
+    {
+      "text": "kwa",
+      "start": 8.10925,
+      "end": 8.266583,
+      "sourceIndex": 16
+    },
+    {
+      "text": "maji",
+      "start": 8.295208,
+      "end": 8.652749,
+      "sourceIndex": 17
+    },
+    {
+      "text": "safi",
+      "start": 8.695666,
+      "end": 9.196249,
+      "sourceIndex": 18
+    },
+    {
+      "text": "kisha",
+      "start": 9.324958,
+      "end": 9.711124,
+      "sourceIndex": 19
+    },
+    {
+      "text": "kamua",
+      "start": 9.754,
+      "end": 10.297458,
+      "sourceIndex": 20
+    },
+    {
+      "text": "mbili",
+      "start": 11.355833,
+      "end": 11.641874,
+      "sourceIndex": 21
+    },
+    {
+      "text": "Anika",
+      "start": 11.842125,
+      "end": 12.2855,
+      "sourceIndex": 22
+    },
+    {
+      "text": "nguo",
+      "start": 12.314083,
+      "end": 12.628708,
+      "sourceIndex": 23
+    },
+    {
+      "text": "kwenye",
+      "start": 12.671625,
+      "end": 12.957666,
+      "sourceIndex": 24
+    },
+    {
+      "text": "kamba",
+      "start": 13.000583,
+      "end": 13.358124,
+      "sourceIndex": 25
+    },
+    {
+      "text": "na",
+      "start": 13.386708,
+      "end": 13.501124,
+      "sourceIndex": 26
+    },
+    {
+      "text": "kuzibana",
+      "start": 13.52975,
+      "end": 14.159041,
+      "sourceIndex": 27
+    },
+    {
+      "text": "kwa",
+      "start": 14.201958,
+      "end": 14.373583,
+      "sourceIndex": 28
+    },
+    {
+      "text": "vibanio",
+      "start": 14.402166,
+      "end": 15.145874,
+      "sourceIndex": 29
+    },
+    {
+      "text": "tatu",
+      "start": 16.232833,
+      "end": 16.547458,
+      "sourceIndex": 30
+    },
+    {
+      "text": "Tenganisha",
+      "start": 16.776333,
+      "end": 17.434208,
+      "sourceIndex": 31
+    },
+    {
+      "text": "nguo",
+      "start": 17.462833,
+      "end": 17.763166,
+      "sourceIndex": 32
+    },
+    {
+      "text": "za",
+      "start": 17.79175,
+      "end": 17.963375,
+      "sourceIndex": 33
+    },
+    {
+      "text": "rangi",
+      "start": 17.992,
+      "end": 18.378166,
+      "sourceIndex": 34
+    },
+    {
+      "text": "na",
+      "start": 18.421041,
+      "end": 18.521166,
+      "sourceIndex": 35
+    },
+    {
+      "text": "nyeupe",
+      "start": 18.549791,
+      "end": 19.050374,
+      "sourceIndex": 36
+    },
+    {
+      "text": "kisha",
+      "start": 19.179041,
+      "end": 19.565207,
+      "sourceIndex": 37
+    },
+    {
+      "text": "loweka",
+      "start": 19.593833,
+      "end": 20.223124,
+      "sourceIndex": 38
+    },
+    {
+      "text": "nne",
+      "start": 21.310083,
+      "end": 21.524624,
+      "sourceIndex": 39
+    },
+    {
+      "text": "Fikicha",
+      "start": 21.724833,
+      "end": 22.268291,
+      "sourceIndex": 40
+    },
+    {
+      "text": "nguo",
+      "start": 22.296916,
+      "end": 22.597249,
+      "sourceIndex": 41
+    },
+    {
+      "text": "kuondoa",
+      "start": 22.625875,
+      "end": 23.14075,
+      "sourceIndex": 42
+    },
+    {
+      "text": "uchafu",
+      "start": 23.169333,
+      "end": 23.841541,
+      "sourceIndex": 43
+    },
+    {
+      "text": "tano",
+      "start": 24.899875,
+      "end": 25.185916,
+      "sourceIndex": 44
+    },
+    {
+      "text": "Geuza",
+      "start": 25.386166,
+      "end": 25.886749,
+      "sourceIndex": 45
+    },
+    {
+      "text": "nguo",
+      "start": 25.915333,
+      "end": 26.229958,
+      "sourceIndex": 46
+    },
+    {
+      "text": "kabla",
+      "start": 26.272875,
+      "end": 26.644708,
+      "sourceIndex": 47
+    },
+    {
+      "text": "ya",
+      "start": 26.673333,
+      "end": 26.773458,
+      "sourceIndex": 48
+    },
+    {
+      "text": "kuanika",
+      "start": 26.802041,
+      "end": 27.488541,
+      "sourceIndex": 49
+    },
+    {
+      "text": "Kazi",
+      "start": 28.5755,
+      "end": 28.790041,
+      "sourceIndex": 50
+    },
+    {
+      "text": "ya",
+      "start": 28.890166,
+      "end": 28.990291,
+      "sourceIndex": 51
+    },
+    {
+      "text": "kufanya",
+      "start": 29.018875,
+      "end": 29.648166,
+      "sourceIndex": 52
+    },
+    {
+      "text": "moja",
+      "start": 30.706541,
+      "end": 31.049791,
+      "sourceIndex": 53
+    },
+    {
+      "text": "Fua",
+      "start": 31.221375,
+      "end": 31.550333,
+      "sourceIndex": 54
+    },
+    {
+      "text": "nguo",
+      "start": 31.578958,
+      "end": 31.893583,
+      "sourceIndex": 55
+    },
+    {
+      "text": "kwa",
+      "start": 31.922208,
+      "end": 32.093833,
+      "sourceIndex": 56
+    },
+    {
+      "text": "kufuata",
+      "start": 32.122416,
+      "end": 32.723082,
+      "sourceIndex": 57
+    },
+    {
+      "text": "hatua",
+      "start": 32.751708,
+      "end": 33.209374,
+      "sourceIndex": 58
+    },
+    {
+      "text": "za",
+      "start": 33.238,
+      "end": 33.381,
+      "sourceIndex": 59
+    },
+    {
+      "text": "ufuaji",
+      "start": 33.409625,
+      "end": 34.124708,
+      "sourceIndex": 60
+    },
+    {
+      "text": "mbili",
+      "start": 35.197375,
+      "end": 35.454791,
+      "sourceIndex": 61
+    },
+    {
+      "text": "Eleza",
+      "start": 35.655041,
+      "end": 36.126999,
+      "sourceIndex": 62
+    },
+    {
+      "text": "umejifunza",
+      "start": 36.155625,
+      "end": 36.94225,
+      "sourceIndex": 63
+    },
+    {
+      "text": "nini",
+      "start": 36.970833,
+      "end": 37.256874,
+      "sourceIndex": 64
+    },
+    {
+      "text": "kipya",
+      "start": 37.29975,
+      "end": 37.7145,
+      "sourceIndex": 65
+    },
+    {
+      "text": "katika",
+      "start": 37.757416,
+      "end": 38.172166,
+      "sourceIndex": 66
+    },
+    {
+      "text": "ufuaji",
+      "start": 38.200791,
+      "end": 38.801457,
+      "sourceIndex": 67
+    },
+    {
+      "text": "wa",
+      "start": 38.844375,
+      "end": 38.930166,
+      "sourceIndex": 68
+    },
+    {
+      "text": "nguo",
+      "start": 38.958791,
+      "end": 39.244832,
+      "sourceIndex": 69
+    },
+    {
+      "text": "ukilinganisha",
+      "start": 39.28775,
+      "end": 40.131583,
+      "sourceIndex": 70
+    },
+    {
+      "text": "na",
+      "start": 40.160166,
+      "end": 40.274582,
+      "sourceIndex": 71
+    },
+    {
+      "text": "kabla",
+      "start": 40.3175,
+      "end": 40.689333,
+      "sourceIndex": 72
+    },
+    {
+      "text": "ya",
+      "start": 40.717958,
+      "end": 40.818083,
+      "sourceIndex": 73
+    },
+    {
+      "text": "kujifunza",
+      "start": 40.846666,
+      "end": 41.690499,
+      "sourceIndex": 74
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

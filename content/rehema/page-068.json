@@ -1,0 +1,73 @@
+{
+  "audio": "page-068.mp3",
+  "words": [
+    {
+      "text": "Kutoa",
+      "start": 0.178708,
+      "end": 0.464749,
+      "sourceIndex": 1
+    },
+    {
+      "text": "taarifa",
+      "start": 0.564875,
+      "end": 1.136958,
+      "sourceIndex": 2
+    },
+    {
+      "text": "ajali",
+      "start": 1.179875,
+      "end": 1.62325,
+      "sourceIndex": 3
+    },
+    {
+      "text": "inapotokea",
+      "start": 1.651833,
+      "end": 2.481333,
+      "sourceIndex": 4
+    },
+    {
+      "text": "Tunga",
+      "start": 2.52425,
+      "end": 2.853208,
+      "sourceIndex": 5
+    },
+    {
+      "text": "sentensi",
+      "start": 2.896125,
+      "end": 3.568333,
+      "sourceIndex": 6
+    },
+    {
+      "text": "kueleza",
+      "start": 3.611208,
+      "end": 4.197583,
+      "sourceIndex": 7
+    },
+    {
+      "text": "kinachotokea",
+      "start": 4.2405,
+      "end": 5.155833,
+      "sourceIndex": 8
+    },
+    {
+      "text": "kwenye",
+      "start": 5.19875,
+      "end": 5.484791,
+      "sourceIndex": 9
+    },
+    {
+      "text": "picha",
+      "start": 5.527708,
+      "end": 5.856666,
+      "sourceIndex": 10
+    },
+    {
+      "text": "zifuatazo",
+      "start": 5.88525,
+      "end": 6.757666,
+      "sourceIndex": 11
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

@@ -1,0 +1,73 @@
+{
+  "audio": "page-063.mp3",
+  "words": [
+    {
+      "text": "tatu",
+      "start": 0.193,
+      "end": 0.664958,
+      "sourceIndex": 9
+    },
+    {
+      "text": "nne",
+      "start": 1.85925,
+      "end": 2.145291,
+      "sourceIndex": 11
+    },
+    {
+      "text": "sita",
+      "start": 3.289458,
+      "end": 3.832916,
+      "sourceIndex": 12
+    },
+    {
+      "text": "tano",
+      "start": 5.020041,
+      "end": 5.291791,
+      "sourceIndex": 12
+    },
+    {
+      "text": "Jadili",
+      "start": 5.506291,
+      "end": 5.992541,
+      "sourceIndex": 12
+    },
+    {
+      "text": "na",
+      "start": 6.021166,
+      "end": 6.106957,
+      "sourceIndex": 12
+    },
+    {
+      "text": "wenzako",
+      "start": 6.135583,
+      "end": 6.650458,
+      "sourceIndex": 12
+    },
+    {
+      "text": "sifa",
+      "start": 6.693375,
+      "end": 7.079541,
+      "sourceIndex": 12
+    },
+    {
+      "text": "za",
+      "start": 7.108125,
+      "end": 7.265458,
+      "sourceIndex": 12
+    },
+    {
+      "text": "wanyama",
+      "start": 7.294041,
+      "end": 7.737416,
+      "sourceIndex": 12
+    },
+    {
+      "text": "wafuatao",
+      "start": 7.780333,
+      "end": 8.595541,
+      "sourceIndex": 12
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}

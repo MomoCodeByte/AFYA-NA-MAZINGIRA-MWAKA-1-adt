@@ -1,0 +1,61 @@
+{
+  "audio": "page-069.mp3",
+  "words": [
+    {
+      "text": "elfu",
+      "start": 0.207333,
+      "end": 0.393249,
+      "sourceIndex": 0
+    },
+    {
+      "text": "sita",
+      "start": 0.53625,
+      "end": 0.936708,
+      "sourceIndex": 0
+    },
+    {
+      "text": "na",
+      "start": 0.965333,
+      "end": 1.051124,
+      "sourceIndex": 0
+    },
+    {
+      "text": "mia",
+      "start": 1.07975,
+      "end": 1.322875,
+      "sourceIndex": 0
+    },
+    {
+      "text": "sita",
+      "start": 1.3515,
+      "end": 1.751958,
+      "sourceIndex": 0
+    },
+    {
+      "text": "na",
+      "start": 1.780541,
+      "end": 1.909249,
+      "sourceIndex": 0
+    },
+    {
+      "text": "thelathini",
+      "start": 1.937875,
+      "end": 2.567166,
+      "sourceIndex": 0
+    },
+    {
+      "text": "na",
+      "start": 2.59575,
+      "end": 2.724458,
+      "sourceIndex": 0
+    },
+    {
+      "text": "tatu",
+      "start": 2.767375,
+      "end": 3.296541,
+      "sourceIndex": 0
+    }
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
+}
