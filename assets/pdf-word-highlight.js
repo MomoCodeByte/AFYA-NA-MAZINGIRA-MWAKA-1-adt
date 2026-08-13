@@ -51,7 +51,10 @@
 
   function oneSwahiliVoice() {
     var available = synth.getVoices();
-    return available.find(function (voice) { return /^sw([_-]|$)/i.test(voice.lang); }) ||
+    return available.find(function (voice) { return /rehema/i.test(voice.name) && /^sw[-_]TZ$/i.test(voice.lang); }) ||
+      available.find(function (voice) { return /rehema/i.test(voice.name); }) ||
+      available.find(function (voice) { return /^sw[-_]TZ$/i.test(voice.lang); }) ||
+      available.find(function (voice) { return /^sw([_-]|$)/i.test(voice.lang); }) ||
       available.find(function (voice) { return /female|zira|susan|samantha/i.test(voice.name); }) ||
       available[0] || null;
   }
@@ -65,7 +68,8 @@
     var spoken = String(utterance.text || "");
     var voice = oneSwahiliVoice();
     if (voice) utterance.voice = voice;
-    utterance.lang = voice && voice.lang ? voice.lang : "sw-TZ";
+    utterance.lang = "sw-TZ";
+    document.documentElement.dataset.readerVoice = voice ? voice.name + " (" + voice.lang + ")" : "sw-TZ default";
 
     utterance.addEventListener("boundary", function (event) {
       if (event.name && event.name !== "word") return;
@@ -101,8 +105,14 @@
   };
 
   function pageSegments() {
-    return Array.prototype.slice.call(document.querySelectorAll(".accessible-transcript [data-id]"))
-      .map(function (node) { return node.textContent.trim(); }).filter(Boolean);
+    var nodes = Array.prototype.slice.call(document.querySelectorAll(".accessible-transcript [data-id]"));
+    var footerIndex = nodes.findIndex(function (node) { return /AFYA NA MAZINGIRA MWAKA 1\.indd/i.test(node.textContent); });
+    if (footerIndex >= 0) {
+      nodes = nodes.slice(0, footerIndex);
+      var last = nodes[nodes.length - 1];
+      if (last && /^\d+$/.test(last.textContent.trim())) nodes.pop();
+    }
+    return nodes.map(function (node) { return node.textContent.trim(); }).filter(Boolean);
   }
 
   function speakCurrentSegment() {
@@ -114,12 +124,13 @@
   }
 
   function loadRecordedEntry() {
+    var page = String(Number(document.querySelector('meta[name="page-section-id"]').content));
+    if (window.__validatorEnhancedPage && page !== "3" && page !== "8" && page !== "9" && page !== "10" && page !== "13" && page !== "15" && page !== "30" && page !== "38" && page !== "42" && page !== "44" && page !== "46" && page !== "49" && page !== "53" && page !== "56" && page !== "58" && page !== "60" && page !== "61" && page !== "62" && page !== "65") return Promise.resolve(null);
     if (!timingsPromise) {
-      timingsPromise = fetch("./content/rehema/timecodes.json?v=5")
+      timingsPromise = fetch("./content/rehema/timecodes.json?v=35")
         .then(function (response) { return response.ok ? response.json() : {}; })
         .catch(function () { return {}; });
     }
-    var page = String(Number(document.querySelector('meta[name="page-section-id"]').content));
     return timingsPromise.then(function (all) { return all[page] || null; });
   }
 
@@ -128,7 +139,16 @@
     var cues = recordedEntry.words || [];
     while (recordedCue + 1 < cues.length && Number(cues[recordedCue + 1].start) <= recordedAudio.currentTime + 0.03) recordedCue += 1;
     while (recordedCue > 0 && Number(cues[recordedCue].start) > recordedAudio.currentTime + 0.03) recordedCue -= 1;
-    var target = words()[Number(cues[recordedCue] && cues[recordedCue].sourceIndex || 0)];
+    var cue = cues[recordedCue] || {};
+    var target;
+    if (cue.targetPatch !== undefined) {
+      target = document.querySelectorAll('[data-validator-patch="' + cue.targetPatch + '"] .validator-display-word')[Number(cue.targetWord || 0)];
+    } else if (cue.targetImage) {
+      clear();
+      return;
+    } else {
+      target = words()[Number(cue.sourceIndex || 0)];
+    }
     if (!target || target === activeWord) return;
     clear();
     target.classList.add("pdf-word-active");
@@ -137,6 +157,7 @@
 
   function playRecorded(entry) {
     recordedEntry = entry;
+    document.documentElement.dataset.readerVoice = entry.voice || "Recorded page audio";
     recordedCue = 0;
     if (!recordedAudio || !recordedAudio.src.endsWith("/" + entry.audio)) {
       recordedAudio = new Audio("./content/rehema/" + entry.audio + "?v=" + (entry.version || 7));

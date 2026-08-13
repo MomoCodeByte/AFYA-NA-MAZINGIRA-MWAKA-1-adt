@@ -1,5 +1,7 @@
 {
-  "audio": "page-038.mp3",
+  "audio": "page-038-v11.mp3",
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 11,
   "words": [
     {
       "text": "Hatua",
@@ -32,30 +34,606 @@
       "sourceIndex": 5
     },
     {
-      "text": "moja",
+      "text": "Moja",
       "start": 3.260875,
       "end": 3.70425,
-      "sourceIndex": 6
+      "sourceIndex": 6,
+      "targetImage": true
     },
     {
-      "text": "mbili",
-      "start": 4.905625,
-      "end": 5.320375,
-      "sourceIndex": 7
+      "text": "Kijana",
+      "start": 4.877,
+      "end": 5.234541,
+      "sourceIndex": 6,
+      "targetImage": true
     },
     {
-      "text": "tatu",
-      "start": 6.507416,
-      "end": 6.979374,
-      "sourceIndex": 9
+      "text": "wa",
+      "start": 5.334666,
+      "end": 5.420457,
+      "sourceIndex": 6,
+      "targetImage": true
     },
     {
-      "text": "nne",
-      "start": 8.152166,
-      "end": 8.438207,
-      "sourceIndex": 9
+      "text": "kiume",
+      "start": 5.449083,
+      "end": 5.878124,
+      "sourceIndex": 6,
+      "targetImage": true
+    },
+    {
+      "text": "anatandika",
+      "start": 5.921041,
+      "end": 6.664749,
+      "sourceIndex": 6,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 6.693375,
+      "end": 6.807791,
+      "sourceIndex": 11,
+      "targetImage": true
+    },
+    {
+      "text": "kunyoosha",
+      "start": 6.850666,
+      "end": 7.451332,
+      "sourceIndex": 11,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 7.479958,
+      "end": 7.780291,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "juu",
+      "start": 7.823208,
+      "end": 8.080624,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 8.10925,
+      "end": 8.18075,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "meza",
+      "start": 8.209375,
+      "end": 8.566916,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "ili",
+      "start": 8.609833,
+      "end": 8.895874,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "kuiandaa",
+      "start": 8.938791,
+      "end": 9.510874,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 9.539458,
+      "end": 9.696791,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "kupigwa",
+      "start": 9.725416,
+      "end": 10.225999,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "pasi",
+      "start": 10.268875,
+      "end": 10.740833,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "Mbili",
+      "start": 11.8135,
+      "end": 12.22825,
+      "sourceIndex": 7,
+      "targetImage": true
+    },
+    {
+      "text": "Kijana",
+      "start": 13.401041,
+      "end": 13.772874,
+      "sourceIndex": 7,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 13.873,
+      "end": 13.958791,
+      "sourceIndex": 7,
+      "targetImage": true
+    },
+    {
+      "text": "kiume",
+      "start": 13.987416,
+      "end": 14.416457,
+      "sourceIndex": 7,
+      "targetImage": true
+    },
+    {
+      "text": "anachomeka",
+      "start": 14.459375,
+      "end": 15.231666,
+      "sourceIndex": 7,
+      "targetImage": true
+    },
+    {
+      "text": "pasi",
+      "start": 15.274583,
+      "end": 15.646416,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 15.675041,
+      "end": 15.760832,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "umeme",
+      "start": 15.789458,
+      "end": 16.189916,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "kwenye",
+      "start": 16.232833,
+      "end": 16.490249,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "soketi",
+      "start": 16.518875,
+      "end": 17.205375,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "huku",
+      "start": 17.391291,
+      "end": 17.705916,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "kijana",
+      "start": 17.734541,
+      "end": 18.206499,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 18.235125,
+      "end": 18.320916,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "kike",
+      "start": 18.363833,
+      "end": 18.735666,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "akiweka",
+      "start": 18.778583,
+      "end": 19.379249,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "makaa",
+      "start": 19.407875,
+      "end": 19.808333,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 19.836958,
+      "end": 19.937083,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "moto",
+      "start": 19.965666,
+      "end": 20.323207,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "ndani",
+      "start": 20.351833,
+      "end": 20.666458,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 20.695083,
+      "end": 20.780874,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "pasi",
+      "start": 20.8095,
+      "end": 21.181333,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 21.209958,
+      "end": 21.295749,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "mkaa",
+      "start": 21.324375,
+      "end": 21.782041,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "Tatu",
+      "start": 22.854708,
+      "end": 23.326666,
+      "sourceIndex": 9,
+      "targetImage": true
+    },
+    {
+      "text": "Kijana",
+      "start": 24.470833,
+      "end": 24.828374,
+      "sourceIndex": 9,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 24.9285,
+      "end": 25.014291,
+      "sourceIndex": 9,
+      "targetImage": true
+    },
+    {
+      "text": "kiume",
+      "start": 25.042916,
+      "end": 25.471957,
+      "sourceIndex": 9,
+      "targetImage": true
+    },
+    {
+      "text": "anapiga",
+      "start": 25.514875,
+      "end": 26.10125,
+      "sourceIndex": 9,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 26.129875,
+      "end": 26.430208,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "pasi",
+      "start": 26.473125,
+      "end": 26.844958,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 26.887875,
+      "end": 27.030875,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "kutumia",
+      "start": 27.0595,
+      "end": 27.588666,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "pasi",
+      "start": 27.631583,
+      "end": 28.003416,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 28.032041,
+      "end": 28.117832,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "umeme",
+      "start": 28.146458,
+      "end": 28.632708,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "huku",
+      "start": 28.861541,
+      "end": 29.190499,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "kijana",
+      "start": 29.219125,
+      "end": 29.705375,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 29.734,
+      "end": 29.819791,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "kike",
+      "start": 29.862708,
+      "end": 30.248874,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "akipiga",
+      "start": 30.29175,
+      "end": 30.921041,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 30.963958,
+      "end": 31.264291,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "nyingine",
+      "start": 31.292916,
+      "end": 31.764874,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 31.807791,
+      "end": 31.950791,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "kutumia",
+      "start": 31.979416,
+      "end": 32.508582,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "pasi",
+      "start": 32.5515,
+      "end": 32.923333,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 32.951958,
+      "end": 33.037749,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "mkaa",
+      "start": 33.066375,
+      "end": 33.538333,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "Wote",
+      "start": 34.625291,
+      "end": 34.811207,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "wameweka",
+      "start": 34.939916,
+      "end": 35.540582,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 35.569208,
+      "end": 35.883833,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "kwenye",
+      "start": 35.926791,
+      "end": 36.198541,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "sehemu",
+      "start": 36.227125,
+      "end": 36.756291,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "tambarare",
+      "start": 36.799208,
+      "end": 37.585833,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "Nne",
+      "start": 38.715666,
+      "end": 39.001707,
+      "sourceIndex": 8,
+      "targetImage": true
+    },
+    {
+      "text": "Kijana",
+      "start": 40.131583,
+      "end": 40.474833,
+      "sourceIndex": 8,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 40.574958,
+      "end": 40.660749,
+      "sourceIndex": 8,
+      "targetImage": true
+    },
+    {
+      "text": "kike",
+      "start": 40.689375,
+      "end": 41.018333,
+      "sourceIndex": 8,
+      "targetImage": true
+    },
+    {
+      "text": "anatundika",
+      "start": 41.061208,
+      "end": 41.804916,
+      "sourceIndex": 8,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 41.833541,
+      "end": 42.090957,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "zilizopigwa",
+      "start": 42.119583,
+      "end": 42.963416,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "pasi",
+      "start": 43.006291,
+      "end": 43.378124,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "kwenye",
+      "start": 43.421041,
+      "end": 43.721374,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "vibanio",
+      "start": 43.764291,
+      "end": 44.322082,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "vya",
+      "start": 44.365,
+      "end": 44.536625,
+      "sourceIndex": 5,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 44.565208,
+      "end": 44.937041,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "ili",
+      "start": 45.008583,
+      "end": 45.308916,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "zihifadhiwe",
+      "start": 45.351833,
+      "end": 46.138458,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "vizuri",
+      "start": 46.181333,
+      "end": 46.667583,
+      "sourceIndex": 4,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 46.696208,
+      "end": 46.810624,
+      "sourceIndex": 11,
+      "targetImage": true
+    },
+    {
+      "text": "zisikunje",
+      "start": 46.83925,
+      "end": 47.711666,
+      "sourceIndex": 11,
+      "targetImage": true
     }
-  ],
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 7
+  ]
 }

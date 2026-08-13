@@ -1,5 +1,7 @@
 {
-  "audio": "page-047.mp3",
+  "audio": "page-047-pronunciation-v11.mp3",
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 11,
   "words": [
     {
       "text": "Zoezi",
@@ -14,20 +16,8 @@
       "sourceIndex": 3
     },
     {
-      "text": "kumi",
+      "text": "12",
       "start": 0.8795,
-      "end": 1.194125,
-      "sourceIndex": 4
-    },
-    {
-      "text": "na",
-      "start": 1.22275,
-      "end": 1.308541,
-      "sourceIndex": 4
-    },
-    {
-      "text": "mbili",
-      "start": 1.337166,
       "end": 1.666124,
       "sourceIndex": 4
     },
@@ -70,184 +60,194 @@
     {
       "text": "Dodoki",
       "start": 5.506291,
-      "end": 6.092666,
+      "end": 6.049749,
       "sourceIndex": 11
     },
     {
-      "text": "VVU",
-      "start": 6.264291,
-      "end": 6.707666,
+      "text": "Vivi",
+      "start": 6.235708,
+      "end": 6.593249,
       "sourceIndex": 12
     },
     {
+      "text": "yuu",
+      "start": 6.636166,
+      "end": 6.965124,
+      "sourceIndex": 41
+    },
+    {
       "text": "UKIMWI",
-      "start": 6.822083,
-      "end": 7.408458,
+      "start": 7.093833,
+      "end": 7.694499,
       "sourceIndex": 13
     },
     {
       "text": "kusisitiza",
-      "start": 7.5515,
-      "end": 8.495416,
+      "start": 7.837541,
+      "end": 8.781457,
       "sourceIndex": 14
     },
     {
       "text": "glovu",
-      "start": 8.638458,
-      "end": 9.224833,
+      "start": 8.9245,
+      "end": 9.525166,
       "sourceIndex": 15
     },
     {
       "text": "sindano",
-      "start": 9.324958,
-      "end": 10.068666,
+      "start": 9.625291,
+      "end": 10.197374,
       "sourceIndex": 16
     },
     {
-      "text": "moja",
-      "start": 11.169916,
-      "end": 11.584666,
+      "text": "Moja",
+      "start": 10.225958,
+      "end": 10.712208,
       "sourceIndex": 17
     },
     {
       "text": "ni",
-      "start": 13.086375,
-      "end": 13.200791,
-      "sourceIndex": 18
-    },
-    {
-      "text": "kifaa",
-      "start": 13.200791,
-      "end": 13.629832,
+      "start": 11.8135,
+      "end": 11.927916,
       "sourceIndex": 19
     },
     {
-      "text": "cha",
-      "start": 13.658458,
-      "end": 13.844374,
+      "text": "kifaa",
+      "start": 11.927916,
+      "end": 12.356957,
       "sourceIndex": 20
     },
     {
-      "text": "ncha",
-      "start": 13.887291,
-      "end": 14.201916,
+      "text": "cha",
+      "start": 12.385583,
+      "end": 12.571499,
       "sourceIndex": 21
     },
     {
-      "text": "kali",
-      "start": 14.244833,
-      "end": 14.673874,
+      "text": "ncha",
+      "start": 12.614416,
+      "end": 12.929041,
       "sourceIndex": 22
     },
     {
-      "text": "mbili",
-      "start": 15.746583,
-      "end": 16.018333,
+      "text": "kali",
+      "start": 12.971958,
+      "end": 13.400999,
       "sourceIndex": 23
     },
     {
-      "text": "Kifaa",
-      "start": 16.261458,
-      "end": 16.704833,
+      "text": "Mbili",
+      "start": 14.473666,
+      "end": 14.888416,
       "sourceIndex": 24
     },
     {
-      "text": "kinachotumika",
-      "start": 16.733416,
-      "end": 17.691666,
+      "text": "Kifaa",
+      "start": 16.061208,
+      "end": 16.375833,
       "sourceIndex": 25
     },
     {
-      "text": "kusugua",
-      "start": 17.72025,
-      "end": 18.278041,
+      "text": "kinachotumika",
+      "start": 16.475958,
+      "end": 17.419874,
       "sourceIndex": 26
     },
     {
-      "text": "mwili",
-      "start": 18.306625,
-      "end": 18.649875,
+      "text": "kusugua",
+      "start": 17.4485,
+      "end": 17.991958,
       "sourceIndex": 27
     },
     {
-      "text": "unapooga",
-      "start": 18.692791,
-      "end": 19.450791,
+      "text": "mwili",
+      "start": 18.020583,
+      "end": 18.363833,
       "sourceIndex": 28
     },
     {
-      "text": "ni",
-      "start": 19.479416,
-      "end": 19.679624,
+      "text": "unapooga",
+      "start": 18.40675,
+      "end": 19.121833,
       "sourceIndex": 29
     },
     {
-      "text": "tatu",
-      "start": 20.752291,
-      "end": 21.052624,
+      "text": "ni",
+      "start": 19.150458,
+      "end": 19.379291,
       "sourceIndex": 30
     },
     {
-      "text": "Kifaa",
-      "start": 21.267166,
-      "end": 21.710541,
-      "sourceIndex": 31
-    },
-    {
-      "text": "kinachovaliwa",
-      "start": 21.739125,
-      "end": 22.640166,
+      "text": "Tatu",
+      "start": 20.652166,
+      "end": 21.124124,
       "sourceIndex": 32
     },
     {
-      "text": "mkononi",
-      "start": 22.683083,
-      "end": 23.298083,
+      "text": "Kifaa",
+      "start": 22.268291,
+      "end": 22.582916,
       "sourceIndex": 33
     },
     {
-      "text": "ili",
-      "start": 23.340958,
-      "end": 23.612708,
+      "text": "kinachovaliwa",
+      "start": 22.683083,
+      "end": 23.598416,
       "sourceIndex": 34
     },
     {
-      "text": "kujikinga",
-      "start": 23.655625,
-      "end": 24.327833,
+      "text": "mkononi",
+      "start": 23.627,
+      "end": 24.242,
       "sourceIndex": 35
     },
     {
-      "text": "na",
-      "start": 24.356416,
-      "end": 24.442207,
+      "text": "ili",
+      "start": 24.284916,
+      "end": 24.556666,
       "sourceIndex": 36
     },
     {
-      "text": "maambukizi",
-      "start": 24.470833,
-      "end": 25.200249,
+      "text": "kujikinga",
+      "start": 24.599541,
+      "end": 25.257416,
       "sourceIndex": 37
     },
     {
-      "text": "ya",
-      "start": 25.228833,
-      "end": 25.314624,
+      "text": "na",
+      "start": 25.286041,
+      "end": 25.371832,
       "sourceIndex": 38
     },
     {
-      "text": "VVU",
-      "start": 25.34325,
-      "end": 25.629291,
+      "text": "maambukizi",
+      "start": 25.400458,
+      "end": 26.129874,
       "sourceIndex": 39
     },
     {
-      "text": "ni",
-      "start": 25.672208,
-      "end": 25.872416,
+      "text": "ya",
+      "start": 26.158458,
+      "end": 26.244249,
       "sourceIndex": 40
+    },
+    {
+      "text": "Vivi",
+      "start": 26.272875,
+      "end": 26.601833,
+      "sourceIndex": 41
+    },
+    {
+      "text": "yuu",
+      "start": 26.64475,
+      "end": 26.859291,
+      "sourceIndex": 12
+    },
+    {
+      "text": "ni",
+      "start": 26.902166,
+      "end": 27.088082,
+      "sourceIndex": 19
     }
-  ],
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 7
+  ]
 }
