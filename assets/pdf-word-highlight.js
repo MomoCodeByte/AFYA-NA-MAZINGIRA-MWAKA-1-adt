@@ -127,7 +127,7 @@
     var page = String(Number(document.querySelector('meta[name="page-section-id"]').content));
     if (window.__validatorEnhancedPage && page !== "3" && page !== "8" && page !== "9" && page !== "10" && page !== "13" && page !== "15" && page !== "30" && page !== "38" && page !== "42" && page !== "44" && page !== "46" && page !== "49" && page !== "53" && page !== "56" && page !== "58" && page !== "60" && page !== "61" && page !== "62" && page !== "65") return Promise.resolve(null);
     if (!timingsPromise) {
-      timingsPromise = fetch("./content/rehema/timecodes.json?v=35")
+      timingsPromise = fetch("./content/rehema/timecodes.json?v=36")
         .then(function (response) { return response.ok ? response.json() : {}; })
         .catch(function () { return {}; });
     }

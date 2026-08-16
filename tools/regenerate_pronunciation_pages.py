@@ -2,6 +2,7 @@ import asyncio
 import html
 import json
 import re
+import sys
 from pathlib import Path
 
 import edge_tts
@@ -22,6 +23,8 @@ def source_data(page):
 
 
 def spoken(text):
+    text = re.sub(r"\bGPE\b", "gipiee", text, flags=re.I)
+    text = re.sub(r"\bKKKT\b", "kei kei kei ti", text, flags=re.I)
     text = re.sub(r"\bVVU\b", "Vivi yuu", text, flags=re.I)
     text = re.sub(r"(?:x|×|Ã—|\*)\s*2\b", "Rudia ubeti huu mara mbili", text, flags=re.I)
     match = re.fullmatch(r"([1-6])\.", text.strip())
@@ -30,14 +33,18 @@ def spoken(text):
 
 def norm(value):
     value = re.sub(r"[^a-z0-9\u00c0-\u024f]+", "", value.lower())
-    aliases = {"moja":"1", "mbili":"2", "tatu":"3", "nne":"4", "tano":"5", "sita":"6", "vivi":"vvu", "yuu":"vvu", "rudia":"x", "ubeti":"x", "huu":"x", "mara":"x"}
+    aliases = {"moja":"1", "mbili":"2", "tatu":"3", "nne":"4", "tano":"5", "sita":"6", "gipiee":"gpe", "kei":"kkkt", "ti":"kkkt", "vivi":"vvu", "yuu":"vvu", "rudia":"x", "ubeti":"x", "huu":"x", "mara":"x"}
     return aliases.get(value, value)
 
 
 def map_cues(cues, words):
     normalized = [norm(text) for _, text in words]; cursor = last = 0
     for cue in cues:
-        needle = norm(cue["text"]); position = next((i for i in range(cursor, len(words)) if normalized[i] == needle), -1)
+        needle = norm(cue["text"])
+        if needle in {"gpe", "kkkt"}:
+            position = next((i for i in range(cursor, len(words)) if needle in normalized[i]), -1)
+        else:
+            position = next((i for i in range(cursor, len(words)) if normalized[i] == needle), -1)
         if position < 0: position = next((i for i in range(len(words)) if normalized[i] == needle), -1)
         if position >= 0: last, cursor = words[position][0], position + 1
         cue["sourceIndex"] = last
@@ -61,7 +68,8 @@ async def generate_page(page, all_entries):
 
 async def main():
     path = ROOT / "content" / "rehema" / "timecodes.json"; entries = json.loads(path.read_text(encoding="utf-8"))
-    for page in PAGES: await generate_page(page, entries)
+    pages = [int(value) for value in sys.argv[1:]] if len(sys.argv) > 1 else PAGES
+    for page in pages: await generate_page(page, entries)
     path.write_text(json.dumps(entries, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 
