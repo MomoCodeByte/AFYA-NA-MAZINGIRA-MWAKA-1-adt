@@ -1,5 +1,7 @@
 {
-  "audio": "page-035.mp3",
+  "audio": "page-035-second-v12.mp3",
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 12,
   "words": [
     {
       "text": "Hatua",
@@ -22,100 +24,111 @@
     {
       "text": "nguo",
       "start": 1.265666,
-      "end": 1.637499,
+      "end": 1.623207,
       "sourceIndex": 5
     },
     {
       "text": "Angalia",
-      "start": 1.680416,
-      "end": 2.209582,
-      "sourceIndex": 6
+      "start": 1.666125,
+      "end": 2.195291,
+      "targetPatch": 0,
+      "targetWord": 0
+    },
+    {
+      "text": "na",
+      "start": 2.223916,
+      "end": 2.324041,
+      "targetPatch": 0,
+      "targetWord": 1
+    },
+    {
+      "text": "bainisha",
+      "start": 2.352625,
+      "end": 2.896083,
+      "targetPatch": 0,
+      "targetWord": 2
     },
     {
       "text": "picha",
-      "start": 2.2525,
-      "end": 2.581458,
-      "sourceIndex": 7
+      "start": 2.939,
+      "end": 3.267958,
+      "targetPatch": 0,
+      "targetWord": 3
     },
     {
       "text": "namba",
-      "start": 2.610083,
-      "end": 2.953333,
-      "sourceIndex": 8
+      "start": 3.296583,
+      "end": 3.625541,
+      "targetPatch": 0,
+      "targetWord": 4
     },
     {
-      "text": "moja",
-      "start": 2.981916,
-      "end": 3.368082,
-      "sourceIndex": 9
+      "text": "1",
+      "start": 3.654125,
+      "end": 4.011666,
+      "targetPatch": 0,
+      "targetWord": 5
     },
     {
       "text": "hadi",
-      "start": 3.396666,
-      "end": 3.696999,
-      "sourceIndex": 10
+      "start": 4.040291,
+      "end": 4.340624,
+      "targetPatch": 0,
+      "targetWord": 6
     },
     {
-      "text": "tano",
-      "start": 3.739916,
-      "end": 4.097457,
-      "sourceIndex": 11
+      "text": "5",
+      "start": 4.383541,
+      "end": 4.783999,
+      "targetPatch": 0,
+      "targetWord": 7
     },
     {
       "text": "kisha",
-      "start": 4.140375,
-      "end": 4.469333,
-      "sourceIndex": 12
+      "start": 4.969916,
+      "end": 5.298874,
+      "targetPatch": 0,
+      "targetWord": 8
     },
     {
       "text": "fanya",
-      "start": 4.497958,
-      "end": 4.869791,
-      "sourceIndex": 13
+      "start": 5.327458,
+      "end": 5.684999,
+      "targetPatch": 0,
+      "targetWord": 9
     },
     {
       "text": "zoezi",
-      "start": 4.898416,
-      "end": 5.356082,
-      "sourceIndex": 14
+      "start": 5.713625,
+      "end": 6.157,
+      "targetPatch": 0,
+      "targetWord": 10
     },
     {
       "text": "la",
-      "start": 5.384666,
-      "end": 5.499082,
-      "sourceIndex": 15
+      "start": 6.185583,
+      "end": 6.299999,
+      "targetPatch": 0,
+      "targetWord": 11
     },
     {
-      "text": "sita",
-      "start": 5.527708,
-      "end": 6.042583,
-      "sourceIndex": 16
+      "text": "6",
+      "start": 6.328583,
+      "end": 6.829166,
+      "targetPatch": 0,
+      "targetWord": 12
     },
     {
-      "text": "moja",
-      "start": 7.136708,
-      "end": 7.508541,
-      "sourceIndex": 17
+      "text": "1",
+      "start": 7.909041,
+      "end": 8.180791,
+      "sourceIndex": 9
     },
     {
-      "text": "mbili",
-      "start": 7.708791,
-      "end": 8.195041,
+      "text": "2",
+      "start": 8.3095,
+      "end": 8.824375,
       "sourceIndex": 18
-    },
-    {
-      "text": "nne",
-      "start": 9.353541,
-      "end": 9.639582,
-      "sourceIndex": 20
-    },
-    {
-      "text": "tatu",
-      "start": 10.78375,
-      "end": 11.184208,
-      "sourceIndex": 20
     }
-  ],
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 7
+  ]
 }

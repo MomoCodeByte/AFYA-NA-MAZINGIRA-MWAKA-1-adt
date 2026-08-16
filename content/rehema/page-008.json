@@ -1,23 +1,23 @@
 {
-  "audio": "page-008-v9.mp3",
+  "audio": "page-008-second-v12.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 9,
+  "version": 12,
   "words": [
     {
       "text": "Sehemu",
       "start": 0.178708,
-      "end": 0.564874,
+      "end": 0.593458,
       "sourceIndex": 1
     },
     {
       "text": "za",
-      "start": 0.665,
-      "end": 0.850916,
+      "start": 0.693583,
+      "end": 0.865208,
       "sourceIndex": 2
     },
     {
       "text": "nje",
-      "start": 0.893833,
+      "start": 0.908125,
       "end": 1.136958,
       "sourceIndex": 3
     },
@@ -30,455 +30,369 @@
     {
       "text": "mwili",
       "start": 1.337166,
-      "end": 1.694707,
+      "end": 1.680416,
       "sourceIndex": 5
     },
     {
       "text": "wa",
-      "start": 1.723333,
-      "end": 1.823458,
+      "start": 1.709041,
+      "end": 1.780541,
       "sourceIndex": 6
     },
     {
       "text": "binadamu",
-      "start": 1.852041,
-      "end": 2.652957,
+      "start": 1.809166,
+      "end": 2.481374,
       "sourceIndex": 7
     },
     {
       "text": "Angalia",
-      "start": 3.747125,
-      "end": 4.147583,
-      "sourceIndex": 8,
+      "start": 2.52425,
+      "end": 3.0105,
       "targetPatch": 0,
       "targetWord": 0
     },
     {
       "text": "na",
-      "start": 4.276333,
-      "end": 4.390749,
-      "sourceIndex": 29,
+      "start": 3.039125,
+      "end": 3.13925,
       "targetPatch": 0,
       "targetWord": 1
     },
     {
       "text": "bainisha",
-      "start": 4.419333,
-      "end": 4.948499,
-      "sourceIndex": 29,
+      "start": 3.167833,
+      "end": 3.711291,
       "targetPatch": 0,
       "targetWord": 2
     },
     {
       "text": "picha",
-      "start": 4.977125,
-      "end": 5.320375,
-      "sourceIndex": 9,
+      "start": 3.739916,
+      "end": 4.083166,
       "targetPatch": 0,
       "targetWord": 3
     },
     {
       "text": "hii",
-      "start": 5.348958,
-      "end": 5.649291,
-      "sourceIndex": 10,
+      "start": 4.111791,
+      "end": 4.397832,
       "targetPatch": 0,
       "targetWord": 4
     },
     {
       "text": "kisha",
-      "start": 5.778041,
-      "end": 6.135582,
-      "sourceIndex": 11,
+      "start": 4.555166,
+      "end": 4.898416,
       "targetPatch": 0,
       "targetWord": 5
     },
     {
       "text": "jibu",
-      "start": 6.164208,
-      "end": 6.521749,
-      "sourceIndex": 12,
+      "start": 4.927,
+      "end": 5.27025,
       "targetPatch": 0,
       "targetWord": 6
     },
     {
       "text": "swali",
-      "start": 6.550333,
-      "end": 7.065208,
-      "sourceIndex": 13,
+      "start": 5.313166,
+      "end": 5.813749,
       "targetPatch": 0,
       "targetWord": 7
     },
     {
       "text": "Picha",
-      "start": 8.123583,
-      "end": 8.295208,
-      "sourceIndex": 9,
+      "start": 6.879291,
+      "end": 7.050916,
       "targetImage": true
     },
     {
       "text": "inaonesha",
-      "start": 8.395291,
-      "end": 9.038874,
-      "sourceIndex": 9,
+      "start": 7.151041,
+      "end": 7.794624,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 9.0675,
-      "end": 9.453666,
-      "sourceIndex": 9,
+      "start": 7.823208,
+      "end": 8.209374,
       "targetImage": true
     },
     {
       "text": "wa",
-      "start": 9.48225,
-      "end": 9.568041,
-      "sourceIndex": 20,
+      "start": 8.238,
+      "end": 8.323791,
       "targetImage": true
     },
     {
       "text": "kiume",
-      "start": 9.611,
-      "end": 10.054375,
-      "sourceIndex": 20,
+      "start": 8.366708,
+      "end": 8.810083,
       "targetImage": true
     },
     {
       "text": "akiwa",
-      "start": 10.09725,
-      "end": 10.497708,
-      "sourceIndex": 20,
+      "start": 8.852958,
+      "end": 9.253416,
       "targetImage": true
     },
     {
       "text": "amesimama",
-      "start": 10.526333,
-      "end": 11.212833,
-      "sourceIndex": 20,
+      "start": 9.282041,
+      "end": 9.968541,
       "targetImage": true
     },
     {
       "text": "na",
-      "start": 11.241416,
-      "end": 11.355832,
-      "sourceIndex": 29,
+      "start": 9.997125,
+      "end": 10.111541,
       "targetImage": true
     },
     {
       "text": "kunyoosha",
-      "start": 11.39875,
-      "end": 11.999416,
-      "sourceIndex": 29,
+      "start": 10.154458,
+      "end": 10.755124,
       "targetImage": true
     },
     {
       "text": "mikono",
-      "start": 12.042333,
-      "end": 12.671624,
-      "sourceIndex": 29,
+      "start": 10.798041,
+      "end": 11.427332,
       "targetImage": true
     },
     {
       "text": "Mistari",
-      "start": 13.772875,
-      "end": 14.21625,
-      "sourceIndex": 29,
+      "start": 12.528583,
+      "end": 12.971958,
       "targetImage": true
     },
     {
       "text": "inaelekeza",
-      "start": 14.35925,
-      "end": 15.131541,
-      "sourceIndex": 29,
-      "targetImage": true
-    },
-    {
-      "text": "sehemu",
-      "start": 15.160166,
-      "end": 15.675041,
-      "sourceIndex": 31,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 15.703666,
-      "end": 15.875291,
-      "sourceIndex": 32,
-      "targetImage": true
-    },
-    {
-      "text": "nje",
-      "start": 15.918208,
-      "end": 16.175624,
-      "sourceIndex": 33,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 16.20425,
-      "end": 16.361583,
-      "sourceIndex": 34,
-      "targetImage": true
-    },
-    {
-      "text": "mwili",
-      "start": 16.390166,
-      "end": 16.733416,
-      "sourceIndex": 35,
-      "targetImage": true
-    },
-    {
-      "text": "kama",
-      "start": 16.776333,
-      "end": 17.105291,
-      "sourceIndex": 35,
+      "start": 13.115,
+      "end": 13.915916,
       "targetImage": true
     },
     {
       "text": "kichwa",
-      "start": 17.148166,
-      "end": 17.591541,
-      "sourceIndex": 35,
+      "start": 13.958791,
+      "end": 14.387832,
       "targetImage": true
     },
     {
       "text": "macho",
-      "start": 17.72025,
-      "end": 18.177916,
-      "sourceIndex": 35,
+      "start": 14.502291,
+      "end": 14.959957,
       "targetImage": true
     },
     {
       "text": "masikio",
-      "start": 18.306625,
-      "end": 19.021708,
-      "sourceIndex": 35,
+      "start": 15.088666,
+      "end": 15.803749,
       "targetImage": true
     },
     {
       "text": "pua",
-      "start": 19.136166,
-      "end": 19.536624,
-      "sourceIndex": 35,
+      "start": 15.918208,
+      "end": 16.332958,
       "targetImage": true
     },
     {
       "text": "mdomo",
-      "start": 19.693916,
-      "end": 20.280291,
-      "sourceIndex": 35,
+      "start": 16.490291,
+      "end": 17.105291,
       "targetImage": true
     },
     {
       "text": "mikono",
-      "start": 20.423333,
-      "end": 21.009708,
-      "sourceIndex": 35,
+      "start": 17.248291,
+      "end": 17.834666,
       "targetImage": true
     },
     {
       "text": "vidole",
-      "start": 21.109833,
-      "end": 21.681916,
-      "sourceIndex": 35,
+      "start": 17.949083,
+      "end": 18.535458,
       "targetImage": true
     },
     {
       "text": "tumbo",
-      "start": 21.824958,
-      "end": 22.253999,
-      "sourceIndex": 35,
+      "start": 18.6785,
+      "end": 19.107541,
       "targetImage": true
     },
     {
       "text": "miguu",
-      "start": 22.368416,
-      "end": 22.783166,
-      "sourceIndex": 35,
+      "start": 19.23625,
+      "end": 19.651,
       "targetImage": true
     },
     {
       "text": "na",
-      "start": 22.826083,
-      "end": 22.940499,
-      "sourceIndex": 41,
+      "start": 19.693916,
+      "end": 19.808332,
       "targetImage": true
     },
     {
       "text": "nyayo",
-      "start": 22.969125,
-      "end": 23.441083,
-      "sourceIndex": 41,
+      "start": 19.836958,
+      "end": 20.308916,
       "targetImage": true
     },
     {
       "text": "Taja",
-      "start": 24.51375,
-      "end": 24.742583,
+      "start": 21.395875,
+      "end": 21.581791,
       "sourceIndex": 14
     },
     {
       "text": "sehemu",
-      "start": 24.856958,
-      "end": 25.343208,
+      "start": 21.696208,
+      "end": 22.182458,
       "sourceIndex": 15
     },
     {
       "text": "za",
-      "start": 25.371833,
-      "end": 25.543458,
+      "start": 22.211083,
+      "end": 22.382708,
       "sourceIndex": 16
     },
     {
       "text": "nje",
-      "start": 25.586375,
-      "end": 25.815208,
+      "start": 22.425625,
+      "end": 22.654458,
       "sourceIndex": 17
     },
     {
       "text": "za",
-      "start": 25.843833,
-      "end": 25.986833,
+      "start": 22.683083,
+      "end": 22.840416,
       "sourceIndex": 18
     },
     {
       "text": "mwili",
-      "start": 26.015458,
-      "end": 26.358708,
+      "start": 22.883291,
+      "end": 23.212249,
       "sourceIndex": 19
     },
     {
       "text": "wa",
-      "start": 26.387291,
-      "end": 26.487416,
+      "start": 23.240833,
+      "end": 23.312333,
       "sourceIndex": 20
     },
     {
       "text": "binadamu",
-      "start": 26.516,
-      "end": 27.316916,
+      "start": 23.340958,
+      "end": 23.984541,
       "sourceIndex": 21
     },
     {
       "text": "Kazi",
-      "start": 28.375291,
-      "end": 28.589832,
+      "start": 24.027458,
+      "end": 24.356416,
       "sourceIndex": 22
     },
     {
       "text": "ya",
-      "start": 28.689916,
-      "end": 28.790041,
+      "start": 24.385,
+      "end": 24.485125,
       "sourceIndex": 23
     },
     {
       "text": "kufanya",
-      "start": 28.818666,
-      "end": 29.447957,
+      "start": 24.51375,
+      "end": 24.971416,
       "sourceIndex": 24
     },
     {
       "text": "Chora",
-      "start": 30.506291,
-      "end": 30.820916,
-      "sourceIndex": 25,
+      "start": 25.0,
+      "end": 25.386166,
       "targetPatch": 1,
       "targetWord": 0
     },
     {
       "text": "au",
-      "start": 30.935375,
-      "end": 31.221416,
-      "sourceIndex": 25,
+      "start": 25.429041,
+      "end": 25.657874,
       "targetPatch": 1,
       "targetWord": 1
     },
     {
-      "text": "taja",
-      "start": 31.264291,
-      "end": 31.650457,
-      "sourceIndex": 14,
+      "text": "chunguza",
+      "start": 25.6865,
+      "end": 26.244291,
       "targetPatch": 1,
       "targetWord": 2
     },
     {
       "text": "mwili",
-      "start": 31.693375,
-      "end": 32.022333,
-      "sourceIndex": 19,
+      "start": 26.287166,
+      "end": 26.601791,
       "targetPatch": 1,
       "targetWord": 3
     },
     {
       "text": "wa",
-      "start": 32.050916,
-      "end": 32.136707,
-      "sourceIndex": 20,
+      "start": 26.64475,
+      "end": 26.71625,
       "targetPatch": 1,
       "targetWord": 4
     },
     {
       "text": "binadamu",
-      "start": 32.165333,
-      "end": 32.823208,
-      "sourceIndex": 21,
+      "start": 26.744833,
+      "end": 27.388416,
       "targetPatch": 1,
       "targetWord": 5
     },
     {
       "text": "na",
-      "start": 32.851833,
-      "end": 32.937624,
-      "sourceIndex": 29,
+      "start": 27.417041,
+      "end": 27.502832,
       "targetPatch": 1,
       "targetWord": 6
     },
     {
       "text": "uoneshe",
-      "start": 32.96625,
-      "end": 33.524041,
-      "sourceIndex": 30,
+      "start": 27.531458,
+      "end": 28.060624,
       "targetPatch": 1,
       "targetWord": 7
     },
     {
       "text": "sehemu",
-      "start": 33.566916,
-      "end": 34.096082,
-      "sourceIndex": 31,
+      "start": 28.103541,
+      "end": 28.604124,
       "targetPatch": 1,
       "targetWord": 8
     },
     {
       "text": "za",
-      "start": 34.139,
-      "end": 34.296333,
-      "sourceIndex": 32,
+      "start": 28.632708,
+      "end": 28.775708,
       "targetPatch": 1,
       "targetWord": 9
     },
     {
       "text": "nje",
-      "start": 34.33925,
-      "end": 34.596666,
-      "sourceIndex": 33,
+      "start": 28.818666,
+      "end": 29.076082,
       "targetPatch": 1,
       "targetWord": 10
     },
     {
       "text": "za",
-      "start": 34.625291,
-      "end": 34.782624,
-      "sourceIndex": 34,
+      "start": 29.104708,
+      "end": 29.247708,
       "targetPatch": 1,
       "targetWord": 11
     },
     {
       "text": "mwili",
-      "start": 34.8255,
-      "end": 35.225958,
-      "sourceIndex": 35,
+      "start": 29.276333,
+      "end": 29.676791,
       "targetPatch": 1,
       "targetWord": 12
     }
