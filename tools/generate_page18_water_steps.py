@@ -1,7 +1,7 @@
 import asyncio,json,re
 from pathlib import Path
 import edge_tts
-ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"content"/"rehema";VOICE="sw-TZ-RehemaNeural";AUDIO="page-018-water-v18.mp3";VERSION=18
+ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"content"/"rehema";VOICE="sw-TZ-RehemaNeural";AUDIO="page-018-water-v19.mp3";VERSION=19
 segments=[
  ("Tatu. Eleza sababu ya kutunza chakula kwa kukining'iniza.",1),("Nne. Orodhesha vifaa vinavyotumika kutunza chakula.",3),("Tano. Taja njia nyingine mbili za kutunza chakula.",5),
  ("Maji safi na salama.",7),("Maji ni muhimu katika maisha. Unaweza kupata maji kutoka sehemu mbalimbali. Sehemu hizo ni kama mito, mabomba na visima.",8),("Hatua za kupata maji safi na salama.",13),
