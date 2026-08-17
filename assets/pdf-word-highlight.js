@@ -132,7 +132,7 @@
     if (document.documentElement.dataset.forceTranscriptAudio === "true") return Promise.resolve(null);
     if (window.__validatorEnhancedPage && page !== "3" && page !== "8" && page !== "9" && page !== "10" && page !== "12" && page !== "13" && page !== "15" && page !== "17" && page !== "30" && page !== "31" && page !== "35" && page !== "36" && page !== "37" && page !== "38" && page !== "41" && page !== "42" && page !== "44" && page !== "46" && page !== "49" && page !== "50" && page !== "53" && page !== "54" && page !== "55" && page !== "56" && page !== "58" && page !== "60" && page !== "61" && page !== "62" && page !== "65" && page !== "67" && page !== "68" && page !== "69" && page !== "70" && page !== "71") return Promise.resolve(null);
     if (!timingsPromise) {
-      timingsPromise = fetch("./content/rehema/timecodes.json?v=45")
+      timingsPromise = fetch("./content/rehema/timecodes.json?v=47")
         .then(function (response) { return response.ok ? response.json() : {}; })
         .catch(function () { return {}; });
     }

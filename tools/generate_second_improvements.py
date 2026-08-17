@@ -4,12 +4,12 @@ import edge_tts
 
 ROOT = Path(__file__).resolve().parents[1]
 VOICE = "sw-TZ-RehemaNeural"
-PAGES = [9, 12, 17, 19, 26, 27, 31, 35, 36, 37, 64, 67, 71]
+PAGES = [9]
 NUMBER_WORDS = {str(i): word for i, word in enumerate(["Sifuri", "Moja", "Mbili", "Tatu", "Nne", "Tano", "Sita", "Saba", "Nane", "Tisa", "Kumi"], 0)}
 
 CONFIG = {
     8: {"replace": {"pg008_n0002": "Angalia na bainisha picha hii, kisha jibu swali.", "pg008_n0005": "Chora au chunguza mwili wa binadamu na uoneshe sehemu za nje za mwili"}, "remove": {"pg008_n0006"}, "patch": {"pg008_n0002": 0, "pg008_n0005": 1}, "after": {"pg008_n0002": ["Picha inaonesha mtoto wa kiume akiwa amesimama na kunyoosha mikono. Mistari inaelekeza kichwa, macho, masikio, pua, mdomo, mikono, vidole, tumbo, miguu na nyayo."]}},
-    9: {"replace": {"pg009_n0008": "Zoezi la Kwanza"}, "after": {"pg009_n0009": ["Katika swali la kwanza, umbo namba 1 ni mraba wa rangi ya bluu. Umbo namba 2 ni pembetatu ya rangi nyekundu. Umbo namba 3 ni duara la rangi ya kijani. Umbo namba 4 ni mstatili wa rangi ya waridi. Umbo namba 5 ni mcheduara wa rangi ya njano."]}},
+    9: {"replace": {"pg009_n0008": "Zoezi la Kwanza", "pg009_n0010": "(a) Umbo namba 1 lina rangi gani?", "pg009_n0011": "(b) Umbo namba 2 lina rangi gani?", "pg009_n0012": "(c) Umbo namba 3 lina rangi gani?", "pg009_n0013": "(d) Umbo namba 4 lina rangi gani?", "pg009_n0014": "(e) Umbo namba 5 lina rangi gani?"}, "remove": {"pg009_n0003", "pg009_n0004", "pg009_n0005", "pg009_n0006", "pg009_n0007"}, "after": {"pg009_n0002": ["Chunguza maumbo yafuatayo kisha fanya zoezi la kwanza.", "Umbo namba 1 ni mraba wa rangi ya bluu. Umbo namba 2 ni pembetatu ya rangi nyekundu. Umbo namba 3 ni duara la rangi ya kijani. Umbo namba 4 ni mstatili wa rangi ya waridi. Umbo namba 5 ni mcheduara wa rangi ya njano."]}},
     12: {"replace": {"pg012_n0012": "Andika au bainisha vitu vitatu vinavyotoa harufu mbaya.", "pg012_n0014": "Andika au bainisha vitu vinne vinavyotoa harufu nzuri.", "pg012_n0015": "Zoezi la Tatu"}, "patch": {"pg012_n0012": 0, "pg012_n0014": 1}},
     17: {"replace": {"pg017_n0005": "Andika au bainisha vifaa mnavyotumia nyumbani kwenu kutunzia chakula.", "pg017_n0009": "Zoezi la Pili", "pg017_n0011": "Orodhesha au bainisha mifano miwili ya magonjwa yanayotokana na kula chakula kisichotunzwa vizuri."}, "remove": {"pg017_n0006", "pg017_n0012"}, "patch": {"pg017_n0005": 0, "pg017_n0011": 1}},
     19: {"replace": {"pg019_n0010": "Zoezi la Tatu"}},
@@ -140,8 +140,11 @@ async def generate_page(page, entries):
         segments.append((spoken(text), "patch" if node_id in config.get("patch", {}) else "source", config.get("patch", {}).get(node_id)))
         for description_index, description in enumerate(config.get("after", {}).get(node_id, [])):
             kind = "source" if page == 50 and description_index % 2 == 0 else "image"
-            segments.append((spoken(description), kind, None))
-    full_text = " ".join(text for text, _, _ in segments); cues = []; out = ROOT / "content" / "rehema"; audio_name = f"page-{page:03d}-ordered-v14.mp3"
+            patch = None
+            if page == 9 and node_id == "pg009_n0002" and description_index == 0:
+                kind, patch = "patch", 0
+            segments.append((spoken(description), kind, patch))
+    full_text = " ".join(text for text, _, _ in segments); cues = []; out = ROOT / "content" / "rehema"; audio_name = f"page-{page:03d}-ordered-v16.mp3"
     with (out / audio_name).open("wb") as audio:
         stream = edge_tts.Communicate(full_text, VOICE, rate="-8%", boundary="WordBoundary")
         async for event in stream.stream():
@@ -159,7 +162,7 @@ async def generate_page(page, entries):
         else:
             map_source(part, words, state)
         offset += count
-    entry = {"audio": audio_name, "voice": VOICE, "version": 14, "words": cues}
+    entry = {"audio": audio_name, "voice": VOICE, "version": 16, "words": cues}
     (out / f"page-{page:03d}.json").write_text(json.dumps(entry, ensure_ascii=False, indent=2), encoding="utf-8"); entries[str(page)] = entry
     print(f"page={page} words={len(cues)} audio={(out / audio_name).stat().st_size}")
 

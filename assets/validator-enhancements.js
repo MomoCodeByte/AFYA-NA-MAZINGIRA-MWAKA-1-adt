@@ -7,7 +7,10 @@
   var fixes = {
     3: {},
     8: { replace: { pg008_n0002: "Angalia na bainisha picha hii, kisha jibu swali.", pg008_n0005: "Chora au chunguza mwili wa binadamu na uoneshe sehemu za nje za mwili" }, remove: ["pg008_n0006"], after: { pg008_n0002: ["Picha inaonesha mtoto wa kiume akiwa amesimama na kunyoosha mikono. Mistari inaelekeza sehemu za nje za mwili kama kichwa, macho, masikio, pua, mdomo, mikono, vidole, tumbo, miguu na nyayo."] }, visual: [["Angalia picha hii kisha jibu swali", "Angalia na bainisha picha hii, kisha jibu swali."], ["Chora mwili wa binadamu na uoneshe sehemu za nje za mwili", "Chora au chunguza mwili wa binadamu na uoneshe sehemu za nje za mwili"], ["kwa kuandika majina yake", ""]] },
-    9: { after: { pg009_n0009: ["Katika swali la kwanza, umbo namba 1 ni mraba wa rangi ya bluu. Umbo namba 2 ni pembetatu ya rangi nyekundu. Umbo namba 3 ni duara la rangi ya kijani. Umbo namba 4 ni mstatili wa rangi ya waridi. Umbo namba 5 ni mcheduara wa rangi ya njano."] } },
+    9: { note: "Chunguza maumbo yafuatayo kisha fanya zoezi la kwanza.", replace: { pg009_n0008: "Zoezi la Kwanza", pg009_n0010: "(a) Umbo namba 1 lina rangi gani?", pg009_n0011: "(b) Umbo namba 2 lina rangi gani?", pg009_n0012: "(c) Umbo namba 3 lina rangi gani?", pg009_n0013: "(d) Umbo namba 4 lina rangi gani?", pg009_n0014: "(e) Umbo namba 5 lina rangi gani?" }, remove: ["pg009_n0003", "pg009_n0004", "pg009_n0005", "pg009_n0006", "pg009_n0007"], after: { pg009_n0002: [
+      { text: "Chunguza maumbo yafuatayo kisha fanya zoezi la kwanza.", pauseAfter: 500 },
+      { text: "Umbo namba 1 ni mraba wa rangi ya bluu. Umbo namba 2 ni pembetatu ya rangi nyekundu. Umbo namba 3 ni duara la rangi ya kijani. Umbo namba 4 ni mstatili wa rangi ya waridi. Umbo namba 5 ni mcheduara wa rangi ya njano.", pauseAfter: 800 }
+    ] } },
     10: { replace: { pg010_n0003: "Mwambie rafiki yako aigize au aoneshe ishara ya sauti na milio mbalimbali.", pg010_n0006: "Swali la 1. Je, rafiki yako ameigiza au ameonesha ishara ya mlio au sauti gani?", pg010_n0008: "Swali la 2. Ulitumia kiungo gani kusikiliza au kuonesha ishara ya mlio au sauti hiyo?", pg010_n0040: "Chora au bainisha vitu vitatu vinavyotoa sauti.", pg010_n0042: "Taja wanyama unaoweza kubainisha au kuigiza sauti zao." }, visual: [["Mwambie rafiki yako aigize sauti na milio mbalimbali", "Mwambie rafiki yako aigize au aoneshe ishara ya sauti na milio mbalimbali."], ["Je rafiki yako ameigiza mlio au sauti ya nini", "Je, rafiki yako ameigiza au ameonesha ishara ya mlio au sauti gani?"], ["Ulitumia kiungo gani kusikiliza mlio au sauti hiyo", "Ulitumia kiungo gani kusikiliza au kuonesha ishara ya mlio au sauti hiyo?"], ["Chora vitu vitatu vinavyotoa sauti", "Chora au bainisha vitu vitatu vinavyotoa sauti."], ["Taja majina ya wanyama unayoweza kuigiza sauti zao", "Taja wanyama unaoweza kubainisha au kuigiza sauti zao."]] },
     12: { replace: { pg012_n0012: "Andika au bainisha vitu vitatu vinavyotoa harufu mbaya.", pg012_n0014: "Andika au bainisha vitu vinne vinavyotoa harufu nzuri." }, visual: [["Andika vitu vitatu vinavyotoa harufu mbaya", "Andika au bainisha vitu vitatu vinavyotoa harufu mbaya."], ["Andika vitu vinne vinavyotoa harufu nzuri", "Andika au bainisha vitu vinne vinavyotoa harufu nzuri."]] },
     13: { remove: ["pg013_n0014", "pg013_n0015", "pg013_n0016", "pg013_n0017"], visual: [["Ili mwili uweze kukua vizuri unahitaji uwe na afya bora Katika sura ya pili utajifunza kuhusu afya bora katika mwili wa binadamu", ""]] },
@@ -111,4 +114,24 @@
     var box = document.createElement("div"); box.className = "validator-visible-patch" + (newText ? "" : " validator-removal-patch"); box.dataset.validatorPatch = String(document.querySelectorAll(".validator-visible-patch").length); box.dataset.validatorPage = String(page); newText.split(/(\s+)/).forEach(function (part) { if (/^\s+$/.test(part)) box.appendChild(document.createTextNode(part)); else if (part) { var word = document.createElement("span"); word.className = "validator-display-word"; word.textContent = part; box.appendChild(word); } }); box.style.left = Math.max(0, left - 0.35) + "%"; box.style.top = Math.max(0, top - 0.25) + "%"; box.style.width = Math.min(96 - left, newText ? Math.max(right - left + 1.5, 48) : right - left + 1.2) + "%"; box.style.minHeight = Math.max(2.7, bottom - top + 0.7) + "%"; if (!newText && page === 13) box.style.background = "rgb(246,252,254)"; document.querySelector(".page-shell").appendChild(box);
   }
   (fix.visual || []).forEach(function (pair) { patchVisible(pair[0], pair[1]); });
+  if (fix.note) {
+    var note = document.createElement("div");
+    note.className = "validator-visible-patch validator-visible-note";
+    note.dataset.validatorPatch = String(document.querySelectorAll(".validator-visible-patch").length);
+    note.dataset.validatorPage = String(page);
+    fix.note.split(/(\s+)/).forEach(function (part) { if (/^\s+$/.test(part)) note.appendChild(document.createTextNode(part)); else if (part) { var word = document.createElement("span"); word.className = "validator-display-word"; word.textContent = part; note.appendChild(word); } });
+    document.querySelector(".page-shell").appendChild(note);
+  }
+  if (page === 9) {
+    var shell = document.querySelector(".page-shell");
+    var cover = document.createElement("div");
+    cover.className = "validator-shape-cover";
+    var shiftedShapes = document.createElement("img");
+    shiftedShapes.className = "validator-shape-shift";
+    shiftedShapes.src = document.querySelector(".page-image").src;
+    shiftedShapes.alt = "";
+    shiftedShapes.setAttribute("aria-hidden", "true");
+    shell.appendChild(cover);
+    shell.appendChild(shiftedShapes);
+  }
 }());
