@@ -1,7 +1,7 @@
 {
-  "audio": "page-009-ordered-v16.mp3",
+  "audio": "page-009-ordered-v17.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "version": 17,
   "words": [
     {
       "text": "Kazi",
@@ -174,7 +174,7 @@
       "targetImage": true
     },
     {
-      "text": "1",
+      "text": "moja",
       "start": 13.358125,
       "end": 13.758583,
       "targetImage": true
@@ -228,7 +228,7 @@
       "targetImage": true
     },
     {
-      "text": "2",
+      "text": "mbili",
       "start": 17.234,
       "end": 17.57725,
       "targetImage": true
@@ -276,7 +276,7 @@
       "targetImage": true
     },
     {
-      "text": "3",
+      "text": "tatu",
       "start": 21.410166,
       "end": 21.753416,
       "targetImage": true
@@ -330,7 +330,7 @@
       "targetImage": true
     },
     {
-      "text": "4",
+      "text": "nne",
       "start": 25.529166,
       "end": 25.786582,
       "targetImage": true
@@ -384,7 +384,7 @@
       "targetImage": true
     },
     {
-      "text": "5",
+      "text": "tano",
       "start": 29.633875,
       "end": 30.020041,
       "targetImage": true
@@ -492,7 +492,7 @@
       "sourceIndex": 33
     },
     {
-      "text": "1",
+      "text": "moja",
       "start": 37.671625,
       "end": 38.029166,
       "sourceIndex": 34
@@ -534,7 +534,7 @@
       "sourceIndex": 39
     },
     {
-      "text": "2",
+      "text": "mbili",
       "start": 41.361541,
       "end": 41.719082,
       "sourceIndex": 40
@@ -576,7 +576,7 @@
       "sourceIndex": 45
     },
     {
-      "text": "3",
+      "text": "tatu",
       "start": 45.208791,
       "end": 45.552041,
       "sourceIndex": 46
@@ -618,7 +618,7 @@
       "sourceIndex": 51
     },
     {
-      "text": "4",
+      "text": "nne",
       "start": 48.984541,
       "end": 49.227666,
       "sourceIndex": 52
@@ -660,7 +660,7 @@
       "sourceIndex": 57
     },
     {
-      "text": "5",
+      "text": "tano",
       "start": 52.631583,
       "end": 53.003416,
       "sourceIndex": 58
