@@ -1,7 +1,7 @@
 {
-  "audio": "page-019-pronunciation-v11.mp3",
+  "audio": "page-019-ordered-v14.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 11,
+  "version": 14,
   "words": [
     {
       "text": "Madhara",
@@ -91,25 +91,25 @@
       "text": "Rudia",
       "start": 7.42275,
       "end": 7.866125,
-      "sourceIndex": 16
+      "sourceIndex": 15
     },
     {
       "text": "ubeti",
       "start": 7.89475,
       "end": 8.381,
-      "sourceIndex": 24
+      "sourceIndex": 15
     },
     {
       "text": "huu",
       "start": 8.409625,
       "end": 8.638458,
-      "sourceIndex": 32
+      "sourceIndex": 15
     },
     {
       "text": "mara",
       "start": 8.681333,
       "end": 8.981666,
-      "sourceIndex": 16
+      "sourceIndex": 15
     },
     {
       "text": "mbili",
@@ -157,25 +157,25 @@
       "text": "Rudia",
       "start": 13.558333,
       "end": 13.958791,
-      "sourceIndex": 24
+      "sourceIndex": 23
     },
     {
       "text": "ubeti",
       "start": 13.987416,
       "end": 14.459374,
-      "sourceIndex": 32
+      "sourceIndex": 23
     },
     {
       "text": "huu",
       "start": 14.488,
       "end": 14.716833,
-      "sourceIndex": 16
+      "sourceIndex": 23
     },
     {
       "text": "mara",
       "start": 14.759708,
       "end": 15.060041,
-      "sourceIndex": 24
+      "sourceIndex": 23
     },
     {
       "text": "mbili",
@@ -223,25 +223,25 @@
       "text": "Rudia",
       "start": 19.70825,
       "end": 20.123,
-      "sourceIndex": 32
+      "sourceIndex": 31
     },
     {
       "text": "ubeti",
       "start": 20.151583,
       "end": 20.637833,
-      "sourceIndex": 16
+      "sourceIndex": 31
     },
     {
       "text": "huu",
       "start": 20.666458,
       "end": 20.923874,
-      "sourceIndex": 24
+      "sourceIndex": 31
     },
     {
       "text": "mara",
       "start": 20.966833,
       "end": 21.267166,
-      "sourceIndex": 32
+      "sourceIndex": 31
     },
     {
       "text": "mbili",
@@ -298,7 +298,7 @@
       "sourceIndex": 41
     },
     {
-      "text": "3",
+      "text": "Tatu",
       "start": 24.79975,
       "end": 25.128708,
       "sourceIndex": 42

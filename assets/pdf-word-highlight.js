@@ -16,6 +16,7 @@
   var recordedAudio = null;
   var recordedEntry = null;
   var recordedCue = 0;
+  var recordedStopAt = null;
   var timingsPromise = null;
 
   function normalize(value) {
@@ -94,8 +95,9 @@
       if (fallbackTimer) window.clearInterval(fallbackTimer);
       fallbackTimer = null;
       if (reading && currentSegment + 1 < currentSegments.length) {
+        var pauseAfter = currentSegments[currentSegment].pauseAfter || 80;
         currentSegment += 1;
-        window.setTimeout(speakCurrentSegment, 80);
+        window.setTimeout(speakCurrentSegment, pauseAfter);
       } else {
         stopReading();
       }
@@ -112,12 +114,14 @@
       var last = nodes[nodes.length - 1];
       if (last && /^\d+$/.test(last.textContent.trim())) nodes.pop();
     }
-    return nodes.map(function (node) { return node.textContent.trim(); }).filter(Boolean);
+    return nodes.map(function (node) {
+      return { text: node.textContent.trim(), pauseAfter: Number(node.dataset.pauseAfter || 80) };
+    }).filter(function (item) { return Boolean(item.text); });
   }
 
   function speakCurrentSegment() {
     if (!reading || !currentSegments[currentSegment]) return;
-    var utterance = new SpeechSynthesisUtterance(currentSegments[currentSegment]);
+    var utterance = new SpeechSynthesisUtterance(currentSegments[currentSegment].text);
     utterance.rate = currentRate;
     utterance.volume = currentVolume;
     synth.speak(utterance);
@@ -125,9 +129,10 @@
 
   function loadRecordedEntry() {
     var page = String(Number(document.querySelector('meta[name="page-section-id"]').content));
-    if (window.__validatorEnhancedPage && page !== "3" && page !== "8" && page !== "9" && page !== "10" && page !== "12" && page !== "13" && page !== "15" && page !== "17" && page !== "30" && page !== "31" && page !== "35" && page !== "36" && page !== "37" && page !== "38" && page !== "41" && page !== "42" && page !== "44" && page !== "46" && page !== "49" && page !== "50" && page !== "53" && page !== "56" && page !== "58" && page !== "60" && page !== "61" && page !== "62" && page !== "65" && page !== "71") return Promise.resolve(null);
+    if (document.documentElement.dataset.forceTranscriptAudio === "true") return Promise.resolve(null);
+    if (window.__validatorEnhancedPage && page !== "3" && page !== "8" && page !== "9" && page !== "10" && page !== "12" && page !== "13" && page !== "15" && page !== "17" && page !== "30" && page !== "31" && page !== "35" && page !== "36" && page !== "37" && page !== "38" && page !== "41" && page !== "42" && page !== "44" && page !== "46" && page !== "49" && page !== "50" && page !== "53" && page !== "54" && page !== "55" && page !== "56" && page !== "58" && page !== "60" && page !== "61" && page !== "62" && page !== "65" && page !== "67" && page !== "68" && page !== "69" && page !== "70" && page !== "71") return Promise.resolve(null);
     if (!timingsPromise) {
-      timingsPromise = fetch("./content/rehema/timecodes.json?v=37")
+      timingsPromise = fetch("./content/rehema/timecodes.json?v=45")
         .then(function (response) { return response.ok ? response.json() : {}; })
         .catch(function () { return {}; });
     }
@@ -136,6 +141,10 @@
 
   function highlightRecordedWord() {
     if (!recordedAudio || !recordedEntry) return;
+    if (recordedStopAt !== null && recordedAudio.currentTime >= recordedStopAt) {
+      stopReading();
+      return;
+    }
     var cues = recordedEntry.words || [];
     while (recordedCue + 1 < cues.length && Number(cues[recordedCue + 1].start) <= recordedAudio.currentTime + 0.03) recordedCue += 1;
     while (recordedCue > 0 && Number(cues[recordedCue].start) > recordedAudio.currentTime + 0.03) recordedCue -= 1;
@@ -157,6 +166,14 @@
 
   function playRecorded(entry) {
     recordedEntry = entry;
+    recordedStopAt = null;
+    var footerIndex = (entry.words || []).findIndex(function (cue, index, cues) {
+      return /^AFYA$/i.test(cue.text || "") && cues[index + 1] && /^NA$/i.test(cues[index + 1].text || "");
+    });
+    if (footerIndex >= 0) {
+      while (footerIndex > 0 && /^\d+$/.test(String(entry.words[footerIndex - 1].text || ""))) footerIndex -= 1;
+      recordedStopAt = Number(entry.words[footerIndex].start);
+    }
     document.documentElement.dataset.readerVoice = entry.voice || "Recorded page audio";
     recordedCue = 0;
     if (!recordedAudio || !recordedAudio.src.endsWith("/" + entry.audio)) {

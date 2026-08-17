@@ -1,1204 +1,1204 @@
 {
-  "audio": "page-071-second-v12.mp3",
+  "audio": "page-071-ordered-v14.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 12,
+  "version": 14,
   "words": [
     {
       "text": "Zoezi",
       "start": 0.178708,
-      "end": 0.593458,
+      "end": 0.607749,
       "sourceIndex": 2
     },
     {
       "text": "la",
-      "start": 0.693583,
-      "end": 0.822291,
+      "start": 0.707875,
+      "end": 0.850875,
       "sourceIndex": 3
     },
     {
-      "text": "2",
-      "start": 0.850916,
-      "end": 1.194166,
-      "sourceIndex": 4
+      "text": "Pili",
+      "start": 0.893833,
+      "end": 1.251374,
+      "sourceIndex": 3
     },
     {
       "text": "Andika",
-      "start": 1.22275,
-      "end": 1.709,
+      "start": 1.279958,
+      "end": 1.766208,
       "targetPatch": 0,
       "targetWord": 0
     },
     {
       "text": "au",
-      "start": 1.751958,
-      "end": 1.995083,
+      "start": 1.809166,
+      "end": 2.052291,
       "targetPatch": 0,
       "targetWord": 1
     },
     {
       "text": "tunga",
-      "start": 2.038,
-      "end": 2.38125,
+      "start": 2.095208,
+      "end": 2.438458,
       "targetPatch": 0,
       "targetWord": 2
     },
     {
       "text": "sentensi",
-      "start": 2.409833,
-      "end": 3.067708,
+      "start": 2.467041,
+      "end": 3.139249,
       "targetPatch": 0,
       "targetWord": 3
     },
     {
       "text": "nne",
-      "start": 3.096333,
-      "end": 3.325166,
+      "start": 3.167833,
+      "end": 3.396666,
       "targetPatch": 0,
       "targetWord": 4
     },
     {
       "text": "kwa",
-      "start": 3.368083,
-      "end": 3.525416,
+      "start": 3.439583,
+      "end": 3.596916,
       "targetPatch": 0,
       "targetWord": 5
     },
     {
       "text": "kufuata",
-      "start": 3.554,
-      "end": 4.154666,
+      "start": 3.6255,
+      "end": 4.226166,
       "targetPatch": 0,
       "targetWord": 6
     },
     {
       "text": "mtiririko",
-      "start": 4.183291,
-      "end": 4.912707,
+      "start": 4.254791,
+      "end": 4.984207,
       "targetPatch": 0,
       "targetWord": 7
     },
     {
       "text": "wa",
-      "start": 4.941291,
-      "end": 5.055707,
+      "start": 5.012833,
+      "end": 5.112958,
       "targetPatch": 0,
       "targetWord": 8
     },
     {
       "text": "picha",
-      "start": 5.084333,
-      "end": 5.513374,
+      "start": 5.141541,
+      "end": 5.570582,
       "targetPatch": 0,
       "targetWord": 9
     },
     {
       "text": "Kazi",
-      "start": 6.59325,
-      "end": 6.793458,
+      "start": 6.650458,
+      "end": 6.850666,
       "sourceIndex": 13
     },
     {
       "text": "ya",
-      "start": 6.893583,
-      "end": 6.993708,
+      "start": 6.950791,
+      "end": 7.050916,
       "sourceIndex": 14
     },
     {
       "text": "kufanya",
-      "start": 7.022291,
-      "end": 7.494249,
+      "start": 7.0795,
+      "end": 7.551458,
       "sourceIndex": 15
     },
     {
       "text": "Kwa",
-      "start": 7.522875,
-      "end": 7.680208,
+      "start": 7.580083,
+      "end": 7.737416,
       "sourceIndex": 16
     },
     {
       "text": "kushirikiana",
-      "start": 7.708791,
-      "end": 8.538291,
+      "start": 7.766,
+      "end": 8.5955,
       "sourceIndex": 17
     },
     {
       "text": "na",
-      "start": 8.566916,
-      "end": 8.667041,
+      "start": 8.624125,
+      "end": 8.72425,
       "sourceIndex": 18
     },
     {
       "text": "wenzako",
-      "start": 8.695666,
-      "end": 9.239124,
+      "start": 8.752875,
+      "end": 9.296333,
       "sourceIndex": 19
     },
     {
       "text": "fanya",
-      "start": 9.282041,
-      "end": 9.653874,
+      "start": 9.33925,
+      "end": 9.711083,
       "sourceIndex": 20
     },
     {
       "text": "igizo",
-      "start": 9.6825,
-      "end": 10.140166,
+      "start": 9.739708,
+      "end": 10.197374,
       "sourceIndex": 21
     },
     {
       "text": "kuonesha",
-      "start": 10.183083,
-      "end": 10.755166,
+      "start": 10.240291,
+      "end": 10.812374,
       "sourceIndex": 22
     },
     {
       "text": "namna",
-      "start": 10.78375,
-      "end": 11.112708,
+      "start": 10.840958,
+      "end": 11.169916,
       "sourceIndex": 23
     },
     {
       "text": "ya",
-      "start": 11.141291,
-      "end": 11.241416,
+      "start": 11.1985,
+      "end": 11.298625,
       "sourceIndex": 24
     },
     {
       "text": "kutoa",
-      "start": 11.270041,
-      "end": 11.613291,
+      "start": 11.32725,
+      "end": 11.6705,
       "sourceIndex": 25
     },
     {
       "text": "huduma",
-      "start": 11.641875,
-      "end": 12.056625,
+      "start": 11.699083,
+      "end": 12.113833,
       "sourceIndex": 26
     },
     {
       "text": "ya",
-      "start": 12.08525,
-      "end": 12.185375,
+      "start": 12.142458,
+      "end": 12.242583,
       "sourceIndex": 27
     },
     {
       "text": "kwanza",
-      "start": 12.213958,
-      "end": 12.700208,
+      "start": 12.271166,
+      "end": 12.757416,
       "sourceIndex": 28
     },
     {
       "text": "Soma",
-      "start": 13.758583,
-      "end": 14.073208,
+      "start": 13.815791,
+      "end": 14.130416,
       "sourceIndex": 29
     },
     {
       "text": "habari",
-      "start": 14.173333,
-      "end": 14.659583,
+      "start": 14.230541,
+      "end": 14.716791,
       "sourceIndex": 30
     },
     {
       "text": "ifuatayo",
-      "start": 14.7025,
-      "end": 15.4605,
+      "start": 14.759708,
+      "end": 15.517708,
       "sourceIndex": 31
     },
     {
       "text": "kisha",
-      "start": 15.603541,
-      "end": 15.961082,
+      "start": 15.66075,
+      "end": 16.018291,
       "sourceIndex": 32
     },
     {
       "text": "jibu",
-      "start": 15.989708,
-      "end": 16.332958,
+      "start": 16.046916,
+      "end": 16.390166,
       "sourceIndex": 33
     },
     {
       "text": "maswali",
-      "start": 16.361541,
-      "end": 17.005124,
+      "start": 16.41875,
+      "end": 17.062333,
       "sourceIndex": 34
     },
     {
       "text": "Shukuru",
-      "start": 18.0635,
-      "end": 18.578375,
+      "start": 18.120708,
+      "end": 18.635583,
       "sourceIndex": 35
     },
     {
       "text": "na",
-      "start": 18.6785,
-      "end": 18.792916,
+      "start": 18.735708,
+      "end": 18.850124,
       "sourceIndex": 36
     },
     {
       "text": "Tuli",
-      "start": 18.835791,
-      "end": 19.150416,
+      "start": 18.893,
+      "end": 19.207625,
       "sourceIndex": 37
     },
     {
       "text": "wanasoma",
-      "start": 19.179041,
-      "end": 19.765416,
+      "start": 19.23625,
+      "end": 19.822625,
       "sourceIndex": 38
     },
     {
       "text": "shule",
-      "start": 19.794041,
-      "end": 20.108666,
+      "start": 19.85125,
+      "end": 20.165875,
       "sourceIndex": 39
     },
     {
       "text": "ya",
-      "start": 20.137291,
-      "end": 20.223082,
+      "start": 20.1945,
+      "end": 20.280291,
       "sourceIndex": 40
     },
     {
       "text": "Maarifa",
-      "start": 20.251708,
-      "end": 20.880999,
+      "start": 20.308916,
+      "end": 20.938207,
       "sourceIndex": 41
     },
     {
       "text": "Siku",
-      "start": 21.953666,
-      "end": 22.239707,
+      "start": 22.010875,
+      "end": 22.296916,
       "sourceIndex": 42
     },
     {
       "text": "moja",
-      "start": 22.339833,
-      "end": 22.725999,
+      "start": 22.397041,
+      "end": 22.783207,
       "sourceIndex": 43
     },
     {
       "text": "Tuli",
-      "start": 22.768875,
-      "end": 23.097833,
+      "start": 22.826083,
+      "end": 23.155041,
       "sourceIndex": 44
     },
     {
       "text": "alimuuliza",
-      "start": 23.126416,
-      "end": 23.884416,
+      "start": 23.183625,
+      "end": 23.941625,
       "sourceIndex": 45
     },
     {
       "text": "mama",
-      "start": 23.913041,
-      "end": 24.227666,
+      "start": 23.97025,
+      "end": 24.284875,
       "sourceIndex": 46
     },
     {
       "text": "yake",
-      "start": 24.256291,
-      "end": 24.728249,
+      "start": 24.3135,
+      "end": 24.785458,
       "sourceIndex": 47
     },
     {
       "text": "Mbona",
-      "start": 25.815208,
-      "end": 26.015416,
+      "start": 25.872416,
+      "end": 26.072624,
       "sourceIndex": 48
     },
     {
       "text": "hatuna",
-      "start": 26.144166,
-      "end": 26.558916,
+      "start": 26.201375,
+      "end": 26.616125,
       "sourceIndex": 49
     },
     {
       "text": "sanduku",
-      "start": 26.587541,
-      "end": 27.159624,
+      "start": 26.64475,
+      "end": 27.216833,
       "sourceIndex": 50
     },
     {
       "text": "la",
-      "start": 27.188208,
-      "end": 27.302624,
+      "start": 27.245416,
+      "end": 27.359832,
       "sourceIndex": 51
     },
     {
       "text": "huduma",
-      "start": 27.33125,
-      "end": 27.760291,
+      "start": 27.388458,
+      "end": 27.817499,
       "sourceIndex": 52
     },
     {
       "text": "ya",
-      "start": 27.788916,
-      "end": 27.889041,
+      "start": 27.846125,
+      "end": 27.94625,
       "sourceIndex": 53
     },
     {
       "text": "kwanza",
-      "start": 27.917625,
-      "end": 28.4325,
+      "start": 27.974833,
+      "end": 28.489708,
       "sourceIndex": 54
     },
     {
       "text": "Mama",
-      "start": 29.53375,
-      "end": 29.691083,
+      "start": 29.590958,
+      "end": 29.748291,
       "sourceIndex": 55
     },
     {
       "text": "yake",
-      "start": 29.819791,
-      "end": 30.191624,
+      "start": 29.877,
+      "end": 30.248833,
       "sourceIndex": 56
     },
     {
       "text": "akajibu",
-      "start": 30.234541,
-      "end": 30.992541,
+      "start": 30.29175,
+      "end": 31.04975,
       "sourceIndex": 57
     },
     {
       "text": "ukipata",
-      "start": 31.106958,
-      "end": 31.750541,
+      "start": 31.164166,
+      "end": 31.807749,
       "sourceIndex": 58
     },
     {
       "text": "tatizo",
-      "start": 31.779166,
-      "end": 32.279749,
+      "start": 31.836375,
+      "end": 32.336958,
       "sourceIndex": 59
     },
     {
       "text": "nitakupeleka",
-      "start": 32.308333,
-      "end": 33.223666,
+      "start": 32.365541,
+      "end": 33.280874,
       "sourceIndex": 60
     },
     {
       "text": "hospitalini",
-      "start": 33.266583,
-      "end": 34.196208,
+      "start": 33.323791,
+      "end": 34.253416,
       "sourceIndex": 61
     },
     {
       "text": "Tuli",
-      "start": 35.254583,
-      "end": 35.454791,
+      "start": 35.311791,
+      "end": 35.511999,
       "sourceIndex": 62
     },
     {
       "text": "alisikitika",
-      "start": 35.569208,
-      "end": 36.455916,
+      "start": 35.626416,
+      "end": 36.513124,
       "sourceIndex": 63
     },
     {
       "text": "kutokana",
-      "start": 36.484541,
-      "end": 37.056624,
+      "start": 36.54175,
+      "end": 37.113833,
       "sourceIndex": 64
     },
     {
       "text": "na",
-      "start": 37.08525,
-      "end": 37.199666,
+      "start": 37.142458,
+      "end": 37.256874,
       "sourceIndex": 65
     },
     {
       "text": "lile",
-      "start": 37.22825,
-      "end": 37.5715,
+      "start": 37.285458,
+      "end": 37.628708,
       "sourceIndex": 66
     },
     {
       "text": "jibu",
-      "start": 37.600125,
-      "end": 38.115,
+      "start": 37.657333,
+      "end": 38.172208,
       "sourceIndex": 67
     },
     {
       "text": "Siku",
-      "start": 39.173333,
-      "end": 39.502291,
+      "start": 39.230541,
+      "end": 39.559499,
       "sourceIndex": 68
     },
     {
       "text": "iliyofuata",
-      "start": 39.616708,
-      "end": 40.331791,
+      "start": 39.673916,
+      "end": 40.388999,
       "sourceIndex": 69
     },
     {
       "text": "Shukuru",
-      "start": 40.360416,
-      "end": 40.918207,
+      "start": 40.417625,
+      "end": 40.975416,
       "sourceIndex": 70
     },
     {
       "text": "alimpitia",
-      "start": 40.961083,
-      "end": 41.704791,
+      "start": 41.018291,
+      "end": 41.761999,
       "sourceIndex": 71
     },
     {
       "text": "Tuli",
-      "start": 41.747708,
-      "end": 42.048041,
+      "start": 41.804916,
+      "end": 42.105249,
       "sourceIndex": 72
     },
     {
       "text": "kwenda",
-      "start": 42.090958,
-      "end": 42.419916,
+      "start": 42.148166,
+      "end": 42.477124,
       "sourceIndex": 73
     },
     {
       "text": "shule",
-      "start": 42.4485,
-      "end": 42.906166,
+      "start": 42.505708,
+      "end": 42.963374,
       "sourceIndex": 74
     },
     {
       "text": "Walipokuwa",
-      "start": 43.993125,
-      "end": 44.536583,
+      "start": 44.050333,
+      "end": 44.593791,
       "sourceIndex": 75
     },
     {
       "text": "wanakaribia",
-      "start": 44.665333,
-      "end": 45.423333,
+      "start": 44.722541,
+      "end": 45.480541,
       "sourceIndex": 76
     },
     {
       "text": "shuleni",
-      "start": 45.451958,
-      "end": 46.024041,
+      "start": 45.509166,
+      "end": 46.081249,
       "sourceIndex": 77
     },
     {
       "text": "Tuli",
-      "start": 46.15275,
-      "end": 46.481708,
+      "start": 46.209958,
+      "end": 46.538916,
       "sourceIndex": 78
     },
     {
       "text": "alianguka",
-      "start": 46.524583,
-      "end": 47.239666,
+      "start": 46.581791,
+      "end": 47.296874,
       "sourceIndex": 79
     },
     {
       "text": "akachubuka",
-      "start": 47.282625,
-      "end": 48.026333,
+      "start": 47.339833,
+      "end": 48.083541,
       "sourceIndex": 80
     },
     {
       "text": "mguu",
-      "start": 48.054916,
-      "end": 48.426749,
+      "start": 48.112125,
+      "end": 48.483958,
       "sourceIndex": 81
     },
     {
       "text": "Shukuru",
-      "start": 49.470833,
-      "end": 50.028624,
+      "start": 49.528041,
+      "end": 50.085832,
       "sourceIndex": 82
     },
     {
       "text": "alikimbia",
-      "start": 50.143,
-      "end": 50.843791,
+      "start": 50.200208,
+      "end": 50.900999,
       "sourceIndex": 83
     },
     {
       "text": "kutoa",
-      "start": 50.872416,
-      "end": 51.258582,
+      "start": 50.929625,
+      "end": 51.315791,
       "sourceIndex": 84
     },
     {
       "text": "taarifa",
-      "start": 51.287166,
-      "end": 51.859249,
+      "start": 51.344375,
+      "end": 51.916458,
       "sourceIndex": 85
     },
     {
       "text": "kwa",
-      "start": 51.902166,
-      "end": 52.045166,
+      "start": 51.959375,
+      "end": 52.102375,
       "sourceIndex": 86
     },
     {
       "text": "mwalimu",
-      "start": 52.073791,
-      "end": 52.645874,
+      "start": 52.131,
+      "end": 52.703083,
       "sourceIndex": 87
     },
     {
       "text": "Mwalimu",
-      "start": 53.70425,
-      "end": 54.090416,
+      "start": 53.761458,
+      "end": 54.147624,
       "sourceIndex": 88
     },
     {
       "text": "na",
-      "start": 54.204791,
-      "end": 54.290582,
+      "start": 54.262,
+      "end": 54.347791,
       "sourceIndex": 89
     },
     {
       "text": "Shukuru",
-      "start": 54.319208,
-      "end": 54.848374,
+      "start": 54.376416,
+      "end": 54.905582,
       "sourceIndex": 90
     },
     {
       "text": "walielekea",
-      "start": 54.877,
-      "end": 55.606416,
+      "start": 54.934208,
+      "end": 55.663624,
       "sourceIndex": 91
     },
     {
       "text": "alipoanguka",
-      "start": 55.635,
-      "end": 56.493125,
+      "start": 55.692208,
+      "end": 56.550333,
       "sourceIndex": 92
     },
     {
       "text": "Tuli",
-      "start": 56.536041,
-      "end": 56.950791,
+      "start": 56.59325,
+      "end": 57.008,
       "sourceIndex": 93
     },
     {
       "text": "Shukuru",
-      "start": 57.994833,
-      "end": 58.495416,
+      "start": 58.052041,
+      "end": 58.552624,
       "sourceIndex": 94
     },
     {
       "text": "alichukua",
-      "start": 58.595541,
-      "end": 59.196207,
+      "start": 58.65275,
+      "end": 59.253416,
       "sourceIndex": 95
     },
     {
       "text": "sanduku",
-      "start": 59.224833,
-      "end": 59.796916,
+      "start": 59.282041,
+      "end": 59.854124,
       "sourceIndex": 96
     },
     {
       "text": "la",
-      "start": 59.8255,
-      "end": 59.925625,
+      "start": 59.882708,
+      "end": 59.982833,
       "sourceIndex": 97
     },
     {
       "text": "huduma",
-      "start": 59.95425,
-      "end": 60.383291,
+      "start": 60.011458,
+      "end": 60.440499,
       "sourceIndex": 98
     },
     {
       "text": "ya",
-      "start": 60.411916,
-      "end": 60.526332,
+      "start": 60.469125,
+      "end": 60.583541,
       "sourceIndex": 99
     },
     {
       "text": "kwanza",
-      "start": 60.554916,
-      "end": 61.084082,
+      "start": 60.612125,
+      "end": 61.141291,
       "sourceIndex": 100
     },
     {
       "text": "Shukuru",
-      "start": 62.15675,
-      "end": 62.728833,
+      "start": 62.213958,
+      "end": 62.786041,
       "sourceIndex": 101
     },
     {
       "text": "alivaa",
-      "start": 62.84325,
-      "end": 63.300916,
+      "start": 62.900458,
+      "end": 63.358124,
       "sourceIndex": 102
     },
     {
       "text": "glovu",
-      "start": 63.3295,
-      "end": 63.801458,
+      "start": 63.386708,
+      "end": 63.858666,
       "sourceIndex": 103
     },
     {
       "text": "akasafisha",
-      "start": 63.844375,
-      "end": 64.602375,
+      "start": 63.901583,
+      "end": 64.659583,
       "sourceIndex": 104
     },
     {
       "text": "michubuko",
-      "start": 64.631,
-      "end": 65.431916,
+      "start": 64.688208,
+      "end": 65.489124,
       "sourceIndex": 105
     },
     {
       "text": "Alitumia",
-      "start": 66.518875,
-      "end": 67.119541,
+      "start": 66.576083,
+      "end": 67.176749,
       "sourceIndex": 106
     },
     {
       "text": "pamba",
-      "start": 67.248291,
-      "end": 67.605832,
+      "start": 67.3055,
+      "end": 67.663041,
       "sourceIndex": 107
     },
     {
       "text": "na",
-      "start": 67.634458,
-      "end": 67.720249,
+      "start": 67.691666,
+      "end": 67.777457,
       "sourceIndex": 108
     },
     {
       "text": "spiriti",
-      "start": 67.748875,
-      "end": 68.349541,
+      "start": 67.806083,
+      "end": 68.406749,
       "sourceIndex": 109
     },
     {
       "text": "ili",
-      "start": 68.392458,
-      "end": 68.678499,
+      "start": 68.449666,
+      "end": 68.735707,
       "sourceIndex": 110
     },
     {
       "text": "kuua",
-      "start": 68.721375,
-      "end": 69.107541,
+      "start": 68.778583,
+      "end": 69.164749,
       "sourceIndex": 111
     },
     {
       "text": "vijidudu",
-      "start": 69.136166,
-      "end": 69.922791,
+      "start": 69.193375,
+      "end": 69.98,
       "sourceIndex": 112
     },
     {
       "text": "Alipomaliza",
-      "start": 71.009708,
-      "end": 71.781999,
+      "start": 71.066916,
+      "end": 71.839207,
       "sourceIndex": 113
     },
     {
       "text": "kumhudumia",
-      "start": 71.91075,
-      "end": 72.697375,
+      "start": 71.967958,
+      "end": 72.754583,
       "sourceIndex": 114
     },
     {
       "text": "Tuli",
-      "start": 72.740291,
-      "end": 73.140749,
+      "start": 72.7975,
+      "end": 73.197958,
       "sourceIndex": 115
     },
     {
       "text": "alikusanya",
-      "start": 73.255166,
-      "end": 74.056082,
+      "start": 73.312375,
+      "end": 74.113291,
       "sourceIndex": 116
     },
     {
       "text": "pamba",
-      "start": 74.098958,
-      "end": 74.456499,
+      "start": 74.156166,
+      "end": 74.513707,
       "sourceIndex": 117
     },
     {
       "text": "na",
-      "start": 74.485125,
-      "end": 74.599541,
+      "start": 74.542333,
+      "end": 74.656749,
       "sourceIndex": 118
     },
     {
       "text": "glovu",
-      "start": 74.628125,
-      "end": 75.2145,
+      "start": 74.685333,
+      "end": 75.271708,
       "sourceIndex": 119
     },
     {
       "text": "Alihifadhi",
-      "start": 76.287166,
-      "end": 76.930749,
+      "start": 76.344375,
+      "end": 76.987958,
       "sourceIndex": 120
     },
     {
       "text": "vifaa",
-      "start": 77.0595,
-      "end": 77.445666,
+      "start": 77.116708,
+      "end": 77.502874,
       "sourceIndex": 121
     },
     {
       "text": "hivyo",
-      "start": 77.47425,
-      "end": 77.803208,
+      "start": 77.531458,
+      "end": 77.860416,
       "sourceIndex": 122
     },
     {
       "text": "sehemu",
-      "start": 77.831791,
-      "end": 78.360957,
+      "start": 77.889,
+      "end": 78.418166,
       "sourceIndex": 123
     },
     {
       "text": "husika",
-      "start": 78.389583,
-      "end": 79.004583,
+      "start": 78.446791,
+      "end": 79.061791,
       "sourceIndex": 124
     },
     {
       "text": "Vilevile",
-      "start": 80.062916,
-      "end": 80.577791,
+      "start": 80.120125,
+      "end": 80.635,
       "sourceIndex": 125
     },
     {
       "text": "alinawa",
-      "start": 80.692208,
-      "end": 81.178458,
+      "start": 80.749416,
+      "end": 81.235666,
       "sourceIndex": 126
     },
     {
       "text": "mikono",
-      "start": 81.207083,
-      "end": 81.707666,
+      "start": 81.264291,
+      "end": 81.764874,
       "sourceIndex": 127
     },
     {
       "text": "kwa",
-      "start": 81.750583,
-      "end": 81.893583,
+      "start": 81.807791,
+      "end": 81.950791,
       "sourceIndex": 128
     },
     {
       "text": "maji",
-      "start": 81.922208,
-      "end": 82.265458,
+      "start": 81.979416,
+      "end": 82.322666,
       "sourceIndex": 129
     },
     {
       "text": "safi",
-      "start": 82.308333,
-      "end": 82.737374,
+      "start": 82.365541,
+      "end": 82.794582,
       "sourceIndex": 130
     },
     {
       "text": "na",
-      "start": 82.766,
-      "end": 82.851791,
+      "start": 82.823208,
+      "end": 82.908999,
       "sourceIndex": 131
     },
     {
       "text": "sabuni",
-      "start": 82.880416,
-      "end": 83.538291,
+      "start": 82.937625,
+      "end": 83.5955,
       "sourceIndex": 132
     },
     {
       "text": "Mwalimu",
-      "start": 84.611,
-      "end": 84.968541,
+      "start": 84.668208,
+      "end": 85.025749,
       "sourceIndex": 133
     },
     {
       "text": "na",
-      "start": 85.082958,
-      "end": 85.168749,
+      "start": 85.140166,
+      "end": 85.225957,
       "sourceIndex": 134
     },
     {
       "text": "Shukuru",
-      "start": 85.197375,
-      "end": 85.726541,
+      "start": 85.254583,
+      "end": 85.783749,
       "sourceIndex": 135
     },
     {
       "text": "walimpeleka",
-      "start": 85.755166,
-      "end": 86.556082,
+      "start": 85.812375,
+      "end": 86.613291,
       "sourceIndex": 136
     },
     {
       "text": "Tuli",
-      "start": 86.598958,
-      "end": 86.884999,
+      "start": 86.656166,
+      "end": 86.942207,
       "sourceIndex": 137
     },
     {
       "text": "zahanati",
-      "start": 86.913625,
-      "end": 87.5715,
+      "start": 86.970833,
+      "end": 87.628708,
       "sourceIndex": 138
     },
     {
       "text": "kupata",
-      "start": 87.600125,
-      "end": 88.072083,
+      "start": 87.657333,
+      "end": 88.129291,
       "sourceIndex": 139
     },
     {
       "text": "matibabu",
-      "start": 88.100666,
-      "end": 88.930166,
+      "start": 88.157875,
+      "end": 88.987375,
       "sourceIndex": 140
     },
     {
       "text": "Tuli",
-      "start": 89.988541,
-      "end": 90.174457,
+      "start": 90.04575,
+      "end": 90.231666,
       "sourceIndex": 141
     },
     {
       "text": "aliporudi",
-      "start": 90.303208,
-      "end": 91.032624,
+      "start": 90.360416,
+      "end": 91.089832,
       "sourceIndex": 142
     },
     {
       "text": "nyumbani",
-      "start": 91.061208,
-      "end": 91.547458,
+      "start": 91.118416,
+      "end": 91.604666,
       "sourceIndex": 143
     },
     {
       "text": "alimsimulia",
-      "start": 91.576083,
-      "end": 92.477124,
+      "start": 91.633291,
+      "end": 92.534332,
       "sourceIndex": 144
     },
     {
       "text": "mama",
-      "start": 92.505708,
-      "end": 92.791749,
+      "start": 92.562916,
+      "end": 92.848957,
       "sourceIndex": 145
     },
     {
       "text": "yake",
-      "start": 92.820375,
-      "end": 93.149333,
+      "start": 92.877583,
+      "end": 93.206541,
       "sourceIndex": 146
     },
     {
       "text": "yaliyompata",
-      "start": 93.177916,
-      "end": 94.121832,
+      "start": 93.235125,
+      "end": 94.179041,
       "sourceIndex": 147
     },
     {
       "text": "Mama",
-      "start": 95.237416,
-      "end": 95.409041,
+      "start": 95.294625,
+      "end": 95.46625,
       "sourceIndex": 148
     },
     {
       "text": "yake",
-      "start": 95.53775,
-      "end": 95.923916,
+      "start": 95.594958,
+      "end": 95.981124,
       "sourceIndex": 149
     },
     {
       "text": "alimpa",
-      "start": 95.966833,
-      "end": 96.438791,
+      "start": 96.024041,
+      "end": 96.495999,
       "sourceIndex": 150
     },
     {
       "text": "pole",
-      "start": 96.481708,
-      "end": 96.953666,
+      "start": 96.538916,
+      "end": 97.010874,
       "sourceIndex": 151
     },
     {
       "text": "Kisha",
-      "start": 98.026333,
-      "end": 98.255166,
+      "start": 98.083541,
+      "end": 98.312374,
       "sourceIndex": 152
     },
     {
       "text": "aliwashukuru",
-      "start": 98.35525,
-      "end": 99.213375,
+      "start": 98.412458,
+      "end": 99.270583,
       "sourceIndex": 153
     },
     {
       "text": "sana",
-      "start": 99.256291,
-      "end": 99.585249,
+      "start": 99.3135,
+      "end": 99.642458,
       "sourceIndex": 154
     },
     {
       "text": "Mwalimu",
-      "start": 99.613833,
-      "end": 100.128708,
+      "start": 99.671041,
+      "end": 100.185916,
       "sourceIndex": 155
     },
     {
       "text": "na",
-      "start": 100.157333,
-      "end": 100.257458,
+      "start": 100.214541,
+      "end": 100.314666,
       "sourceIndex": 156
     },
     {
       "text": "Shukuru",
-      "start": 100.286041,
-      "end": 100.972541,
+      "start": 100.34325,
+      "end": 101.02975,
       "sourceIndex": 157
     },
     {
       "text": "Aliona",
-      "start": 102.045208,
-      "end": 102.388458,
+      "start": 102.102416,
+      "end": 102.445666,
       "sourceIndex": 158
     },
     {
       "text": "umuhimu",
-      "start": 102.517166,
-      "end": 103.060624,
+      "start": 102.574375,
+      "end": 103.117833,
       "sourceIndex": 159
     },
     {
       "text": "wa",
-      "start": 103.08925,
-      "end": 103.16075,
+      "start": 103.146458,
+      "end": 103.217958,
       "sourceIndex": 160
     },
     {
       "text": "sanduku",
-      "start": 103.189375,
-      "end": 103.761458,
+      "start": 103.246583,
+      "end": 103.818666,
       "sourceIndex": 161
     },
     {
       "text": "la",
-      "start": 103.790041,
-      "end": 103.904457,
+      "start": 103.84725,
+      "end": 103.961666,
       "sourceIndex": 162
     },
     {
       "text": "huduma",
-      "start": 103.933083,
-      "end": 104.362124,
+      "start": 103.990291,
+      "end": 104.419332,
       "sourceIndex": 163
     },
     {
       "text": "ya",
-      "start": 104.39075,
-      "end": 104.505166,
+      "start": 104.447958,
+      "end": 104.562374,
       "sourceIndex": 164
     },
     {
       "text": "kwanza",
-      "start": 104.53375,
-      "end": 105.062916,
+      "start": 104.590958,
+      "end": 105.120124,
       "sourceIndex": 165
     },
     {
       "text": "Hivyo",
-      "start": 106.135583,
-      "end": 106.364416,
+      "start": 106.192791,
+      "end": 106.421624,
       "sourceIndex": 166
     },
     {
       "text": "Tuli",
-      "start": 106.478833,
-      "end": 106.793458,
+      "start": 106.536041,
+      "end": 106.850666,
       "sourceIndex": 167
     },
     {
       "text": "alitengeneza",
-      "start": 106.822083,
-      "end": 107.708791,
+      "start": 106.879291,
+      "end": 107.765999,
       "sourceIndex": 168
     },
     {
       "text": "sanduku",
-      "start": 107.737416,
-      "end": 108.309499,
+      "start": 107.794625,
+      "end": 108.366708,
       "sourceIndex": 169
     },
     {
       "text": "la",
-      "start": 108.338083,
-      "end": 108.452499,
+      "start": 108.395291,
+      "end": 108.509707,
       "sourceIndex": 170
     },
     {
       "text": "huduma",
-      "start": 108.481125,
-      "end": 108.910166,
+      "start": 108.538333,
+      "end": 108.967374,
       "sourceIndex": 171
     },
     {
       "text": "ya",
-      "start": 108.938791,
-      "end": 109.053207,
+      "start": 108.996,
+      "end": 109.110416,
       "sourceIndex": 172
     },
     {
       "text": "kwanza",
-      "start": 109.081791,
-      "end": 109.610957,
+      "start": 109.139,
+      "end": 109.668166,
       "sourceIndex": 173
     },
     {
       "text": "Mama",
-      "start": 110.71225,
-      "end": 110.883875,
+      "start": 110.769458,
+      "end": 110.941083,
       "sourceIndex": 174
     },
     {
       "text": "yake",
-      "start": 111.012583,
-      "end": 111.370124,
+      "start": 111.069791,
+      "end": 111.427332,
       "sourceIndex": 175
     },
     {
       "text": "alinunua",
-      "start": 111.413041,
-      "end": 112.042332,
+      "start": 111.47025,
+      "end": 112.099541,
       "sourceIndex": 176
     },
     {
       "text": "sabuni",
-      "start": 112.070916,
-      "end": 112.700207,
+      "start": 112.128125,
+      "end": 112.757416,
       "sourceIndex": 177
     },
     {
       "text": "pini",
-      "start": 112.814625,
-      "end": 113.186458,
+      "start": 112.871833,
+      "end": 113.243666,
       "sourceIndex": 178
     },
     {
       "text": "wembe",
-      "start": 113.315208,
-      "end": 113.687041,
+      "start": 113.372416,
+      "end": 113.744249,
       "sourceIndex": 179
     },
     {
       "text": "na",
-      "start": 113.715666,
-      "end": 113.801457,
+      "start": 113.772875,
+      "end": 113.858666,
       "sourceIndex": 180
     },
     {
       "text": "spiriti",
-      "start": 113.830083,
-      "end": 114.530874,
+      "start": 113.887291,
+      "end": 114.588082,
       "sourceIndex": 181
     },
     {
       "text": "Aliongeza",
-      "start": 115.617833,
-      "end": 116.175624,
+      "start": 115.675041,
+      "end": 116.232832,
       "sourceIndex": 182
     },
     {
       "text": "pamba",
-      "start": 116.304333,
-      "end": 116.733374,
+      "start": 116.361541,
+      "end": 116.790582,
       "sourceIndex": 183
     },
     {
       "text": "plasta",
-      "start": 116.833541,
-      "end": 117.362707,
+      "start": 116.89075,
+      "end": 117.419916,
       "sourceIndex": 184
     },
     {
       "text": "mkasi",
-      "start": 117.477125,
-      "end": 117.992,
+      "start": 117.534333,
+      "end": 118.049208,
       "sourceIndex": 185
     },
     {
       "text": "na",
-      "start": 118.020583,
-      "end": 118.134999,
+      "start": 118.077791,
+      "end": 118.192207,
       "sourceIndex": 186
     },
     {
       "text": "bandeji",
-      "start": 118.163625,
-      "end": 118.850125,
+      "start": 118.220833,
+      "end": 118.907333,
       "sourceIndex": 187
     },
     {
       "text": "Tuli",
-      "start": 119.908458,
-      "end": 120.094374,
+      "start": 119.965666,
+      "end": 120.151582,
       "sourceIndex": 188
     },
     {
       "text": "aliweka",
-      "start": 120.208791,
-      "end": 120.737957,
+      "start": 120.266,
+      "end": 120.795166,
       "sourceIndex": 189
     },
     {
       "text": "vifaa",
-      "start": 120.766583,
-      "end": 121.152749,
+      "start": 120.823791,
+      "end": 121.209957,
       "sourceIndex": 190
     },
     {
       "text": "hivyo",
-      "start": 121.181333,
-      "end": 121.553166,
+      "start": 121.238541,
+      "end": 121.610374,
       "sourceIndex": 191
     },
     {
       "text": "kwenye",
-      "start": 121.596125,
-      "end": 121.867875,
+      "start": 121.653333,
+      "end": 121.925083,
       "sourceIndex": 192
     },
     {
       "text": "sanduku",
-      "start": 121.896458,
-      "end": 122.482833,
+      "start": 121.953666,
+      "end": 122.540041,
       "sourceIndex": 193
     },
     {
       "text": "alilotengeneza",
-      "start": 122.52575,
-      "end": 123.727125,
+      "start": 122.582958,
+      "end": 123.784333,
       "sourceIndex": 194
     },
     {
       "text": "Tuli",
-      "start": 124.79975,
-      "end": 124.985666,
+      "start": 124.856958,
+      "end": 125.042874,
       "sourceIndex": 195
     },
     {
       "text": "alifurahi",
-      "start": 125.100125,
-      "end": 125.843833,
+      "start": 125.157333,
+      "end": 125.901041,
       "sourceIndex": 196
     },
     {
       "text": "sana",
-      "start": 125.872416,
-      "end": 126.387291,
+      "start": 125.929625,
+      "end": 126.4445,
       "sourceIndex": 197
     }
   ]

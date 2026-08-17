@@ -1,7 +1,7 @@
 {
-  "audio": "page-031-second-v12.mp3",
+  "audio": "page-031-ordered-v14.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 12,
+  "version": 14,
   "words": [
     {
       "text": "Kwa",
@@ -538,7 +538,7 @@
       "sourceIndex": 86
     },
     {
-      "text": "4",
+      "text": "Nne",
       "start": 53.332375,
       "end": 53.546916,
       "sourceIndex": 87

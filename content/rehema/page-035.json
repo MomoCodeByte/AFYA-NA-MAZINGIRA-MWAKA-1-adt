@@ -1,7 +1,7 @@
 {
-  "audio": "page-035-second-v12.mp3",
+  "audio": "page-035-ordered-v14.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 12,
+  "version": 14,
   "words": [
     {
       "text": "Hatua",
@@ -112,7 +112,7 @@
       "targetWord": 11
     },
     {
-      "text": "6",
+      "text": "Sita",
       "start": 6.328583,
       "end": 6.829166,
       "targetPatch": 0,

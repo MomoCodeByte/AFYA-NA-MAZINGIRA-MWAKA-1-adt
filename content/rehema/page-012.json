@@ -1,7 +1,7 @@
 {
-  "audio": "page-012-second-v12.mp3",
+  "audio": "page-012-ordered-v14.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 12,
+  "version": 14,
   "words": [
     {
       "text": "Maswali",
@@ -308,7 +308,7 @@
       "targetWord": 7
     },
     {
-      "text": "3",
+      "text": "Tatu",
       "start": 37.142458,
       "end": 37.499999,
       "sourceIndex": 47
