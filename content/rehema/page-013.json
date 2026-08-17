@@ -13,13 +13,13 @@
       "text": "la",
       "start": 0.765083,
       "end": 0.950999,
-      "sourceIndex": 1
+      "sourceIndex": 2
     },
     {
       "text": "nne",
       "start": 0.979625,
       "end": 1.351458,
-      "sourceIndex": 1
+      "sourceIndex": 3
     },
     {
       "text": "Jibu",
@@ -31,13 +31,13 @@
       "text": "maswali",
       "start": 2.846125,
       "end": 3.418208,
-      "sourceIndex": 4
+      "sourceIndex": 5
     },
     {
       "text": "haya",
       "start": 3.446791,
       "end": 3.875832,
-      "sourceIndex": 4
+      "sourceIndex": 6
     },
     {
       "text": "Oanisha",
@@ -49,91 +49,91 @@
       "text": "sehemu",
       "start": 5.463375,
       "end": 5.992541,
-      "sourceIndex": 7
+      "sourceIndex": 8
     },
     {
       "text": "ya",
       "start": 6.021166,
       "end": 6.106957,
-      "sourceIndex": 7
+      "sourceIndex": 9
     },
     {
       "text": "mwili",
       "start": 6.135583,
       "end": 6.478833,
-      "sourceIndex": 7
+      "sourceIndex": 10
     },
     {
       "text": "na",
       "start": 6.507416,
       "end": 6.621832,
-      "sourceIndex": 7
+      "sourceIndex": 11
     },
     {
       "text": "kazi",
       "start": 6.66475,
       "end": 7.036583,
-      "sourceIndex": 7
+      "sourceIndex": 12
     },
     {
       "text": "yake",
       "start": 7.065208,
       "end": 7.494249,
-      "sourceIndex": 7
+      "sourceIndex": 13
     },
     {
       "text": "Chora",
       "start": 8.552625,
       "end": 8.79575,
-      "sourceIndex": 7
+      "sourceIndex": 14
     },
     {
       "text": "mistari",
       "start": 8.895875,
       "end": 9.453666,
-      "sourceIndex": 7
+      "sourceIndex": 15
     },
     {
       "text": "kama",
       "start": 9.496583,
       "end": 9.796916,
-      "sourceIndex": 7
+      "sourceIndex": 16
     },
     {
       "text": "ilivyooneshwa",
       "start": 9.8255,
       "end": 10.869541,
-      "sourceIndex": 7
+      "sourceIndex": 17
     },
     {
       "text": "Mfano",
       "start": 11.956541,
       "end": 12.356999,
-      "sourceIndex": 7
+      "sourceIndex": 18
     },
     {
       "text": "sikio",
       "start": 12.557208,
       "end": 13.043458,
-      "sourceIndex": 7
+      "sourceIndex": 19
     },
     {
       "text": "linaoanishwa",
       "start": 13.072083,
       "end": 13.887291,
-      "sourceIndex": 7
+      "sourceIndex": 19
     },
     {
       "text": "na",
       "start": 13.915916,
       "end": 14.016041,
-      "sourceIndex": 7
+      "sourceIndex": 33
     },
     {
       "text": "kusikia",
       "start": 14.044625,
       "end": 14.774041,
-      "sourceIndex": 7
+      "sourceIndex": 21
     },
     {
       "text": "Zoezi",
@@ -451,7 +451,7 @@
       "text": "Moja",
       "start": 45.337541,
       "end": 45.780916,
-      "sourceIndex": 27
+      "sourceIndex": 21
     },
     {
       "text": "Kushika",
@@ -463,13 +463,13 @@
       "text": "vitu",
       "start": 47.45425,
       "end": 47.969125,
-      "sourceIndex": 27
+      "sourceIndex": 28
     },
     {
       "text": "Mbili",
       "start": 49.056083,
       "end": 49.470833,
-      "sourceIndex": 29
+      "sourceIndex": 28
     },
     {
       "text": "Kutembea",
@@ -481,7 +481,7 @@
       "text": "Tatu",
       "start": 52.502875,
       "end": 52.974833,
-      "sourceIndex": 30
+      "sourceIndex": 29
     },
     {
       "text": "Kunusa",
@@ -493,19 +493,19 @@
       "text": "Nne",
       "start": 55.792333,
       "end": 56.078374,
-      "sourceIndex": 31
+      "sourceIndex": 3
     },
     {
       "text": "Kusikia",
       "start": 57.20825,
       "end": 57.923333,
-      "sourceIndex": 31
+      "sourceIndex": 21
     },
     {
       "text": "Tano",
       "start": 59.081791,
       "end": 59.539457,
-      "sourceIndex": 32
+      "sourceIndex": 21
     },
     {
       "text": "Kuongea",
@@ -517,19 +517,19 @@
       "text": "na",
       "start": 61.1985,
       "end": 61.327208,
-      "sourceIndex": 32
+      "sourceIndex": 33
     },
     {
       "text": "kula",
       "start": 61.370125,
       "end": 61.885,
-      "sourceIndex": 32
+      "sourceIndex": 34
     },
     {
       "text": "Sita",
       "start": 63.000583,
       "end": 63.544041,
-      "sourceIndex": 35
+      "sourceIndex": 34
     },
     {
       "text": "Kuona",
@@ -547,127 +547,127 @@
       "text": "mwili",
       "start": 66.719125,
       "end": 67.076666,
-      "sourceIndex": 36
+      "sourceIndex": 37
     },
     {
       "text": "uweze",
       "start": 67.119583,
       "end": 67.534333,
-      "sourceIndex": 36
+      "sourceIndex": 38
     },
     {
       "text": "kukua",
       "start": 67.57725,
       "end": 68.006291,
-      "sourceIndex": 36
+      "sourceIndex": 39
     },
     {
       "text": "vizuri",
       "start": 68.034916,
       "end": 68.564082,
-      "sourceIndex": 36
+      "sourceIndex": 40
     },
     {
       "text": "unahitaji",
       "start": 68.592666,
       "end": 69.336374,
-      "sourceIndex": 36
+      "sourceIndex": 41
     },
     {
       "text": "uwe",
       "start": 69.379291,
       "end": 69.579499,
-      "sourceIndex": 36
+      "sourceIndex": 42
     },
     {
       "text": "na",
       "start": 69.608125,
       "end": 69.722541,
-      "sourceIndex": 36
+      "sourceIndex": 43
     },
     {
       "text": "afya",
       "start": 69.751125,
       "end": 70.137291,
-      "sourceIndex": 36
+      "sourceIndex": 44
     },
     {
       "text": "bora",
       "start": 70.165916,
       "end": 70.609291,
-      "sourceIndex": 36
+      "sourceIndex": 45
     },
     {
       "text": "Katika",
       "start": 71.710541,
       "end": 71.982291,
-      "sourceIndex": 36
+      "sourceIndex": 46
     },
     {
       "text": "sura",
       "start": 72.096666,
       "end": 72.468499,
-      "sourceIndex": 36
+      "sourceIndex": 47
     },
     {
       "text": "ya",
       "start": 72.497125,
       "end": 72.59725,
-      "sourceIndex": 36
+      "sourceIndex": 48
     },
     {
       "text": "pili",
       "start": 72.625875,
       "end": 72.954833,
-      "sourceIndex": 36
+      "sourceIndex": 49
     },
     {
       "text": "utajifunza",
       "start": 72.997708,
       "end": 73.812916,
-      "sourceIndex": 36
+      "sourceIndex": 50
     },
     {
       "text": "kuhusu",
       "start": 73.855833,
       "end": 74.370708,
-      "sourceIndex": 36
+      "sourceIndex": 51
     },
     {
       "text": "afya",
       "start": 74.413625,
       "end": 74.756875,
-      "sourceIndex": 36
+      "sourceIndex": 52
     },
     {
       "text": "bora",
       "start": 74.785458,
       "end": 75.128708,
-      "sourceIndex": 36
+      "sourceIndex": 53
     },
     {
       "text": "katika",
       "start": 75.171625,
       "end": 75.586375,
-      "sourceIndex": 36
+      "sourceIndex": 54
     },
     {
       "text": "mwili",
       "start": 75.615,
       "end": 75.929625,
-      "sourceIndex": 36
+      "sourceIndex": 55
     },
     {
       "text": "wa",
       "start": 75.95825,
       "end": 76.044041,
-      "sourceIndex": 36
+      "sourceIndex": 56
     },
     {
       "text": "binadamu",
       "start": 76.072666,
       "end": 76.830666,
-      "sourceIndex": 36
+      "sourceIndex": 57
     }
   ]
 }

@@ -1,8 +1,9 @@
-import html, json, re
+import html, json, re, sys
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]; OUT=ROOT/"content"/"rehema"
 PAGES=[7,*range(12,23),*range(24,30),*range(31,35),37,*range(40,49),*range(51,54),57,59,63,64,66]
+if len(sys.argv)>1: PAGES=[int(value) for value in sys.argv[1:]]
 
 def norm(value):
     value=html.unescape(value).lower().replace("â€™","'").replace("â€“","-")
