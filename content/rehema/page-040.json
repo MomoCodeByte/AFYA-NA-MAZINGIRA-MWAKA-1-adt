@@ -1,5 +1,7 @@
 {
-  "audio": "page-040.mp3",
+  "audio": "page-040-accessible-v16.mp3",
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 16,
   "words": [
     {
       "text": "Vifaa",
@@ -10,334 +12,452 @@
     {
       "text": "vinavyotumika",
       "start": 0.564875,
-      "end": 1.566,
-      "sourceIndex": 2
+      "end": 1.523125,
+      "sourceIndex": 1
     },
     {
       "text": "kusafishia",
-      "start": 1.594625,
-      "end": 2.309708,
+      "start": 1.551708,
+      "end": 2.266791,
+      "sourceIndex": 1
+    },
+    {
+      "text": "vyombo",
+      "start": 2.295416,
+      "end": 2.695874,
+      "sourceIndex": 1
+    },
+    {
+      "text": "vya",
+      "start": 2.7245,
+      "end": 2.896125,
+      "sourceIndex": 1
+    },
+    {
+      "text": "chakula",
+      "start": 2.924708,
+      "end": 3.439583,
+      "sourceIndex": 1
+    },
+    {
+      "text": "Picha",
+      "start": 3.4825,
+      "end": 3.82575,
+      "targetImage": true
+    },
+    {
+      "text": "zinaonesha",
+      "start": 3.868666,
+      "end": 4.598082,
+      "targetImage": true
+    },
+    {
+      "text": "vifaa",
+      "start": 4.640958,
+      "end": 5.012791,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 5.041416,
+      "end": 5.141541,
+      "targetImage": true
+    },
+    {
+      "text": "hatua",
+      "start": 5.170125,
+      "end": 5.584875,
+      "targetImage": true
+    },
+    {
+      "text": "za",
+      "start": 5.6135,
+      "end": 5.770833,
+      "targetImage": true
+    },
+    {
+      "text": "kuosha",
+      "start": 5.81375,
+      "end": 6.3,
+      "targetImage": true
+    },
+    {
+      "text": "vyombo",
+      "start": 6.328583,
+      "end": 6.814833,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 7.880416,
+      "end": 7.951916,
+      "targetImage": true
+    },
+    {
+      "text": "sabuni",
+      "start": 8.052041,
+      "end": 8.652707,
+      "targetImage": true
+    },
+    {
+      "text": "beseni",
+      "start": 8.752875,
+      "end": 9.353541,
+      "targetImage": true
+    },
+    {
+      "text": "ndoo",
+      "start": 9.467958,
+      "end": 9.911333,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 10.040041,
+      "end": 10.540624,
+      "targetImage": true
+    },
+    {
+      "text": "akiosha",
+      "start": 10.583541,
+      "end": 11.155624,
+      "targetImage": true
+    },
+    {
+      "text": "vyombo",
+      "start": 11.184208,
+      "end": 11.613249,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 11.641875,
+      "end": 11.770583,
+      "targetImage": true
+    },
+    {
+      "text": "kichanja",
+      "start": 11.8135,
+      "end": 12.371291,
+      "targetImage": true
+    },
+    {
+      "text": "cha",
+      "start": 12.414166,
+      "end": 12.600082,
+      "targetImage": true
+    },
+    {
+      "text": "kuanikia",
+      "start": 12.643,
+      "end": 13.315208,
+      "targetImage": true
+    },
+    {
+      "text": "vyombo",
+      "start": 13.343833,
+      "end": 13.872999,
+      "targetImage": true
+    },
+    {
+      "text": "kiosheo",
+      "start": 14.945666,
+      "end": 15.346124,
+      "sourceIndex": 2
+    },
+    {
+      "text": "sabuni",
+      "start": 15.446208,
+      "end": 15.975374,
+      "sourceIndex": 2
+    },
+    {
+      "text": "beseni",
+      "start": 16.004,
+      "end": 16.518875,
+      "sourceIndex": 2
+    },
+    {
+      "text": "Hatua",
+      "start": 16.5475,
+      "end": 16.990875,
+      "sourceIndex": 3
+    },
+    {
+      "text": "za",
+      "start": 17.019458,
+      "end": 17.176791,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kuosha",
+      "start": 17.205375,
+      "end": 17.705958,
       "sourceIndex": 3
     },
     {
       "text": "vyombo",
-      "start": 2.338333,
-      "end": 2.738791,
+      "start": 17.734541,
+      "end": 18.120707,
+      "sourceIndex": 3
+    },
+    {
+      "text": "vya",
+      "start": 18.149333,
+      "end": 18.335249,
+      "sourceIndex": 3
+    },
+    {
+      "text": "chakula",
+      "start": 18.363833,
+      "end": 18.878708,
+      "sourceIndex": 3
+    },
+    {
+      "text": "1",
+      "start": 18.907333,
+      "end": 19.364999,
       "sourceIndex": 4
     },
     {
-      "text": "vya",
-      "start": 2.767375,
-      "end": 2.953291,
+      "text": "Andaa",
+      "start": 20.451958,
+      "end": 20.709374,
       "sourceIndex": 5
     },
     {
-      "text": "chakula",
-      "start": 2.981916,
-      "end": 3.482499,
-      "sourceIndex": 6
-    },
-    {
-      "text": "kiosheo",
-      "start": 3.525416,
-      "end": 4.054582,
-      "sourceIndex": 7
-    },
-    {
-      "text": "sabuni",
-      "start": 4.083166,
-      "end": 4.612332,
-      "sourceIndex": 8
-    },
-    {
-      "text": "beseni",
-      "start": 4.65525,
-      "end": 5.184416,
-      "sourceIndex": 9
-    },
-    {
-      "text": "Hatua",
-      "start": 5.227333,
-      "end": 5.670708,
-      "sourceIndex": 10
-    },
-    {
-      "text": "za",
-      "start": 5.699333,
-      "end": 5.856666,
-      "sourceIndex": 11
-    },
-    {
-      "text": "kuosha",
-      "start": 5.899541,
-      "end": 6.385791,
-      "sourceIndex": 12
-    },
-    {
-      "text": "vyombo",
-      "start": 6.414416,
-      "end": 6.800582,
-      "sourceIndex": 13
-    },
-    {
-      "text": "vya",
-      "start": 6.829166,
-      "end": 7.000791,
-      "sourceIndex": 14
-    },
-    {
-      "text": "chakula",
-      "start": 7.029416,
-      "end": 7.630082,
-      "sourceIndex": 15
-    },
-    {
-      "text": "moja",
-      "start": 8.681333,
-      "end": 9.010291,
-      "sourceIndex": 16
-    },
-    {
-      "text": "Andaa",
-      "start": 9.196208,
-      "end": 9.596666,
-      "sourceIndex": 17
-    },
-    {
       "text": "vifaa",
-      "start": 9.625291,
-      "end": 10.025749,
-      "sourceIndex": 18
+      "start": 20.838083,
+      "end": 21.238541,
+      "sourceIndex": 5
     },
     {
       "text": "vya",
-      "start": 10.054333,
-      "end": 10.240249,
-      "sourceIndex": 19
+      "start": 21.267166,
+      "end": 21.453082,
+      "sourceIndex": 5
     },
     {
       "text": "kuoshea",
-      "start": 10.268875,
-      "end": 10.826666,
-      "sourceIndex": 20
+      "start": 21.481708,
+      "end": 22.053791,
+      "sourceIndex": 5
     },
     {
       "text": "vyombo",
-      "start": 10.85525,
-      "end": 11.384416,
-      "sourceIndex": 21
+      "start": 22.082375,
+      "end": 22.625833,
+      "sourceIndex": 5
     },
     {
-      "text": "mbili",
-      "start": 12.471375,
-      "end": 12.7145,
-      "sourceIndex": 22
+      "text": "2",
+      "start": 23.712833,
+      "end": 23.984583,
+      "sourceIndex": 6
     },
     {
       "text": "Ondoa",
-      "start": 12.943375,
-      "end": 13.343833,
-      "sourceIndex": 23
+      "start": 24.213375,
+      "end": 24.613833,
+      "sourceIndex": 7
     },
     {
       "text": "mabaki",
-      "start": 13.372416,
-      "end": 13.858666,
-      "sourceIndex": 24
+      "start": 24.642458,
+      "end": 25.128708,
+      "sourceIndex": 7
     },
     {
       "text": "ya",
-      "start": 13.887291,
-      "end": 13.973082,
-      "sourceIndex": 25
+      "start": 25.157333,
+      "end": 25.243124,
+      "sourceIndex": 7
     },
     {
       "text": "chakula",
-      "start": 14.001708,
-      "end": 14.516583,
-      "sourceIndex": 26
+      "start": 25.27175,
+      "end": 25.786625,
+      "sourceIndex": 8
     },
     {
       "text": "kwenye",
-      "start": 14.5595,
-      "end": 14.859833,
-      "sourceIndex": 27
+      "start": 25.8295,
+      "end": 26.129833,
+      "sourceIndex": 8
     },
     {
       "text": "vyombo",
-      "start": 14.888458,
-      "end": 15.403333,
-      "sourceIndex": 28
+      "start": 26.158458,
+      "end": 26.687624,
+      "sourceIndex": 9
     },
     {
-      "text": "tatu",
-      "start": 16.504583,
-      "end": 16.819208,
-      "sourceIndex": 29
+      "text": "3",
+      "start": 27.774583,
+      "end": 28.103541,
+      "sourceIndex": 10
     },
     {
       "text": "Tumia",
-      "start": 17.048041,
-      "end": 17.434207,
-      "sourceIndex": 30
+      "start": 28.332375,
+      "end": 28.718541,
+      "sourceIndex": 11
     },
     {
       "text": "sabuni",
-      "start": 17.462833,
-      "end": 17.977708,
-      "sourceIndex": 31
+      "start": 28.747125,
+      "end": 29.262,
+      "sourceIndex": 11
     },
     {
       "text": "na",
-      "start": 18.006291,
-      "end": 18.120707,
-      "sourceIndex": 32
+      "start": 29.290625,
+      "end": 29.405041,
+      "sourceIndex": 11
     },
     {
       "text": "kiosheo",
-      "start": 18.163625,
-      "end": 18.75,
-      "sourceIndex": 33
+      "start": 29.447958,
+      "end": 30.020041,
+      "sourceIndex": 12
     },
     {
       "text": "kuosha",
-      "start": 18.778583,
-      "end": 19.279166,
-      "sourceIndex": 34
+      "start": 30.048625,
+      "end": 30.549208,
+      "sourceIndex": 12
     },
     {
       "text": "chombo",
-      "start": 19.322083,
-      "end": 19.693916,
-      "sourceIndex": 35
+      "start": 30.592125,
+      "end": 30.949666,
+      "sourceIndex": 12
     },
     {
       "text": "kimojakimoja",
-      "start": 19.736833,
-      "end": 20.895291,
-      "sourceIndex": 36
+      "start": 30.992541,
+      "end": 32.150999,
+      "sourceIndex": 13
     },
     {
-      "text": "nne",
-      "start": 21.967958,
-      "end": 22.168166,
-      "sourceIndex": 37
+      "text": "4",
+      "start": 33.223666,
+      "end": 33.452499,
+      "sourceIndex": 14
     },
     {
       "text": "Suuza",
-      "start": 22.339833,
-      "end": 22.911916,
-      "sourceIndex": 38
+      "start": 33.65275,
+      "end": 34.224833,
+      "sourceIndex": 15
     },
     {
       "text": "vyombo",
-      "start": 22.9405,
-      "end": 23.35525,
-      "sourceIndex": 39
+      "start": 34.253416,
+      "end": 34.668166,
+      "sourceIndex": 15
     },
     {
       "text": "kwenye",
-      "start": 23.383875,
-      "end": 23.655625,
-      "sourceIndex": 40
+      "start": 34.696791,
+      "end": 34.968541,
+      "sourceIndex": 15
     },
     {
       "text": "maji",
-      "start": 23.684208,
-      "end": 24.041749,
-      "sourceIndex": 41
+      "start": 34.997125,
+      "end": 35.368958,
+      "sourceIndex": 15
     },
     {
       "text": "safi",
-      "start": 24.084666,
-      "end": 24.656749,
-      "sourceIndex": 42
+      "start": 35.411916,
+      "end": 35.969707,
+      "sourceIndex": 15
     },
     {
-      "text": "tano",
-      "start": 25.729416,
-      "end": 26.015457,
-      "sourceIndex": 43
+      "text": "5",
+      "start": 37.042333,
+      "end": 37.328374,
+      "sourceIndex": 16
     },
     {
       "text": "Kausha",
-      "start": 26.215666,
-      "end": 26.687624,
-      "sourceIndex": 44
+      "start": 37.542916,
+      "end": 38.014874,
+      "sourceIndex": 17
     },
     {
       "text": "vyombo",
-      "start": 26.71625,
-      "end": 27.131,
-      "sourceIndex": 45
+      "start": 38.043458,
+      "end": 38.429624,
+      "sourceIndex": 17
     },
     {
       "text": "kwa",
-      "start": 27.159625,
-      "end": 27.316958,
-      "sourceIndex": 46
+      "start": 38.45825,
+      "end": 38.615583,
+      "sourceIndex": 17
     },
     {
       "text": "kutumia",
-      "start": 27.345541,
-      "end": 27.888999,
-      "sourceIndex": 47
+      "start": 38.644166,
+      "end": 39.173332,
+      "sourceIndex": 17
     },
     {
       "text": "kitamba",
-      "start": 27.931916,
-      "end": 28.403874,
-      "sourceIndex": 48
+      "start": 39.21625,
+      "end": 39.688208,
+      "sourceIndex": 17
     },
     {
       "text": "safi",
-      "start": 28.4325,
-      "end": 28.975958,
-      "sourceIndex": 49
+      "start": 39.716833,
+      "end": 40.245999,
+      "sourceIndex": 17
     },
     {
       "text": "Kama",
-      "start": 30.034333,
-      "end": 30.191666,
-      "sourceIndex": 50
+      "start": 41.304333,
+      "end": 41.461666,
+      "sourceIndex": 18
     },
     {
       "text": "huna",
-      "start": 30.306083,
-      "end": 30.592124,
-      "sourceIndex": 51
+      "start": 41.576083,
+      "end": 41.862124,
+      "sourceIndex": 18
     },
     {
       "text": "kitambaa",
-      "start": 30.635,
-      "end": 31.178458,
-      "sourceIndex": 52
+      "start": 41.905041,
+      "end": 42.448499,
+      "sourceIndex": 19
     },
     {
       "text": "anika",
-      "start": 31.207083,
-      "end": 31.593249,
-      "sourceIndex": 53
+      "start": 42.477125,
+      "end": 42.863291,
+      "sourceIndex": 19
     },
     {
       "text": "vyombo",
-      "start": 31.621833,
-      "end": 32.036583,
-      "sourceIndex": 54
+      "start": 42.891875,
+      "end": 43.306625,
+      "sourceIndex": 19
     },
     {
       "text": "kwenye",
-      "start": 32.065208,
-      "end": 32.351249,
-      "sourceIndex": 55
+      "start": 43.33525,
+      "end": 43.621291,
+      "sourceIndex": 19
     },
     {
       "text": "kichanja",
-      "start": 32.394166,
-      "end": 33.123582,
-      "sourceIndex": 56
+      "start": 43.664166,
+      "end": 44.393582,
+      "sourceIndex": 19
     }
-  ],
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 7
+  ]
 }

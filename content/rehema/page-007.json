@@ -1,211 +1,318 @@
 {
-  "audio": "page-007.mp3",
+  "audio": "page-007-accessible-v16.mp3",
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 16,
   "words": [
     {
       "text": "Sura",
       "start": 0.178708,
-      "end": 0.479041,
+      "end": 0.507666,
       "sourceIndex": 1
     },
     {
       "text": "ya",
-      "start": 0.579166,
-      "end": 0.679291,
-      "sourceIndex": 2
+      "start": 0.607791,
+      "end": 0.707916,
+      "sourceIndex": 1
     },
     {
       "text": "Kwanza",
-      "start": 0.707875,
-      "end": 1.065416,
-      "sourceIndex": 3
+      "start": 0.7365,
+      "end": 1.122666,
+      "sourceIndex": 1
+    },
+    {
+      "text": "Picha",
+      "start": 1.165541,
+      "end": 1.508791,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 1.537416,
+      "end": 2.166707,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 2.195291,
+      "end": 2.581457,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 2.610083,
+      "end": 2.695874,
+      "targetImage": true
+    },
+    {
+      "text": "kike",
+      "start": 2.7245,
+      "end": 3.082041,
+      "targetImage": true
+    },
+    {
+      "text": "aliyesimama",
+      "start": 3.124958,
+      "end": 4.054583,
+      "targetImage": true
+    },
+    {
+      "text": "Ana",
+      "start": 5.177333,
+      "end": 5.291749,
+      "targetImage": true
+    },
+    {
+      "text": "kichwa",
+      "start": 5.434791,
+      "end": 5.863832,
+      "targetImage": true
+    },
+    {
+      "text": "macho",
+      "start": 5.97825,
+      "end": 6.450208,
+      "targetImage": true
+    },
+    {
+      "text": "masikio",
+      "start": 6.578958,
+      "end": 7.308374,
+      "targetImage": true
+    },
+    {
+      "text": "pua",
+      "start": 7.42275,
+      "end": 7.851791,
+      "targetImage": true
+    },
+    {
+      "text": "mdomo",
+      "start": 8.009166,
+      "end": 8.638457,
+      "targetImage": true
+    },
+    {
+      "text": "mikono",
+      "start": 8.79575,
+      "end": 9.382125,
+      "targetImage": true
+    },
+    {
+      "text": "vidole",
+      "start": 9.496583,
+      "end": 10.068666,
+      "targetImage": true
+    },
+    {
+      "text": "tumbo",
+      "start": 10.225958,
+      "end": 10.654999,
+      "targetImage": true
+    },
+    {
+      "text": "miguu",
+      "start": 10.78375,
+      "end": 11.1985,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 11.227125,
+      "end": 11.341541,
+      "targetImage": true
+    },
+    {
+      "text": "nyayo",
+      "start": 11.370125,
+      "end": 11.856375,
+      "targetImage": true
     },
     {
       "text": "Mwili",
-      "start": 1.108333,
-      "end": 1.422958,
+      "start": 12.943375,
+      "end": 13.129291,
+      "sourceIndex": 2
+    },
+    {
+      "text": "wa",
+      "start": 13.243708,
+      "end": 13.315208,
+      "sourceIndex": 2
+    },
+    {
+      "text": "binadamu",
+      "start": 13.343833,
+      "end": 13.973124,
+      "sourceIndex": 2
+    },
+    {
+      "text": "Utangulizi",
+      "start": 14.001708,
+      "end": 14.745416,
+      "sourceIndex": 3
+    },
+    {
+      "text": "Katika",
+      "start": 14.788333,
+      "end": 15.203083,
+      "sourceIndex": 4
+    },
+    {
+      "text": "sura",
+      "start": 15.231708,
+      "end": 15.646458,
+      "sourceIndex": 4
+    },
+    {
+      "text": "hii",
+      "start": 15.675041,
+      "end": 15.946791,
+      "sourceIndex": 4
+    },
+    {
+      "text": "utajifunza",
+      "start": 15.989708,
+      "end": 16.833541,
+      "sourceIndex": 4
+    },
+    {
+      "text": "kuhusu",
+      "start": 16.876416,
+      "end": 17.348374,
+      "sourceIndex": 4
+    },
+    {
+      "text": "mwili",
+      "start": 17.391291,
+      "end": 17.720249,
       "sourceIndex": 4
     },
     {
       "text": "wa",
-      "start": 1.451583,
-      "end": 1.523083,
+      "start": 17.748875,
+      "end": 17.834666,
+      "sourceIndex": 4
+    },
+    {
+      "text": "binadamu",
+      "start": 17.863291,
+      "end": 18.606999,
+      "sourceIndex": 4
+    },
+    {
+      "text": "Utabaini",
+      "start": 18.75,
+      "end": 19.379291,
+      "sourceIndex": 5
+    },
+    {
+      "text": "sehemu",
+      "start": 19.407875,
+      "end": 19.937041,
+      "sourceIndex": 5
+    },
+    {
+      "text": "za",
+      "start": 19.965666,
+      "end": 20.122999,
+      "sourceIndex": 5
+    },
+    {
+      "text": "nje",
+      "start": 20.165916,
+      "end": 20.409041,
+      "sourceIndex": 5
+    },
+    {
+      "text": "za",
+      "start": 20.437625,
+      "end": 20.580625,
+      "sourceIndex": 5
+    },
+    {
+      "text": "mwili",
+      "start": 20.60925,
+      "end": 20.923875,
+      "sourceIndex": 5
+    },
+    {
+      "text": "wa",
+      "start": 20.9525,
+      "end": 21.038291,
       "sourceIndex": 5
     },
     {
       "text": "binadamu",
-      "start": 1.551708,
-      "end": 2.195291,
+      "start": 21.066916,
+      "end": 21.839207,
       "sourceIndex": 6
     },
     {
-      "text": "Utangulizi",
-      "start": 2.238208,
-      "end": 2.967624,
-      "sourceIndex": 7
-    },
-    {
-      "text": "Katika",
-      "start": 3.010541,
-      "end": 3.425291,
-      "sourceIndex": 8
-    },
-    {
-      "text": "sura",
-      "start": 3.453875,
-      "end": 3.868625,
-      "sourceIndex": 9
-    },
-    {
-      "text": "hii",
-      "start": 3.89725,
-      "end": 4.154666,
-      "sourceIndex": 10
-    },
-    {
-      "text": "utajifunza",
-      "start": 4.197583,
-      "end": 5.041416,
-      "sourceIndex": 11
-    },
-    {
-      "text": "kuhusu",
-      "start": 5.084333,
-      "end": 5.556291,
-      "sourceIndex": 12
-    },
-    {
-      "text": "mwili",
-      "start": 5.599208,
-      "end": 5.928166,
-      "sourceIndex": 13
-    },
-    {
-      "text": "wa",
-      "start": 5.95675,
-      "end": 6.042541,
-      "sourceIndex": 14
-    },
-    {
-      "text": "binadamu",
-      "start": 6.071166,
-      "end": 6.829166,
-      "sourceIndex": 15
-    },
-    {
-      "text": "Utabaini",
-      "start": 6.957875,
-      "end": 7.587166,
-      "sourceIndex": 16
-    },
-    {
-      "text": "sehemu",
-      "start": 7.615791,
-      "end": 8.087749,
-      "sourceIndex": 17
-    },
-    {
-      "text": "za",
-      "start": 8.116375,
-      "end": 8.273708,
-      "sourceIndex": 18
-    },
-    {
-      "text": "nje",
-      "start": 8.316583,
-      "end": 8.559708,
-      "sourceIndex": 19
-    },
-    {
-      "text": "za",
-      "start": 8.588333,
-      "end": 8.731333,
-      "sourceIndex": 20
-    },
-    {
-      "text": "mwili",
-      "start": 8.759958,
-      "end": 9.074583,
-      "sourceIndex": 21
-    },
-    {
-      "text": "wa",
-      "start": 9.103208,
-      "end": 9.188999,
-      "sourceIndex": 22
-    },
-    {
-      "text": "binadamu",
-      "start": 9.217625,
-      "end": 9.989916,
-      "sourceIndex": 23
-    },
-    {
       "text": "Vilevile",
-      "start": 11.026875,
-      "end": 11.527458,
-      "sourceIndex": 24
+      "start": 22.869,
+      "end": 23.369583,
+      "sourceIndex": 6
     },
     {
       "text": "utaelezea",
-      "start": 11.641875,
-      "end": 12.371291,
-      "sourceIndex": 25
+      "start": 23.484,
+      "end": 24.213416,
+      "sourceIndex": 6
     },
     {
       "text": "kazi",
-      "start": 12.414166,
-      "end": 12.757416,
-      "sourceIndex": 26
+      "start": 24.256291,
+      "end": 24.599541,
+      "sourceIndex": 7
     },
     {
       "text": "za",
-      "start": 12.786041,
-      "end": 12.943374,
-      "sourceIndex": 27
+      "start": 24.628166,
+      "end": 24.785499,
+      "sourceIndex": 7
     },
     {
       "text": "sehemu",
-      "start": 12.971958,
-      "end": 13.501124,
-      "sourceIndex": 28
+      "start": 24.814083,
+      "end": 25.343249,
+      "sourceIndex": 7
     },
     {
       "text": "za",
-      "start": 13.52975,
-      "end": 13.687083,
-      "sourceIndex": 29
+      "start": 25.371833,
+      "end": 25.529166,
+      "sourceIndex": 7
     },
     {
       "text": "nje",
-      "start": 13.729958,
-      "end": 13.973083,
-      "sourceIndex": 30
+      "start": 25.572083,
+      "end": 25.815208,
+      "sourceIndex": 7
     },
     {
       "text": "za",
-      "start": 14.001708,
-      "end": 14.144708,
-      "sourceIndex": 31
+      "start": 25.843833,
+      "end": 25.986833,
+      "sourceIndex": 7
     },
     {
       "text": "mwili",
-      "start": 14.173333,
-      "end": 14.487958,
-      "sourceIndex": 32
+      "start": 26.015458,
+      "end": 26.330083,
+      "sourceIndex": 7
     },
     {
       "text": "wa",
-      "start": 14.516583,
-      "end": 14.602374,
-      "sourceIndex": 33
+      "start": 26.358708,
+      "end": 26.444499,
+      "sourceIndex": 7
     },
     {
       "text": "binadamu",
-      "start": 14.631,
-      "end": 15.403291,
-      "sourceIndex": 33
+      "start": 26.473125,
+      "end": 27.245416
     }
-  ],
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 7
+  ]
 }

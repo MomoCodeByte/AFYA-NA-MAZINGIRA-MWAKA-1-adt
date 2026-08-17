@@ -1,73 +1,199 @@
 {
-  "audio": "page-021.mp3",
+  "audio": "page-021-accessible-v16.mp3",
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 16,
   "words": [
     {
       "text": "Madhara",
       "start": 0.193,
-      "end": 0.53625,
-      "sourceIndex": 2
+      "end": 0.521958,
+      "sourceIndex": 1
     },
     {
       "text": "ya",
-      "start": 0.650666,
-      "end": 0.765082,
-      "sourceIndex": 3
+      "start": 0.636375,
+      "end": 0.7365,
+      "sourceIndex": 1
     },
     {
       "text": "kula",
-      "start": 0.793708,
-      "end": 1.108333,
-      "sourceIndex": 4
+      "start": 0.765083,
+      "end": 1.065416,
+      "sourceIndex": 1
     },
     {
       "text": "matunda",
-      "start": 1.136958,
-      "end": 1.623208,
-      "sourceIndex": 5
+      "start": 1.094041,
+      "end": 1.565999,
+      "sourceIndex": 1
     },
     {
       "text": "bila",
-      "start": 1.651833,
-      "end": 1.952166,
-      "sourceIndex": 6
+      "start": 1.594625,
+      "end": 1.894958,
+      "sourceIndex": 1
     },
     {
       "text": "kusafisha",
-      "start": 1.980791,
-      "end": 2.767416,
-      "sourceIndex": 7
+      "start": 1.923583,
+      "end": 2.624374,
+      "sourceIndex": 1
     },
     {
-      "text": "moja",
-      "start": 3.861541,
-      "end": 4.304916,
-      "sourceIndex": 8
+      "text": "Picha",
+      "start": 2.667291,
+      "end": 3.010541,
+      "targetImage": true
     },
     {
-      "text": "mbili",
-      "start": 5.506291,
-      "end": 5.921041,
-      "sourceIndex": 9
+      "text": "zinaonesha",
+      "start": 3.039125,
+      "end": 3.754208,
+      "targetImage": true
     },
     {
-      "text": "tatu",
-      "start": 7.108125,
-      "end": 7.580083,
-      "sourceIndex": 10
+      "text": "madhara",
+      "start": 3.782833,
+      "end": 4.226208,
+      "targetImage": true
     },
     {
-      "text": "nne",
-      "start": 8.767166,
-      "end": 9.053207,
-      "sourceIndex": 11
+      "text": "ya",
+      "start": 4.254791,
+      "end": 4.354916,
+      "targetImage": true
     },
     {
-      "text": "tano",
-      "start": 10.197375,
-      "end": 10.64075,
-      "sourceIndex": 12
+      "text": "kula",
+      "start": 4.383541,
+      "end": 4.683874,
+      "targetImage": true
+    },
+    {
+      "text": "matunda",
+      "start": 4.712458,
+      "end": 5.213041,
+      "targetImage": true
+    },
+    {
+      "text": "bila",
+      "start": 5.255958,
+      "end": 5.541999,
+      "targetImage": true
+    },
+    {
+      "text": "kusafisha",
+      "start": 5.584916,
+      "end": 6.314332,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 7.394166,
+      "end": 7.494291,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 7.594375,
+      "end": 8.009125,
+      "targetImage": true
+    },
+    {
+      "text": "mwenye",
+      "start": 8.052041,
+      "end": 8.309457,
+      "targetImage": true
+    },
+    {
+      "text": "maumivu",
+      "start": 8.338083,
+      "end": 8.881541,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 8.910166,
+      "end": 8.995957,
+      "targetImage": true
+    },
+    {
+      "text": "tumbo",
+      "start": 9.038916,
+      "end": 9.496582,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 9.596666,
+      "end": 10.054332,
+      "targetImage": true
+    },
+    {
+      "text": "anayetapika",
+      "start": 10.082958,
+      "end": 10.969666,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 11.112708,
+      "end": 11.584666,
+      "targetImage": true
+    },
+    {
+      "text": "anayeharisha",
+      "start": 11.613291,
+      "end": 12.471416,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 12.5,
+      "end": 12.585791,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 12.614416,
+      "end": 13.072082,
+      "targetImage": true
+    },
+    {
+      "text": "anayejisaidia",
+      "start": 13.115,
+      "end": 14.14475,
+      "targetImage": true
+    },
+    {
+      "text": "chooni",
+      "start": 14.187625,
+      "end": 14.716791,
+      "targetImage": true
+    },
+    {
+      "text": "1",
+      "start": 15.775166,
+      "end": 16.018291,
+      "sourceIndex": 2
+    },
+    {
+      "text": "2",
+      "start": 16.132708,
+      "end": 16.475958,
+      "sourceIndex": 2
+    },
+    {
+      "text": "3",
+      "start": 16.518875,
+      "end": 16.905041,
+      "sourceIndex": 3
+    },
+    {
+      "text": "4",
+      "start": 16.933625,
+      "end": 17.276875,
+      "sourceIndex": 3
     }
-  ],
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 7
+  ]
 }
