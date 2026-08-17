@@ -2,7 +2,7 @@ import asyncio, html, json, re
 from pathlib import Path
 import edge_tts
 
-ROOT=Path(__file__).resolve().parents[1]; OUT=ROOT/"content"/"rehema"; VOICE="sw-TZ-RehemaNeural"; VERSION=16
+ROOT=Path(__file__).resolve().parents[1]; OUT=ROOT/"content"/"rehema"; VOICE="sw-TZ-RehemaNeural"; VERSION=17
 
 DESCRIPTIONS={
 7:["Picha inaonesha mtoto wa kike aliyesimama. Ana kichwa, macho, masikio, pua, mdomo, mikono, vidole, tumbo, miguu na nyayo."],
@@ -59,10 +59,9 @@ def transcript(page):
 
 async def generate(page, sem):
     nodes=transcript(page); segments=[]
-    if nodes: segments.append((nodes[0][1],"source",1))
+    for i,(_,text) in enumerate(nodes,1): segments.append((text,"source",i))
     for desc in DESCRIPTIONS[page]: segments.append((desc,"image",None))
-    for i,(_,text) in enumerate(nodes[1:],2): segments.append((text,"source",i))
-    full=" ".join(x[0] for x in segments); cues=[]; name=f"page-{page:03d}-accessible-v16.mp3"
+    full=" ".join(x[0] for x in segments); cues=[]; name=f"page-{page:03d}-accessible-v17.mp3"
     async with sem:
         stream=edge_tts.Communicate(full,VOICE,rate="-8%",boundary="WordBoundary")
         with (OUT/name).open("wb") as audio:

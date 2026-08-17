@@ -1,193 +1,193 @@
 {
-  "audio": "page-063-accessible-v16.mp3",
+  "audio": "page-063-accessible-v17.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "version": 17,
   "words": [
     {
       "text": "3",
       "start": 0.193,
-      "end": 0.521958,
+      "end": 0.579166,
       "sourceIndex": 1
     },
     {
-      "text": "Jedwali",
-      "start": 0.7365,
-      "end": 1.294291,
-      "targetImage": true
-    },
-    {
-      "text": "lina",
-      "start": 1.322875,
-      "end": 1.594625,
-      "targetImage": true
-    },
-    {
-      "text": "wanyama",
-      "start": 1.623208,
-      "end": 2.037958,
-      "targetImage": true
-    },
-    {
-      "text": "wa",
-      "start": 2.080875,
-      "end": 2.166666,
-      "targetImage": true
-    },
-    {
-      "text": "kufugwa",
-      "start": 2.195291,
-      "end": 2.724457,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 2.753083,
-      "end": 2.853208,
-      "targetImage": true
-    },
-    {
-      "text": "wanyama",
-      "start": 2.881791,
-      "end": 3.339457,
-      "targetImage": true
-    },
-    {
-      "text": "wa",
-      "start": 3.368083,
-      "end": 3.468208,
-      "targetImage": true
-    },
-    {
-      "text": "porini",
-      "start": 3.496791,
-      "end": 4.097457,
-      "targetImage": true
-    },
-    {
-      "text": "Kuna",
-      "start": 5.163041,
-      "end": 5.263166,
-      "targetImage": true
-    },
-    {
-      "text": "farasi",
-      "start": 5.363291,
-      "end": 5.978291,
-      "targetImage": true
-    },
-    {
-      "text": "pundamilia",
-      "start": 6.092666,
-      "end": 6.936499,
-      "targetImage": true
-    },
-    {
-      "text": "mbwa",
-      "start": 7.093833,
-      "end": 7.479999,
-      "targetImage": true
-    },
-    {
-      "text": "paka",
-      "start": 7.608708,
-      "end": 7.994874,
-      "targetImage": true
-    },
-    {
-      "text": "twiga",
-      "start": 8.195083,
-      "end": 8.667041,
-      "targetImage": true
-    },
-    {
-      "text": "ng'ombe",
-      "start": 8.810083,
-      "end": 9.310666,
-      "targetImage": true
-    },
-    {
-      "text": "kiboko",
-      "start": 9.496583,
-      "end": 10.111583,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 10.140166,
-      "end": 10.254582,
-      "targetImage": true
-    },
-    {
-      "text": "wanyama",
-      "start": 10.283166,
-      "end": 10.740832,
-      "targetImage": true
-    },
-    {
-      "text": "wengine",
-      "start": 10.769458,
-      "end": 11.355833,
-      "targetImage": true
-    },
-    {
       "text": "4",
-      "start": 12.442791,
-      "end": 12.714541,
+      "start": 0.793708,
+      "end": 1.265666,
       "sourceIndex": 2
     },
     {
       "text": "6",
-      "start": 12.971958,
-      "end": 13.629833,
+      "start": 2.40275,
+      "end": 2.903333,
       "sourceIndex": 3
     },
     {
       "text": "5",
-      "start": 14.745416,
-      "end": 15.074374,
+      "start": 3.16075,
+      "end": 3.732833,
       "sourceIndex": 4
     },
     {
       "text": "Jadili",
-      "start": 15.303208,
-      "end": 15.803791,
+      "start": 4.819791,
+      "end": 5.220249,
       "sourceIndex": 5
     },
     {
       "text": "na",
-      "start": 15.832375,
-      "end": 15.9325,
+      "start": 5.320375,
+      "end": 5.406166,
       "sourceIndex": 5
     },
     {
       "text": "wenzako",
-      "start": 15.961083,
-      "end": 16.461666,
+      "start": 5.434791,
+      "end": 5.935374,
       "sourceIndex": 5
     },
     {
       "text": "sifa",
-      "start": 16.504583,
-      "end": 16.890749,
+      "start": 5.963958,
+      "end": 6.335791,
       "sourceIndex": 5
     },
     {
       "text": "za",
-      "start": 16.919333,
-      "end": 17.062333,
+      "start": 6.364416,
+      "end": 6.493124,
       "sourceIndex": 5
     },
     {
       "text": "wanyama",
-      "start": 17.090958,
-      "end": 17.534333,
+      "start": 6.52175,
+      "end": 6.950791,
       "sourceIndex": 5
     },
     {
       "text": "wafuatao",
-      "start": 17.57725,
-      "end": 18.392458,
+      "start": 6.979416,
+      "end": 7.708832,
       "sourceIndex": 5
+    },
+    {
+      "text": "Jedwali",
+      "start": 7.909041,
+      "end": 8.466832,
+      "targetImage": true
+    },
+    {
+      "text": "lina",
+      "start": 8.509708,
+      "end": 8.795749,
+      "targetImage": true
+    },
+    {
+      "text": "wanyama",
+      "start": 8.824375,
+      "end": 9.239125,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 9.282041,
+      "end": 9.367832,
+      "targetImage": true
+    },
+    {
+      "text": "kufugwa",
+      "start": 9.396458,
+      "end": 9.939916,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 9.968541,
+      "end": 10.068666,
+      "targetImage": true
+    },
+    {
+      "text": "wanyama",
+      "start": 10.09725,
+      "end": 10.526291,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 10.554916,
+      "end": 10.655041,
+      "targetImage": true
+    },
+    {
+      "text": "porini",
+      "start": 10.697958,
+      "end": 11.270041,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 12.314083,
+      "end": 12.414208,
+      "targetImage": true
+    },
+    {
+      "text": "farasi",
+      "start": 12.514291,
+      "end": 13.129291,
+      "targetImage": true
+    },
+    {
+      "text": "pundamilia",
+      "start": 13.243708,
+      "end": 14.087541,
+      "targetImage": true
+    },
+    {
+      "text": "mbwa",
+      "start": 14.244833,
+      "end": 14.630999,
+      "targetImage": true
+    },
+    {
+      "text": "paka",
+      "start": 14.759708,
+      "end": 15.145874,
+      "targetImage": true
+    },
+    {
+      "text": "twiga",
+      "start": 15.346125,
+      "end": 15.818083,
+      "targetImage": true
+    },
+    {
+      "text": "ng'ombe",
+      "start": 15.961083,
+      "end": 16.461666,
+      "targetImage": true
+    },
+    {
+      "text": "kiboko",
+      "start": 16.647583,
+      "end": 17.262583,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 17.291208,
+      "end": 17.405624,
+      "targetImage": true
+    },
+    {
+      "text": "wanyama",
+      "start": 17.434208,
+      "end": 17.891874,
+      "targetImage": true
+    },
+    {
+      "text": "wengine",
+      "start": 17.9205,
+      "end": 18.506875,
+      "targetImage": true
     }
   ]
 }

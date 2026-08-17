@@ -1,367 +1,367 @@
 {
-  "audio": "page-047-accessible-v16.mp3",
+  "audio": "page-047-accessible-v17.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "version": 17,
   "words": [
     {
       "text": "Zoezi",
       "start": 0.178708,
-      "end": 0.564874,
+      "end": 0.579166,
       "sourceIndex": 1
     },
     {
       "text": "la",
-      "start": 0.665,
-      "end": 0.808,
+      "start": 0.679291,
+      "end": 0.836624,
       "sourceIndex": 1
     },
     {
       "text": "12",
-      "start": 0.850916,
-      "end": 1.666125,
+      "start": 0.8795,
+      "end": 1.666124,
       "sourceIndex": 1
     },
     {
-      "text": "Picha",
-      "start": 1.709041,
-      "end": 2.052291,
-      "targetImage": true
-    },
-    {
-      "text": "zinaonesha",
-      "start": 2.080875,
-      "end": 2.795958,
-      "targetImage": true
-    },
-    {
-      "text": "vifaa",
-      "start": 2.824583,
-      "end": 3.182124,
-      "targetImage": true
-    },
-    {
-      "text": "vya",
-      "start": 3.21075,
-      "end": 3.382375,
-      "targetImage": true
-    },
-    {
-      "text": "kusafisha",
-      "start": 3.411,
-      "end": 4.040291,
-      "targetImage": true
-    },
-    {
-      "text": "mazingira",
-      "start": 4.068875,
-      "end": 4.783958,
-      "targetImage": true
-    },
-    {
-      "text": "Kuna",
-      "start": 5.849541,
-      "end": 5.949666,
-      "targetImage": true
-    },
-    {
-      "text": "ndoo",
-      "start": 6.049791,
-      "end": 6.435957,
-      "targetImage": true
-    },
-    {
-      "text": "ufagio",
-      "start": 6.550333,
-      "end": 7.279749,
-      "targetImage": true
-    },
-    {
-      "text": "reki",
-      "start": 7.437083,
-      "end": 7.880458,
-      "targetImage": true
-    },
-    {
-      "text": "koleo",
-      "start": 7.994833,
-      "end": 8.552624,
-      "targetImage": true
-    },
-    {
-      "text": "brashi",
-      "start": 8.65275,
-      "end": 9.26775,
-      "targetImage": true
-    },
-    {
-      "text": "pipa",
-      "start": 9.382166,
-      "end": 9.725416,
-      "targetImage": true
-    },
-    {
-      "text": "la",
-      "start": 9.754,
-      "end": 9.882708,
-      "targetImage": true
-    },
-    {
-      "text": "takataka",
-      "start": 9.925625,
-      "end": 10.540625,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 10.569208,
-      "end": 10.683624,
-      "targetImage": true
-    },
-    {
-      "text": "vifaa",
-      "start": 10.71225,
-      "end": 11.069791,
-      "targetImage": true
-    },
-    {
-      "text": "vingine",
-      "start": 11.098416,
-      "end": 11.541791,
-      "targetImage": true
-    },
-    {
-      "text": "vya",
-      "start": 11.584666,
-      "end": 11.727666,
-      "targetImage": true
-    },
-    {
-      "text": "kukusanyia",
-      "start": 11.770583,
-      "end": 12.471374,
-      "targetImage": true
-    },
-    {
-      "text": "uchafu",
-      "start": 12.5,
-      "end": 13.115,
-      "targetImage": true
-    },
-    {
       "text": "Jaza",
-      "start": 14.159041,
-      "end": 14.445082,
+      "start": 1.709041,
+      "end": 2.080874,
       "sourceIndex": 2
     },
     {
       "text": "nafasi",
-      "start": 14.545208,
-      "end": 15.074374,
+      "start": 2.1095,
+      "end": 2.624375,
       "sourceIndex": 2
     },
     {
       "text": "kwa",
-      "start": 15.117291,
-      "end": 15.260291,
+      "start": 2.667291,
+      "end": 2.810291,
       "sourceIndex": 2
     },
     {
       "text": "kuchagua",
-      "start": 15.288916,
-      "end": 15.875291,
+      "start": 2.838916,
+      "end": 3.425291,
       "sourceIndex": 2
     },
     {
       "text": "jibu",
-      "start": 15.903875,
-      "end": 16.290041,
+      "start": 3.453875,
+      "end": 3.825708,
       "sourceIndex": 2
     },
     {
       "text": "sahihi",
-      "start": 16.332958,
-      "end": 16.919333,
+      "start": 3.854333,
+      "end": 4.440708,
       "sourceIndex": 2
     },
     {
       "text": "Dodoki",
-      "start": 17.977708,
-      "end": 18.549791,
+      "start": 5.506291,
+      "end": 6.078374,
       "sourceIndex": 3
     },
     {
       "text": "VVU",
-      "start": 18.707083,
-      "end": 19.136124,
+      "start": 6.235708,
+      "end": 6.664749,
       "sourceIndex": 3
     },
     {
       "text": "UKIMWI",
-      "start": 19.250583,
-      "end": 19.851249,
+      "start": 6.779166,
+      "end": 7.379832,
       "sourceIndex": 3
     },
     {
       "text": "kusisitiza",
-      "start": 19.994291,
-      "end": 20.938207,
+      "start": 7.522875,
+      "end": 8.466791,
       "sourceIndex": 3
     },
     {
       "text": "glovu",
-      "start": 21.066916,
-      "end": 21.667582,
+      "start": 8.595541,
+      "end": 9.196207,
       "sourceIndex": 3
     },
     {
       "text": "sindano",
-      "start": 21.76775,
-      "end": 22.325541,
+      "start": 9.296333,
+      "end": 9.854124,
       "sourceIndex": 3
     },
     {
       "text": "1",
-      "start": 22.354125,
-      "end": 22.840375,
+      "start": 9.882708,
+      "end": 10.368958,
       "sourceIndex": 4
     },
     {
       "text": "ni",
-      "start": 23.955958,
-      "end": 24.070374,
+      "start": 11.484541,
+      "end": 11.598957,
       "sourceIndex": 5
     },
     {
       "text": "kifaa",
-      "start": 24.070375,
-      "end": 24.499416,
+      "start": 11.598958,
+      "end": 12.027999,
       "sourceIndex": 6
     },
     {
       "text": "cha",
-      "start": 24.528041,
-      "end": 24.713957,
+      "start": 12.056625,
+      "end": 12.242541,
       "sourceIndex": 6
     },
     {
       "text": "ncha",
-      "start": 24.756875,
-      "end": 25.0715,
+      "start": 12.285458,
+      "end": 12.600083,
       "sourceIndex": 6
     },
     {
       "text": "kali",
-      "start": 25.114416,
-      "end": 25.543457,
+      "start": 12.643,
+      "end": 13.072041,
       "sourceIndex": 6
     },
     {
       "text": "2",
-      "start": 26.616125,
-      "end": 26.902166,
+      "start": 14.14475,
+      "end": 14.430791,
       "sourceIndex": 6
     },
     {
       "text": "Kifaa",
-      "start": 27.159625,
-      "end": 27.588666,
+      "start": 14.688208,
+      "end": 15.117249,
       "sourceIndex": 7
     },
     {
       "text": "kinachotumika",
-      "start": 27.617291,
-      "end": 28.575541,
+      "start": 15.145875,
+      "end": 16.104125,
       "sourceIndex": 8
     },
     {
       "text": "kusugua",
-      "start": 28.604125,
-      "end": 29.176208,
+      "start": 16.132708,
+      "end": 16.704791,
       "sourceIndex": 8
     },
     {
       "text": "mwili",
-      "start": 29.204791,
-      "end": 29.548041,
+      "start": 16.733416,
+      "end": 17.076666,
       "sourceIndex": 8
     },
     {
       "text": "unapooga",
-      "start": 29.590958,
-      "end": 30.306041,
+      "start": 17.119583,
+      "end": 17.834666,
       "sourceIndex": 8
     },
     {
       "text": "ni",
-      "start": 30.334666,
-      "end": 30.563499,
+      "start": 17.863291,
+      "end": 18.092124,
       "sourceIndex": 8
     },
     {
       "text": "3",
-      "start": 31.850666,
-      "end": 32.150999,
+      "start": 19.379291,
+      "end": 19.679624,
       "sourceIndex": 8
     },
     {
       "text": "Kifaa",
-      "start": 32.365541,
-      "end": 32.780291,
+      "start": 19.894166,
+      "end": 20.308916,
       "sourceIndex": 8
     },
     {
       "text": "kinachovaliwa",
-      "start": 32.808916,
-      "end": 33.724249,
+      "start": 20.337541,
+      "end": 21.252874,
       "sourceIndex": 9
     },
     {
       "text": "mkononi",
-      "start": 33.752875,
-      "end": 34.367875,
+      "start": 21.281458,
+      "end": 21.896458,
       "sourceIndex": 10
     },
     {
       "text": "ili",
-      "start": 34.41075,
-      "end": 34.668166,
+      "start": 21.939375,
+      "end": 22.196791,
       "sourceIndex": 10
     },
     {
       "text": "kujikinga",
-      "start": 34.711083,
-      "end": 35.383291,
+      "start": 22.239708,
+      "end": 22.911916,
       "sourceIndex": 10
     },
     {
       "text": "na",
-      "start": 35.411916,
-      "end": 35.497707,
+      "start": 22.9405,
+      "end": 23.026291,
       "sourceIndex": 10
     },
     {
       "text": "maambukizi",
-      "start": 35.526333,
-      "end": 36.255749,
+      "start": 23.054916,
+      "end": 23.784332,
       "sourceIndex": 10
     },
     {
       "text": "ya",
-      "start": 36.284333,
-      "end": 36.370124,
+      "start": 23.812916,
+      "end": 23.898707,
       "sourceIndex": 10
     },
     {
       "text": "VVU",
-      "start": 36.39875,
-      "end": 36.6705,
+      "start": 23.927333,
+      "end": 24.199083,
       "sourceIndex": 10
     },
     {
       "text": "ni",
-      "start": 36.713375,
-      "end": 36.913583,
+      "start": 24.242,
+      "end": 24.442208,
       "sourceIndex": 11
+    },
+    {
+      "text": "Picha",
+      "start": 25.715083,
+      "end": 25.900999,
+      "sourceIndex": 11
+    },
+    {
+      "text": "zinaonesha",
+      "start": 26.001125,
+      "end": 26.716208,
+      "sourceIndex": 11
+    },
+    {
+      "text": "vifaa",
+      "start": 26.744833,
+      "end": 27.145291,
+      "sourceIndex": 11
+    },
+    {
+      "text": "vya",
+      "start": 27.173916,
+      "end": 27.345541,
+      "targetImage": true
+    },
+    {
+      "text": "kusafisha",
+      "start": 27.374125,
+      "end": 28.017708,
+      "targetImage": true
+    },
+    {
+      "text": "mazingira",
+      "start": 28.046333,
+      "end": 28.761416,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 29.834083,
+      "end": 29.934208,
+      "targetImage": true
+    },
+    {
+      "text": "ndoo",
+      "start": 30.034333,
+      "end": 30.420499,
+      "targetImage": true
+    },
+    {
+      "text": "ufagio",
+      "start": 30.534916,
+      "end": 31.264332,
+      "targetImage": true
+    },
+    {
+      "text": "reki",
+      "start": 31.421625,
+      "end": 31.865,
+      "targetImage": true
+    },
+    {
+      "text": "koleo",
+      "start": 31.979416,
+      "end": 32.537207,
+      "targetImage": true
+    },
+    {
+      "text": "brashi",
+      "start": 32.637291,
+      "end": 33.252291,
+      "targetImage": true
+    },
+    {
+      "text": "pipa",
+      "start": 33.366708,
+      "end": 33.709958,
+      "targetImage": true
+    },
+    {
+      "text": "la",
+      "start": 33.738541,
+      "end": 33.867249,
+      "targetImage": true
+    },
+    {
+      "text": "takataka",
+      "start": 33.910166,
+      "end": 34.525166,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 34.553791,
+      "end": 34.668207,
+      "targetImage": true
+    },
+    {
+      "text": "vifaa",
+      "start": 34.696791,
+      "end": 35.054332,
+      "targetImage": true
+    },
+    {
+      "text": "vingine",
+      "start": 35.082958,
+      "end": 35.526333,
+      "targetImage": true
+    },
+    {
+      "text": "vya",
+      "start": 35.569208,
+      "end": 35.712208,
+      "targetImage": true
+    },
+    {
+      "text": "kukusanyia",
+      "start": 35.755166,
+      "end": 36.455957,
+      "targetImage": true
+    },
+    {
+      "text": "uchafu",
+      "start": 36.484541,
+      "end": 37.099541,
+      "targetImage": true
     }
   ]
 }

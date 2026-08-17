@@ -1,319 +1,319 @@
 {
-  "audio": "page-064-accessible-v16.mp3",
+  "audio": "page-064-accessible-v17.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "version": 17,
   "words": [
     {
       "text": "Zoezi",
       "start": 0.193,
-      "end": 0.564833,
+      "end": 0.593458,
       "sourceIndex": 1
     },
     {
       "text": "la",
-      "start": 0.679291,
-      "end": 0.807999,
+      "start": 0.707875,
+      "end": 0.836583,
       "sourceIndex": 1
     },
     {
       "text": "1",
-      "start": 0.836625,
-      "end": 1.222791,
+      "start": 0.865208,
+      "end": 1.251374,
       "sourceIndex": 1
     },
     {
-      "text": "Picha",
-      "start": 1.265666,
-      "end": 1.594624,
-      "targetImage": true
-    },
-    {
-      "text": "zinaonesha",
-      "start": 1.623208,
-      "end": 2.323999,
-      "targetImage": true
-    },
-    {
-      "text": "mimea",
-      "start": 2.366916,
-      "end": 2.724457,
-      "targetImage": true
-    },
-    {
-      "text": "mbalimbali",
-      "start": 2.753083,
-      "end": 3.511083,
-      "targetImage": true
-    },
-    {
-      "text": "Kuna",
-      "start": 4.576666,
-      "end": 4.691082,
-      "targetImage": true
-    },
-    {
-      "text": "mpunga",
-      "start": 4.791208,
-      "end": 5.334666,
-      "targetImage": true
-    },
-    {
-      "text": "alizeti",
-      "start": 5.434791,
-      "end": 6.192791,
-      "targetImage": true
-    },
-    {
-      "text": "bilinganya",
-      "start": 6.292916,
-      "end": 6.936499,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 6.965083,
-      "end": 7.079499,
-      "targetImage": true
-    },
-    {
-      "text": "mbuyu",
-      "start": 7.108125,
-      "end": 7.594375,
-      "targetImage": true
-    },
-    {
       "text": "1",
-      "start": 8.667041,
-      "end": 9.024582,
+      "start": 1.279958,
+      "end": 1.780541,
       "sourceIndex": 2
     },
     {
       "text": "Taja",
-      "start": 9.26775,
-      "end": 9.668208,
+      "start": 2.860416,
+      "end": 3.103541,
       "sourceIndex": 3
     },
     {
       "text": "wanyama",
-      "start": 9.696791,
-      "end": 10.111541,
+      "start": 3.217958,
+      "end": 3.646999,
       "sourceIndex": 3
     },
     {
       "text": "wafugwao",
-      "start": 10.154458,
-      "end": 10.769458,
+      "start": 3.675625,
+      "end": 4.290625,
       "sourceIndex": 3
     },
     {
       "text": "nyumbani",
-      "start": 10.798041,
-      "end": 11.441624,
+      "start": 4.319208,
+      "end": 4.948499,
       "sourceIndex": 3
     },
     {
       "text": "2",
-      "start": 12.542916,
-      "end": 12.843249,
+      "start": 6.049791,
+      "end": 6.350124,
       "sourceIndex": 4
     },
     {
       "text": "Taja",
-      "start": 13.086375,
-      "end": 13.458208,
+      "start": 6.59325,
+      "end": 6.965083,
       "sourceIndex": 5
     },
     {
       "text": "faida",
-      "start": 13.486833,
-      "end": 13.973083,
+      "start": 6.993708,
+      "end": 7.479958,
       "sourceIndex": 5
     },
     {
       "text": "nne",
-      "start": 14.001708,
-      "end": 14.230541,
+      "start": 7.508583,
+      "end": 7.737416,
       "sourceIndex": 5
     },
     {
       "text": "za",
-      "start": 14.259166,
-      "end": 14.430791,
+      "start": 7.766,
+      "end": 7.937625,
       "sourceIndex": 5
     },
     {
       "text": "wanyama",
-      "start": 14.459375,
-      "end": 14.90275,
+      "start": 7.96625,
+      "end": 8.409625,
       "sourceIndex": 5
     },
     {
       "text": "wafugwao",
-      "start": 14.945666,
-      "end": 15.775166,
+      "start": 8.4525,
+      "end": 9.282,
       "sourceIndex": 5
     },
     {
       "text": "3",
-      "start": 16.847833,
-      "end": 17.191083,
+      "start": 10.354708,
+      "end": 10.697958,
       "sourceIndex": 6
     },
     {
       "text": "Taja",
-      "start": 17.405625,
-      "end": 17.806083,
+      "start": 10.912458,
+      "end": 11.312916,
       "sourceIndex": 7
     },
     {
       "text": "wanyama",
-      "start": 17.834666,
-      "end": 18.263707,
+      "start": 11.341541,
+      "end": 11.770582,
       "sourceIndex": 7
     },
     {
       "text": "wasiofugwa",
-      "start": 18.306625,
-      "end": 19.279166,
+      "start": 11.8135,
+      "end": 12.786041,
       "sourceIndex": 7
     },
     {
       "text": "4",
-      "start": 20.366125,
-      "end": 20.594958,
+      "start": 13.873,
+      "end": 14.101833,
       "sourceIndex": 8
     },
     {
       "text": "Eleza",
-      "start": 20.852416,
-      "end": 21.324374,
+      "start": 14.35925,
+      "end": 14.831208,
       "sourceIndex": 9
     },
     {
       "text": "faida",
-      "start": 21.352958,
-      "end": 21.781999,
+      "start": 14.859833,
+      "end": 15.288874,
       "sourceIndex": 9
     },
     {
       "text": "mbili",
-      "start": 21.810625,
-      "end": 22.110958,
+      "start": 15.3175,
+      "end": 15.617833,
       "sourceIndex": 9
     },
     {
       "text": "za",
-      "start": 22.139583,
-      "end": 22.296916,
+      "start": 15.646458,
+      "end": 15.803791,
       "sourceIndex": 9
     },
     {
       "text": "wanyama",
-      "start": 22.3255,
-      "end": 22.768875,
+      "start": 15.832375,
+      "end": 16.27575,
       "sourceIndex": 9
     },
     {
       "text": "wasiofugwa",
-      "start": 22.811791,
-      "end": 23.798624,
+      "start": 16.318666,
+      "end": 17.305499,
       "sourceIndex": 9
     },
     {
       "text": "5",
-      "start": 24.871291,
-      "end": 25.157332,
+      "start": 18.378166,
+      "end": 18.664207,
       "sourceIndex": 10
     },
     {
       "text": "Taja",
-      "start": 25.400458,
-      "end": 25.800916,
+      "start": 18.907333,
+      "end": 19.307791,
       "sourceIndex": 11
     },
     {
       "text": "wanyama",
-      "start": 25.8295,
-      "end": 26.24425,
+      "start": 19.336375,
+      "end": 19.751125,
       "sourceIndex": 11
     },
     {
       "text": "wasiofugwa",
-      "start": 26.287166,
-      "end": 27.088082,
+      "start": 19.794041,
+      "end": 20.594957,
       "sourceIndex": 11
     },
     {
       "text": "wanaopatikana",
-      "start": 27.116708,
-      "end": 28.046333,
+      "start": 20.623583,
+      "end": 21.553208,
       "sourceIndex": 11
     },
     {
       "text": "katika",
-      "start": 28.08925,
-      "end": 28.504,
+      "start": 21.596125,
+      "end": 22.010875,
       "sourceIndex": 11
     },
     {
       "text": "mazingira",
-      "start": 28.532625,
-      "end": 29.161916,
+      "start": 22.039458,
+      "end": 22.668749,
       "sourceIndex": 12
     },
     {
       "text": "yako",
-      "start": 29.1905,
-      "end": 29.648166,
+      "start": 22.697375,
+      "end": 23.155041,
       "sourceIndex": 12
     },
     {
       "text": "Mimea",
-      "start": 30.735125,
-      "end": 30.992541,
+      "start": 24.242,
+      "end": 24.485125,
       "sourceIndex": 13
     },
     {
       "text": "ya",
-      "start": 31.121291,
-      "end": 31.235707,
+      "start": 24.613833,
+      "end": 24.728249,
       "sourceIndex": 13
     },
     {
       "text": "aina",
-      "start": 31.264291,
-      "end": 31.550332,
+      "start": 24.756875,
+      "end": 25.057208,
       "sourceIndex": 13
     },
     {
       "text": "mbalimbali",
-      "start": 31.578958,
-      "end": 32.251166,
+      "start": 25.085791,
+      "end": 25.772291,
       "sourceIndex": 13
     },
     {
       "text": "mpunga",
-      "start": 32.27975,
-      "end": 32.708791,
+      "start": 25.815208,
+      "end": 26.244249,
       "sourceIndex": 14
     },
     {
       "text": "alizeti",
-      "start": 32.737416,
-      "end": 33.352416,
+      "start": 26.287166,
+      "end": 26.887832,
       "sourceIndex": 14
     },
     {
       "text": "biringanya",
-      "start": 33.395291,
-      "end": 34.038874,
+      "start": 26.930791,
+      "end": 27.560082,
       "sourceIndex": 15
     },
     {
       "text": "mbuyu",
-      "start": 34.0675,
-      "end": 34.568083,
+      "start": 27.588666,
+      "end": 27.946207,
       "sourceIndex": 15
+    },
+    {
+      "text": "Picha",
+      "start": 27.989125,
+      "end": 28.346666,
+      "targetImage": true
+    },
+    {
+      "text": "zinaonesha",
+      "start": 28.375291,
+      "end": 29.090374,
+      "targetImage": true
+    },
+    {
+      "text": "mimea",
+      "start": 29.119,
+      "end": 29.476541,
+      "targetImage": true
+    },
+    {
+      "text": "mbalimbali",
+      "start": 29.505166,
+      "end": 30.263166,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 31.3215,
+      "end": 31.435916,
+      "targetImage": true
+    },
+    {
+      "text": "mpunga",
+      "start": 31.536041,
+      "end": 32.079499,
+      "targetImage": true
+    },
+    {
+      "text": "alizeti",
+      "start": 32.179625,
+      "end": 32.937625,
+      "targetImage": true
+    },
+    {
+      "text": "bilinganya",
+      "start": 33.03775,
+      "end": 33.681333,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 33.709958,
+      "end": 33.824374,
+      "targetImage": true
+    },
+    {
+      "text": "mbuyu",
+      "start": 33.852958,
+      "end": 34.339208,
+      "targetImage": true
     }
   ]
 }

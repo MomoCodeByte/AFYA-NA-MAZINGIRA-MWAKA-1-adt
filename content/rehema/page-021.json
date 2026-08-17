@@ -1,7 +1,7 @@
 {
-  "audio": "page-021-accessible-v16.mp3",
+  "audio": "page-021-accessible-v17.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "version": 17,
   "words": [
     {
       "text": "Madhara",
@@ -18,182 +18,182 @@
     {
       "text": "kula",
       "start": 0.765083,
-      "end": 1.065416,
+      "end": 1.079708,
       "sourceIndex": 1
     },
     {
       "text": "matunda",
-      "start": 1.094041,
-      "end": 1.565999,
+      "start": 1.108333,
+      "end": 1.594583,
       "sourceIndex": 1
     },
     {
       "text": "bila",
-      "start": 1.594625,
-      "end": 1.894958,
+      "start": 1.637541,
+      "end": 1.937874,
       "sourceIndex": 1
     },
     {
       "text": "kusafisha",
-      "start": 1.923583,
-      "end": 2.624374,
+      "start": 1.966458,
+      "end": 2.638666,
       "sourceIndex": 1
     },
     {
-      "text": "Picha",
+      "text": "1",
       "start": 2.667291,
-      "end": 3.010541,
+      "end": 3.024832,
+      "sourceIndex": 2
+    },
+    {
+      "text": "2",
+      "start": 3.053416,
+      "end": 3.382374,
+      "sourceIndex": 2
+    },
+    {
+      "text": "3",
+      "start": 3.425291,
+      "end": 3.797124,
+      "sourceIndex": 3
+    },
+    {
+      "text": "4",
+      "start": 3.82575,
+      "end": 4.054583,
+      "sourceIndex": 3
+    },
+    {
+      "text": "Picha",
+      "start": 4.111791,
+      "end": 4.469332,
       "targetImage": true
     },
     {
       "text": "zinaonesha",
-      "start": 3.039125,
-      "end": 3.754208,
+      "start": 4.51225,
+      "end": 5.227333,
       "targetImage": true
     },
     {
       "text": "madhara",
-      "start": 3.782833,
-      "end": 4.226208,
+      "start": 5.255958,
+      "end": 5.699333,
       "targetImage": true
     },
     {
       "text": "ya",
-      "start": 4.254791,
-      "end": 4.354916,
+      "start": 5.727916,
+      "end": 5.828041,
       "targetImage": true
     },
     {
       "text": "kula",
-      "start": 4.383541,
-      "end": 4.683874,
+      "start": 5.856625,
+      "end": 6.17125,
       "targetImage": true
     },
     {
       "text": "matunda",
-      "start": 4.712458,
-      "end": 5.213041,
+      "start": 6.199875,
+      "end": 6.686125,
       "targetImage": true
     },
     {
       "text": "bila",
-      "start": 5.255958,
-      "end": 5.541999,
+      "start": 6.729041,
+      "end": 7.015082,
       "targetImage": true
     },
     {
       "text": "kusafisha",
-      "start": 5.584916,
-      "end": 6.314332,
+      "start": 7.058,
+      "end": 7.801708,
       "targetImage": true
     },
     {
       "text": "Kuna",
-      "start": 7.394166,
-      "end": 7.494291,
+      "start": 8.867291,
+      "end": 8.967416,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 7.594375,
-      "end": 8.009125,
+      "start": 9.0675,
+      "end": 9.48225,
       "targetImage": true
     },
     {
       "text": "mwenye",
-      "start": 8.052041,
-      "end": 8.309457,
+      "start": 9.525166,
+      "end": 9.782582,
       "targetImage": true
     },
     {
       "text": "maumivu",
-      "start": 8.338083,
-      "end": 8.881541,
+      "start": 9.811208,
+      "end": 10.354666,
       "targetImage": true
     },
     {
       "text": "ya",
-      "start": 8.910166,
-      "end": 8.995957,
+      "start": 10.383291,
+      "end": 10.469082,
       "targetImage": true
     },
     {
       "text": "tumbo",
-      "start": 9.038916,
-      "end": 9.496582,
-      "targetImage": true
-    },
-    {
-      "text": "mtoto",
-      "start": 9.596666,
-      "end": 10.054332,
-      "targetImage": true
-    },
-    {
-      "text": "anayetapika",
-      "start": 10.082958,
+      "start": 10.512,
       "end": 10.969666,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 11.112708,
-      "end": 11.584666,
+      "start": 11.069791,
+      "end": 11.527457,
       "targetImage": true
     },
     {
-      "text": "anayeharisha",
-      "start": 11.613291,
-      "end": 12.471416,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 12.5,
-      "end": 12.585791,
+      "text": "anayetapika",
+      "start": 11.556083,
+      "end": 12.442791,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 12.614416,
-      "end": 13.072082,
+      "start": 12.585791,
+      "end": 13.057749,
+      "targetImage": true
+    },
+    {
+      "text": "anayeharisha",
+      "start": 13.086375,
+      "end": 13.9445,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 13.973125,
+      "end": 14.058916,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 14.087541,
+      "end": 14.545207,
       "targetImage": true
     },
     {
       "text": "anayejisaidia",
-      "start": 13.115,
-      "end": 14.14475,
+      "start": 14.588083,
+      "end": 15.617833,
       "targetImage": true
     },
     {
       "text": "chooni",
-      "start": 14.187625,
-      "end": 14.716791,
+      "start": 15.66075,
+      "end": 16.189916,
       "targetImage": true
-    },
-    {
-      "text": "1",
-      "start": 15.775166,
-      "end": 16.018291,
-      "sourceIndex": 2
-    },
-    {
-      "text": "2",
-      "start": 16.132708,
-      "end": 16.475958,
-      "sourceIndex": 2
-    },
-    {
-      "text": "3",
-      "start": 16.518875,
-      "end": 16.905041,
-      "sourceIndex": 3
-    },
-    {
-      "text": "4",
-      "start": 16.933625,
-      "end": 17.276875,
-      "sourceIndex": 3
     }
   ]
 }

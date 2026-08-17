@@ -1,439 +1,439 @@
 {
-  "audio": "page-059-accessible-v16.mp3",
+  "audio": "page-059-accessible-v17.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "version": 17,
   "words": [
     {
       "text": "Alama",
       "start": 0.207333,
-      "end": 0.464749,
+      "end": 0.450458,
       "sourceIndex": 1
     },
     {
       "text": "ya",
-      "start": 0.593458,
-      "end": 0.722166,
+      "start": 0.579166,
+      "end": 0.693582,
       "sourceIndex": 1
     },
     {
       "text": "taa",
-      "start": 0.750791,
-      "end": 1.051124,
+      "start": 0.722208,
+      "end": 0.993958,
       "sourceIndex": 1
     },
     {
       "text": "za",
-      "start": 1.07975,
-      "end": 1.251375,
+      "start": 1.022541,
+      "end": 1.179874,
       "sourceIndex": 1
     },
     {
       "text": "Alama",
-      "start": 1.279958,
-      "end": 1.680416,
+      "start": 1.208458,
+      "end": 1.580291,
       "sourceIndex": 1
     },
     {
       "text": "ya",
-      "start": 1.709041,
-      "end": 1.809166,
+      "start": 1.608916,
+      "end": 1.709041,
       "sourceIndex": 1
     },
     {
       "text": "watembea",
-      "start": 1.83775,
-      "end": 2.424125,
+      "start": 1.737625,
+      "end": 2.295416,
       "sourceIndex": 1
     },
     {
-      "text": "Picha",
-      "start": 2.467041,
-      "end": 2.810291,
-      "targetImage": true
-    },
-    {
-      "text": "zinaonesha",
-      "start": 2.838916,
-      "end": 3.596916,
-      "targetImage": true
-    },
-    {
-      "text": "alama",
-      "start": 3.6255,
-      "end": 4.04025,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 4.068875,
-      "end": 4.226208,
-      "targetImage": true
-    },
-    {
-      "text": "usalama",
-      "start": 4.269125,
-      "end": 4.841208,
-      "targetImage": true
-    },
-    {
       "text": "barabarani",
-      "start": 4.884083,
-      "end": 5.799416,
-      "targetImage": true
-    },
-    {
-      "text": "Kuna",
-      "start": 6.865,
-      "end": 6.979416,
-      "targetImage": true
-    },
-    {
-      "text": "alama",
-      "start": 7.0795,
-      "end": 7.465666,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 7.494291,
-      "end": 7.580082,
-      "targetImage": true
-    },
-    {
-      "text": "watoto",
-      "start": 7.608708,
-      "end": 8.037749,
-      "targetImage": true
-    },
-    {
-      "text": "wanaovuka",
-      "start": 8.066375,
-      "end": 8.838666,
-      "targetImage": true
-    },
-    {
-      "text": "taa",
-      "start": 8.967375,
-      "end": 9.239125,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 9.26775,
-      "end": 9.425083,
-      "targetImage": true
-    },
-    {
-      "text": "kuongozea",
-      "start": 9.453666,
-      "end": 10.082957,
-      "targetImage": true
-    },
-    {
-      "text": "magari",
-      "start": 10.111541,
-      "end": 10.697916,
-      "targetImage": true
-    },
-    {
-      "text": "alama",
-      "start": 10.840958,
-      "end": 11.284333,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 11.312916,
-      "end": 11.413041,
-      "targetImage": true
-    },
-    {
-      "text": "kuacha",
-      "start": 11.441666,
-      "end": 11.870707,
-      "targetImage": true
-    },
-    {
-      "text": "njia",
-      "start": 11.913625,
-      "end": 12.271166,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 12.299791,
-      "end": 12.414207,
-      "targetImage": true
-    },
-    {
-      "text": "alama",
-      "start": 12.442791,
-      "end": 12.843249,
-      "targetImage": true
-    },
-    {
-      "text": "nyingine",
-      "start": 12.871833,
-      "end": 13.329499,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 13.358125,
-      "end": 13.501125,
-      "targetImage": true
-    },
-    {
-      "text": "tahadhari",
-      "start": 13.544041,
-      "end": 14.316332,
-      "targetImage": true
-    },
-    {
-      "text": "barabarani",
-      "start": 15.360416,
-      "end": 16.046916,
+      "start": 2.324041,
+      "end": 3.167874,
       "sourceIndex": 2
     },
     {
       "text": "kwa",
-      "start": 16.161333,
-      "end": 16.304333,
+      "start": 3.21075,
+      "end": 3.35375,
       "sourceIndex": 2
     },
     {
       "text": "miguu",
-      "start": 16.332958,
-      "end": 16.790624,
+      "start": 3.382375,
+      "end": 3.854333,
       "sourceIndex": 2
     },
     {
       "text": "Alama",
-      "start": 16.833541,
-      "end": 17.205374,
+      "start": 3.89725,
+      "end": 4.283416,
       "sourceIndex": 3
     },
     {
       "text": "ya",
-      "start": 17.234,
-      "end": 17.334125,
+      "start": 4.312,
+      "end": 4.412125,
       "sourceIndex": 3
     },
     {
       "text": "njia",
-      "start": 17.362708,
-      "end": 17.691666,
+      "start": 4.44075,
+      "end": 4.798291,
       "sourceIndex": 3
     },
     {
       "text": "ya",
-      "start": 17.72025,
-      "end": 17.820375,
+      "start": 4.826875,
+      "end": 4.927,
       "sourceIndex": 3
     },
     {
       "text": "Alama",
-      "start": 17.848958,
-      "end": 18.220791,
+      "start": 4.955625,
+      "end": 5.327458,
       "sourceIndex": 4
     },
     {
       "text": "ya",
-      "start": 18.249416,
-      "end": 18.349541,
+      "start": 5.356083,
+      "end": 5.456208,
       "sourceIndex": 4
     },
     {
       "text": "kivuko",
-      "start": 18.378166,
-      "end": 18.878749,
+      "start": 5.484791,
+      "end": 5.985374,
       "sourceIndex": 4
     },
     {
       "text": "cha",
-      "start": 18.921625,
-      "end": 19.09325,
+      "start": 6.02825,
+      "end": 6.214166,
       "sourceIndex": 4
     },
     {
       "text": "wa",
-      "start": 19.121833,
-      "end": 19.207624,
+      "start": 6.242791,
+      "end": 6.328582,
       "sourceIndex": 5
     },
     {
       "text": "nafunzi",
-      "start": 19.23625,
-      "end": 19.779708,
+      "start": 6.357208,
+      "end": 6.900666,
       "sourceIndex": 5
     },
     {
       "text": "waendesha",
-      "start": 19.822666,
-      "end": 20.351832,
+      "start": 6.943583,
+      "end": 7.458458,
       "sourceIndex": 5
     },
     {
       "text": "baiskeli",
-      "start": 20.39475,
-      "end": 20.995416,
+      "start": 7.501375,
+      "end": 8.116375,
       "sourceIndex": 5
     },
     {
       "text": "Jibu",
-      "start": 21.038333,
-      "end": 21.352958,
+      "start": 8.15925,
+      "end": 8.473875,
       "sourceIndex": 6
     },
     {
       "text": "maswali",
-      "start": 21.395875,
-      "end": 21.91075,
+      "start": 8.516833,
+      "end": 9.045999,
       "sourceIndex": 6
     },
     {
       "text": "yafuatayo",
-      "start": 21.939375,
-      "end": 22.59725,
+      "start": 9.074583,
+      "end": 9.746791,
       "sourceIndex": 6
     },
     {
       "text": "1",
-      "start": 22.625875,
-      "end": 23.083541,
+      "start": 9.775416,
+      "end": 10.233082,
       "sourceIndex": 7
     },
     {
       "text": "Taja",
-      "start": 24.141875,
-      "end": 24.385,
+      "start": 11.284333,
+      "end": 11.527458,
       "sourceIndex": 8
     },
     {
       "text": "alama",
-      "start": 24.499416,
-      "end": 24.899874,
+      "start": 11.641875,
+      "end": 12.042333,
       "sourceIndex": 8
     },
     {
       "text": "za",
-      "start": 24.9285,
-      "end": 25.085833,
+      "start": 12.070958,
+      "end": 12.228291,
       "sourceIndex": 8
     },
     {
       "text": "tahadhari",
-      "start": 25.114416,
-      "end": 25.772291,
+      "start": 12.256875,
+      "end": 12.91475,
       "sourceIndex": 8
     },
     {
       "text": "zinazopatikana",
-      "start": 25.800916,
-      "end": 26.887874,
+      "start": 12.943375,
+      "end": 14.030333,
       "sourceIndex": 8
     },
     {
       "text": "shuleni",
-      "start": 26.930791,
-      "end": 27.445666,
+      "start": 14.073208,
+      "end": 14.588083,
       "sourceIndex": 8
     },
     {
       "text": "au",
-      "start": 27.488541,
-      "end": 27.717374,
+      "start": 14.631,
+      "end": 14.859833,
       "sourceIndex": 8
     },
     {
       "text": "nyumbani",
-      "start": 27.746,
-      "end": 28.346666,
+      "start": 14.888458,
+      "end": 15.489124,
       "sourceIndex": 9
     },
     {
       "text": "2",
-      "start": 29.419333,
-      "end": 29.719666,
+      "start": 16.561791,
+      "end": 16.862124,
       "sourceIndex": 10
     },
     {
       "text": "Ni",
-      "start": 29.962833,
-      "end": 30.091541,
+      "start": 17.10525,
+      "end": 17.233958,
       "sourceIndex": 11
     },
     {
       "text": "alama",
-      "start": 30.120125,
-      "end": 30.534875,
+      "start": 17.262583,
+      "end": 17.677333,
       "sourceIndex": 11
     },
     {
       "text": "gani",
-      "start": 30.5635,
-      "end": 30.892458,
+      "start": 17.705958,
+      "end": 18.034916,
       "sourceIndex": 11
     },
     {
       "text": "za",
-      "start": 30.921041,
-      "end": 31.092666,
+      "start": 18.0635,
+      "end": 18.235125,
       "sourceIndex": 11
     },
     {
       "text": "tahadhari",
-      "start": 31.121291,
-      "end": 31.779166,
+      "start": 18.26375,
+      "end": 18.921625,
       "sourceIndex": 11
     },
     {
       "text": "zinazotumika",
-      "start": 31.807791,
-      "end": 32.808916,
+      "start": 18.950208,
+      "end": 19.951333,
       "sourceIndex": 11
     },
     {
       "text": "barabarani",
-      "start": 32.837541,
-      "end": 33.738582,
+      "start": 19.979958,
+      "end": 20.880999,
       "sourceIndex": 11
     },
     {
       "text": "3",
-      "start": 34.8255,
-      "end": 35.183041,
+      "start": 21.967958,
+      "end": 22.325499,
       "sourceIndex": 12
     },
     {
       "text": "Alama",
-      "start": 35.369,
-      "end": 35.812375,
+      "start": 22.511458,
+      "end": 22.954833,
       "sourceIndex": 13
     },
     {
       "text": "ifuatayo",
-      "start": 35.85525,
-      "end": 36.527458,
+      "start": 22.997708,
+      "end": 23.669916,
       "sourceIndex": 13
     },
     {
       "text": "inakupa",
-      "start": 36.556083,
-      "end": 37.156749,
+      "start": 23.6985,
+      "end": 24.299166,
       "sourceIndex": 13
     },
     {
       "text": "tahadhari",
-      "start": 37.199666,
-      "end": 37.886166,
+      "start": 24.342125,
+      "end": 25.028625,
       "sourceIndex": 13
     },
     {
       "text": "gani",
-      "start": 37.91475,
-      "end": 38.372416,
+      "start": 25.057208,
+      "end": 25.514874,
       "sourceIndex": 13
+    },
+    {
+      "text": "Picha",
+      "start": 26.573208,
+      "end": 26.744833,
+      "targetImage": true
+    },
+    {
+      "text": "zinaonesha",
+      "start": 26.844958,
+      "end": 27.574374,
+      "targetImage": true
+    },
+    {
+      "text": "alama",
+      "start": 27.602958,
+      "end": 28.003416,
+      "targetImage": true
+    },
+    {
+      "text": "za",
+      "start": 28.032041,
+      "end": 28.189374,
+      "targetImage": true
+    },
+    {
+      "text": "usalama",
+      "start": 28.217958,
+      "end": 28.775749,
+      "targetImage": true
+    },
+    {
+      "text": "barabarani",
+      "start": 28.804333,
+      "end": 29.748249,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 30.820958,
+      "end": 30.935374,
+      "targetImage": true
+    },
+    {
+      "text": "alama",
+      "start": 31.035458,
+      "end": 31.421624,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 31.450208,
+      "end": 31.535999,
+      "targetImage": true
+    },
+    {
+      "text": "watoto",
+      "start": 31.564625,
+      "end": 31.993666,
+      "targetImage": true
+    },
+    {
+      "text": "wanaovuka",
+      "start": 32.022291,
+      "end": 32.794582,
+      "targetImage": true
+    },
+    {
+      "text": "taa",
+      "start": 32.923333,
+      "end": 33.195083,
+      "targetImage": true
+    },
+    {
+      "text": "za",
+      "start": 33.223666,
+      "end": 33.380999,
+      "targetImage": true
+    },
+    {
+      "text": "kuongozea",
+      "start": 33.409625,
+      "end": 34.038916,
+      "targetImage": true
+    },
+    {
+      "text": "magari",
+      "start": 34.0675,
+      "end": 34.653875,
+      "targetImage": true
+    },
+    {
+      "text": "alama",
+      "start": 34.796916,
+      "end": 35.240291,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 35.268875,
+      "end": 35.369,
+      "targetImage": true
+    },
+    {
+      "text": "kuacha",
+      "start": 35.397583,
+      "end": 35.826624,
+      "targetImage": true
+    },
+    {
+      "text": "njia",
+      "start": 35.869583,
+      "end": 36.227124,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 36.255708,
+      "end": 36.370124,
+      "targetImage": true
+    },
+    {
+      "text": "alama",
+      "start": 36.39875,
+      "end": 36.799208,
+      "targetImage": true
+    },
+    {
+      "text": "nyingine",
+      "start": 36.827791,
+      "end": 37.285457,
+      "targetImage": true
+    },
+    {
+      "text": "za",
+      "start": 37.314083,
+      "end": 37.457083,
+      "targetImage": true
+    },
+    {
+      "text": "tahadhari",
+      "start": 37.5,
+      "end": 38.272291,
+      "targetImage": true
     }
   ]
 }

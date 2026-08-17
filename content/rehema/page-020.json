@@ -1,361 +1,361 @@
 {
-  "audio": "page-020-accessible-v16.mp3",
+  "audio": "page-020-accessible-v17.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "version": 17,
   "words": [
     {
       "text": "Faida",
       "start": 0.178708,
-      "end": 0.479041,
+      "end": 0.464749,
       "sourceIndex": 1
     },
     {
       "text": "ya",
-      "start": 0.579166,
-      "end": 0.679291,
+      "start": 0.564875,
+      "end": 0.665,
       "sourceIndex": 1
     },
     {
       "text": "kula",
-      "start": 0.707875,
-      "end": 1.008208,
+      "start": 0.693583,
+      "end": 0.965333,
       "sourceIndex": 1
     },
     {
       "text": "matunda",
-      "start": 1.036833,
-      "end": 1.508791,
+      "start": 0.993916,
+      "end": 1.437291,
       "sourceIndex": 1
     },
     {
       "text": "yaliyosafishwa",
-      "start": 1.537416,
-      "end": 2.467041,
+      "start": 1.465916,
+      "end": 2.381249,
       "sourceIndex": 1
-    },
-    {
-      "text": "Picha",
-      "start": 2.509958,
-      "end": 2.867499,
-      "targetImage": true
-    },
-    {
-      "text": "zinaonesha",
-      "start": 2.896125,
-      "end": 3.596916,
-      "targetImage": true
-    },
-    {
-      "text": "faida",
-      "start": 3.639833,
-      "end": 4.083208,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 4.111791,
-      "end": 4.269124,
-      "targetImage": true
-    },
-    {
-      "text": "kula",
-      "start": 4.312,
-      "end": 4.626625,
-      "targetImage": true
-    },
-    {
-      "text": "matunda",
-      "start": 4.65525,
-      "end": 5.127208,
-      "targetImage": true
-    },
-    {
-      "text": "yaliyosafishwa",
-      "start": 5.155833,
-      "end": 6.214166,
-      "targetImage": true
-    },
-    {
-      "text": "Kuna",
-      "start": 7.27975,
-      "end": 7.379875,
-      "targetImage": true
-    },
-    {
-      "text": "watoto",
-      "start": 7.479958,
-      "end": 7.923333,
-      "targetImage": true
-    },
-    {
-      "text": "wakiosha",
-      "start": 7.951958,
-      "end": 8.495416,
-      "targetImage": true
-    },
-    {
-      "text": "matunda",
-      "start": 8.524041,
-      "end": 9.067499,
-      "targetImage": true
-    },
-    {
-      "text": "wakila",
-      "start": 9.196208,
-      "end": 9.610958,
-      "targetImage": true
-    },
-    {
-      "text": "matunda",
-      "start": 9.639583,
-      "end": 10.097249,
-      "targetImage": true
-    },
-    {
-      "text": "safi",
-      "start": 10.125875,
-      "end": 10.526333,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 10.554916,
-      "end": 10.655041,
-      "targetImage": true
-    },
-    {
-      "text": "wakionekana",
-      "start": 10.683625,
-      "end": 11.513125,
-      "targetImage": true
-    },
-    {
-      "text": "wenye",
-      "start": 11.54175,
-      "end": 11.799166,
-      "targetImage": true
-    },
-    {
-      "text": "afya",
-      "start": 11.842125,
-      "end": 12.342708,
-      "targetImage": true
     },
     {
       "text": "Hatua",
-      "start": 13.401041,
-      "end": 13.715666,
+      "start": 2.409833,
+      "end": 2.824583,
       "sourceIndex": 2
     },
     {
       "text": "za",
-      "start": 13.815791,
-      "end": 13.973124,
+      "start": 2.853208,
+      "end": 2.996208,
       "sourceIndex": 2
     },
     {
       "text": "kusafisha",
-      "start": 14.001708,
-      "end": 14.645291,
+      "start": 3.039125,
+      "end": 3.682708,
       "sourceIndex": 2
     },
     {
       "text": "matunda",
-      "start": 14.673916,
-      "end": 15.145874,
+      "start": 3.711333,
+      "end": 4.183291,
       "sourceIndex": 2
     },
     {
       "text": "1",
-      "start": 15.1745,
-      "end": 15.532041,
+      "start": 4.211916,
+      "end": 4.569457,
       "sourceIndex": 3
     },
     {
       "text": "2",
-      "start": 15.560625,
-      "end": 15.889583,
+      "start": 4.612375,
+      "end": 4.941333,
       "sourceIndex": 3
     },
     {
       "text": "3",
-      "start": 15.9325,
-      "end": 16.27575,
+      "start": 4.984208,
+      "end": 5.327458,
       "sourceIndex": 3
     },
     {
       "text": "Kuokota",
-      "start": 16.304333,
-      "end": 16.962208,
+      "start": 5.356083,
+      "end": 6.013958,
       "sourceIndex": 4
     },
     {
       "text": "tunda",
-      "start": 17.005166,
-      "end": 17.319791,
+      "start": 6.056875,
+      "end": 6.3715,
       "sourceIndex": 4
     },
     {
       "text": "Kuandaa",
-      "start": 17.362708,
-      "end": 17.820374,
+      "start": 6.414416,
+      "end": 6.886374,
       "sourceIndex": 4
     },
     {
       "text": "vifaa",
-      "start": 17.848958,
-      "end": 18.220791,
+      "start": 6.915,
+      "end": 7.286833,
       "sourceIndex": 4
     },
     {
       "text": "vya",
-      "start": 18.249416,
-      "end": 18.406749,
+      "start": 7.32975,
+      "end": 7.487083,
       "sourceIndex": 4
     },
     {
       "text": "Kusafisha",
-      "start": 18.435375,
-      "end": 19.107583,
+      "start": 7.515666,
+      "end": 8.202166,
       "sourceIndex": 4
     },
     {
       "text": "tunda",
-      "start": 19.150458,
-      "end": 19.450791,
+      "start": 8.245083,
+      "end": 8.545416,
       "sourceIndex": 4
     },
     {
       "text": "kusafishia",
-      "start": 19.493708,
-      "end": 20.237416,
+      "start": 8.574041,
+      "end": 9.303457,
       "sourceIndex": 5
     },
     {
       "text": "tunda",
-      "start": 20.280333,
-      "end": 20.666499,
+      "start": 9.346333,
+      "end": 9.732499,
       "sourceIndex": 5
     },
     {
       "text": "Maji",
-      "start": 21.724833,
-      "end": 21.953666,
+      "start": 10.812375,
+      "end": 11.026916,
       "sourceIndex": 6
     },
     {
       "text": "safi",
-      "start": 22.068083,
-      "end": 22.482833,
+      "start": 11.169916,
+      "end": 11.584666,
       "sourceIndex": 6
     },
     {
       "text": "na",
-      "start": 22.511458,
-      "end": 22.597249,
+      "start": 11.613291,
+      "end": 11.699082,
       "sourceIndex": 6
     },
     {
       "text": "salama",
-      "start": 22.625875,
-      "end": 23.226541,
+      "start": 11.727708,
+      "end": 12.328374,
       "sourceIndex": 6
     },
     {
       "text": "bakuli",
-      "start": 23.383875,
-      "end": 23.870125,
+      "start": 12.485708,
+      "end": 12.971958,
       "sourceIndex": 7
     },
     {
       "text": "na",
-      "start": 23.89875,
-      "end": 23.998875,
+      "start": 13.000583,
+      "end": 13.100708,
       "sourceIndex": 7
     },
     {
       "text": "kikombe",
-      "start": 24.04175,
-      "end": 24.570916,
+      "start": 13.143583,
+      "end": 13.672749,
       "sourceIndex": 7
     },
     {
       "text": "4",
-      "start": 24.613833,
-      "end": 24.842666,
+      "start": 13.701375,
+      "end": 13.930208,
       "sourceIndex": 8
     },
     {
       "text": "5",
-      "start": 24.885583,
-      "end": 25.243124,
+      "start": 13.973125,
+      "end": 14.330666,
       "sourceIndex": 8
     },
     {
       "text": "Kula",
-      "start": 25.286041,
-      "end": 25.629291,
+      "start": 14.373583,
+      "end": 14.731124,
       "sourceIndex": 9
     },
     {
       "text": "tunda",
-      "start": 25.672208,
-      "end": 26.015458,
+      "start": 14.774041,
+      "end": 15.117291,
       "sourceIndex": 9
     },
     {
       "text": "lililosafishwa",
-      "start": 26.044041,
-      "end": 27.088082,
+      "start": 15.145875,
+      "end": 16.161333,
       "sourceIndex": 9
     },
     {
       "text": "Kuwa",
-      "start": 27.116708,
-      "end": 27.388458,
+      "start": 16.189916,
+      "end": 16.461666,
       "sourceIndex": 9
     },
     {
       "text": "na",
-      "start": 27.417041,
-      "end": 27.545749,
+      "start": 16.490291,
+      "end": 16.618999,
       "sourceIndex": 9
     },
     {
       "text": "afya",
-      "start": 27.588666,
-      "end": 27.974832,
+      "start": 16.661916,
+      "end": 17.048082,
       "sourceIndex": 9
     },
     {
       "text": "njema",
-      "start": 28.01775,
-      "end": 28.403916,
+      "start": 17.076666,
+      "end": 17.462832,
       "sourceIndex": 9
     },
     {
       "text": "na",
-      "start": 28.4325,
-      "end": 28.532625,
+      "start": 17.491416,
+      "end": 17.591541,
       "sourceIndex": 9
     },
     {
       "text": "kucheza",
-      "start": 28.5755,
-      "end": 29.076083,
+      "start": 17.634458,
+      "end": 18.135041,
       "sourceIndex": 10
     },
     {
       "text": "kwa",
-      "start": 29.119,
-      "end": 29.290625,
+      "start": 18.177916,
+      "end": 18.320916,
       "sourceIndex": 10
     },
     {
       "text": "furaha",
-      "start": 29.319208,
-      "end": 29.919874,
+      "start": 18.349541,
+      "end": 18.892999,
       "sourceIndex": 10
+    },
+    {
+      "text": "Picha",
+      "start": 18.935916,
+      "end": 19.279166,
+      "targetImage": true
+    },
+    {
+      "text": "zinaonesha",
+      "start": 19.322083,
+      "end": 20.037166,
+      "targetImage": true
+    },
+    {
+      "text": "faida",
+      "start": 20.080083,
+      "end": 20.523458,
+      "targetImage": true
+    },
+    {
+      "text": "za",
+      "start": 20.552041,
+      "end": 20.709374,
+      "targetImage": true
+    },
+    {
+      "text": "kula",
+      "start": 20.752291,
+      "end": 21.066916,
+      "targetImage": true
+    },
+    {
+      "text": "matunda",
+      "start": 21.095541,
+      "end": 21.567499,
+      "targetImage": true
+    },
+    {
+      "text": "yaliyosafishwa",
+      "start": 21.596125,
+      "end": 22.640166,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 23.684208,
+      "end": 23.784333,
+      "targetImage": true
+    },
+    {
+      "text": "watoto",
+      "start": 23.884458,
+      "end": 24.327833,
+      "targetImage": true
+    },
+    {
+      "text": "wakiosha",
+      "start": 24.356416,
+      "end": 24.899874,
+      "targetImage": true
+    },
+    {
+      "text": "matunda",
+      "start": 24.9285,
+      "end": 25.471958,
+      "targetImage": true
+    },
+    {
+      "text": "wakila",
+      "start": 25.600666,
+      "end": 26.015416,
+      "targetImage": true
+    },
+    {
+      "text": "matunda",
+      "start": 26.044041,
+      "end": 26.501707,
+      "targetImage": true
+    },
+    {
+      "text": "safi",
+      "start": 26.530333,
+      "end": 26.930791,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 26.959375,
+      "end": 27.0595,
+      "targetImage": true
+    },
+    {
+      "text": "wakionekana",
+      "start": 27.088083,
+      "end": 27.917583,
+      "targetImage": true
+    },
+    {
+      "text": "wenye",
+      "start": 27.946208,
+      "end": 28.203624,
+      "targetImage": true
+    },
+    {
+      "text": "afya",
+      "start": 28.246583,
+      "end": 28.747166,
+      "targetImage": true
     }
   ]
 }
