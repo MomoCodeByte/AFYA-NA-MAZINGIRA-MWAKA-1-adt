@@ -5,28 +5,27 @@ import edge_tts
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "content" / "rehema"
 VOICE = "sw-TZ-RehemaNeural"
-AUDIO = "page-013-matching-v15.mp3"
-VERSION = 15
+AUDIO = "page-013-matching-v18.mp3"
+VERSION = 18
 
 segments = [
     ("Zoezi la nne.", 1),
     ("Jibu maswali haya.", 4),
     ("Oanisha sehemu ya mwili na kazi yake. Mfano, sikio linaoanishwa na kusikia.", 7),
-    ("Zoezi lina sehemu sita za mwili na kazi sita. Chagua sehemu ya mwili, kisha chagua kazi inayolingana nayo.", "image"),
-    ("Picha ya kwanza inaonesha macho.", "image"),
-    ("Picha ya pili inaonesha mdomo.", "image"),
-    ("Picha ya tatu inaonesha sikio.", "image"),
-    ("Picha ya nne inaonesha miguu.", "image"),
-    ("Picha ya tano inaonesha mikono.", "image"),
-    ("Picha ya sita inaonesha pua.", "image"),
-    ("Kazi zinazopatikana ni hizi.", "image"),
+    ("Sehemu za mwili ni hizi.", "image"),
+    ("Moja. Macho.", "image"),
+    ("Mbili. Mdomo.", "image"),
+    ("Tatu. Sikio.", "image"),
+    ("Nne. Miguu.", "image"),
+    ("Tano. Mikono.", "image"),
+    ("Sita. Pua.", "image"),
+    ("Kazi za sehemu hizo za mwili ni hizi.", "image"),
     ("Moja. Kushika vitu.", 27),
     ("Mbili. Kutembea.", 29),
     ("Tatu. Kunusa.", 30),
     ("Nne. Kusikia.", 31),
     ("Tano. Kuongea na kula.", 32),
     ("Sita. Kuona.", 35),
-    ("Chagua sehemu ya mwili, kisha chagua kazi yake.", "image"),
     ("Mwili uweze kukua vizuri unahitaji afya bora. Katika sura ya pili tutajifunza kuhusu afya bora katika mwili wa binadamu.", 37),
 ]
 
