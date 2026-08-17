@@ -1,14 +1,14 @@
 import asyncio,json,re
 from pathlib import Path
 import edge_tts
-ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"content"/"rehema";VOICE="sw-TZ-RehemaNeural";AUDIO="page-021-fruit-v18.mp3";VERSION=18
+ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/"content"/"rehema";VOICE="sw-TZ-RehemaNeural";AUDIO="page-021-fruit-v19.mp3";VERSION=19
 segments=[
  ("Madhara ya kula matunda bila kusafisha.",1),
- ("Namba moja. Maandishi ya picha. Kuokota tunda lililoanguka.","image"),("Maelezo ya picha. Picha inaonesha mtoto akiinama na kuokota tunda lililoanguka chini ya mti.","image"),
- ("Namba mbili. Maandishi ya picha. Kula tunda bila kusafisha.","image"),("Maelezo ya picha. Picha inaonesha mtoto akila tunda alilookota bila kulisafisha.","image"),
- ("Namba tatu. Maandishi ya picha. Kuumwa tumbo.","image"),("Maelezo ya picha. Picha inaonesha mtoto akishika tumbo kwa mikono na uso wake unaonesha maumivu.","image"),
- ("Namba nne. Maandishi ya picha. Kukimbilia chooni.","image"),("Maelezo ya picha. Picha inaonesha mtoto akikimbilia kwenye choo baada ya kuumwa tumbo.","image"),
- ("Namba tano. Maandishi ya picha. Kutapika.","image"),("Maelezo ya picha. Picha inaonesha mtoto akiwa ameinama ndani ya choo na anatapika.","image"),
+ ("Namba moja. Picha inaonesha mtoto akiinama na kuokota tunda lililoanguka chini ya mti.","image"),
+ ("Namba mbili. Picha inaonesha mtoto akila tunda alilookota bila kulisafisha.","image"),
+ ("Namba tatu. Picha inaonesha mtoto akishika tumbo kwa mikono na uso wake unaonesha maumivu.","image"),
+ ("Namba nne. Picha inaonesha mtoto akikimbilia kwenye choo baada ya kuumwa tumbo.","image"),
+ ("Namba tano. Picha inaonesha mtoto akiwa ameinama ndani ya choo na anatapika.","image"),
 ]
 async def main():
  text=" ".join(x[0] for x in segments);cues=[]

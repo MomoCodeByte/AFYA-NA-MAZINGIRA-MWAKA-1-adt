@@ -1,7 +1,7 @@
 {
-  "audio": "page-021-fruit-v18.mp3",
+  "audio": "page-021-fruit-v19.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 18,
+  "version": 19,
   "words": [
     {
       "text": "Madhara",
@@ -52,609 +52,357 @@
       "targetImage": true
     },
     {
-      "text": "Maandishi",
-      "start": 5.935375,
-      "end": 6.45025,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 6.578958,
-      "end": 6.693374,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 6.721958,
-      "end": 7.208208,
-      "targetImage": true
-    },
-    {
-      "text": "Kuokota",
-      "start": 8.266583,
-      "end": 8.752833,
-      "targetImage": true
-    },
-    {
-      "text": "tunda",
-      "start": 8.867291,
-      "end": 9.196249,
-      "targetImage": true
-    },
-    {
-      "text": "lililoanguka",
-      "start": 9.224833,
-      "end": 10.268874,
-      "targetImage": true
-    },
-    {
-      "text": "Maelezo",
-      "start": 11.370125,
-      "end": 11.827791,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 11.956541,
-      "end": 12.085249,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 12.113833,
-      "end": 12.600083,
-      "targetImage": true
-    },
-    {
       "text": "Picha",
-      "start": 13.658458,
-      "end": 13.815791,
+      "start": 5.90675,
+      "end": 6.064083,
       "targetImage": true
     },
     {
       "text": "inaonesha",
-      "start": 13.915916,
-      "end": 14.559499,
+      "start": 6.164208,
+      "end": 6.807791,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 14.588083,
-      "end": 15.002833,
+      "start": 6.836375,
+      "end": 7.251125,
       "targetImage": true
     },
     {
       "text": "akiinama",
-      "start": 15.04575,
-      "end": 15.646416,
+      "start": 7.294041,
+      "end": 7.894707,
       "targetImage": true
     },
     {
       "text": "na",
-      "start": 15.675041,
-      "end": 15.775166,
+      "start": 7.923333,
+      "end": 8.023458,
       "targetImage": true
     },
     {
       "text": "kuokota",
-      "start": 15.803791,
-      "end": 16.447374,
+      "start": 8.052041,
+      "end": 8.695624,
       "targetImage": true
     },
     {
       "text": "tunda",
-      "start": 16.490291,
-      "end": 16.804916,
+      "start": 8.738541,
+      "end": 9.053166,
       "targetImage": true
     },
     {
       "text": "lililoanguka",
-      "start": 16.833541,
-      "end": 17.734582,
+      "start": 9.081791,
+      "end": 9.982832,
       "targetImage": true
     },
     {
       "text": "chini",
-      "start": 17.777458,
-      "end": 18.106416,
+      "start": 10.02575,
+      "end": 10.354708,
       "targetImage": true
     },
     {
       "text": "ya",
-      "start": 18.135,
-      "end": 18.220791,
+      "start": 10.383291,
+      "end": 10.469082,
       "targetImage": true
     },
     {
       "text": "mti",
-      "start": 18.26375,
-      "end": 18.635583,
+      "start": 10.512,
+      "end": 10.883833,
       "targetImage": true
     },
     {
       "text": "Namba",
-      "start": 19.722541,
-      "end": 19.994291,
+      "start": 11.970833,
+      "end": 12.242583,
       "targetImage": true
     },
     {
       "text": "mbili",
-      "start": 20.123,
-      "end": 20.623583,
-      "targetImage": true
-    },
-    {
-      "text": "Maandishi",
-      "start": 21.739125,
-      "end": 22.254,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 22.382708,
-      "end": 22.497124,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 22.52575,
-      "end": 23.012,
-      "targetImage": true
-    },
-    {
-      "text": "Kula",
-      "start": 24.070375,
-      "end": 24.242,
-      "targetImage": true
-    },
-    {
-      "text": "tunda",
-      "start": 24.356416,
-      "end": 24.699666,
-      "targetImage": true
-    },
-    {
-      "text": "bila",
-      "start": 24.72825,
-      "end": 25.028583,
-      "targetImage": true
-    },
-    {
-      "text": "kusafisha",
-      "start": 25.057208,
-      "end": 25.829499,
-      "targetImage": true
-    },
-    {
-      "text": "Maelezo",
-      "start": 26.945083,
-      "end": 27.402749,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 27.531458,
-      "end": 27.660166,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 27.688791,
-      "end": 28.175041,
+      "start": 12.371291,
+      "end": 12.871874,
       "targetImage": true
     },
     {
       "text": "Picha",
-      "start": 29.233416,
-      "end": 29.390749,
+      "start": 13.958791,
+      "end": 14.116124,
       "targetImage": true
     },
     {
       "text": "inaonesha",
-      "start": 29.490833,
-      "end": 30.120124,
+      "start": 14.21625,
+      "end": 14.845541,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 30.14875,
-      "end": 30.5635,
+      "start": 14.874125,
+      "end": 15.288875,
       "targetImage": true
     },
     {
       "text": "akila",
-      "start": 30.606416,
-      "end": 31.035457,
+      "start": 15.331791,
+      "end": 15.760832,
       "targetImage": true
     },
     {
       "text": "tunda",
-      "start": 31.078375,
-      "end": 31.407333,
+      "start": 15.803791,
+      "end": 16.132749,
       "targetImage": true
     },
     {
       "text": "alilookota",
-      "start": 31.435916,
-      "end": 32.279749,
+      "start": 16.161333,
+      "end": 17.005166,
       "targetImage": true
     },
     {
       "text": "bila",
-      "start": 32.322666,
-      "end": 32.622999,
+      "start": 17.048041,
+      "end": 17.348374,
       "targetImage": true
     },
     {
       "text": "kulisafisha",
-      "start": 32.665916,
-      "end": 33.552624,
+      "start": 17.391291,
+      "end": 18.277999,
       "targetImage": true
     },
     {
       "text": "Namba",
-      "start": 34.625291,
-      "end": 34.911332,
+      "start": 19.350666,
+      "end": 19.636707,
       "targetImage": true
     },
     {
       "text": "tatu",
-      "start": 35.040041,
-      "end": 35.612124,
-      "targetImage": true
-    },
-    {
-      "text": "Maandishi",
-      "start": 36.699083,
-      "end": 37.213958,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 37.342666,
-      "end": 37.457082,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 37.485708,
-      "end": 37.971958,
-      "targetImage": true
-    },
-    {
-      "text": "Kuumwa",
-      "start": 39.030333,
-      "end": 39.359291,
-      "targetImage": true
-    },
-    {
-      "text": "tumbo",
-      "start": 39.473666,
-      "end": 39.988541,
-      "targetImage": true
-    },
-    {
-      "text": "Maelezo",
-      "start": 41.089833,
-      "end": 41.547499,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 41.676208,
-      "end": 41.804916,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 41.833541,
-      "end": 42.319791,
+      "start": 19.765458,
+      "end": 20.337541,
       "targetImage": true
     },
     {
       "text": "Picha",
-      "start": 43.378125,
-      "end": 43.535458,
+      "start": 21.395875,
+      "end": 21.553208,
       "targetImage": true
     },
     {
       "text": "inaonesha",
-      "start": 43.635583,
-      "end": 44.264874,
+      "start": 21.653333,
+      "end": 22.282624,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 44.293458,
-      "end": 44.722499,
+      "start": 22.311208,
+      "end": 22.740249,
       "targetImage": true
     },
     {
       "text": "akishika",
-      "start": 44.765458,
-      "end": 45.351833,
+      "start": 22.783166,
+      "end": 23.369541,
       "targetImage": true
     },
     {
       "text": "tumbo",
-      "start": 45.39475,
-      "end": 45.738,
+      "start": 23.412458,
+      "end": 23.755708,
       "targetImage": true
     },
     {
       "text": "kwa",
-      "start": 45.766583,
-      "end": 45.909583,
+      "start": 23.784333,
+      "end": 23.927333,
       "targetImage": true
     },
     {
       "text": "mikono",
-      "start": 45.938208,
-      "end": 46.424458,
+      "start": 23.955958,
+      "end": 24.442208,
       "targetImage": true
     },
     {
       "text": "na",
-      "start": 46.453083,
-      "end": 46.567499,
+      "start": 24.470833,
+      "end": 24.585249,
       "targetImage": true
     },
     {
       "text": "uso",
-      "start": 46.610416,
-      "end": 46.896457,
+      "start": 24.628166,
+      "end": 24.914207,
       "targetImage": true
     },
     {
       "text": "wake",
-      "start": 46.939375,
-      "end": 47.268333,
+      "start": 24.957083,
+      "end": 25.286041,
       "targetImage": true
     },
     {
       "text": "unaonesha",
-      "start": 47.311208,
-      "end": 47.940499,
+      "start": 25.328958,
+      "end": 25.958249,
       "targetImage": true
     },
     {
       "text": "maumivu",
-      "start": 47.969125,
-      "end": 48.641333,
+      "start": 25.986833,
+      "end": 26.659041,
       "targetImage": true
     },
     {
       "text": "Namba",
-      "start": 49.699666,
-      "end": 50.014291,
+      "start": 27.717375,
+      "end": 28.032,
       "targetImage": true
     },
     {
       "text": "nne",
-      "start": 50.128708,
-      "end": 50.557749,
-      "targetImage": true
-    },
-    {
-      "text": "Maandishi",
-      "start": 51.701958,
-      "end": 52.216833,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 52.345541,
-      "end": 52.459957,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 52.488541,
-      "end": 52.974791,
-      "targetImage": true
-    },
-    {
-      "text": "Kukimbilia",
-      "start": 54.033166,
-      "end": 54.662457,
-      "targetImage": true
-    },
-    {
-      "text": "chooni",
-      "start": 54.776875,
-      "end": 55.406166,
-      "targetImage": true
-    },
-    {
-      "text": "Maelezo",
-      "start": 56.52175,
-      "end": 56.979416,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 57.108125,
-      "end": 57.236833,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 57.265458,
-      "end": 57.751708,
+      "start": 28.146458,
+      "end": 28.575499,
       "targetImage": true
     },
     {
       "text": "Picha",
-      "start": 58.810083,
-      "end": 58.967416,
+      "start": 29.691083,
+      "end": 29.848416,
       "targetImage": true
     },
     {
       "text": "inaonesha",
-      "start": 59.0675,
-      "end": 59.711083,
+      "start": 29.9485,
+      "end": 30.592083,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 59.739708,
-      "end": 60.140166,
+      "start": 30.620708,
+      "end": 31.021166,
       "targetImage": true
     },
     {
       "text": "akikimbilia",
-      "start": 60.183083,
-      "end": 60.983999,
+      "start": 31.064083,
+      "end": 31.864999,
       "targetImage": true
     },
     {
       "text": "kwenye",
-      "start": 61.026875,
-      "end": 61.312916,
+      "start": 31.907875,
+      "end": 32.193916,
       "targetImage": true
     },
     {
       "text": "choo",
-      "start": 61.355833,
-      "end": 61.627583,
+      "start": 32.236833,
+      "end": 32.508583,
       "targetImage": true
     },
     {
       "text": "baada",
-      "start": 61.656166,
-      "end": 61.999416,
+      "start": 32.537166,
+      "end": 32.880416,
       "targetImage": true
     },
     {
       "text": "ya",
-      "start": 62.028041,
-      "end": 62.128166,
+      "start": 32.909041,
+      "end": 33.009166,
       "targetImage": true
     },
     {
       "text": "kuumwa",
-      "start": 62.15675,
-      "end": 62.5715,
+      "start": 33.03775,
+      "end": 33.4525,
       "targetImage": true
     },
     {
       "text": "tumbo",
-      "start": 62.614416,
-      "end": 63.057791,
+      "start": 33.495416,
+      "end": 33.938791,
       "targetImage": true
     },
     {
       "text": "Namba",
-      "start": 64.130416,
-      "end": 64.445041,
+      "start": 35.011458,
+      "end": 35.326083,
       "targetImage": true
     },
     {
       "text": "tano",
-      "start": 64.573791,
-      "end": 65.145874,
-      "targetImage": true
-    },
-    {
-      "text": "Maandishi",
-      "start": 66.27575,
-      "end": 66.790625,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 66.919333,
-      "end": 67.033749,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 67.062375,
-      "end": 67.548625,
-      "targetImage": true
-    },
-    {
-      "text": "Kutapika",
-      "start": 68.606958,
-      "end": 69.279166,
-      "targetImage": true
-    },
-    {
-      "text": "Maelezo",
-      "start": 70.451958,
-      "end": 70.909624,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 71.038333,
-      "end": 71.167041,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 71.195666,
-      "end": 71.681916,
+      "start": 35.454791,
+      "end": 36.026874,
       "targetImage": true
     },
     {
       "text": "Picha",
-      "start": 72.740291,
-      "end": 72.911916,
+      "start": 37.128166,
+      "end": 37.299791,
       "targetImage": true
     },
     {
       "text": "inaonesha",
-      "start": 73.012,
-      "end": 73.627,
+      "start": 37.399875,
+      "end": 38.014875,
       "targetImage": true
     },
     {
       "text": "mtoto",
-      "start": 73.669916,
-      "end": 74.098957,
+      "start": 38.057791,
+      "end": 38.486832,
       "targetImage": true
     },
     {
       "text": "akiwa",
-      "start": 74.141875,
-      "end": 74.513708,
+      "start": 38.52975,
+      "end": 38.901583,
       "targetImage": true
     },
     {
       "text": "ameinama",
-      "start": 74.542333,
-      "end": 75.128708,
+      "start": 38.930208,
+      "end": 39.516583,
       "targetImage": true
     },
     {
       "text": "ndani",
-      "start": 75.157333,
-      "end": 75.486291,
+      "start": 39.545208,
+      "end": 39.874166,
       "targetImage": true
     },
     {
       "text": "ya",
-      "start": 75.514875,
-      "end": 75.600666,
+      "start": 39.90275,
+      "end": 39.988541,
       "targetImage": true
     },
     {
       "text": "choo",
-      "start": 75.629291,
-      "end": 75.958249,
+      "start": 40.017166,
+      "end": 40.346124,
       "targetImage": true
     },
     {
       "text": "na",
-      "start": 75.986833,
-      "end": 76.101249,
+      "start": 40.374708,
+      "end": 40.489124,
       "targetImage": true
     },
     {
       "text": "anatapika",
-      "start": 76.129875,
-      "end": 76.902166,
+      "start": 40.51775,
+      "end": 41.290041,
       "targetImage": true
     }
   ]
