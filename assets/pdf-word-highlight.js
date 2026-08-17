@@ -16,8 +16,6 @@
   var recordedAudio = null;
   var recordedEntry = null;
   var recordedCue = 0;
-  var imageCaption;
-  var imageCaptionWords = [];
   var recordedStopAt = null;
   var timingsPromise = null;
 
@@ -134,7 +132,7 @@
     if (document.documentElement.dataset.forceTranscriptAudio === "true") return Promise.resolve(null);
     if (window.__validatorEnhancedPage && page !== "3" && page !== "8" && page !== "9" && page !== "10" && page !== "12" && page !== "13" && page !== "15" && page !== "17" && page !== "30" && page !== "31" && page !== "35" && page !== "36" && page !== "37" && page !== "38" && page !== "41" && page !== "42" && page !== "44" && page !== "46" && page !== "49" && page !== "50" && page !== "53" && page !== "54" && page !== "55" && page !== "56" && page !== "58" && page !== "60" && page !== "61" && page !== "62" && page !== "65" && page !== "67" && page !== "68" && page !== "69" && page !== "70" && page !== "71") return Promise.resolve(null);
     if (!timingsPromise) {
-      timingsPromise = fetch("./content/rehema/timecodes.json?v=54")
+      timingsPromise = fetch("./content/rehema/timecodes.json?v=57")
         .then(function (response) { return response.ok ? response.json() : {}; })
         .catch(function () { return {}; });
     }
@@ -155,14 +153,9 @@
     if (cue.targetPatch !== undefined) {
       target = document.querySelectorAll('[data-validator-patch="' + cue.targetPatch + '"] .validator-display-word')[Number(cue.targetWord || 0)];
     } else if (cue.targetImage) {
-      if (imageCaption) {
-        imageCaption.hidden = false;
-        var imageIndex = 0;
-        for (var i = 0; i < recordedCue; i += 1) if (cues[i] && cues[i].targetImage) imageIndex += 1;
-        target = imageCaptionWords[imageIndex];
-      }
+      clear();
+      return;
     } else {
-      if (imageCaption) imageCaption.hidden = true;
       target = words()[Number(cue.sourceIndex || 0)];
     }
     if (!target || target === activeWord) return;
@@ -173,21 +166,6 @@
 
   function playRecorded(entry) {
     recordedEntry = entry;
-    if (imageCaption) imageCaption.remove();
-    imageCaption = document.createElement("div");
-    imageCaption.className = "recorded-image-caption";
-    imageCaption.setAttribute("role", "status");
-    imageCaption.setAttribute("aria-label", "Maelezo ya picha");
-    imageCaption.hidden = true;
-    imageCaptionWords = [];
-    (entry.words || []).forEach(function (cue) {
-      if (!cue.targetImage) return;
-      var word = document.createElement("span");
-      word.textContent = cue.text + " ";
-      imageCaption.appendChild(word);
-      imageCaptionWords.push(word);
-    });
-    document.body.appendChild(imageCaption);
     recordedStopAt = null;
     var footerIndex = (entry.words || []).findIndex(function (cue, index, cues) {
       return /^AFYA$/i.test(cue.text || "") && cues[index + 1] && /^NA$/i.test(cues[index + 1].text || "");
