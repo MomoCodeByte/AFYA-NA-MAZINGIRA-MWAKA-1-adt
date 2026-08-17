@@ -1,127 +1,235 @@
 {
-  "audio": "page-032.mp3",
+  "audio": "page-032-accessible-v16.mp3",
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 16,
   "words": [
     {
       "text": "Kuoga",
       "start": 0.178708,
-      "end": 0.493333,
+      "end": 0.550541,
       "sourceIndex": 1
     },
     {
+      "text": "Picha",
+      "start": 0.665,
+      "end": 0.993958,
+      "targetImage": true
+    },
+    {
+      "text": "zinaonesha",
+      "start": 1.022541,
+      "end": 1.751957,
+      "targetImage": true
+    },
+    {
+      "text": "vifaa",
+      "start": 1.780541,
+      "end": 2.180999,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 2.209625,
+      "end": 2.30975,
+      "targetImage": true
+    },
+    {
+      "text": "hatua",
+      "start": 2.338333,
+      "end": 2.795999,
+      "targetImage": true
+    },
+    {
+      "text": "za",
+      "start": 2.824583,
+      "end": 2.981916,
+      "targetImage": true
+    },
+    {
+      "text": "kuoga",
+      "start": 3.010541,
+      "end": 3.611207,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 4.676791,
+      "end": 4.805499,
+      "targetImage": true
+    },
+    {
+      "text": "taulo",
+      "start": 4.919916,
+      "end": 5.477707,
+      "targetImage": true
+    },
+    {
+      "text": "sabuni",
+      "start": 5.577791,
+      "end": 6.207082,
+      "targetImage": true
+    },
+    {
+      "text": "kitambaa",
+      "start": 6.335791,
+      "end": 7.065207,
+      "targetImage": true
+    },
+    {
+      "text": "dodoki",
+      "start": 7.179625,
+      "end": 7.866125,
+      "targetImage": true
+    },
+    {
+      "text": "beseni",
+      "start": 7.980541,
+      "end": 8.566916,
+      "targetImage": true
+    },
+    {
+      "text": "kandambili",
+      "start": 8.681333,
+      "end": 9.396416,
+      "targetImage": true
+    },
+    {
+      "text": "ndoo",
+      "start": 9.525166,
+      "end": 9.839791,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 9.868416,
+      "end": 9.968541,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 10.011458,
+      "end": 10.454833,
+      "targetImage": true
+    },
+    {
+      "text": "akioga",
+      "start": 10.497708,
+      "end": 11.198499,
+      "targetImage": true
+    },
+    {
       "text": "Vifaa",
-      "start": 0.593458,
-      "end": 0.993916,
+      "start": 12.271166,
+      "end": 12.557207,
       "sourceIndex": 2
     },
     {
       "text": "vya",
-      "start": 1.022541,
-      "end": 1.208457,
-      "sourceIndex": 3
+      "start": 12.657333,
+      "end": 12.843249,
+      "sourceIndex": 2
     },
     {
       "text": "kuogea",
-      "start": 1.237083,
-      "end": 1.766249,
-      "sourceIndex": 4
+      "start": 12.871833,
+      "end": 13.386708,
+      "sourceIndex": 2
     },
     {
       "text": "taulo",
-      "start": 1.809166,
-      "end": 2.209624,
-      "sourceIndex": 5
+      "start": 13.429625,
+      "end": 13.830083,
+      "sourceIndex": 3
     },
     {
       "text": "sabuni",
-      "start": 2.238208,
-      "end": 2.781666,
-      "sourceIndex": 6
+      "start": 13.858708,
+      "end": 14.402166,
+      "sourceIndex": 3
     },
     {
       "text": "kitambaa",
-      "start": 2.824583,
-      "end": 3.396666,
-      "sourceIndex": 7
+      "start": 14.445083,
+      "end": 15.002874,
+      "sourceIndex": 3
     },
     {
       "text": "dodoki",
-      "start": 3.425291,
-      "end": 3.954457,
-      "sourceIndex": 8
+      "start": 15.031458,
+      "end": 15.546333,
+      "sourceIndex": 3
     },
     {
       "text": "beseni",
-      "start": 3.997375,
-      "end": 4.51225,
-      "sourceIndex": 9
+      "start": 15.58925,
+      "end": 16.089833,
+      "sourceIndex": 4
     },
     {
       "text": "kandambili",
-      "start": 4.555166,
-      "end": 5.227374,
-      "sourceIndex": 10
+      "start": 16.132708,
+      "end": 16.819208,
+      "sourceIndex": 4
     },
     {
       "text": "kopo",
-      "start": 5.27025,
-      "end": 5.642083,
-      "sourceIndex": 11
+      "start": 16.862125,
+      "end": 17.248291,
+      "sourceIndex": 4
     },
     {
       "text": "Hatua",
-      "start": 5.685,
-      "end": 6.128375,
-      "sourceIndex": 12
+      "start": 17.291208,
+      "end": 17.720249,
+      "sourceIndex": 5
     },
     {
       "text": "za",
-      "start": 6.157,
-      "end": 6.314333,
-      "sourceIndex": 13
+      "start": 17.748875,
+      "end": 17.906208,
+      "sourceIndex": 5
     },
     {
       "text": "kuoga",
-      "start": 6.342916,
-      "end": 6.900707,
-      "sourceIndex": 14
+      "start": 17.934791,
+      "end": 18.421041,
+      "sourceIndex": 5
     },
     {
-      "text": "moja",
-      "start": 7.980541,
-      "end": 8.323791,
-      "sourceIndex": 15
+      "text": "1",
+      "start": 18.449666,
+      "end": 18.807207,
+      "sourceIndex": 6
+    },
+    {
+      "text": "2",
+      "start": 18.835791,
+      "end": 19.164749,
+      "sourceIndex": 6
     },
     {
       "text": "Kuvua",
-      "start": 8.552625,
-      "end": 9.096083,
-      "sourceIndex": 17
+      "start": 19.207666,
+      "end": 19.651041,
+      "sourceIndex": 7
     },
     {
       "text": "nguo",
-      "start": 9.124708,
-      "end": 9.596666,
-      "sourceIndex": 18
-    },
-    {
-      "text": "mbili",
-      "start": 10.697958,
-      "end": 10.983999,
-      "sourceIndex": 16
+      "start": 19.679625,
+      "end": 19.979958,
+      "sourceIndex": 7
     },
     {
       "text": "Kujimwagia",
-      "start": 11.212833,
-      "end": 12.042333,
-      "sourceIndex": 19
+      "start": 20.022875,
+      "end": 20.795166,
+      "sourceIndex": 7
     },
     {
       "text": "maji",
-      "start": 12.070958,
-      "end": 12.614416,
-      "sourceIndex": 20
+      "start": 20.823791,
+      "end": 21.295749,
+      "sourceIndex": 7
     }
-  ],
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 7
+  ]
 }

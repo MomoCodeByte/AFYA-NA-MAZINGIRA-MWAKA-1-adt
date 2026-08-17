@@ -1,389 +1,481 @@
 {
-  "audio": "page-017-ordered-v14.mp3",
+  "audio": "page-017-accessible-v16.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 14,
+  "version": 16,
   "words": [
     {
       "text": "Kufunika",
       "start": 0.178708,
       "end": 0.679291,
-      "sourceIndex": 2
+      "sourceIndex": 1
     },
     {
       "text": "chakula",
       "start": 0.779416,
       "end": 1.322874,
-      "sourceIndex": 3
+      "sourceIndex": 1
     },
     {
       "text": "kwa",
       "start": 1.365791,
       "end": 1.537416,
-      "sourceIndex": 4
+      "sourceIndex": 1
     },
     {
       "text": "ungo",
       "start": 1.566,
       "end": 1.937833,
-      "sourceIndex": 5
+      "sourceIndex": 1
     },
     {
       "text": "kawa",
       "start": 2.052291,
       "end": 2.409832,
-      "sourceIndex": 6
+      "sourceIndex": 1
     },
     {
       "text": "au",
       "start": 2.45275,
       "end": 2.667291,
-      "sourceIndex": 7
+      "sourceIndex": 1
     },
     {
       "text": "sahani",
       "start": 2.710166,
       "end": 3.382374,
-      "sourceIndex": 8
+      "sourceIndex": 1
     },
     {
-      "text": "Kifaa",
+      "text": "Picha",
       "start": 4.447958,
-      "end": 4.705374,
-      "sourceIndex": 9
+      "end": 4.605291,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 4.705375,
+      "end": 5.334666,
+      "targetImage": true
+    },
+    {
+      "text": "kifaa",
+      "start": 5.377583,
+      "end": 5.763749,
+      "targetImage": true
     },
     {
       "text": "maalumu",
-      "start": 4.8055,
-      "end": 5.334666,
-      "sourceIndex": 10
+      "start": 5.792333,
+      "end": 6.307208,
+      "targetImage": true
     },
     {
       "text": "cha",
-      "start": 5.377583,
-      "end": 5.549208,
-      "sourceIndex": 11
+      "start": 6.350125,
+      "end": 6.52175,
+      "targetImage": true
     },
     {
       "text": "kutunzia",
-      "start": 5.577791,
-      "end": 6.164166,
+      "start": 6.550333,
+      "end": 7.136708,
+      "targetImage": true
+    },
+    {
+      "text": "chakula",
+      "start": 7.179625,
+      "end": 7.723083,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 7.766,
+      "end": 7.923333,
+      "targetImage": true
+    },
+    {
+      "text": "kuning'iniza",
+      "start": 7.951958,
+      "end": 8.867291,
+      "targetImage": true
+    },
+    {
+      "text": "Kuna",
+      "start": 9.939916,
+      "end": 10.025707,
+      "targetImage": true
+    },
+    {
+      "text": "ubao",
+      "start": 10.125875,
+      "end": 10.554916,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 10.583541,
+      "end": 10.683666,
+      "targetImage": true
+    },
+    {
+      "text": "juu",
+      "start": 10.71225,
+      "end": 10.998291,
+      "targetImage": true
+    },
+    {
+      "text": "unaoshikiliwa",
+      "start": 11.026875,
+      "end": 11.927916,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 11.956541,
+      "end": 12.056666,
+      "targetImage": true
+    },
+    {
+      "text": "kamba",
+      "start": 12.099541,
+      "end": 12.457082,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 12.485708,
+      "end": 12.600124,
+      "targetImage": true
+    },
+    {
+      "text": "vyombo",
+      "start": 12.628708,
+      "end": 13.029166,
+      "targetImage": true
+    },
+    {
+      "text": "vya",
+      "start": 13.057791,
+      "end": 13.229416,
+      "targetImage": true
+    },
+    {
+      "text": "chakula",
+      "start": 13.258,
+      "end": 13.758583,
+      "targetImage": true
+    },
+    {
+      "text": "vilivyoning'inizwa",
+      "start": 13.8015,
+      "end": 14.931375,
+      "targetImage": true
+    },
+    {
+      "text": "chini",
+      "start": 14.97425,
+      "end": 15.3175,
+      "targetImage": true
+    },
+    {
+      "text": "yake",
+      "start": 15.346125,
+      "end": 15.775166,
+      "targetImage": true
+    },
+    {
+      "text": "Kifaa",
+      "start": 16.819208,
+      "end": 17.076624,
+      "sourceIndex": 2
+    },
+    {
+      "text": "maalumu",
+      "start": 17.176791,
+      "end": 17.705957,
+      "sourceIndex": 2
+    },
+    {
+      "text": "cha",
+      "start": 17.748875,
+      "end": 17.9205,
+      "sourceIndex": 2
+    },
+    {
+      "text": "kutunzia",
+      "start": 17.949083,
+      "end": 18.535458,
+      "sourceIndex": 2
+    },
+    {
+      "text": "chakula",
+      "start": 18.578375,
+      "end": 19.107541,
+      "sourceIndex": 2
+    },
+    {
+      "text": "kwa",
+      "start": 19.150458,
+      "end": 19.307791,
+      "sourceIndex": 2
+    },
+    {
+      "text": "kuning'iniza",
+      "start": 19.336375,
+      "end": 20.151583,
+      "sourceIndex": 2
+    },
+    {
+      "text": "Kazi",
+      "start": 20.1945,
+      "end": 20.53775,
+      "sourceIndex": 3
+    },
+    {
+      "text": "ya",
+      "start": 20.566375,
+      "end": 20.6665,
+      "sourceIndex": 3
+    },
+    {
+      "text": "kufanya",
+      "start": 20.695083,
+      "end": 21.181333,
+      "sourceIndex": 3
+    },
+    {
+      "text": "1",
+      "start": 21.209958,
+      "end": 21.667624,
+      "sourceIndex": 4
+    },
+    {
+      "text": "Andika",
+      "start": 22.740291,
+      "end": 23.054916,
+      "sourceIndex": 5
+    },
+    {
+      "text": "vifaa",
+      "start": 23.183625,
+      "end": 23.569791,
+      "sourceIndex": 5
+    },
+    {
+      "text": "mnavyotumia",
+      "start": 23.598416,
+      "end": 24.485124,
+      "sourceIndex": 5
+    },
+    {
+      "text": "nyumbani",
+      "start": 24.51375,
+      "end": 25.014333,
+      "sourceIndex": 5
+    },
+    {
+      "text": "kwenu",
+      "start": 25.057208,
+      "end": 25.400458,
+      "sourceIndex": 5
+    },
+    {
+      "text": "kutunzia",
+      "start": 25.429041,
+      "end": 26.029707,
+      "sourceIndex": 5
+    },
+    {
+      "text": "chakula",
+      "start": 26.072666,
+      "end": 26.687666,
+      "sourceIndex": 6
+    },
+    {
+      "text": "2",
+      "start": 27.788916,
+      "end": 28.103541,
+      "sourceIndex": 7
+    },
+    {
+      "text": "Chora",
+      "start": 28.332375,
+      "end": 28.704208,
+      "sourceIndex": 8
+    },
+    {
+      "text": "vifaa",
+      "start": 28.732833,
+      "end": 29.147583,
+      "sourceIndex": 8
+    },
+    {
+      "text": "hivyo",
+      "start": 29.176208,
+      "end": 29.733999,
+      "sourceIndex": 8
+    },
+    {
+      "text": "Zoezi",
+      "start": 30.83525,
+      "end": 31.25,
+      "sourceIndex": 9
+    },
+    {
+      "text": "la",
+      "start": 31.364416,
+      "end": 31.493124,
+      "sourceIndex": 9
+    },
+    {
+      "text": "2",
+      "start": 31.52175,
+      "end": 31.850708,
+      "sourceIndex": 9
+    },
+    {
+      "text": "1",
+      "start": 31.893583,
+      "end": 32.422749,
+      "sourceIndex": 10
+    },
+    {
+      "text": "Orodhesha",
+      "start": 33.524041,
+      "end": 34.038916,
+      "sourceIndex": 11
+    },
+    {
+      "text": "mifano",
+      "start": 34.167625,
+      "end": 34.625291,
+      "sourceIndex": 11
+    },
+    {
+      "text": "miwili",
+      "start": 34.653875,
+      "end": 35.054333,
+      "sourceIndex": 11
+    },
+    {
+      "text": "ya",
+      "start": 35.082958,
+      "end": 35.154458,
+      "sourceIndex": 11
+    },
+    {
+      "text": "magonjwa",
+      "start": 35.183083,
+      "end": 35.740874,
+      "sourceIndex": 11
+    },
+    {
+      "text": "yanayotokana",
+      "start": 35.769458,
+      "end": 36.613291,
+      "sourceIndex": 11
+    },
+    {
+      "text": "na",
+      "start": 36.641875,
+      "end": 36.756291,
+      "sourceIndex": 11
+    },
+    {
+      "text": "kula",
+      "start": 36.784916,
+      "end": 37.085249,
       "sourceIndex": 12
     },
     {
       "text": "chakula",
-      "start": 6.207083,
-      "end": 6.736249,
-      "sourceIndex": 13
-    },
-    {
-      "text": "kwa",
-      "start": 6.779166,
-      "end": 6.936499,
-      "sourceIndex": 14
-    },
-    {
-      "text": "kuning'iniza",
-      "start": 6.965083,
-      "end": 7.780291,
-      "sourceIndex": 15
-    },
-    {
-      "text": "Kazi",
-      "start": 7.823208,
-      "end": 8.166458,
-      "sourceIndex": 16
-    },
-    {
-      "text": "ya",
-      "start": 8.195083,
-      "end": 8.295208,
-      "sourceIndex": 17
-    },
-    {
-      "text": "kufanya",
-      "start": 8.323791,
-      "end": 8.810041,
-      "sourceIndex": 18
-    },
-    {
-      "text": "Moja",
-      "start": 8.838666,
-      "end": 9.296332,
-      "sourceIndex": 19
-    },
-    {
-      "text": "Andika",
-      "start": 10.354708,
-      "end": 10.712249,
-      "targetPatch": 0,
-      "targetWord": 0
-    },
-    {
-      "text": "au",
-      "start": 10.840958,
-      "end": 11.084083,
-      "targetPatch": 0,
-      "targetWord": 1
-    },
-    {
-      "text": "bainisha",
-      "start": 11.112708,
-      "end": 11.684791,
-      "targetPatch": 0,
-      "targetWord": 2
-    },
-    {
-      "text": "vifaa",
-      "start": 11.713375,
-      "end": 12.085208,
-      "targetPatch": 0,
-      "targetWord": 3
-    },
-    {
-      "text": "mnavyotumia",
-      "start": 12.113833,
-      "end": 13.014874,
-      "targetPatch": 0,
-      "targetWord": 4
-    },
-    {
-      "text": "nyumbani",
-      "start": 13.043458,
-      "end": 13.558333,
-      "targetPatch": 0,
-      "targetWord": 5
-    },
-    {
-      "text": "kwenu",
-      "start": 13.60125,
-      "end": 13.9445,
-      "targetPatch": 0,
-      "targetWord": 6
-    },
-    {
-      "text": "kutunzia",
-      "start": 13.987416,
-      "end": 14.588082,
-      "targetPatch": 0,
-      "targetWord": 7
-    },
-    {
-      "text": "chakula",
-      "start": 14.631,
-      "end": 15.231666,
-      "targetPatch": 0,
-      "targetWord": 8
-    },
-    {
-      "text": "Mbili",
-      "start": 16.332958,
-      "end": 16.747708,
-      "sourceIndex": 27
-    },
-    {
-      "text": "Chora",
-      "start": 17.9205,
-      "end": 18.19225,
-      "sourceIndex": 28
-    },
-    {
-      "text": "vifaa",
-      "start": 18.292333,
-      "end": 18.692791,
-      "sourceIndex": 29
-    },
-    {
-      "text": "hivyo",
-      "start": 18.721375,
-      "end": 19.279166,
-      "sourceIndex": 30
-    },
-    {
-      "text": "Zoezi",
-      "start": 20.380416,
-      "end": 20.795166,
-      "sourceIndex": 31
-    },
-    {
-      "text": "la",
-      "start": 20.909625,
-      "end": 21.066958,
-      "sourceIndex": 32
-    },
-    {
-      "text": "Pili",
-      "start": 21.095541,
-      "end": 21.424499,
-      "sourceIndex": 32
-    },
-    {
-      "text": "Moja",
-      "start": 21.467375,
-      "end": 21.996541,
-      "sourceIndex": 34
-    },
-    {
-      "text": "Orodhesha",
-      "start": 23.097833,
-      "end": 23.598416,
-      "targetPatch": 1,
-      "targetWord": 0
-    },
-    {
-      "text": "au",
-      "start": 23.741416,
-      "end": 23.955957,
-      "targetPatch": 1,
-      "targetWord": 1
-    },
-    {
-      "text": "bainisha",
-      "start": 23.984541,
-      "end": 24.542332,
-      "targetPatch": 1,
-      "targetWord": 2
-    },
-    {
-      "text": "mifano",
-      "start": 24.58525,
-      "end": 25.057208,
-      "targetPatch": 1,
-      "targetWord": 3
-    },
-    {
-      "text": "miwili",
-      "start": 25.100125,
-      "end": 25.514875,
-      "targetPatch": 1,
-      "targetWord": 4
-    },
-    {
-      "text": "ya",
-      "start": 25.543458,
-      "end": 25.614958,
-      "targetPatch": 1,
-      "targetWord": 5
-    },
-    {
-      "text": "magonjwa",
-      "start": 25.643583,
-      "end": 26.201374,
-      "targetPatch": 1,
-      "targetWord": 6
-    },
-    {
-      "text": "yanayotokana",
-      "start": 26.229958,
-      "end": 27.088083,
-      "targetPatch": 1,
-      "targetWord": 7
-    },
-    {
-      "text": "na",
-      "start": 27.116708,
-      "end": 27.231124,
-      "targetPatch": 1,
-      "targetWord": 8
-    },
-    {
-      "text": "kula",
-      "start": 27.259708,
-      "end": 27.574333,
-      "targetPatch": 1,
-      "targetWord": 9
-    },
-    {
-      "text": "chakula",
-      "start": 27.617291,
-      "end": 28.117874,
-      "targetPatch": 1,
-      "targetWord": 10
+      "start": 37.128166,
+      "end": 37.628749,
+      "sourceIndex": 12
     },
     {
       "text": "kisichotunzwa",
-      "start": 28.16075,
-      "end": 28.961666,
-      "targetPatch": 1,
-      "targetWord": 11
+      "start": 37.671625,
+      "end": 38.472541,
+      "sourceIndex": 12
     },
     {
       "text": "vizuri",
-      "start": 28.990291,
-      "end": 29.562374,
-      "targetPatch": 1,
-      "targetWord": 12
+      "start": 38.501125,
+      "end": 39.0875,
+      "sourceIndex": 12
     },
     {
-      "text": "Mbili",
-      "start": 30.649333,
-      "end": 31.064083,
-      "sourceIndex": 46
+      "text": "2",
+      "start": 40.160166,
+      "end": 40.417582,
+      "sourceIndex": 13
     },
     {
       "text": "Taja",
-      "start": 32.251125,
-      "end": 32.465666,
-      "sourceIndex": 47
+      "start": 40.66075,
+      "end": 41.032583,
+      "sourceIndex": 14
     },
     {
       "text": "mifano",
-      "start": 32.594375,
-      "end": 33.03775,
-      "sourceIndex": 48
+      "start": 41.0755,
+      "end": 41.533166,
+      "sourceIndex": 14
     },
     {
       "text": "mitatu",
-      "start": 33.066375,
-      "end": 33.538333,
-      "sourceIndex": 49
+      "start": 41.561791,
+      "end": 42.033749,
+      "sourceIndex": 14
     },
     {
       "text": "ya",
-      "start": 33.566916,
-      "end": 33.652707,
-      "sourceIndex": 50
+      "start": 42.062375,
+      "end": 42.148166,
+      "sourceIndex": 14
     },
     {
       "text": "wadudu",
-      "start": 33.681333,
-      "end": 34.110374,
-      "sourceIndex": 51
+      "start": 42.176791,
+      "end": 42.605832,
+      "sourceIndex": 14
     },
     {
       "text": "wanaoleta",
-      "start": 34.139,
-      "end": 34.796875,
-      "sourceIndex": 52
+      "start": 42.64875,
+      "end": 43.320958,
+      "sourceIndex": 14
     },
     {
       "text": "vijidudu",
-      "start": 34.839833,
-      "end": 35.483416,
-      "sourceIndex": 53
+      "start": 43.363833,
+      "end": 44.007416,
+      "sourceIndex": 14
     },
     {
       "text": "vya",
-      "start": 35.526333,
-      "end": 35.669333,
-      "sourceIndex": 54
+      "start": 44.050333,
+      "end": 44.193333,
+      "sourceIndex": 14
     },
     {
       "text": "maradhi",
-      "start": 35.697958,
-      "end": 36.198541,
-      "sourceIndex": 55
+      "start": 44.221958,
+      "end": 44.722541,
+      "sourceIndex": 15
     },
     {
       "text": "kwenye",
-      "start": 36.241416,
-      "end": 36.527457,
-      "sourceIndex": 56
+      "start": 44.765458,
+      "end": 45.051499,
+      "sourceIndex": 15
     },
     {
       "text": "chakula",
-      "start": 36.556083,
-      "end": 37.156749,
-      "sourceIndex": 57
+      "start": 45.080083,
+      "end": 45.680749,
+      "sourceIndex": 15
     }
   ]
 }
