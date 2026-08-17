@@ -1,7 +1,7 @@
 {
-  "audio": "page-035-ordered-v14.mp3",
+  "audio": "page-035-labeled-v28.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 14,
+  "version": 28,
   "words": [
     {
       "text": "Hatua",
@@ -31,104 +31,391 @@
       "text": "Angalia",
       "start": 1.666125,
       "end": 2.195291,
-      "targetPatch": 0,
-      "targetWord": 0
-    },
-    {
-      "text": "na",
-      "start": 2.223916,
-      "end": 2.324041,
-      "targetPatch": 0,
-      "targetWord": 1
-    },
-    {
-      "text": "bainisha",
-      "start": 2.352625,
-      "end": 2.896083,
-      "targetPatch": 0,
-      "targetWord": 2
+      "sourceIndex": 6
     },
     {
       "text": "picha",
-      "start": 2.939,
-      "end": 3.267958,
-      "targetPatch": 0,
-      "targetWord": 3
+      "start": 2.238208,
+      "end": 2.567166,
+      "sourceIndex": 7
     },
     {
       "text": "namba",
-      "start": 3.296583,
-      "end": 3.625541,
-      "targetPatch": 0,
-      "targetWord": 4
+      "start": 2.59575,
+      "end": 2.924708,
+      "sourceIndex": 8
     },
     {
       "text": "1",
-      "start": 3.654125,
-      "end": 4.011666,
-      "targetPatch": 0,
-      "targetWord": 5
-    },
-    {
-      "text": "hadi",
-      "start": 4.040291,
-      "end": 4.340624,
-      "targetPatch": 0,
-      "targetWord": 6
-    },
-    {
-      "text": "5",
-      "start": 4.383541,
-      "end": 4.783999,
-      "targetPatch": 0,
-      "targetWord": 7
-    },
-    {
-      "text": "kisha",
-      "start": 4.969916,
-      "end": 5.298874,
-      "targetPatch": 0,
-      "targetWord": 8
-    },
-    {
-      "text": "fanya",
-      "start": 5.327458,
-      "end": 5.684999,
-      "targetPatch": 0,
-      "targetWord": 9
-    },
-    {
-      "text": "zoezi",
-      "start": 5.713625,
-      "end": 6.157,
-      "targetPatch": 0,
-      "targetWord": 10
-    },
-    {
-      "text": "la",
-      "start": 6.185583,
-      "end": 6.299999,
-      "targetPatch": 0,
-      "targetWord": 11
-    },
-    {
-      "text": "Sita",
-      "start": 6.328583,
-      "end": 6.829166,
-      "targetPatch": 0,
-      "targetWord": 12
-    },
-    {
-      "text": "1",
-      "start": 7.909041,
-      "end": 8.180791,
+      "start": 2.953333,
+      "end": 3.310874,
       "sourceIndex": 9
     },
     {
-      "text": "2",
-      "start": 8.3095,
-      "end": 8.824375,
-      "sourceIndex": 18
+      "text": "hadi",
+      "start": 3.339458,
+      "end": 3.654083,
+      "sourceIndex": 10
+    },
+    {
+      "text": "5",
+      "start": 3.697041,
+      "end": 4.097499,
+      "sourceIndex": 11
+    },
+    {
+      "text": "kisha",
+      "start": 4.269125,
+      "end": 4.598083,
+      "sourceIndex": 12
+    },
+    {
+      "text": "fanya",
+      "start": 4.626666,
+      "end": 4.984207,
+      "sourceIndex": 13
+    },
+    {
+      "text": "zoezi",
+      "start": 5.012833,
+      "end": 5.456208,
+      "sourceIndex": 14
+    },
+    {
+      "text": "la",
+      "start": 5.484791,
+      "end": 5.599207,
+      "sourceIndex": 15
+    },
+    {
+      "text": "6",
+      "start": 5.627791,
+      "end": 6.142666,
+      "sourceIndex": 16
+    },
+    {
+      "text": "Picha",
+      "start": 7.20825,
+      "end": 7.408458,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 7.508583,
+      "end": 7.851833,
+      "targetImage": true
+    },
+    {
+      "text": "moja",
+      "start": 7.880416,
+      "end": 8.395291,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 9.467958,
+      "end": 9.625291,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 9.725416,
+      "end": 10.397624,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 10.426208,
+      "end": 10.726541,
+      "targetImage": true
+    },
+    {
+      "text": "za",
+      "start": 10.755166,
+      "end": 10.912499,
+      "targetImage": true
+    },
+    {
+      "text": "rangi",
+      "start": 10.941083,
+      "end": 11.298624,
+      "targetImage": true
+    },
+    {
+      "text": "zikitenganishwa",
+      "start": 11.32725,
+      "end": 12.371291,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 12.399875,
+      "end": 12.5,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 12.528583,
+      "end": 12.843208,
+      "targetImage": true
+    },
+    {
+      "text": "nyeupe",
+      "start": 12.886166,
+      "end": 13.300916,
+      "targetImage": true
+    },
+    {
+      "text": "kabla",
+      "start": 13.343833,
+      "end": 13.715666,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 13.744291,
+      "end": 13.844416,
+      "targetImage": true
+    },
+    {
+      "text": "kufuliwa",
+      "start": 13.873,
+      "end": 14.616708,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 15.66075,
+      "end": 15.860958,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 15.961083,
+      "end": 16.318624,
+      "targetImage": true
+    },
+    {
+      "text": "mbili",
+      "start": 16.34725,
+      "end": 16.819208,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 17.891875,
+      "end": 18.049208,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 18.149333,
+      "end": 18.821541,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 18.850125,
+      "end": 19.121875,
+      "targetImage": true
+    },
+    {
+      "text": "zikifuliwa",
+      "start": 19.150458,
+      "end": 20.008583,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 20.0515,
+      "end": 20.208833,
+      "targetImage": true
+    },
+    {
+      "text": "kusuguliwa",
+      "start": 20.237416,
+      "end": 21.009707,
+      "targetImage": true
+    },
+    {
+      "text": "ndani",
+      "start": 21.038333,
+      "end": 21.381583,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 21.410166,
+      "end": 21.481666,
+      "targetImage": true
+    },
+    {
+      "text": "beseni",
+      "start": 21.510291,
+      "end": 22.010874,
+      "targetImage": true
+    },
+    {
+      "text": "lenye",
+      "start": 22.039458,
+      "end": 22.325499,
+      "targetImage": true
+    },
+    {
+      "text": "maji",
+      "start": 22.354125,
+      "end": 22.740291,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 22.768875,
+      "end": 22.854666,
+      "targetImage": true
+    },
+    {
+      "text": "sabuni",
+      "start": 22.883291,
+      "end": 23.512582,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 24.556625,
+      "end": 24.771166,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 24.871291,
+      "end": 25.257457,
+      "targetImage": true
+    },
+    {
+      "text": "tatu",
+      "start": 25.300333,
+      "end": 25.858124,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 26.930791,
+      "end": 27.116707,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 27.216833,
+      "end": 27.903333,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 27.931916,
+      "end": 28.203666,
+      "targetImage": true
+    },
+    {
+      "text": "zikisuuziwa",
+      "start": 28.23225,
+      "end": 29.161875,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 29.204791,
+      "end": 29.347791,
+      "targetImage": true
+    },
+    {
+      "text": "maji",
+      "start": 29.376416,
+      "end": 29.733957,
+      "targetImage": true
+    },
+    {
+      "text": "safi",
+      "start": 29.776875,
+      "end": 30.205916,
+      "targetImage": true
+    },
+    {
+      "text": "baada",
+      "start": 30.248875,
+      "end": 30.592125,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 30.620708,
+      "end": 30.720833,
+      "targetImage": true
+    },
+    {
+      "text": "kufuliwa",
+      "start": 30.749416,
+      "end": 31.493124,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 32.5515,
+      "end": 32.766041,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 32.866125,
+      "end": 33.252291,
+      "targetImage": true
+    },
+    {
+      "text": "nne",
+      "start": 33.280875,
+      "end": 33.667041,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 34.768291,
+      "end": 34.939916,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 35.040041,
+      "end": 35.712249,
+      "targetImage": true
+    },
+    {
+      "text": "nguo",
+      "start": 35.740833,
+      "end": 35.983958,
+      "targetImage": true
+    },
+    {
+      "text": "zikikamuliwa",
+      "start": 36.012583,
+      "end": 37.013708,
+      "targetImage": true
+    },
+    {
+      "text": "ili",
+      "start": 37.056625,
+      "end": 37.342666,
+      "targetImage": true
+    },
+    {
+      "text": "kuondoa",
+      "start": 37.385583,
+      "end": 37.886166,
+      "targetImage": true
+    },
+    {
+      "text": "maji",
+      "start": 37.91475,
+      "end": 38.415333,
+      "targetImage": true
     }
   ]
 }

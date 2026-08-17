@@ -1,7 +1,7 @@
 {
-  "audio": "page-050-ordered-v14.mp3",
+  "audio": "page-050-ordered-v18.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 14,
+  "version": 18,
   "words": [
     {
       "text": "Zoezi",
@@ -124,574 +124,574 @@
       "sourceIndex": 20
     },
     {
-      "text": "Jina",
-      "start": 11.127,
-      "end": 11.39875,
-      "targetImage": true
-    },
-    {
-      "text": "la",
-      "start": 11.498875,
-      "end": 11.641875,
-      "targetImage": true
-    },
-    {
-      "text": "kifaa",
-      "start": 11.684791,
-      "end": 12.085249,
-      "targetImage": true
-    },
-    {
-      "text": "hiki",
-      "start": 12.113833,
-      "end": 12.471374,
-      "targetImage": true
-    },
-    {
-      "text": "ni",
-      "start": 12.5,
-      "end": 12.5715,
-      "targetImage": true
-    },
-    {
-      "text": "fagio",
-      "start": 12.600125,
-      "end": 13.258,
-      "targetImage": true
-    },
-    {
-      "text": "Fagio",
-      "start": 14.316375,
-      "end": 14.659625,
-      "targetImage": true
-    },
-    {
-      "text": "hutumika",
-      "start": 14.759708,
-      "end": 15.374708,
-      "targetImage": true
-    },
-    {
-      "text": "kuondoa",
-      "start": 15.403333,
-      "end": 15.889583,
-      "targetImage": true
-    },
-    {
-      "text": "vumbi",
-      "start": 15.918208,
-      "end": 16.261458,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 16.290041,
-      "end": 16.375832,
-      "targetImage": true
-    },
-    {
-      "text": "uchafu",
-      "start": 16.404458,
-      "end": 16.876416,
-      "targetImage": true
-    },
-    {
-      "text": "kwa",
-      "start": 16.905041,
-      "end": 17.062374,
-      "targetImage": true
-    },
-    {
-      "text": "kufagia",
-      "start": 17.090958,
-      "end": 17.648749,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 17.677333,
-      "end": 17.777458,
-      "targetImage": true
-    },
-    {
-      "text": "kusukuma",
-      "start": 17.820375,
-      "end": 18.40675,
-      "targetImage": true
-    },
-    {
-      "text": "takataka",
-      "start": 18.449666,
-      "end": 19.236291,
-      "targetImage": true
-    },
-    {
       "text": "Hutumika",
-      "start": 20.308916,
-      "end": 20.809499,
+      "start": 11.127,
+      "end": 11.627583,
       "sourceIndex": 21
     },
     {
       "text": "kulimia",
-      "start": 20.909625,
-      "end": 21.624708,
+      "start": 11.727708,
+      "end": 12.442791,
       "sourceIndex": 22
     },
     {
-      "text": "Jina",
-      "start": 22.711666,
-      "end": 22.983416,
-      "targetImage": true
-    },
-    {
-      "text": "la",
-      "start": 23.083541,
-      "end": 23.226541,
-      "targetImage": true
-    },
-    {
-      "text": "kifaa",
-      "start": 23.269458,
-      "end": 23.669916,
-      "targetImage": true
-    },
-    {
-      "text": "hiki",
-      "start": 23.6985,
-      "end": 24.056041,
-      "targetImage": true
-    },
-    {
-      "text": "ni",
-      "start": 24.084666,
-      "end": 24.184791,
-      "targetImage": true
-    },
-    {
-      "text": "jembe",
-      "start": 24.227708,
-      "end": 24.728291,
-      "targetImage": true
-    },
-    {
-      "text": "Jembe",
-      "start": 25.800916,
-      "end": 26.115541,
-      "targetImage": true
-    },
-    {
-      "text": "hutumika",
-      "start": 26.215666,
-      "end": 26.830666,
-      "targetImage": true
-    },
-    {
-      "text": "kulimia",
-      "start": 26.85925,
-      "end": 27.374125,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 27.40275,
-      "end": 27.502875,
-      "targetImage": true
-    },
-    {
-      "text": "kutifua",
-      "start": 27.531458,
-      "end": 28.074916,
-      "targetImage": true
-    },
-    {
-      "text": "udongo",
-      "start": 28.103541,
-      "end": 28.704207,
-      "targetImage": true
-    },
-    {
       "text": "Hutumika",
-      "start": 29.762583,
-      "end": 30.248833,
+      "start": 13.52975,
+      "end": 14.016,
       "sourceIndex": 23
     },
     {
       "text": "kukusanya",
-      "start": 30.348958,
-      "end": 31.006833,
+      "start": 14.116125,
+      "end": 14.774,
       "sourceIndex": 24
     },
     {
       "text": "nyasi",
-      "start": 31.035458,
-      "end": 31.450208,
+      "start": 14.802625,
+      "end": 15.217375,
       "sourceIndex": 25
     },
     {
       "text": "na",
-      "start": 31.478833,
-      "end": 31.607541,
+      "start": 15.246,
+      "end": 15.374708,
       "sourceIndex": 26
     },
     {
       "text": "takataka",
-      "start": 31.650458,
-      "end": 32.465666,
+      "start": 15.417625,
+      "end": 16.232833,
       "sourceIndex": 27
     },
     {
-      "text": "Jina",
-      "start": 33.524041,
-      "end": 33.795791,
-      "targetImage": true
-    },
-    {
-      "text": "la",
-      "start": 33.895875,
-      "end": 34.038875,
-      "targetImage": true
-    },
-    {
-      "text": "kifaa",
-      "start": 34.0675,
-      "end": 34.467958,
-      "targetImage": true
-    },
-    {
-      "text": "hiki",
-      "start": 34.496583,
-      "end": 34.854124,
-      "targetImage": true
-    },
-    {
-      "text": "ni",
-      "start": 34.882708,
-      "end": 35.011416,
-      "targetImage": true
-    },
-    {
-      "text": "reki",
-      "start": 35.040041,
-      "end": 35.526291,
-      "targetImage": true
-    },
-    {
-      "text": "Reki",
-      "start": 36.598958,
-      "end": 36.827791,
-      "targetImage": true
-    },
-    {
-      "text": "hutumika",
-      "start": 36.956541,
-      "end": 37.557207,
-      "targetImage": true
-    },
-    {
-      "text": "kukusanya",
-      "start": 37.585791,
-      "end": 38.215082,
-      "targetImage": true
-    },
-    {
-      "text": "nyasi",
-      "start": 38.243708,
-      "end": 38.729958,
-      "targetImage": true
-    },
-    {
-      "text": "majani",
-      "start": 38.844375,
-      "end": 39.344958,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 39.373583,
-      "end": 39.502291,
-      "targetImage": true
-    },
-    {
-      "text": "takataka",
-      "start": 39.545208,
-      "end": 40.331833,
-      "targetImage": true
-    },
-    {
       "text": "Hutumika",
-      "start": 41.404458,
-      "end": 41.905041,
+      "start": 17.291208,
+      "end": 17.791791,
       "sourceIndex": 28
     },
     {
       "text": "kuhifadhi",
-      "start": 42.005166,
-      "end": 42.634457,
+      "start": 17.891875,
+      "end": 18.521166,
       "sourceIndex": 29
     },
     {
       "text": "takataka",
-      "start": 42.677333,
-      "end": 43.306624,
+      "start": 18.564083,
+      "end": 19.193374,
       "sourceIndex": 30
     },
     {
       "text": "kabla",
-      "start": 43.349541,
-      "end": 43.721374,
+      "start": 19.23625,
+      "end": 19.608083,
       "sourceIndex": 31
     },
     {
       "text": "ya",
-      "start": 43.75,
-      "end": 43.850125,
+      "start": 19.636708,
+      "end": 19.736833,
       "sourceIndex": 32
     },
     {
       "text": "kuzitupa",
-      "start": 43.878708,
-      "end": 44.507999,
+      "start": 19.765458,
+      "end": 20.394749,
       "sourceIndex": 33
     },
     {
       "text": "shimoni",
-      "start": 44.536625,
-      "end": 45.165916,
+      "start": 20.423333,
+      "end": 21.052624,
       "sourceIndex": 34
     },
     {
-      "text": "Jina",
-      "start": 46.209958,
-      "end": 46.481708,
-      "targetImage": true
-    },
-    {
-      "text": "la",
-      "start": 46.581791,
-      "end": 46.724791,
-      "targetImage": true
-    },
-    {
-      "text": "kifaa",
-      "start": 46.753416,
-      "end": 47.153874,
-      "targetImage": true
-    },
-    {
-      "text": "hiki",
-      "start": 47.1825,
-      "end": 47.52575,
-      "targetImage": true
-    },
-    {
-      "text": "ni",
-      "start": 47.554333,
-      "end": 47.654458,
-      "targetImage": true
-    },
-    {
-      "text": "pipa",
-      "start": 47.697375,
-      "end": 48.083541,
-      "targetImage": true
-    },
-    {
-      "text": "la",
-      "start": 48.112125,
-      "end": 48.240833,
-      "targetImage": true
-    },
-    {
-      "text": "takataka",
-      "start": 48.269458,
-      "end": 49.070374,
-      "targetImage": true
-    },
-    {
-      "text": "Pipa",
-      "start": 50.143,
-      "end": 50.300333,
-      "targetImage": true
-    },
-    {
-      "text": "hutumika",
-      "start": 50.400458,
-      "end": 51.001124,
-      "targetImage": true
-    },
-    {
-      "text": "kuhifadhi",
-      "start": 51.02975,
-      "end": 51.659041,
-      "targetImage": true
-    },
-    {
-      "text": "takataka",
-      "start": 51.701958,
-      "end": 52.345541,
-      "targetImage": true
-    },
-    {
-      "text": "kabla",
-      "start": 52.388458,
-      "end": 52.760291,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 52.788916,
-      "end": 52.889041,
-      "targetImage": true
-    },
-    {
-      "text": "kuzitupa",
-      "start": 52.917625,
-      "end": 53.561208,
-      "targetImage": true
-    },
-    {
-      "text": "shimoni",
-      "start": 53.589833,
-      "end": 54.219124,
-      "targetImage": true
-    },
-    {
       "text": "Hutumika",
-      "start": 55.263166,
-      "end": 55.763749,
+      "start": 22.096666,
+      "end": 22.597249,
       "sourceIndex": 35
     },
     {
       "text": "kukatia",
-      "start": 55.863833,
-      "end": 56.464499,
+      "start": 22.697375,
+      "end": 23.298041,
       "sourceIndex": 36
     },
     {
       "text": "maua",
-      "start": 56.493125,
-      "end": 57.036583,
+      "start": 23.326666,
+      "end": 23.870124,
       "sourceIndex": 37
     },
     {
-      "text": "Jina",
-      "start": 58.123583,
-      "end": 58.395333,
-      "targetImage": true
-    },
-    {
-      "text": "la",
-      "start": 58.495416,
-      "end": 58.624124,
-      "targetImage": true
-    },
-    {
-      "text": "kifaa",
-      "start": 58.65275,
-      "end": 59.038916,
-      "targetImage": true
-    },
-    {
-      "text": "hiki",
-      "start": 59.0675,
-      "end": 59.425041,
-      "targetImage": true
-    },
-    {
-      "text": "ni",
-      "start": 59.453666,
-      "end": 59.539457,
-      "targetImage": true
-    },
-    {
-      "text": "mkasi",
-      "start": 59.568083,
-      "end": 60.197374,
-      "targetImage": true
-    },
-    {
-      "text": "Mkasi",
-      "start": 61.270041,
-      "end": 61.598999,
-      "targetImage": true
-    },
-    {
-      "text": "hutumika",
-      "start": 61.727708,
-      "end": 62.328374,
-      "targetImage": true
-    },
-    {
-      "text": "kukatia",
-      "start": 62.356958,
-      "end": 62.914749,
-      "targetImage": true
-    },
-    {
-      "text": "maua",
-      "start": 62.943375,
-      "end": 63.315208,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 63.343833,
-      "end": 63.429624,
-      "targetImage": true
-    },
-    {
-      "text": "sehemu",
-      "start": 63.45825,
-      "end": 63.958833,
-      "targetImage": true
-    },
-    {
-      "text": "nyingine",
-      "start": 63.987416,
-      "end": 64.430791,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 64.459375,
-      "end": 64.616708,
-      "targetImage": true
-    },
-    {
-      "text": "mimea",
-      "start": 64.645291,
-      "end": 65.188749,
-      "targetImage": true
-    },
-    {
       "text": "Hubebea",
-      "start": 66.261458,
-      "end": 66.690499,
+      "start": 24.957083,
+      "end": 25.386124,
       "sourceIndex": 38
     },
     {
       "text": "takataka",
-      "start": 66.790625,
-      "end": 67.405625,
+      "start": 25.48625,
+      "end": 26.10125,
       "sourceIndex": 39
     },
     {
       "text": "baada",
-      "start": 67.434208,
-      "end": 67.777458,
+      "start": 26.129875,
+      "end": 26.473125,
       "sourceIndex": 40
     },
     {
       "text": "ya",
-      "start": 67.806083,
-      "end": 67.906208,
+      "start": 26.501708,
+      "end": 26.601833,
       "sourceIndex": 41
     },
     {
       "text": "kufagia",
-      "start": 67.934791,
-      "end": 68.678499,
+      "start": 26.630416,
+      "end": 27.374124,
       "sourceIndex": 42
+    },
+    {
+      "text": "Jina",
+      "start": 28.446791,
+      "end": 28.718541,
+      "targetImage": true
+    },
+    {
+      "text": "la",
+      "start": 28.818666,
+      "end": 28.961666,
+      "targetImage": true
+    },
+    {
+      "text": "kifaa",
+      "start": 29.004583,
+      "end": 29.405041,
+      "targetImage": true
+    },
+    {
+      "text": "hiki",
+      "start": 29.433625,
+      "end": 29.791166,
+      "targetImage": true
+    },
+    {
+      "text": "ni",
+      "start": 29.819791,
+      "end": 29.891291,
+      "targetImage": true
+    },
+    {
+      "text": "fagio",
+      "start": 29.919916,
+      "end": 30.577791,
+      "targetImage": true
+    },
+    {
+      "text": "Fagio",
+      "start": 31.636166,
+      "end": 31.979416,
+      "targetImage": true
+    },
+    {
+      "text": "hutumika",
+      "start": 32.0795,
+      "end": 32.6945,
+      "targetImage": true
+    },
+    {
+      "text": "kuondoa",
+      "start": 32.723125,
+      "end": 33.209375,
+      "targetImage": true
+    },
+    {
+      "text": "vumbi",
+      "start": 33.238,
+      "end": 33.58125,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 33.609833,
+      "end": 33.695624,
+      "targetImage": true
+    },
+    {
+      "text": "uchafu",
+      "start": 33.72425,
+      "end": 34.196208,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 34.224833,
+      "end": 34.382166,
+      "targetImage": true
+    },
+    {
+      "text": "kufagia",
+      "start": 34.41075,
+      "end": 34.968541,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 34.997125,
+      "end": 35.09725,
+      "targetImage": true
+    },
+    {
+      "text": "kusukuma",
+      "start": 35.140166,
+      "end": 35.726541,
+      "targetImage": true
+    },
+    {
+      "text": "takataka",
+      "start": 35.769458,
+      "end": 36.556083,
+      "targetImage": true
+    },
+    {
+      "text": "Jina",
+      "start": 37.628708,
+      "end": 37.900458,
+      "targetImage": true
+    },
+    {
+      "text": "la",
+      "start": 38.000583,
+      "end": 38.143583,
+      "targetImage": true
+    },
+    {
+      "text": "kifaa",
+      "start": 38.1865,
+      "end": 38.586958,
+      "targetImage": true
+    },
+    {
+      "text": "hiki",
+      "start": 38.615541,
+      "end": 38.973082,
+      "targetImage": true
+    },
+    {
+      "text": "ni",
+      "start": 39.001708,
+      "end": 39.101833,
+      "targetImage": true
+    },
+    {
+      "text": "jembe",
+      "start": 39.14475,
+      "end": 39.645333,
+      "targetImage": true
+    },
+    {
+      "text": "Jembe",
+      "start": 40.717958,
+      "end": 41.032583,
+      "targetImage": true
+    },
+    {
+      "text": "hutumika",
+      "start": 41.132708,
+      "end": 41.747708,
+      "targetImage": true
+    },
+    {
+      "text": "kulimia",
+      "start": 41.776333,
+      "end": 42.291208,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 42.319791,
+      "end": 42.419916,
+      "targetImage": true
+    },
+    {
+      "text": "kutifua",
+      "start": 42.4485,
+      "end": 42.991958,
+      "targetImage": true
+    },
+    {
+      "text": "udongo",
+      "start": 43.020583,
+      "end": 43.621249,
+      "targetImage": true
+    },
+    {
+      "text": "Jina",
+      "start": 44.679625,
+      "end": 44.951375,
+      "targetImage": true
+    },
+    {
+      "text": "la",
+      "start": 45.0515,
+      "end": 45.1945,
+      "targetImage": true
+    },
+    {
+      "text": "kifaa",
+      "start": 45.223125,
+      "end": 45.623583,
+      "targetImage": true
+    },
+    {
+      "text": "hiki",
+      "start": 45.652166,
+      "end": 46.009707,
+      "targetImage": true
+    },
+    {
+      "text": "ni",
+      "start": 46.038333,
+      "end": 46.167041,
+      "targetImage": true
+    },
+    {
+      "text": "reki",
+      "start": 46.195666,
+      "end": 46.681916,
+      "targetImage": true
+    },
+    {
+      "text": "Reki",
+      "start": 47.754583,
+      "end": 47.983416,
+      "targetImage": true
+    },
+    {
+      "text": "hutumika",
+      "start": 48.112125,
+      "end": 48.712791,
+      "targetImage": true
+    },
+    {
+      "text": "kukusanya",
+      "start": 48.741416,
+      "end": 49.370707,
+      "targetImage": true
+    },
+    {
+      "text": "nyasi",
+      "start": 49.399333,
+      "end": 49.885583,
+      "targetImage": true
+    },
+    {
+      "text": "majani",
+      "start": 50.0,
+      "end": 50.500583,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 50.529166,
+      "end": 50.657874,
+      "targetImage": true
+    },
+    {
+      "text": "takataka",
+      "start": 50.700791,
+      "end": 51.487416,
+      "targetImage": true
+    },
+    {
+      "text": "Jina",
+      "start": 52.560083,
+      "end": 52.831833,
+      "targetImage": true
+    },
+    {
+      "text": "la",
+      "start": 52.931916,
+      "end": 53.074916,
+      "targetImage": true
+    },
+    {
+      "text": "kifaa",
+      "start": 53.103541,
+      "end": 53.503999,
+      "targetImage": true
+    },
+    {
+      "text": "hiki",
+      "start": 53.532625,
+      "end": 53.875875,
+      "targetImage": true
+    },
+    {
+      "text": "ni",
+      "start": 53.904458,
+      "end": 54.004583,
+      "targetImage": true
+    },
+    {
+      "text": "pipa",
+      "start": 54.0475,
+      "end": 54.433666,
+      "targetImage": true
+    },
+    {
+      "text": "la",
+      "start": 54.46225,
+      "end": 54.590958,
+      "targetImage": true
+    },
+    {
+      "text": "takataka",
+      "start": 54.619583,
+      "end": 55.420499,
+      "targetImage": true
+    },
+    {
+      "text": "Pipa",
+      "start": 56.493125,
+      "end": 56.650458,
+      "targetImage": true
+    },
+    {
+      "text": "hutumika",
+      "start": 56.750583,
+      "end": 57.351249,
+      "targetImage": true
+    },
+    {
+      "text": "kuhifadhi",
+      "start": 57.379875,
+      "end": 58.009166,
+      "targetImage": true
+    },
+    {
+      "text": "takataka",
+      "start": 58.052041,
+      "end": 58.695624,
+      "targetImage": true
+    },
+    {
+      "text": "kabla",
+      "start": 58.738541,
+      "end": 59.110374,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 59.139,
+      "end": 59.239125,
+      "targetImage": true
+    },
+    {
+      "text": "kuzitupa",
+      "start": 59.26775,
+      "end": 59.911333,
+      "targetImage": true
+    },
+    {
+      "text": "shimoni",
+      "start": 59.939916,
+      "end": 60.569207,
+      "targetImage": true
+    },
+    {
+      "text": "Jina",
+      "start": 61.613291,
+      "end": 61.885041,
+      "targetImage": true
+    },
+    {
+      "text": "la",
+      "start": 61.985125,
+      "end": 62.113833,
+      "targetImage": true
+    },
+    {
+      "text": "kifaa",
+      "start": 62.142458,
+      "end": 62.528624,
+      "targetImage": true
+    },
+    {
+      "text": "hiki",
+      "start": 62.557208,
+      "end": 62.914749,
+      "targetImage": true
+    },
+    {
+      "text": "ni",
+      "start": 62.943375,
+      "end": 63.029166,
+      "targetImage": true
+    },
+    {
+      "text": "mkasi",
+      "start": 63.057791,
+      "end": 63.687082,
+      "targetImage": true
+    },
+    {
+      "text": "Mkasi",
+      "start": 64.759708,
+      "end": 65.088666,
+      "targetImage": true
+    },
+    {
+      "text": "hutumika",
+      "start": 65.217375,
+      "end": 65.818041,
+      "targetImage": true
+    },
+    {
+      "text": "kukatia",
+      "start": 65.846666,
+      "end": 66.404457,
+      "targetImage": true
+    },
+    {
+      "text": "maua",
+      "start": 66.433083,
+      "end": 66.804916,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 66.833541,
+      "end": 66.919332,
+      "targetImage": true
+    },
+    {
+      "text": "sehemu",
+      "start": 66.947958,
+      "end": 67.448541,
+      "targetImage": true
+    },
+    {
+      "text": "nyingine",
+      "start": 67.477125,
+      "end": 67.9205,
+      "targetImage": true
+    },
+    {
+      "text": "za",
+      "start": 67.949083,
+      "end": 68.106416,
+      "targetImage": true
+    },
+    {
+      "text": "mimea",
+      "start": 68.135,
+      "end": 68.678458,
+      "targetImage": true
     },
     {
       "text": "Jina",

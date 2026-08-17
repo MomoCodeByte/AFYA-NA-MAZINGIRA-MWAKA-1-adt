@@ -4,7 +4,7 @@ import edge_tts
 
 ROOT = Path(__file__).resolve().parents[1]
 VOICE = "sw-TZ-RehemaNeural"
-PAGES = [9]
+PAGES = [50]
 NUMBER_WORDS = {str(i): word for i, word in enumerate(["Sifuri", "Moja", "Mbili", "Tatu", "Nne", "Tano", "Sita", "Saba", "Nane", "Tisa", "Kumi"], 0)}
 
 CONFIG = {
@@ -27,16 +27,16 @@ CONFIG = {
         "remove": {"pg050_n0005", "pg050_n0006", "pg050_n0007", "pg050_n0008", "pg050_n0009", "pg050_n0010", "pg050_n0011"},
         "after": {"pg050_n0004": [
             "Huondoa vumbi na uchafu.",
-            "Jina la kifaa hiki ni fagio. Fagio hutumika kuondoa vumbi na uchafu kwa kufagia na kusukuma takataka.",
             "Hutumika kulimia.",
-            "Jina la kifaa hiki ni jembe. Jembe hutumika kulimia na kutifua udongo.",
             "Hutumika kukusanya nyasi na takataka.",
-            "Jina la kifaa hiki ni reki. Reki hutumika kukusanya nyasi, majani na takataka.",
             "Hutumika kuhifadhi takataka kabla ya kuzitupa shimoni.",
-            "Jina la kifaa hiki ni pipa la takataka. Pipa hutumika kuhifadhi takataka kabla ya kuzitupa shimoni.",
             "Hutumika kukatia maua.",
-            "Jina la kifaa hiki ni mkasi. Mkasi hutumika kukatia maua na sehemu nyingine za mimea.",
             "Hubebea takataka baada ya kufagia.",
+            "Jina la kifaa hiki ni fagio. Fagio hutumika kuondoa vumbi na uchafu kwa kufagia na kusukuma takataka.",
+            "Jina la kifaa hiki ni jembe. Jembe hutumika kulimia na kutifua udongo.",
+            "Jina la kifaa hiki ni reki. Reki hutumika kukusanya nyasi, majani na takataka.",
+            "Jina la kifaa hiki ni pipa la takataka. Pipa hutumika kuhifadhi takataka kabla ya kuzitupa shimoni.",
+            "Jina la kifaa hiki ni mkasi. Mkasi hutumika kukatia maua na sehemu nyingine za mimea.",
             "Jina la kifaa hiki ni koleo la takataka. Koleo la takataka hutumika kubebea takataka baada ya kufagia."
         ]}
     },
@@ -139,12 +139,12 @@ async def generate_page(page, entries):
         text = config.get("replace", {}).get(node_id, original)
         segments.append((spoken(text), "patch" if node_id in config.get("patch", {}) else "source", config.get("patch", {}).get(node_id)))
         for description_index, description in enumerate(config.get("after", {}).get(node_id, [])):
-            kind = "source" if page == 50 and description_index % 2 == 0 else "image"
+            kind = "source" if page == 50 and description_index < 6 else "image"
             patch = None
             if page == 9 and node_id == "pg009_n0002" and description_index == 0:
                 kind, patch = "patch", 0
             segments.append((spoken(description), kind, patch))
-    full_text = " ".join(text for text, _, _ in segments); cues = []; out = ROOT / "content" / "rehema"; audio_name = f"page-{page:03d}-ordered-v17.mp3"
+    full_text = " ".join(text for text, _, _ in segments); cues = []; out = ROOT / "content" / "rehema"; audio_name = f"page-{page:03d}-ordered-v18.mp3"
     with (out / audio_name).open("wb") as audio:
         stream = edge_tts.Communicate(full_text, VOICE, rate="-8%", boundary="WordBoundary")
         async for event in stream.stream():
@@ -162,7 +162,7 @@ async def generate_page(page, entries):
         else:
             map_source(part, words, state)
         offset += count
-    entry = {"audio": audio_name, "voice": VOICE, "version": 17, "words": cues}
+    entry = {"audio": audio_name, "voice": VOICE, "version": 18, "words": cues}
     (out / f"page-{page:03d}.json").write_text(json.dumps(entry, ensure_ascii=False, indent=2), encoding="utf-8"); entries[str(page)] = entry
     print(f"page={page} words={len(cues)} audio={(out / audio_name).stat().st_size}")
 

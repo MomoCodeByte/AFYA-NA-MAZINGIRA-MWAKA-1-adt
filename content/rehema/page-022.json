@@ -1,7 +1,7 @@
 {
-  "audio": "page-022-accessible-v17.mp3",
+  "audio": "page-022-labeled-v23.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 17,
+  "version": 23,
   "words": [
     {
       "text": "Wimbo",
@@ -424,243 +424,453 @@
       "sourceIndex": 70
     },
     {
+      "text": "Picha",
+      "start": 41.719125,
+      "end": 41.919333,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 42.019458,
+      "end": 42.362708,
+      "targetImage": true
+    },
+    {
+      "text": "moja",
+      "start": 42.391291,
+      "end": 42.906166,
+      "targetImage": true
+    },
+    {
       "text": "Mchezo",
-      "start": 41.747708,
-      "end": 42.119541,
-      "sourceIndex": 71
+      "start": 44.007416,
+      "end": 44.379249,
+      "targetImage": true
     },
     {
       "text": "wa",
-      "start": 42.248291,
-      "end": 42.334082,
-      "sourceIndex": 72
+      "start": 44.508,
+      "end": 44.593791,
+      "targetImage": true
     },
     {
       "text": "mpira",
-      "start": 42.362708,
-      "end": 42.806083,
-      "sourceIndex": 76
+      "start": 44.622416,
+      "end": 45.080082,
+      "targetImage": true
     },
     {
       "text": "wa",
-      "start": 42.834666,
-      "end": 42.920457,
-      "sourceIndex": 77
+      "start": 45.108708,
+      "end": 45.208833,
+      "targetImage": true
     },
     {
       "text": "mguu",
-      "start": 42.949083,
-      "end": 43.235124,
-      "sourceIndex": 78
-    },
-    {
-      "text": "Mchezo",
-      "start": 43.278041,
-      "end": 43.749999,
-      "sourceIndex": 79
-    },
-    {
-      "text": "wa",
-      "start": 43.778583,
-      "end": 43.864374,
-      "sourceIndex": 80
-    },
-    {
-      "text": "mdako",
-      "start": 43.893,
-      "end": 44.30775,
-      "sourceIndex": 73
-    },
-    {
-      "text": "Mchezo",
-      "start": 44.350666,
-      "end": 44.808332,
-      "sourceIndex": 74
-    },
-    {
-      "text": "wa",
-      "start": 44.836958,
-      "end": 44.922749,
-      "sourceIndex": 75
-    },
-    {
-      "text": "mpira",
-      "start": 44.951375,
-      "end": 45.39475,
-      "sourceIndex": 76
-    },
-    {
-      "text": "wa",
-      "start": 45.423333,
-      "end": 45.523458,
-      "sourceIndex": 77
-    },
-    {
-      "text": "pete",
-      "start": 45.566375,
-      "end": 45.923916,
-      "sourceIndex": 83
-    },
-    {
-      "text": "Mchezo",
-      "start": 45.966833,
-      "end": 46.424499,
-      "sourceIndex": 84
-    },
-    {
-      "text": "wa",
-      "start": 46.467375,
-      "end": 46.553166,
-      "sourceIndex": 85
-    },
-    {
-      "text": "dama",
-      "start": 46.581791,
-      "end": 46.925041,
-      "sourceIndex": 86
+      "start": 45.237416,
+      "end": 45.652166,
+      "targetImage": true
     },
     {
       "text": "Picha",
-      "start": 46.967958,
-      "end": 47.325499,
+      "start": 46.724833,
+      "end": 46.896458,
       "targetImage": true
     },
     {
-      "text": "nne",
-      "start": 47.368416,
-      "end": 47.611541,
+      "text": "inaonesha",
+      "start": 46.996583,
+      "end": 47.640166,
       "targetImage": true
     },
     {
-      "text": "zinaonesha",
-      "start": 47.654458,
-      "end": 48.398166,
+      "text": "watoto",
+      "start": 47.66875,
+      "end": 48.097791,
       "targetImage": true
     },
     {
-      "text": "mazoezi",
-      "start": 48.426791,
-      "end": 49.027457,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 49.056083,
-      "end": 49.141874,
-      "targetImage": true
-    },
-    {
-      "text": "viungo",
-      "start": 49.1705,
-      "end": 49.713958,
-      "targetImage": true
-    },
-    {
-      "text": "Kuna",
-      "start": 50.772291,
-      "end": 50.886707,
-      "targetImage": true
-    },
-    {
-      "text": "mchezo",
-      "start": 50.986833,
-      "end": 51.444499,
-      "targetImage": true
-    },
-    {
-      "text": "wa",
-      "start": 51.473125,
-      "end": 51.558916,
+      "text": "wakicheza",
+      "start": 48.126416,
+      "end": 48.741416,
       "targetImage": true
     },
     {
       "text": "mpira",
-      "start": 51.587541,
-      "end": 52.016582,
+      "start": 48.770041,
+      "end": 49.184791,
       "targetImage": true
     },
     {
       "text": "wa",
-      "start": 52.045208,
-      "end": 52.130999,
+      "start": 49.213375,
+      "end": 49.299166,
       "targetImage": true
     },
     {
       "text": "mguu",
-      "start": 52.159625,
-      "end": 52.531458,
+      "start": 49.327791,
+      "end": 49.642416,
       "targetImage": true
     },
     {
-      "text": "mchezo",
-      "start": 52.660166,
-      "end": 53.132124,
+      "text": "uwanjani",
+      "start": 49.685333,
+      "end": 50.343208,
+      "targetImage": true
+    },
+    {
+      "text": "huku",
+      "start": 50.48625,
+      "end": 50.800875,
+      "targetImage": true
+    },
+    {
+      "text": "watoto",
+      "start": 50.843833,
+      "end": 51.272874,
+      "targetImage": true
+    },
+    {
+      "text": "wengine",
+      "start": 51.3015,
+      "end": 51.730541,
+      "targetImage": true
+    },
+    {
+      "text": "wakitazama",
+      "start": 51.759166,
+      "end": 52.660207,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 53.718541,
+      "end": 53.918749,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 54.018875,
+      "end": 54.376416,
+      "targetImage": true
+    },
+    {
+      "text": "mbili",
+      "start": 54.405041,
+      "end": 54.876999,
+      "targetImage": true
+    },
+    {
+      "text": "Mchezo",
+      "start": 55.97825,
+      "end": 56.364416,
       "targetImage": true
     },
     {
       "text": "wa",
-      "start": 53.16075,
-      "end": 53.246541,
+      "start": 56.493125,
+      "end": 56.59325,
       "targetImage": true
     },
     {
       "text": "mdako",
-      "start": 53.275166,
-      "end": 53.847249,
+      "start": 56.621833,
+      "end": 57.236833,
       "targetImage": true
     },
     {
-      "text": "mchezo",
-      "start": 53.990291,
-      "end": 54.476541,
+      "text": "Picha",
+      "start": 58.3095,
+      "end": 58.466833,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 58.566916,
+      "end": 59.196207,
+      "targetImage": true
+    },
+    {
+      "text": "watoto",
+      "start": 59.224833,
+      "end": 59.653874,
+      "targetImage": true
+    },
+    {
+      "text": "wawili",
+      "start": 59.6825,
+      "end": 60.082958,
+      "targetImage": true
+    },
+    {
+      "text": "wakicheza",
+      "start": 60.111541,
+      "end": 60.726541,
+      "targetImage": true
+    },
+    {
+      "text": "mdako",
+      "start": 60.755166,
+      "end": 61.184207,
+      "targetImage": true
+    },
+    {
+      "text": "wakiwa",
+      "start": 61.212833,
+      "end": 61.584666,
+      "targetImage": true
+    },
+    {
+      "text": "wamekaa",
+      "start": 61.613291,
+      "end": 62.113874,
+      "targetImage": true
+    },
+    {
+      "text": "chini",
+      "start": 62.15675,
+      "end": 62.628708,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 63.687083,
+      "end": 63.901624,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 64.001708,
+      "end": 64.387874,
+      "targetImage": true
+    },
+    {
+      "text": "tatu",
+      "start": 64.430791,
+      "end": 64.988582,
+      "targetImage": true
+    },
+    {
+      "text": "Mchezo",
+      "start": 66.089833,
+      "end": 66.447374,
       "targetImage": true
     },
     {
       "text": "wa",
-      "start": 54.505166,
-      "end": 54.590957,
+      "start": 66.576083,
+      "end": 66.661874,
       "targetImage": true
     },
     {
       "text": "mpira",
-      "start": 54.619583,
-      "end": 55.062958,
+      "start": 66.6905,
+      "end": 67.119541,
       "targetImage": true
     },
     {
       "text": "wa",
-      "start": 55.091541,
-      "end": 55.191666,
+      "start": 67.148166,
+      "end": 67.262582,
       "targetImage": true
     },
     {
       "text": "pete",
-      "start": 55.234541,
-      "end": 55.592082,
+      "start": 67.3055,
+      "end": 67.806083,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 68.864416,
+      "end": 69.036041,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 69.136166,
+      "end": 69.765457,
+      "targetImage": true
+    },
+    {
+      "text": "watoto",
+      "start": 69.794041,
+      "end": 70.208791,
+      "targetImage": true
+    },
+    {
+      "text": "wakicheza",
+      "start": 70.237416,
+      "end": 70.838082,
+      "targetImage": true
+    },
+    {
+      "text": "mpira",
+      "start": 70.866708,
+      "end": 71.267166,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 71.29575,
+      "end": 71.395875,
+      "targetImage": true
+    },
+    {
+      "text": "pete",
+      "start": 71.438791,
+      "end": 71.882166,
       "targetImage": true
     },
     {
       "text": "na",
-      "start": 55.620708,
-      "end": 55.706499,
+      "start": 72.025166,
+      "end": 72.153874,
       "targetImage": true
     },
     {
-      "text": "mchezo",
-      "start": 55.749416,
-      "end": 56.207082,
+      "text": "mtoto",
+      "start": 72.1825,
+      "end": 72.582958,
+      "targetImage": true
+    },
+    {
+      "text": "mmoja",
+      "start": 72.611541,
+      "end": 73.054916,
+      "targetImage": true
+    },
+    {
+      "text": "akirusha",
+      "start": 73.097833,
+      "end": 73.727124,
+      "targetImage": true
+    },
+    {
+      "text": "mpira",
+      "start": 73.770041,
+      "end": 74.199082,
+      "targetImage": true
+    },
+    {
+      "text": "kuelekea",
+      "start": 74.242,
+      "end": 74.857,
+      "targetImage": true
+    },
+    {
+      "text": "kwenye",
+      "start": 74.899875,
+      "end": 75.2145,
+      "targetImage": true
+    },
+    {
+      "text": "pete",
+      "start": 75.257416,
+      "end": 75.729374,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 76.78775,
+      "end": 77.002291,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 77.102416,
+      "end": 77.488582,
+      "targetImage": true
+    },
+    {
+      "text": "nne",
+      "start": 77.517166,
+      "end": 77.903332,
+      "targetImage": true
+    },
+    {
+      "text": "Mchezo",
+      "start": 79.033166,
+      "end": 79.419332,
       "targetImage": true
     },
     {
       "text": "wa",
-      "start": 56.235708,
-      "end": 56.321499,
+      "start": 79.548041,
+      "end": 79.648166,
       "targetImage": true
     },
     {
       "text": "dama",
-      "start": 56.350125,
-      "end": 56.807791,
+      "start": 79.676791,
+      "end": 80.177374,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 81.264291,
+      "end": 81.421624,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 81.52175,
+      "end": 82.151041,
+      "targetImage": true
+    },
+    {
+      "text": "watoto",
+      "start": 82.179625,
+      "end": 82.608666,
+      "targetImage": true
+    },
+    {
+      "text": "wakicheza",
+      "start": 82.637291,
+      "end": 83.237957,
+      "targetImage": true
+    },
+    {
+      "text": "mchezo",
+      "start": 83.280875,
+      "end": 83.738541,
+      "targetImage": true
+    },
+    {
+      "text": "wa",
+      "start": 83.767166,
+      "end": 83.867291,
+      "targetImage": true
+    },
+    {
+      "text": "kuruka",
+      "start": 83.895875,
+      "end": 84.367833,
+      "targetImage": true
+    },
+    {
+      "text": "kwenye",
+      "start": 84.41075,
+      "end": 84.696791,
+      "targetImage": true
+    },
+    {
+      "text": "visanduku",
+      "start": 84.739708,
+      "end": 85.368999,
+      "targetImage": true
+    },
+    {
+      "text": "vilivyochorwa",
+      "start": 85.411916,
+      "end": 86.198541,
+      "targetImage": true
+    },
+    {
+      "text": "ardhini",
+      "start": 86.241416,
+      "end": 86.741999,
       "targetImage": true
     }
   ]

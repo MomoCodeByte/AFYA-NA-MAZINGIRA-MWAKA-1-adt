@@ -1,7 +1,7 @@
 {
-  "audio": "page-043-accessible-v17.mp3",
+  "audio": "page-043-labeled-v28.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 17,
+  "version": 28,
   "words": [
     {
       "text": "1",
@@ -256,183 +256,261 @@
       "sourceIndex": 43
     },
     {
-      "text": "5",
-      "start": 25.514875,
-      "end": 25.8295,
-      "sourceIndex": 44
+      "text": "Picha",
+      "start": 25.500583,
+      "end": 25.700791,
+      "targetImage": true
     },
     {
-      "text": "Nawa",
-      "start": 26.058333,
-      "end": 26.330083,
-      "sourceIndex": 45
+      "text": "namba",
+      "start": 25.800916,
+      "end": 26.144166,
+      "targetImage": true
     },
     {
-      "text": "vizuri",
-      "start": 26.358708,
-      "end": 26.873583,
-      "sourceIndex": 46
-    },
-    {
-      "text": "mikono",
-      "start": 26.916458,
-      "end": 27.402708,
-      "sourceIndex": 47
-    },
-    {
-      "text": "kwa",
-      "start": 27.445666,
-      "end": 27.588666,
-      "sourceIndex": 48
-    },
-    {
-      "text": "maji",
-      "start": 27.617291,
-      "end": 27.974832,
-      "sourceIndex": 49
-    },
-    {
-      "text": "safi",
-      "start": 28.01775,
-      "end": 28.446791,
-      "sourceIndex": 50
-    },
-    {
-      "text": "na",
-      "start": 28.475416,
-      "end": 28.561207,
-      "sourceIndex": 51
-    },
-    {
-      "text": "sabuni",
-      "start": 28.589833,
-      "end": 29.233416,
-      "sourceIndex": 52
+      "text": "moja",
+      "start": 26.17275,
+      "end": 26.687625,
+      "targetImage": true
     },
     {
       "text": "Picha",
+      "start": 27.760291,
+      "end": 27.917624,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 28.01775,
+      "end": 28.647041,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 28.675625,
+      "end": 29.076083,
+      "targetImage": true
+    },
+    {
+      "text": "akifunika",
+      "start": 29.119,
+      "end": 29.848416,
+      "targetImage": true
+    },
+    {
+      "text": "shimo",
+      "start": 29.877,
+      "end": 30.263166,
+      "targetImage": true
+    },
+    {
+      "text": "la",
       "start": 30.29175,
-      "end": 30.477666,
-      "targetImage": true
-    },
-    {
-      "text": "zinaonesha",
-      "start": 30.577791,
-      "end": 31.307207,
-      "targetImage": true
-    },
-    {
-      "text": "hatua",
-      "start": 31.335791,
-      "end": 31.764832,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 31.793458,
-      "end": 31.950791,
-      "targetImage": true
-    },
-    {
-      "text": "kusafisha",
-      "start": 31.979416,
-      "end": 32.665916,
+      "end": 30.420458,
       "targetImage": true
     },
     {
       "text": "choo",
-      "start": 32.708791,
-      "end": 33.180749,
+      "start": 30.449083,
+      "end": 30.720833,
       "targetImage": true
     },
     {
-      "text": "Kuna",
-      "start": 34.224833,
-      "end": 34.339249,
+      "text": "kwa",
+      "start": 30.76375,
+      "end": 30.921083,
       "targetImage": true
     },
     {
-      "text": "mtu",
-      "start": 34.439375,
-      "end": 34.696791,
+      "text": "kutumia",
+      "start": 30.949666,
+      "end": 31.464541,
       "targetImage": true
     },
     {
-      "text": "akimwaga",
-      "start": 34.739708,
-      "end": 35.383291,
-      "targetImage": true
-    },
-    {
-      "text": "maji",
-      "start": 35.411916,
-      "end": 35.912499,
-      "targetImage": true
-    },
-    {
-      "text": "akisugua",
-      "start": 36.012583,
-      "end": 36.684791,
-      "targetImage": true
-    },
-    {
-      "text": "sakafu",
-      "start": 36.713375,
-      "end": 37.271166,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 37.314083,
-      "end": 37.428499,
-      "targetImage": true
-    },
-    {
-      "text": "brashi",
-      "start": 37.457083,
-      "end": 38.072083,
-      "targetImage": true
-    },
-    {
-      "text": "akifagia",
-      "start": 38.243708,
-      "end": 38.973124,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 39.001708,
-      "end": 39.116124,
-      "targetImage": true
-    },
-    {
-      "text": "kunawa",
-      "start": 39.159041,
-      "end": 39.588082,
-      "targetImage": true
-    },
-    {
-      "text": "mikono",
-      "start": 39.631,
-      "end": 40.102958,
+      "text": "fimbo",
+      "start": 31.507416,
+      "end": 31.907874,
       "targetImage": true
     },
     {
       "text": "baada",
-      "start": 40.131583,
-      "end": 40.474833,
+      "start": 31.9365,
+      "end": 32.27975,
       "targetImage": true
     },
     {
       "text": "ya",
-      "start": 40.503416,
-      "end": 40.603541,
+      "start": 32.308333,
+      "end": 32.408458,
       "targetImage": true
     },
     {
-      "text": "kazi",
-      "start": 40.632166,
-      "end": 41.118416,
+      "text": "kujisaidia",
+      "start": 32.437083,
+      "end": 33.423916,
+      "targetImage": true
+    },
+    {
+      "text": "5",
+      "start": 34.496583,
+      "end": 34.811208,
+      "sourceIndex": 44
+    },
+    {
+      "text": "Nawa",
+      "start": 35.040041,
+      "end": 35.311791,
+      "sourceIndex": 45
+    },
+    {
+      "text": "vizuri",
+      "start": 35.340375,
+      "end": 35.85525,
+      "sourceIndex": 46
+    },
+    {
+      "text": "mikono",
+      "start": 35.898166,
+      "end": 36.384416,
+      "sourceIndex": 47
+    },
+    {
+      "text": "kwa",
+      "start": 36.427333,
+      "end": 36.570333,
+      "sourceIndex": 48
+    },
+    {
+      "text": "maji",
+      "start": 36.598958,
+      "end": 36.956499,
+      "sourceIndex": 49
+    },
+    {
+      "text": "safi",
+      "start": 36.999416,
+      "end": 37.428457,
+      "sourceIndex": 50
+    },
+    {
+      "text": "na",
+      "start": 37.457083,
+      "end": 37.542874,
+      "sourceIndex": 51
+    },
+    {
+      "text": "sabuni",
+      "start": 37.5715,
+      "end": 38.215083,
+      "sourceIndex": 52
+    },
+    {
+      "text": "Picha",
+      "start": 39.273458,
+      "end": 39.473666,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 39.573791,
+      "end": 39.931332,
+      "targetImage": true
+    },
+    {
+      "text": "mbili",
+      "start": 39.959958,
+      "end": 40.431916,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 41.504583,
+      "end": 41.676208,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 41.776333,
+      "end": 42.405624,
+      "targetImage": true
+    },
+    {
+      "text": "mtoto",
+      "start": 42.434208,
+      "end": 42.863249,
+      "targetImage": true
+    },
+    {
+      "text": "akinawa",
+      "start": 42.906166,
+      "end": 43.406749,
+      "targetImage": true
+    },
+    {
+      "text": "mikono",
+      "start": 43.449666,
+      "end": 43.950249,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 43.993125,
+      "end": 44.136125,
+      "targetImage": true
+    },
+    {
+      "text": "maji",
+      "start": 44.16475,
+      "end": 44.536583,
+      "targetImage": true
+    },
+    {
+      "text": "yanayotiririka",
+      "start": 44.565208,
+      "end": 45.552041,
+      "targetImage": true
+    },
+    {
+      "text": "kutoka",
+      "start": 45.580666,
+      "end": 46.024041,
+      "targetImage": true
+    },
+    {
+      "text": "kwenye",
+      "start": 46.066916,
+      "end": 46.367249,
+      "targetImage": true
+    },
+    {
+      "text": "bomba",
+      "start": 46.410166,
+      "end": 46.796332,
+      "targetImage": true
+    },
+    {
+      "text": "baada",
+      "start": 46.824958,
+      "end": 47.168208,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 47.196791,
+      "end": 47.296916,
+      "targetImage": true
+    },
+    {
+      "text": "kutumia",
+      "start": 47.3255,
+      "end": 47.897583,
+      "targetImage": true
+    },
+    {
+      "text": "choo",
+      "start": 47.9405,
+      "end": 48.412458,
       "targetImage": true
     }
   ]

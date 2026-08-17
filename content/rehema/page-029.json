@@ -1,7 +1,7 @@
 {
-  "audio": "page-029-accessible-v17.mp3",
+  "audio": "page-029-labeled-v28.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 17,
+  "version": 28,
   "words": [
     {
       "text": "Vitendo",
@@ -18,253 +18,343 @@
     {
       "text": "kukata",
       "start": 0.893833,
-      "end": 1.380083,
+      "end": 1.351499,
       "sourceIndex": 4
     },
     {
       "text": "kucha",
-      "start": 1.408708,
+      "start": 1.380083,
       "end": 1.709041,
       "sourceIndex": 5
     },
     {
-      "text": "2",
+      "text": "Picha",
       "start": 1.737625,
-      "end": 2.05225,
-      "sourceIndex": 24
+      "end": 2.066583,
+      "targetImage": true
     },
     {
-      "text": "1",
-      "start": 2.080875,
-      "end": 2.452708,
-      "sourceIndex": 17
+      "text": "namba",
+      "start": 2.095208,
+      "end": 2.438458,
+      "targetImage": true
     },
     {
-      "text": "Kukata",
-      "start": 2.495666,
-      "end": 2.996249,
-      "sourceIndex": 4
-    },
-    {
-      "text": "kucha",
-      "start": 3.024833,
-      "end": 3.353791,
-      "sourceIndex": 5
-    },
-    {
-      "text": "kwa",
-      "start": 3.396666,
-      "end": 3.553999,
-      "sourceIndex": 8
-    },
-    {
-      "text": "kutumia",
-      "start": 3.582625,
-      "end": 4.0975,
-      "sourceIndex": 9
+      "text": "moja",
+      "start": 2.467041,
+      "end": 2.953291,
+      "targetImage": true
     },
     {
       "text": "Kukata",
-      "start": 4.126083,
-      "end": 4.640958,
-      "sourceIndex": 12
+      "start": 4.033166,
+      "end": 4.390707,
+      "targetImage": true
     },
     {
       "text": "kucha",
-      "start": 4.669583,
-      "end": 4.998541,
-      "sourceIndex": 13
+      "start": 4.490833,
+      "end": 4.834083,
+      "targetImage": true
     },
     {
       "text": "kwa",
-      "start": 5.041416,
-      "end": 5.198749,
-      "sourceIndex": 14
+      "start": 4.862708,
+      "end": 5.020041,
+      "targetImage": true
     },
     {
       "text": "kutumia",
-      "start": 5.227333,
-      "end": 5.742208,
-      "sourceIndex": 15
+      "start": 5.048625,
+      "end": 5.592083,
+      "targetImage": true
     },
     {
       "text": "kikata",
-      "start": 5.785125,
-      "end": 6.285708,
-      "sourceIndex": 10
+      "start": 5.620708,
+      "end": 6.135583,
+      "targetImage": true
     },
     {
       "text": "kucha",
-      "start": 6.314291,
-      "end": 6.628916,
-      "sourceIndex": 11
-    },
-    {
-      "text": "wembe",
-      "start": 6.671833,
-      "end": 6.986458,
-      "sourceIndex": 16
-    },
-    {
-      "text": "3",
-      "start": 7.029416,
-      "end": 7.358374,
-      "sourceIndex": 25
-    },
-    {
-      "text": "Kusafisha",
-      "start": 7.386958,
-      "end": 8.044833,
-      "sourceIndex": 18
-    },
-    {
-      "text": "mikono",
-      "start": 8.08775,
-      "end": 8.574,
-      "sourceIndex": 19
-    },
-    {
-      "text": "kwa",
-      "start": 8.616916,
-      "end": 8.774249,
-      "sourceIndex": 20
-    },
-    {
-      "text": "maji",
-      "start": 8.802875,
-      "end": 9.189041,
-      "sourceIndex": 21
-    },
-    {
-      "text": "na",
-      "start": 9.217625,
-      "end": 9.303416,
-      "sourceIndex": 22
-    },
-    {
-      "text": "sabuni",
-      "start": 9.332041,
-      "end": 9.889832,
-      "sourceIndex": 23
+      "start": 6.164208,
+      "end": 6.607583,
+      "targetImage": true
     },
     {
       "text": "Picha",
-      "start": 9.932708,
-      "end": 10.275958,
+      "start": 7.680208,
+      "end": 7.837541,
       "targetImage": true
     },
     {
-      "text": "zinaonesha",
-      "start": 10.304583,
-      "end": 11.048291,
-      "targetImage": true
-    },
-    {
-      "text": "hatua",
-      "start": 11.076875,
-      "end": 11.477333,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 11.505958,
-      "end": 11.648958,
-      "targetImage": true
-    },
-    {
-      "text": "kukata",
-      "start": 11.691875,
-      "end": 12.20675,
+      "text": "inaonesha",
+      "start": 7.937625,
+      "end": 8.638416,
       "targetImage": true
     },
     {
       "text": "kucha",
-      "start": 12.235375,
-      "end": 12.650125,
+      "start": 8.667041,
+      "end": 8.995999,
       "targetImage": true
     },
     {
-      "text": "Kwanza",
-      "start": 13.701375,
-      "end": 13.958791,
+      "text": "zikikatwa",
+      "start": 9.024583,
+      "end": 9.725374,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 9.754,
+      "end": 9.911333,
+      "targetImage": true
+    },
+    {
+      "text": "kikata",
+      "start": 9.939916,
+      "end": 10.454791,
       "targetImage": true
     },
     {
       "text": "kucha",
-      "start": 14.058916,
-      "end": 14.387874,
+      "start": 10.483416,
+      "end": 10.926791,
       "targetImage": true
     },
     {
-      "text": "zinakatwa",
-      "start": 14.416458,
-      "end": 15.117249,
+      "text": "Picha",
+      "start": 11.999416,
+      "end": 12.199624,
       "targetImage": true
     },
     {
-      "text": "kwa",
-      "start": 15.145875,
-      "end": 15.303208,
+      "text": "namba",
+      "start": 12.299791,
+      "end": 12.657332,
       "targetImage": true
     },
     {
-      "text": "kifaa",
-      "start": 15.331791,
-      "end": 15.703624,
+      "text": "mbili",
+      "start": 12.685916,
+      "end": 13.157874,
       "targetImage": true
     },
     {
-      "text": "salama",
-      "start": 15.73225,
-      "end": 16.361541,
+      "text": "Kukata",
+      "start": 14.230541,
+      "end": 14.573791,
       "targetImage": true
     },
     {
-      "text": "Kisha",
-      "start": 17.434208,
-      "end": 17.648749,
-      "targetImage": true
-    },
-    {
-      "text": "mikono",
-      "start": 17.748875,
-      "end": 18.235125,
-      "targetImage": true
-    },
-    {
-      "text": "inaoshwa",
-      "start": 18.26375,
-      "end": 18.850125,
+      "text": "kucha",
+      "start": 14.673916,
+      "end": 15.017166,
       "targetImage": true
     },
     {
       "text": "kwa",
-      "start": 18.878708,
-      "end": 19.021708,
+      "start": 15.04575,
+      "end": 15.203083,
       "targetImage": true
     },
     {
-      "text": "maji",
-      "start": 19.050333,
+      "text": "kutumia",
+      "start": 15.231708,
+      "end": 15.803791,
+      "targetImage": true
+    },
+    {
+      "text": "wembe",
+      "start": 15.832375,
+      "end": 16.304333,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 17.377,
+      "end": 17.548625,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 17.64875,
+      "end": 18.320958,
+      "targetImage": true
+    },
+    {
+      "text": "kucha",
+      "start": 18.349541,
+      "end": 18.678499,
+      "targetImage": true
+    },
+    {
+      "text": "zikikatwa",
+      "start": 18.707083,
       "end": 19.407874,
       "targetImage": true
     },
     {
-      "text": "safi",
-      "start": 19.450791,
-      "end": 19.879832,
+      "text": "kwa",
+      "start": 19.4365,
+      "end": 19.5795,
+      "targetImage": true
+    },
+    {
+      "text": "uangalifu",
+      "start": 19.608125,
+      "end": 20.294625,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 20.323208,
+      "end": 20.480541,
+      "targetImage": true
+    },
+    {
+      "text": "kutumia",
+      "start": 20.509166,
+      "end": 21.066957,
+      "targetImage": true
+    },
+    {
+      "text": "wembe",
+      "start": 21.095541,
+      "end": 21.510291,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 22.582958,
+      "end": 22.797499,
+      "targetImage": true
+    },
+    {
+      "text": "namba",
+      "start": 22.897583,
+      "end": 23.283749,
+      "targetImage": true
+    },
+    {
+      "text": "tatu",
+      "start": 23.326666,
+      "end": 23.884457,
+      "targetImage": true
+    },
+    {
+      "text": "Kusafisha",
+      "start": 24.957083,
+      "end": 25.543458,
+      "targetImage": true
+    },
+    {
+      "text": "mikono",
+      "start": 25.643583,
+      "end": 26.144166,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 26.187083,
+      "end": 26.330083,
+      "targetImage": true
+    },
+    {
+      "text": "maji",
+      "start": 26.358708,
+      "end": 26.744874,
       "targetImage": true
     },
     {
       "text": "na",
-      "start": 19.908458,
-      "end": 19.994249,
+      "start": 26.773458,
+      "end": 26.859249,
       "targetImage": true
     },
     {
       "text": "sabuni",
-      "start": 20.022875,
-      "end": 20.666458,
+      "start": 26.887875,
+      "end": 27.54575,
+      "targetImage": true
+    },
+    {
+      "text": "Picha",
+      "start": 28.589833,
+      "end": 28.747166,
+      "targetImage": true
+    },
+    {
+      "text": "inaonesha",
+      "start": 28.84725,
+      "end": 29.476541,
+      "targetImage": true
+    },
+    {
+      "text": "mikono",
+      "start": 29.505166,
+      "end": 29.977124,
+      "targetImage": true
+    },
+    {
+      "text": "ikioshwa",
+      "start": 30.020041,
+      "end": 30.649332,
+      "targetImage": true
+    },
+    {
+      "text": "kwa",
+      "start": 30.677916,
+      "end": 30.820916,
+      "targetImage": true
+    },
+    {
+      "text": "maji",
+      "start": 30.849541,
+      "end": 31.192791,
+      "targetImage": true
+    },
+    {
+      "text": "safi",
+      "start": 31.235708,
+      "end": 31.664749,
+      "targetImage": true
+    },
+    {
+      "text": "na",
+      "start": 31.693375,
+      "end": 31.779166,
+      "targetImage": true
+    },
+    {
+      "text": "sabuni",
+      "start": 31.807791,
+      "end": 32.336957,
+      "targetImage": true
+    },
+    {
+      "text": "baada",
+      "start": 32.365541,
+      "end": 32.708791,
+      "targetImage": true
+    },
+    {
+      "text": "ya",
+      "start": 32.737416,
+      "end": 32.837541,
+      "targetImage": true
+    },
+    {
+      "text": "kukata",
+      "start": 32.866125,
+      "end": 33.395291,
+      "targetImage": true
+    },
+    {
+      "text": "kucha",
+      "start": 33.423916,
+      "end": 33.881582,
       "targetImage": true
     }
   ]
