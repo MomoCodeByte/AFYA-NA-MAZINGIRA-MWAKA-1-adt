@@ -1,337 +1,205 @@
 {
-  "audio": "page-015-accessible-v16.mp3",
+  "audio": "page-015-v9.mp3",
   "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "version": 9,
   "words": [
     {
       "text": "Vyakula",
       "start": 0.178708,
-      "end": 0.579166,
+      "end": 0.607749,
       "sourceIndex": 1
     },
     {
       "text": "vinavyoliwa",
-      "start": 0.679291,
-      "end": 1.451582,
-      "sourceIndex": 1
+      "start": 0.707875,
+      "end": 1.480166,
+      "sourceIndex": 2
     },
     {
       "text": "mchana",
-      "start": 1.480208,
-      "end": 1.866374,
-      "sourceIndex": 1
-    },
-    {
-      "text": "Sehemu",
-      "start": 1.894958,
-      "end": 2.424124,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 2.45275,
-      "end": 2.552875,
-      "targetImage": true
-    },
-    {
-      "text": "juu",
-      "start": 2.581458,
-      "end": 2.896083,
-      "targetImage": true
-    },
-    {
-      "text": "ina",
-      "start": 2.939,
-      "end": 3.167833,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 3.21075,
-      "end": 3.539708,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 3.568291,
-      "end": 3.711291,
-      "targetImage": true
-    },
-    {
-      "text": "vyakula",
-      "start": 3.739916,
-      "end": 4.240499,
-      "targetImage": true
-    },
-    {
-      "text": "vinavyoliwa",
-      "start": 4.269125,
-      "end": 5.05575,
-      "targetImage": true
-    },
-    {
-      "text": "mchana",
-      "start": 5.098625,
-      "end": 5.656416,
-      "targetImage": true
-    },
-    {
-      "text": "Sehemu",
-      "start": 6.721958,
-      "end": 7.150999,
-      "targetImage": true
-    },
-    {
-      "text": "ya",
-      "start": 7.251125,
-      "end": 7.336916,
-      "targetImage": true
-    },
-    {
-      "text": "chini",
-      "start": 7.365541,
-      "end": 7.708791,
-      "targetImage": true
-    },
-    {
-      "text": "ina",
-      "start": 7.737416,
-      "end": 7.951957,
-      "targetImage": true
-    },
-    {
-      "text": "picha",
-      "start": 7.994833,
-      "end": 8.323791,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 8.352416,
-      "end": 8.495416,
-      "targetImage": true
-    },
-    {
-      "text": "vyakula",
-      "start": 8.524041,
-      "end": 9.067499,
-      "targetImage": true
-    },
-    {
-      "text": "vinavyoliwa",
-      "start": 9.096125,
-      "end": 9.88275,
-      "targetImage": true
-    },
-    {
-      "text": "jioni",
-      "start": 9.911333,
-      "end": 10.497708,
-      "targetImage": true
-    },
-    {
-      "text": "Kuna",
-      "start": 11.556083,
-      "end": 11.641874,
-      "targetImage": true
-    },
-    {
-      "text": "matunda",
-      "start": 11.742,
-      "end": 12.328375,
-      "targetImage": true
-    },
-    {
-      "text": "mboga",
-      "start": 12.4285,
-      "end": 12.929083,
-      "targetImage": true
-    },
-    {
-      "text": "nafaka",
-      "start": 13.043458,
-      "end": 13.644124,
-      "targetImage": true
-    },
-    {
-      "text": "nyama",
-      "start": 13.772875,
-      "end": 14.21625,
-      "targetImage": true
-    },
-    {
-      "text": "samaki",
-      "start": 14.316375,
-      "end": 14.90275,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 14.931333,
-      "end": 15.045749,
-      "targetImage": true
-    },
-    {
-      "text": "vinywaji",
-      "start": 15.074375,
-      "end": 15.803791,
-      "targetImage": true
+      "start": 1.508791,
+      "end": 2.080874,
+      "sourceIndex": 3
     },
     {
       "text": "Vyakula",
-      "start": 16.862125,
-      "end": 17.276875,
-      "sourceIndex": 2
-    },
-    {
-      "text": "vinavyoliwa",
-      "start": 17.377,
-      "end": 18.135,
-      "sourceIndex": 2
-    },
-    {
-      "text": "jioni",
-      "start": 18.163625,
-      "end": 18.564083,
-      "sourceIndex": 2
-    },
-    {
-      "text": "Zoezi",
-      "start": 18.606958,
-      "end": 19.064624,
-      "sourceIndex": 3
-    },
-    {
-      "text": "la",
-      "start": 19.09325,
-      "end": 19.207666,
-      "sourceIndex": 3
-    },
-    {
-      "text": "1",
-      "start": 19.23625,
-      "end": 19.608083,
-      "sourceIndex": 3
-    },
-    {
-      "text": "1",
-      "start": 19.636708,
-      "end": 20.094374,
+      "start": 3.175041,
+      "end": 3.604082,
       "sourceIndex": 4
     },
     {
-      "text": "Taja",
-      "start": 21.167041,
-      "end": 21.395874,
-      "sourceIndex": 5
-    },
-    {
-      "text": "vyakula",
-      "start": 21.510291,
-      "end": 22.025166,
-      "sourceIndex": 5
-    },
-    {
-      "text": "unavyokula",
-      "start": 22.053791,
-      "end": 22.840416,
-      "sourceIndex": 5
-    },
-    {
-      "text": "asubuhi",
-      "start": 22.869,
-      "end": 23.512583,
-      "sourceIndex": 5
-    },
-    {
-      "text": "mchana",
-      "start": 23.627,
-      "end": 24.070375,
-      "sourceIndex": 5
-    },
-    {
-      "text": "na",
-      "start": 24.098958,
-      "end": 24.199083,
+      "text": "vinavyoliwa",
+      "start": 3.70425,
+      "end": 4.476541,
       "sourceIndex": 5
     },
     {
       "text": "jioni",
-      "start": 24.227708,
-      "end": 24.799791,
-      "sourceIndex": 5
-    },
-    {
-      "text": "2",
-      "start": 25.886708,
-      "end": 26.187041,
+      "start": 4.505166,
+      "end": 5.091541,
       "sourceIndex": 6
     },
     {
-      "text": "Eleza",
-      "start": 26.415916,
-      "end": 26.916499,
+      "text": "Zoezi",
+      "start": 6.149875,
+      "end": 6.578916,
       "sourceIndex": 7
     },
     {
-      "text": "ni",
-      "start": 26.945083,
-      "end": 27.073791,
-      "sourceIndex": 7
-    },
-    {
-      "text": "kwa",
-      "start": 27.116708,
-      "end": 27.274041,
-      "sourceIndex": 7
-    },
-    {
-      "text": "nini",
-      "start": 27.302625,
-      "end": 27.602958,
-      "sourceIndex": 7
-    },
-    {
-      "text": "tunakula",
-      "start": 27.645875,
-      "end": 28.289458,
-      "sourceIndex": 7
-    },
-    {
-      "text": "chakula",
-      "start": 28.332375,
-      "end": 29.004583,
-      "sourceIndex": 7
-    },
-    {
-      "text": "3",
-      "start": 30.105833,
-      "end": 30.449083,
+      "text": "la",
+      "start": 6.679041,
+      "end": 6.836374,
       "sourceIndex": 8
     },
     {
-      "text": "Chora",
-      "start": 30.663625,
-      "end": 31.021166,
+      "text": "kwanza",
+      "start": 6.879291,
+      "end": 7.408457,
       "sourceIndex": 9
+    },
+    {
+      "text": "Moja",
+      "start": 8.495416,
+      "end": 8.938791,
+      "sourceIndex": 10
+    },
+    {
+      "text": "Taja",
+      "start": 10.125875,
+      "end": 10.354708,
+      "sourceIndex": 11
     },
     {
       "text": "vyakula",
-      "start": 31.04975,
-      "end": 31.550333,
-      "sourceIndex": 9
+      "start": 10.469125,
+      "end": 10.984,
+      "sourceIndex": 12
+    },
+    {
+      "text": "unavyokula",
+      "start": 11.012583,
+      "end": 11.799208,
+      "sourceIndex": 13
+    },
+    {
+      "text": "asubuhi",
+      "start": 11.827791,
+      "end": 12.471374,
+      "sourceIndex": 14
+    },
+    {
+      "text": "mchana",
+      "start": 12.585791,
+      "end": 13.029166,
+      "sourceIndex": 15
+    },
+    {
+      "text": "na",
+      "start": 13.057791,
+      "end": 13.157916,
+      "sourceIndex": 16
+    },
+    {
+      "text": "jioni",
+      "start": 13.1865,
+      "end": 13.758583,
+      "sourceIndex": 17
+    },
+    {
+      "text": "Mbili",
+      "start": 14.845541,
+      "end": 15.260291,
+      "sourceIndex": 18
+    },
+    {
+      "text": "Eleza",
+      "start": 16.461666,
+      "end": 16.804916,
+      "sourceIndex": 19
+    },
+    {
+      "text": "ni",
+      "start": 16.933625,
+      "end": 17.062333,
+      "sourceIndex": 20
+    },
+    {
+      "text": "kwa",
+      "start": 17.10525,
+      "end": 17.262583,
+      "sourceIndex": 21
+    },
+    {
+      "text": "nini",
+      "start": 17.291208,
+      "end": 17.591541,
+      "sourceIndex": 22
+    },
+    {
+      "text": "tunakula",
+      "start": 17.634458,
+      "end": 18.263749,
+      "sourceIndex": 23
+    },
+    {
+      "text": "chakula",
+      "start": 18.306625,
+      "end": 18.978833,
+      "sourceIndex": 24
+    },
+    {
+      "text": "Tatu",
+      "start": 20.080083,
+      "end": 20.552041,
+      "sourceIndex": 25
+    },
+    {
+      "text": "Chora",
+      "start": 21.696208,
+      "end": 21.996541,
+      "sourceIndex": 26,
+      "targetPatch": 0,
+      "targetWord": 0
+    },
+    {
+      "text": "au",
+      "start": 22.111,
+      "end": 22.339833,
+      "sourceIndex": 26,
+      "targetPatch": 0,
+      "targetWord": 1
+    },
+    {
+      "text": "bainisha",
+      "start": 22.368416,
+      "end": 22.897582,
+      "sourceIndex": 26,
+      "targetPatch": 0,
+      "targetWord": 2
+    },
+    {
+      "text": "vyakula",
+      "start": 22.926208,
+      "end": 23.441083,
+      "sourceIndex": 27,
+      "targetPatch": 0,
+      "targetWord": 3
     },
     {
       "text": "unavyopenda",
-      "start": 31.578958,
-      "end": 32.422791,
-      "sourceIndex": 9
+      "start": 23.469666,
+      "end": 24.299166,
+      "sourceIndex": 28,
+      "targetPatch": 0,
+      "targetWord": 4
     },
     {
       "text": "kula",
-      "start": 32.465666,
-      "end": 32.894707,
-      "sourceIndex": 9
+      "start": 24.342125,
+      "end": 24.771166,
+      "sourceIndex": 29,
+      "targetPatch": 0,
+      "targetWord": 5
     }
   ]
 }

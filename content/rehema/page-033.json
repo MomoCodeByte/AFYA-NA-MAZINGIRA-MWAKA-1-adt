@@ -1,397 +1,271 @@
 {
-  "audio": "page-033-accessible-v16.mp3",
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "audio": "page-033.mp3",
   "words": [
     {
-      "text": "3",
+      "text": "tatu",
       "start": 0.193,
-      "end": 0.393208,
-      "sourceIndex": 1
-    },
-    {
-      "text": "4",
-      "start": 0.507666,
-      "end": 0.722207,
-      "sourceIndex": 1
-    },
-    {
-      "text": "Picha",
-      "start": 0.765083,
-      "end": 1.122624,
-      "targetImage": true
+      "end": 0.493333,
+      "sourceIndex": 2
     },
     {
       "text": "nne",
-      "start": 1.15125,
-      "end": 1.365791,
-      "targetImage": true
-    },
-    {
-      "text": "zinaonesha",
-      "start": 1.394375,
-      "end": 2.152375,
-      "targetImage": true
-    },
-    {
-      "text": "hatua",
-      "start": 2.181,
-      "end": 2.624375,
-      "targetImage": true
-    },
-    {
-      "text": "za",
-      "start": 2.652958,
-      "end": 2.810291,
-      "targetImage": true
-    },
-    {
-      "text": "kuoga",
-      "start": 2.838916,
-      "end": 3.439582,
-      "targetImage": true
-    },
-    {
-      "text": "Mtoto",
-      "start": 4.562375,
-      "end": 4.877,
-      "targetImage": true
-    },
-    {
-      "text": "anajipaka",
-      "start": 5.020041,
-      "end": 5.763749,
-      "targetImage": true
-    },
-    {
-      "text": "maji",
-      "start": 5.792333,
-      "end": 6.278583,
-      "targetImage": true
-    },
-    {
-      "text": "anajisugua",
-      "start": 6.393,
-      "end": 7.251125,
-      "targetImage": true
-    },
-    {
-      "text": "kwa",
-      "start": 7.294041,
-      "end": 7.437041,
-      "targetImage": true
-    },
-    {
-      "text": "sabuni",
-      "start": 7.465666,
-      "end": 7.994832,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 8.023458,
-      "end": 8.137874,
-      "targetImage": true
-    },
-    {
-      "text": "dodoki",
-      "start": 8.166458,
-      "end": 8.838666,
-      "targetImage": true
-    },
-    {
-      "text": "anajisafisha",
-      "start": 8.967375,
-      "end": 9.925625,
-      "targetImage": true
-    },
-    {
-      "text": "kwa",
-      "start": 9.968541,
-      "end": 10.111541,
-      "targetImage": true
-    },
-    {
-      "text": "maji",
-      "start": 10.140166,
-      "end": 10.612124,
-      "targetImage": true
-    },
-    {
-      "text": "kisha",
-      "start": 10.798041,
-      "end": 11.141291,
-      "targetImage": true
-    },
-    {
-      "text": "anajikausha",
-      "start": 11.169916,
-      "end": 12.042332,
-      "targetImage": true
-    },
-    {
-      "text": "kwa",
-      "start": 12.08525,
-      "end": 12.256875,
-      "targetImage": true
-    },
-    {
-      "text": "taulo",
-      "start": 12.285458,
-      "end": 12.814624,
-      "targetImage": true
+      "start": 0.707875,
+      "end": 0.936708,
+      "sourceIndex": 3
     },
     {
       "text": "Kujipaka",
-      "start": 13.887291,
-      "end": 14.387874,
-      "sourceIndex": 2
+      "start": 0.979625,
+      "end": 1.608916,
+      "sourceIndex": 4
     },
     {
       "text": "sabuni",
-      "start": 14.488,
-      "end": 15.002875,
-      "sourceIndex": 2
+      "start": 1.637541,
+      "end": 2.138124,
+      "sourceIndex": 5
     },
     {
       "text": "Kujisugua",
-      "start": 15.04575,
-      "end": 15.832375,
-      "sourceIndex": 2
-    },
-    {
-      "text": "kwa",
-      "start": 15.875291,
-      "end": 16.032624,
-      "sourceIndex": 2
-    },
-    {
-      "text": "dodoki",
-      "start": 16.061208,
-      "end": 16.576083,
-      "sourceIndex": 2
-    },
-    {
-      "text": "5",
-      "start": 16.619,
-      "end": 16.933625,
-      "sourceIndex": 3
-    },
-    {
-      "text": "6",
-      "start": 16.976541,
-      "end": 17.391291,
-      "sourceIndex": 3
-    },
-    {
-      "text": "Kujisuuza",
-      "start": 17.434208,
-      "end": 18.206499,
-      "sourceIndex": 4
-    },
-    {
-      "text": "kwa",
-      "start": 18.249416,
-      "end": 18.392416,
-      "sourceIndex": 4
-    },
-    {
-      "text": "maji",
-      "start": 18.421041,
-      "end": 18.778582,
-      "sourceIndex": 4
-    },
-    {
-      "text": "Kujikausha",
-      "start": 18.8215,
-      "end": 19.593791,
-      "sourceIndex": 4
-    },
-    {
-      "text": "maji",
-      "start": 19.622416,
-      "end": 20.008582,
-      "sourceIndex": 4
-    },
-    {
-      "text": "kwa",
-      "start": 20.0515,
-      "end": 20.208833,
-      "sourceIndex": 4
-    },
-    {
-      "text": "taulo",
-      "start": 20.251708,
-      "end": 20.666458,
-      "sourceIndex": 4
-    },
-    {
-      "text": "Zoezi",
-      "start": 20.695083,
-      "end": 21.181333,
-      "sourceIndex": 5
-    },
-    {
-      "text": "la",
-      "start": 21.209958,
-      "end": 21.352958,
-      "sourceIndex": 5
-    },
-    {
-      "text": "5",
-      "start": 21.395875,
-      "end": 21.753416,
-      "sourceIndex": 5
-    },
-    {
-      "text": "1",
-      "start": 21.782041,
-      "end": 22.225416,
+      "start": 2.181,
+      "end": 2.953291,
       "sourceIndex": 6
     },
     {
-      "text": "Ni",
-      "start": 23.298041,
-      "end": 23.383874,
+      "text": "kwa",
+      "start": 2.996208,
+      "end": 3.153541,
       "sourceIndex": 7
     },
     {
-      "text": "vifaa",
-      "start": 23.383875,
-      "end": 23.855833,
-      "sourceIndex": 7
-    },
-    {
-      "text": "gani",
-      "start": 23.884458,
-      "end": 24.270624,
-      "sourceIndex": 7
-    },
-    {
-      "text": "unavyotumia",
-      "start": 24.299208,
-      "end": 25.200249,
-      "sourceIndex": 7
-    },
-    {
-      "text": "kuoga",
-      "start": 25.228833,
-      "end": 25.700791,
-      "sourceIndex": 7
-    },
-    {
-      "text": "ukiwa",
-      "start": 25.743708,
-      "end": 26.172749,
-      "sourceIndex": 7
-    },
-    {
-      "text": "nyumbani",
-      "start": 26.201375,
-      "end": 26.830666,
-      "sourceIndex": 7
-    },
-    {
-      "text": "2",
-      "start": 27.931916,
-      "end": 28.217957,
+      "text": "dodoki",
+      "start": 3.182166,
+      "end": 3.854374,
       "sourceIndex": 8
     },
     {
-      "text": "Taja",
-      "start": 28.461083,
-      "end": 28.832916,
+      "text": "tano",
+      "start": 4.934208,
+      "end": 5.191624,
       "sourceIndex": 9
     },
     {
-      "text": "faida",
-      "start": 28.861541,
-      "end": 29.290582,
-      "sourceIndex": 9
-    },
-    {
-      "text": "2",
-      "start": 29.319208,
-      "end": 29.633833,
-      "sourceIndex": 9
-    },
-    {
-      "text": "za",
-      "start": 29.662458,
-      "end": 29.848374,
-      "sourceIndex": 9
-    },
-    {
-      "text": "kuwa",
-      "start": 29.877,
-      "end": 30.134416,
-      "sourceIndex": 9
-    },
-    {
-      "text": "na",
-      "start": 30.163041,
-      "end": 30.248832,
-      "sourceIndex": 9
-    },
-    {
-      "text": "mwili",
-      "start": 30.277458,
-      "end": 30.606416,
-      "sourceIndex": 9
-    },
-    {
-      "text": "msafi",
-      "start": 30.649333,
-      "end": 31.264333,
-      "sourceIndex": 9
-    },
-    {
-      "text": "3",
-      "start": 32.35125,
-      "end": 32.708791,
+      "text": "sita",
+      "start": 5.377583,
+      "end": 5.806624,
       "sourceIndex": 10
     },
     {
-      "text": "Eleza",
-      "start": 32.909041,
-      "end": 33.380999,
+      "text": "Kujisuuza",
+      "start": 5.83525,
+      "end": 6.607541,
       "sourceIndex": 11
     },
     {
-      "text": "namna",
-      "start": 33.409625,
-      "end": 33.752875,
-      "sourceIndex": 11
+      "text": "kwa",
+      "start": 6.650458,
+      "end": 6.793458,
+      "sourceIndex": 12
     },
     {
-      "text": "utakavyomshauri",
-      "start": 33.79575,
-      "end": 34.911291,
-      "sourceIndex": 11
+      "text": "maji",
+      "start": 6.822083,
+      "end": 7.193916,
+      "sourceIndex": 13
     },
     {
-      "text": "rafiki",
-      "start": 34.939916,
-      "end": 35.411874,
-      "sourceIndex": 11
+      "text": "Kujikausha",
+      "start": 7.236833,
+      "end": 8.009124,
+      "sourceIndex": 14
     },
     {
-      "text": "yako",
-      "start": 35.4405,
-      "end": 35.755125,
-      "sourceIndex": 11
+      "text": "maji",
+      "start": 8.03775,
+      "end": 8.423916,
+      "sourceIndex": 15
     },
     {
-      "text": "asiyependa",
-      "start": 35.798041,
-      "end": 36.556041,
-      "sourceIndex": 11
+      "text": "kwa",
+      "start": 8.466833,
+      "end": 8.624166,
+      "sourceIndex": 16
+    },
+    {
+      "text": "taulo",
+      "start": 8.65275,
+      "end": 9.0675,
+      "sourceIndex": 17
+    },
+    {
+      "text": "Zoezi",
+      "start": 9.096125,
+      "end": 9.582375,
+      "sourceIndex": 18
+    },
+    {
+      "text": "la",
+      "start": 9.611,
+      "end": 9.768333,
+      "sourceIndex": 19
+    },
+    {
+      "text": "tano",
+      "start": 9.811208,
+      "end": 10.283166,
+      "sourceIndex": 20
+    },
+    {
+      "text": "moja",
+      "start": 11.341541,
+      "end": 11.684791,
+      "sourceIndex": 21
+    },
+    {
+      "text": "Ni",
+      "start": 11.870708,
+      "end": 11.970833,
+      "sourceIndex": 22
+    },
+    {
+      "text": "vifaa",
+      "start": 11.999416,
+      "end": 12.457082,
+      "sourceIndex": 23
+    },
+    {
+      "text": "gani",
+      "start": 12.485708,
+      "end": 12.871874,
+      "sourceIndex": 24
+    },
+    {
+      "text": "unavyotumia",
+      "start": 12.900458,
+      "end": 13.801499,
+      "sourceIndex": 25
     },
     {
       "text": "kuoga",
-      "start": 36.598958,
-      "end": 37.156749,
-      "sourceIndex": 12
+      "start": 13.830083,
+      "end": 14.302041,
+      "sourceIndex": 26
+    },
+    {
+      "text": "ukiwa",
+      "start": 14.344958,
+      "end": 14.745416,
+      "sourceIndex": 27
+    },
+    {
+      "text": "nyumbani",
+      "start": 14.774041,
+      "end": 15.403332,
+      "sourceIndex": 28
+    },
+    {
+      "text": "mbili",
+      "start": 16.504583,
+      "end": 16.761999,
+      "sourceIndex": 29
+    },
+    {
+      "text": "Taja",
+      "start": 16.976541,
+      "end": 17.348374,
+      "sourceIndex": 30
+    },
+    {
+      "text": "faida",
+      "start": 17.377,
+      "end": 17.806041,
+      "sourceIndex": 31
+    },
+    {
+      "text": "mbili",
+      "start": 17.834666,
+      "end": 18.134999,
+      "sourceIndex": 32
+    },
+    {
+      "text": "za",
+      "start": 18.163625,
+      "end": 18.349541,
+      "sourceIndex": 33
+    },
+    {
+      "text": "kuwa",
+      "start": 18.378166,
+      "end": 18.635582,
+      "sourceIndex": 34
+    },
+    {
+      "text": "na",
+      "start": 18.664166,
+      "end": 18.749957,
+      "sourceIndex": 35
+    },
+    {
+      "text": "mwili",
+      "start": 18.778583,
+      "end": 19.107541,
+      "sourceIndex": 36
+    },
+    {
+      "text": "msafi",
+      "start": 19.150458,
+      "end": 19.751124,
+      "sourceIndex": 37
+    },
+    {
+      "text": "tatu",
+      "start": 20.823791,
+      "end": 21.167041,
+      "sourceIndex": 38
+    },
+    {
+      "text": "Eleza",
+      "start": 21.367291,
+      "end": 21.839249,
+      "sourceIndex": 39
+    },
+    {
+      "text": "namna",
+      "start": 21.867833,
+      "end": 22.196791,
+      "sourceIndex": 40
+    },
+    {
+      "text": "utakavyomshauri",
+      "start": 22.239708,
+      "end": 23.369583,
+      "sourceIndex": 41
+    },
+    {
+      "text": "rafiki",
+      "start": 23.412458,
+      "end": 23.884416,
+      "sourceIndex": 42
+    },
+    {
+      "text": "yako",
+      "start": 23.913041,
+      "end": 24.227666,
+      "sourceIndex": 43
+    },
+    {
+      "text": "asiyependa",
+      "start": 24.270583,
+      "end": 25.042874,
+      "sourceIndex": 44
+    },
+    {
+      "text": "kuoga",
+      "start": 25.085791,
+      "end": 25.643582,
+      "sourceIndex": 45
     }
-  ]
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
 }

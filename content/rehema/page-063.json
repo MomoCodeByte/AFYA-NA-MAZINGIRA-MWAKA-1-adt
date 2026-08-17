@@ -1,193 +1,73 @@
 {
-  "audio": "page-063-accessible-v16.mp3",
-  "voice": "sw-TZ-RehemaNeural",
-  "version": 16,
+  "audio": "page-063.mp3",
   "words": [
     {
-      "text": "3",
+      "text": "tatu",
       "start": 0.193,
-      "end": 0.521958,
-      "sourceIndex": 1
+      "end": 0.664958,
+      "sourceIndex": 9
     },
     {
-      "text": "Jedwali",
-      "start": 0.7365,
-      "end": 1.294291,
-      "targetImage": true
+      "text": "nne",
+      "start": 1.85925,
+      "end": 2.145291,
+      "sourceIndex": 11
     },
     {
-      "text": "lina",
-      "start": 1.322875,
-      "end": 1.594625,
-      "targetImage": true
+      "text": "sita",
+      "start": 3.289458,
+      "end": 3.832916,
+      "sourceIndex": 12
     },
     {
-      "text": "wanyama",
-      "start": 1.623208,
-      "end": 2.037958,
-      "targetImage": true
-    },
-    {
-      "text": "wa",
-      "start": 2.080875,
-      "end": 2.166666,
-      "targetImage": true
-    },
-    {
-      "text": "kufugwa",
-      "start": 2.195291,
-      "end": 2.724457,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 2.753083,
-      "end": 2.853208,
-      "targetImage": true
-    },
-    {
-      "text": "wanyama",
-      "start": 2.881791,
-      "end": 3.339457,
-      "targetImage": true
-    },
-    {
-      "text": "wa",
-      "start": 3.368083,
-      "end": 3.468208,
-      "targetImage": true
-    },
-    {
-      "text": "porini",
-      "start": 3.496791,
-      "end": 4.097457,
-      "targetImage": true
-    },
-    {
-      "text": "Kuna",
-      "start": 5.163041,
-      "end": 5.263166,
-      "targetImage": true
-    },
-    {
-      "text": "farasi",
-      "start": 5.363291,
-      "end": 5.978291,
-      "targetImage": true
-    },
-    {
-      "text": "pundamilia",
-      "start": 6.092666,
-      "end": 6.936499,
-      "targetImage": true
-    },
-    {
-      "text": "mbwa",
-      "start": 7.093833,
-      "end": 7.479999,
-      "targetImage": true
-    },
-    {
-      "text": "paka",
-      "start": 7.608708,
-      "end": 7.994874,
-      "targetImage": true
-    },
-    {
-      "text": "twiga",
-      "start": 8.195083,
-      "end": 8.667041,
-      "targetImage": true
-    },
-    {
-      "text": "ng'ombe",
-      "start": 8.810083,
-      "end": 9.310666,
-      "targetImage": true
-    },
-    {
-      "text": "kiboko",
-      "start": 9.496583,
-      "end": 10.111583,
-      "targetImage": true
-    },
-    {
-      "text": "na",
-      "start": 10.140166,
-      "end": 10.254582,
-      "targetImage": true
-    },
-    {
-      "text": "wanyama",
-      "start": 10.283166,
-      "end": 10.740832,
-      "targetImage": true
-    },
-    {
-      "text": "wengine",
-      "start": 10.769458,
-      "end": 11.355833,
-      "targetImage": true
-    },
-    {
-      "text": "4",
-      "start": 12.442791,
-      "end": 12.714541,
-      "sourceIndex": 2
-    },
-    {
-      "text": "6",
-      "start": 12.971958,
-      "end": 13.629833,
-      "sourceIndex": 3
-    },
-    {
-      "text": "5",
-      "start": 14.745416,
-      "end": 15.074374,
-      "sourceIndex": 4
+      "text": "tano",
+      "start": 5.020041,
+      "end": 5.291791,
+      "sourceIndex": 12
     },
     {
       "text": "Jadili",
-      "start": 15.303208,
-      "end": 15.803791,
-      "sourceIndex": 5
+      "start": 5.506291,
+      "end": 5.992541,
+      "sourceIndex": 12
     },
     {
       "text": "na",
-      "start": 15.832375,
-      "end": 15.9325,
-      "sourceIndex": 5
+      "start": 6.021166,
+      "end": 6.106957,
+      "sourceIndex": 12
     },
     {
       "text": "wenzako",
-      "start": 15.961083,
-      "end": 16.461666,
-      "sourceIndex": 5
+      "start": 6.135583,
+      "end": 6.650458,
+      "sourceIndex": 12
     },
     {
       "text": "sifa",
-      "start": 16.504583,
-      "end": 16.890749,
-      "sourceIndex": 5
+      "start": 6.693375,
+      "end": 7.079541,
+      "sourceIndex": 12
     },
     {
       "text": "za",
-      "start": 16.919333,
-      "end": 17.062333,
-      "sourceIndex": 5
+      "start": 7.108125,
+      "end": 7.265458,
+      "sourceIndex": 12
     },
     {
       "text": "wanyama",
-      "start": 17.090958,
-      "end": 17.534333,
-      "sourceIndex": 5
+      "start": 7.294041,
+      "end": 7.737416,
+      "sourceIndex": 12
     },
     {
       "text": "wafuatao",
-      "start": 17.57725,
-      "end": 18.392458,
-      "sourceIndex": 5
+      "start": 7.780333,
+      "end": 8.595541,
+      "sourceIndex": 12
     }
-  ]
+  ],
+  "voice": "sw-TZ-RehemaNeural",
+  "version": 7
 }
