@@ -16,6 +16,8 @@
   var recordedAudio = null;
   var recordedEntry = null;
   var recordedCue = 0;
+  var imageCaption;
+  var imageCaptionWords = [];
   var recordedStopAt = null;
   var timingsPromise = null;
 
@@ -153,9 +155,14 @@
     if (cue.targetPatch !== undefined) {
       target = document.querySelectorAll('[data-validator-patch="' + cue.targetPatch + '"] .validator-display-word')[Number(cue.targetWord || 0)];
     } else if (cue.targetImage) {
-      clear();
-      return;
+      if (imageCaption) {
+        imageCaption.hidden = false;
+        var imageIndex = 0;
+        for (var i = 0; i < recordedCue; i += 1) if (cues[i] && cues[i].targetImage) imageIndex += 1;
+        target = imageCaptionWords[imageIndex];
+      }
     } else {
+      if (imageCaption) imageCaption.hidden = true;
       target = words()[Number(cue.sourceIndex || 0)];
     }
     if (!target || target === activeWord) return;
@@ -166,6 +173,21 @@
 
   function playRecorded(entry) {
     recordedEntry = entry;
+    if (imageCaption) imageCaption.remove();
+    imageCaption = document.createElement("div");
+    imageCaption.className = "recorded-image-caption";
+    imageCaption.setAttribute("role", "status");
+    imageCaption.setAttribute("aria-label", "Maelezo ya picha");
+    imageCaption.hidden = true;
+    imageCaptionWords = [];
+    (entry.words || []).forEach(function (cue) {
+      if (!cue.targetImage) return;
+      var word = document.createElement("span");
+      word.textContent = cue.text + " ";
+      imageCaption.appendChild(word);
+      imageCaptionWords.push(word);
+    });
+    document.body.appendChild(imageCaption);
     recordedStopAt = null;
     var footerIndex = (entry.words || []).findIndex(function (cue, index, cues) {
       return /^AFYA$/i.test(cue.text || "") && cues[index + 1] && /^NA$/i.test(cues[index + 1].text || "");
