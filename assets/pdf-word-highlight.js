@@ -10,7 +10,7 @@
   var fallbackTimer = null;
   var currentSegments = [];
   var currentSegment = 0;
-  var currentRate = 1;
+  var currentRate = 0.85;
   var currentVolume = 1;
   var panel = null;
   var recordedAudio = null;
