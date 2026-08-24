@@ -1,4 +1,4 @@
-﻿{
+{
     "title":  "Afya na Mazingira: Kitabu cha Mwanafunzi, Mwaka wa Kwanza",
     "bundleVersion":  "1",
     "languages":  {
@@ -8,7 +8,7 @@
                       "default":  "sw-TZ"
                   },
     "features":  {
-                     "signLanguage":  false,
+                     "signLanguage":  true,
                      "easyRead":  true,
                      "glossary":  false,
                      "eli5":  false,
@@ -44,3 +44,4 @@
                            "reduceMotion"
                        ]
 }
+
