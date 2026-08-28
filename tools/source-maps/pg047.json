@@ -1,0 +1,474 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "41"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "41"
+    },
+    {
+      "index": 2,
+      "left": 22.9782,
+      "top": 9.1497,
+      "width": 7.3244,
+      "height": 2.5012,
+      "text": "Zoezi"
+    },
+    {
+      "index": 3,
+      "left": 31.2757,
+      "top": 9.1497,
+      "width": 2.747,
+      "height": 2.5012,
+      "text": "la"
+    },
+    {
+      "index": 4,
+      "left": 34.9958,
+      "top": 9.1497,
+      "width": 3.1225,
+      "height": 2.5012,
+      "text": "12"
+    },
+    {
+      "index": 5,
+      "left": 15.4501,
+      "top": 12.8528,
+      "width": 5.1507,
+      "height": 2.0842,
+      "text": "Jaza"
+    },
+    {
+      "index": 6,
+      "left": 21.5213,
+      "top": 12.8528,
+      "width": 6.8714,
+      "height": 2.0842,
+      "text": "nafasi"
+    },
+    {
+      "index": 7,
+      "left": 29.3133,
+      "top": 12.8528,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 8,
+      "left": 34.9516,
+      "top": 12.8528,
+      "width": 11.0585,
+      "height": 2.0842,
+      "text": "kuchagua"
+    },
+    {
+      "index": 9,
+      "left": 46.9306,
+      "top": 12.8528,
+      "width": 4.1154,
+      "height": 2.0842,
+      "text": "jibu"
+    },
+    {
+      "index": 10,
+      "left": 51.9666,
+      "top": 12.8528,
+      "width": 7.3962,
+      "height": 2.0842,
+      "text": "sahihi."
+    },
+    {
+      "index": 11,
+      "left": 15.4501,
+      "top": 16.296,
+      "width": 10.3444,
+      "height": 2.0842,
+      "text": "Dodoki,"
+    },
+    {
+      "index": 12,
+      "left": 26.6864,
+      "top": 16.296,
+      "width": 6.7223,
+      "height": 2.0842,
+      "text": "VVU,"
+    },
+    {
+      "index": 13,
+      "left": 34.3006,
+      "top": 16.296,
+      "width": 11.5145,
+      "height": 2.0842,
+      "text": "UKIMWI,"
+    },
+    {
+      "index": 14,
+      "left": 46.707,
+      "top": 16.296,
+      "width": 13.4675,
+      "height": 2.0842,
+      "text": "kusisitiza,"
+    },
+    {
+      "index": 15,
+      "left": 61.0664,
+      "top": 16.296,
+      "width": 8.1353,
+      "height": 2.0842,
+      "text": "glovu,"
+    },
+    {
+      "index": 16,
+      "left": 70.0935,
+      "top": 16.296,
+      "width": 10.4075,
+      "height": 2.0842,
+      "text": "sindano"
+    },
+    {
+      "index": 17,
+      "left": 15.4501,
+      "top": 18.5844,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "1."
+    },
+    {
+      "index": 18,
+      "left": 20.6467,
+      "top": 18.5844,
+      "width": 13.3184,
+      "height": 2.0842,
+      "text": ".................."
+    },
+    {
+      "index": 19,
+      "left": 34.8856,
+      "top": 18.5844,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 20,
+      "left": 37.8854,
+      "top": 18.5844,
+      "width": 5.6669,
+      "height": 2.0842,
+      "text": "kifaa"
+    },
+    {
+      "index": 21,
+      "left": 44.4729,
+      "top": 18.5844,
+      "width": 4.0265,
+      "height": 2.0842,
+      "text": "cha"
+    },
+    {
+      "index": 22,
+      "left": 49.42,
+      "top": 18.5844,
+      "width": 5.4604,
+      "height": 2.0842,
+      "text": "ncha"
+    },
+    {
+      "index": 23,
+      "left": 55.801,
+      "top": 18.5844,
+      "width": 4.7664,
+      "height": 2.0842,
+      "text": "kali."
+    },
+    {
+      "index": 24,
+      "left": 15.4501,
+      "top": 21.6677,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "2."
+    },
+    {
+      "index": 25,
+      "left": 20.6467,
+      "top": 21.6677,
+      "width": 5.8533,
+      "height": 2.0842,
+      "text": "Kifaa"
+    },
+    {
+      "index": 26,
+      "left": 27.4206,
+      "top": 21.6677,
+      "width": 16.6939,
+      "height": 2.0842,
+      "text": "kinachotumika"
+    },
+    {
+      "index": 27,
+      "left": 45.035,
+      "top": 21.6677,
+      "width": 9.5299,
+      "height": 2.0842,
+      "text": "kusugua"
+    },
+    {
+      "index": 28,
+      "left": 55.4855,
+      "top": 21.6677,
+      "width": 6.0512,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 29,
+      "left": 62.4573,
+      "top": 21.6677,
+      "width": 11.4801,
+      "height": 2.0842,
+      "text": "unapooga"
+    },
+    {
+      "index": 30,
+      "left": 74.8579,
+      "top": 21.6677,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 31,
+      "left": 77.8577,
+      "top": 21.6677,
+      "width": 7.3991,
+      "height": 2.0842,
+      "text": ".........."
+    },
+    {
+      "index": 32,
+      "left": 15.4501,
+      "top": 24.751,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "3."
+    },
+    {
+      "index": 33,
+      "left": 20.6467,
+      "top": 24.751,
+      "width": 5.8533,
+      "height": 2.0842,
+      "text": "Kifaa"
+    },
+    {
+      "index": 34,
+      "left": 27.4607,
+      "top": 24.751,
+      "width": 16.2866,
+      "height": 2.0842,
+      "text": "kinachovaliwa"
+    },
+    {
+      "index": 35,
+      "left": 44.7081,
+      "top": 24.751,
+      "width": 9.8024,
+      "height": 2.0842,
+      "text": "mkononi"
+    },
+    {
+      "index": 36,
+      "left": 55.4712,
+      "top": 24.751,
+      "width": 1.9387,
+      "height": 2.0842,
+      "text": "ili"
+    },
+    {
+      "index": 37,
+      "left": 58.3706,
+      "top": 24.751,
+      "width": 10.2182,
+      "height": 2.0842,
+      "text": "kujikinga"
+    },
+    {
+      "index": 38,
+      "left": 69.5495,
+      "top": 24.751,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 39,
+      "left": 73.3838,
+      "top": 24.751,
+      "width": 13.7027,
+      "height": 2.0842,
+      "text": "maambukizi"
+    },
+    {
+      "index": 40,
+      "left": 20.6481,
+      "top": 27.0957,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 41,
+      "left": 24.3993,
+      "top": 27.0957,
+      "width": 4.9901,
+      "height": 2.0842,
+      "text": "VVU"
+    },
+    {
+      "index": 42,
+      "left": 30.3099,
+      "top": 27.0957,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 43,
+      "left": 33.3097,
+      "top": 27.0957,
+      "width": 13.3184,
+      "height": 2.0842,
+      "text": ".................."
+    },
+    {
+      "index": 44,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 45,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 46,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 47,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 48,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 49,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "41"
+    },
+    {
+      "index": 50,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 51,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg047_n0001",
+      "text": "Zoezi la 12"
+    },
+    {
+      "id": "pg047_n0002",
+      "text": "Jaza nafasi kwa kuchagua jibu sahihi."
+    },
+    {
+      "id": "pg047_n0003",
+      "text": "Dodoki, VVU, UKIMWI, kusisitiza, glovu, sindano"
+    },
+    {
+      "id": "pg047_n0004",
+      "text": "1."
+    },
+    {
+      "id": "pg047_n0005",
+      "text": ".................."
+    },
+    {
+      "id": "pg047_n0006",
+      "text": "ni kifaa cha ncha kali."
+    },
+    {
+      "id": "pg047_n0007",
+      "text": "2."
+    },
+    {
+      "id": "pg047_n0008",
+      "text": "Kifaa kinachotumika kusugua mwili unapooga ni .........."
+    },
+    {
+      "id": "pg047_n0009",
+      "text": "3."
+    },
+    {
+      "id": "pg047_n0010",
+      "text": "Kifaa kinachovaliwa mkononi ili kujikinga na maambukizi"
+    },
+    {
+      "id": "pg047_n0011",
+      "text": "ya VVU ni .................."
+    },
+    {
+      "id": "pg047_n0012",
+      "text": "4411"
+    },
+    {
+      "id": "pg047_n0013",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 41 23/07/2021 15:41"
+    }
+  ]
+}

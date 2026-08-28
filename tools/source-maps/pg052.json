@@ -1,0 +1,590 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 47.4776,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "46"
+    },
+    {
+      "index": 1,
+      "left": 12.9096,
+      "top": 9.2216,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "3."
+    },
+    {
+      "index": 2,
+      "left": 18.1062,
+      "top": 9.2216,
+      "width": 10.3358,
+      "height": 2.0842,
+      "text": "Sambaza"
+    },
+    {
+      "index": 3,
+      "left": 29.3626,
+      "top": 9.2216,
+      "width": 7.683,
+      "height": 2.0842,
+      "text": "mbegu"
+    },
+    {
+      "index": 4,
+      "left": 37.9662,
+      "top": 9.2216,
+      "width": 8.6151,
+      "height": 2.0842,
+      "text": "kwenye"
+    },
+    {
+      "index": 5,
+      "left": 47.5019,
+      "top": 9.2216,
+      "width": 7.1209,
+      "height": 2.0842,
+      "text": "kitalu."
+    },
+    {
+      "index": 6,
+      "left": 12.9096,
+      "top": 11.8053,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "4."
+    },
+    {
+      "index": 7,
+      "left": 18.1062,
+      "top": 11.8053,
+      "width": 7.5855,
+      "height": 2.0842,
+      "text": "Funika"
+    },
+    {
+      "index": 8,
+      "left": 26.6123,
+      "top": 11.8053,
+      "width": 6.381,
+      "height": 2.0842,
+      "text": "kitalu"
+    },
+    {
+      "index": 9,
+      "left": 33.9139,
+      "top": 11.8053,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 10,
+      "left": 39.5521,
+      "top": 11.8053,
+      "width": 5.9738,
+      "height": 2.0842,
+      "text": "nyasi"
+    },
+    {
+      "index": 11,
+      "left": 46.4465,
+      "top": 11.8053,
+      "width": 5.4633,
+      "height": 2.0842,
+      "text": "kavu"
+    },
+    {
+      "index": 12,
+      "left": 52.8304,
+      "top": 11.8053,
+      "width": 1.9387,
+      "height": 2.0842,
+      "text": "ili"
+    },
+    {
+      "index": 13,
+      "left": 55.6896,
+      "top": 11.8053,
+      "width": 10.6484,
+      "height": 2.0842,
+      "text": "kuhifadhi"
+    },
+    {
+      "index": 14,
+      "left": 67.2586,
+      "top": 11.8053,
+      "width": 8.985,
+      "height": 2.0842,
+      "text": "unyevu."
+    },
+    {
+      "index": 15,
+      "left": 12.9096,
+      "top": 14.5193,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "5."
+    },
+    {
+      "index": 16,
+      "left": 18.1062,
+      "top": 14.5193,
+      "width": 10.2698,
+      "height": 2.0842,
+      "text": "Mwagilia"
+    },
+    {
+      "index": 17,
+      "left": 29.2966,
+      "top": 14.5193,
+      "width": 4.0265,
+      "height": 2.0842,
+      "text": "kila"
+    },
+    {
+      "index": 18,
+      "left": 34.2437,
+      "top": 14.5193,
+      "width": 4.4366,
+      "height": 2.0842,
+      "text": "siku"
+    },
+    {
+      "index": 19,
+      "left": 39.6009,
+      "top": 14.5193,
+      "width": 4.9958,
+      "height": 2.0842,
+      "text": "hadi"
+    },
+    {
+      "index": 20,
+      "left": 45.5173,
+      "top": 14.5193,
+      "width": 6.6162,
+      "height": 2.0842,
+      "text": "miche"
+    },
+    {
+      "index": 21,
+      "left": 53.054,
+      "top": 14.5193,
+      "width": 8.661,
+      "height": 2.0842,
+      "text": "itokeze."
+    },
+    {
+      "index": 22,
+      "left": 12.9096,
+      "top": 45.3705,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "6."
+    },
+    {
+      "index": 23,
+      "left": 18.1062,
+      "top": 45.3705,
+      "width": 7.6343,
+      "height": 2.0842,
+      "text": "Ondoa"
+    },
+    {
+      "index": 24,
+      "left": 26.6611,
+      "top": 45.3705,
+      "width": 5.9738,
+      "height": 2.0842,
+      "text": "nyasi"
+    },
+    {
+      "index": 25,
+      "left": 33.5554,
+      "top": 45.3705,
+      "width": 6.6162,
+      "height": 2.0842,
+      "text": "miche"
+    },
+    {
+      "index": 26,
+      "left": 41.0922,
+      "top": 45.3705,
+      "width": 10.7832,
+      "height": 2.0842,
+      "text": "ikitokeza."
+    },
+    {
+      "index": 27,
+      "left": 12.9096,
+      "top": 47.7152,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "7."
+    },
+    {
+      "index": 28,
+      "left": 18.1062,
+      "top": 47.7152,
+      "width": 8.2767,
+      "height": 2.0842,
+      "text": "Ruhusu"
+    },
+    {
+      "index": 29,
+      "left": 27.3035,
+      "top": 47.7152,
+      "width": 6.6162,
+      "height": 2.0842,
+      "text": "miche"
+    },
+    {
+      "index": 30,
+      "left": 34.8402,
+      "top": 47.7152,
+      "width": 5.6956,
+      "height": 2.0842,
+      "text": "ipate"
+    },
+    {
+      "index": 31,
+      "left": 41.4564,
+      "top": 47.7152,
+      "width": 6.1114,
+      "height": 2.0842,
+      "text": "hewa"
+    },
+    {
+      "index": 32,
+      "left": 48.4884,
+      "top": 47.7152,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 33,
+      "left": 52.2826,
+      "top": 47.7152,
+      "width": 9.8569,
+      "height": 2.0842,
+      "text": "mwanga"
+    },
+    {
+      "index": 34,
+      "left": 63.06,
+      "top": 47.7152,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 35,
+      "left": 67.4048,
+      "top": 47.7152,
+      "width": 4.2158,
+      "height": 2.0842,
+      "text": "jua."
+    },
+    {
+      "index": 36,
+      "left": 12.9096,
+      "top": 50.06,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "8."
+    },
+    {
+      "index": 37,
+      "left": 18.1062,
+      "top": 50.06,
+      "width": 7.5081,
+      "height": 2.0842,
+      "text": "Andaa"
+    },
+    {
+      "index": 38,
+      "left": 26.5349,
+      "top": 50.06,
+      "width": 10.2698,
+      "height": 2.0842,
+      "text": "mashimo"
+    },
+    {
+      "index": 39,
+      "left": 37.7253,
+      "top": 50.06,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 40,
+      "left": 41.4765,
+      "top": 50.06,
+      "width": 9.9544,
+      "height": 2.0842,
+      "text": "kupanda"
+    },
+    {
+      "index": 41,
+      "left": 52.3514,
+      "top": 50.06,
+      "width": 7.3561,
+      "height": 2.0842,
+      "text": "miche."
+    },
+    {
+      "index": 42,
+      "left": 12.9096,
+      "top": 52.4048,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "9."
+    },
+    {
+      "index": 43,
+      "left": 18.1062,
+      "top": 52.4048,
+      "width": 6.3925,
+      "height": 2.0842,
+      "text": "Weka"
+    },
+    {
+      "index": 44,
+      "left": 25.4193,
+      "top": 52.4048,
+      "width": 8.3398,
+      "height": 2.0842,
+      "text": "mbolea"
+    },
+    {
+      "index": 45,
+      "left": 34.6796,
+      "top": 52.4048,
+      "width": 8.6151,
+      "height": 2.0842,
+      "text": "kwenye"
+    },
+    {
+      "index": 46,
+      "left": 44.2153,
+      "top": 52.4048,
+      "width": 10.2698,
+      "height": 2.0842,
+      "text": "mashimo"
+    },
+    {
+      "index": 47,
+      "left": 55.4057,
+      "top": 52.4048,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 48,
+      "left": 59.1999,
+      "top": 52.4048,
+      "width": 10.3616,
+      "height": 2.0842,
+      "text": "mwagilia"
+    },
+    {
+      "index": 49,
+      "left": 70.4821,
+      "top": 52.4048,
+      "width": 5.5551,
+      "height": 2.0842,
+      "text": "maji."
+    },
+    {
+      "index": 50,
+      "left": 12.9096,
+      "top": 54.7495,
+      "width": 3.602,
+      "height": 2.0842,
+      "text": "10."
+    },
+    {
+      "index": 51,
+      "left": 18.1062,
+      "top": 54.7495,
+      "width": 7.27,
+      "height": 2.0842,
+      "text": "Panda"
+    },
+    {
+      "index": 52,
+      "left": 26.2968,
+      "top": 54.7495,
+      "width": 6.6162,
+      "height": 2.0842,
+      "text": "miche"
+    },
+    {
+      "index": 53,
+      "left": 33.8336,
+      "top": 54.7495,
+      "width": 8.6151,
+      "height": 2.0842,
+      "text": "kwenye"
+    },
+    {
+      "index": 54,
+      "left": 43.3693,
+      "top": 54.7495,
+      "width": 10.2698,
+      "height": 2.0842,
+      "text": "mashimo"
+    },
+    {
+      "index": 55,
+      "left": 54.5597,
+      "top": 54.7495,
+      "width": 18.1995,
+      "height": 2.0842,
+      "text": "yaliyoandaliwa."
+    },
+    {
+      "index": 56,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 57,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 58,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 59,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 60,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 61,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "46"
+    },
+    {
+      "index": 62,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 63,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg052_n0001",
+      "text": "3."
+    },
+    {
+      "id": "pg052_n0002",
+      "text": "Sambaza mbegu kwenye kitalu."
+    },
+    {
+      "id": "pg052_n0003",
+      "text": "4."
+    },
+    {
+      "id": "pg052_n0004",
+      "text": "Funika kitalu kwa nyasi kavu ili kuhifadhi unyevu."
+    },
+    {
+      "id": "pg052_n0005",
+      "text": "5."
+    },
+    {
+      "id": "pg052_n0006",
+      "text": "Mwagilia kila siku hadi miche itokeze."
+    },
+    {
+      "id": "pg052_n0007",
+      "text": "6."
+    },
+    {
+      "id": "pg052_n0008",
+      "text": "Ondoa nyasi miche ikitokeza."
+    },
+    {
+      "id": "pg052_n0009",
+      "text": "7."
+    },
+    {
+      "id": "pg052_n0010",
+      "text": "Ruhusu miche ipate hewa na mwanga wa jua."
+    },
+    {
+      "id": "pg052_n0011",
+      "text": "8."
+    },
+    {
+      "id": "pg052_n0012",
+      "text": "Andaa mashimo ya kupanda miche."
+    },
+    {
+      "id": "pg052_n0013",
+      "text": "9."
+    },
+    {
+      "id": "pg052_n0014",
+      "text": "Weka mbolea kwenye mashimo na mwagilia maji."
+    },
+    {
+      "id": "pg052_n0015",
+      "text": "10."
+    },
+    {
+      "id": "pg052_n0016",
+      "text": "Panda miche kwenye mashimo yaliyoandaliwa."
+    },
+    {
+      "id": "pg052_n0017",
+      "text": "46"
+    },
+    {
+      "id": "pg052_n0018",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 46 23/07/2021 15:41"
+    }
+  ]
+}

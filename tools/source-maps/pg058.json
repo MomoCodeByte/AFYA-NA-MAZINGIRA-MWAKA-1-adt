@@ -1,0 +1,654 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 47.4776,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "52"
+    },
+    {
+      "index": 1,
+      "left": 12.9096,
+      "top": 9.2778,
+      "width": 12.2544,
+      "height": 2.0842,
+      "text": "Matumizi"
+    },
+    {
+      "index": 2,
+      "left": 25.838,
+      "top": 9.2778,
+      "width": 3.2292,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 3,
+      "left": 29.7412,
+      "top": 9.2778,
+      "width": 8.2422,
+      "height": 2.0842,
+      "text": "alama"
+    },
+    {
+      "index": 4,
+      "left": 38.6574,
+      "top": 9.2778,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 5,
+      "left": 42.2192,
+      "top": 9.2778,
+      "width": 12.9025,
+      "height": 2.0842,
+      "text": "tahadhari"
+    },
+    {
+      "index": 6,
+      "left": 55.7957,
+      "top": 9.2778,
+      "width": 8.6036,
+      "height": 2.0842,
+      "text": "katika"
+    },
+    {
+      "index": 7,
+      "left": 65.0733,
+      "top": 9.2778,
+      "width": 13.0485,
+      "height": 2.0842,
+      "text": "mazingira"
+    },
+    {
+      "index": 8,
+      "left": 78.7957,
+      "top": 9.2778,
+      "width": 5.7501,
+      "height": 2.0842,
+      "text": "yetu"
+    },
+    {
+      "index": 9,
+      "left": 12.9096,
+      "top": 12.3048,
+      "width": 7.3704,
+      "height": 2.0842,
+      "text": "Alama"
+    },
+    {
+      "index": 10,
+      "left": 21.0859,
+      "top": 12.3048,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 11,
+      "left": 24.4471,
+      "top": 12.3048,
+      "width": 11.199,
+      "height": 2.0842,
+      "text": "tahadhari"
+    },
+    {
+      "index": 12,
+      "left": 36.452,
+      "top": 12.3048,
+      "width": 10.7258,
+      "height": 2.0842,
+      "text": "hutumika"
+    },
+    {
+      "index": 13,
+      "left": 47.9837,
+      "top": 12.3048,
+      "width": 9.1657,
+      "height": 2.0842,
+      "text": "kuonya,"
+    },
+    {
+      "index": 14,
+      "left": 57.9552,
+      "top": 12.3048,
+      "width": 10.3759,
+      "height": 2.0842,
+      "text": "kukataza"
+    },
+    {
+      "index": 15,
+      "left": 69.137,
+      "top": 12.3048,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 16,
+      "left": 72.8165,
+      "top": 12.3048,
+      "width": 11.7324,
+      "height": 2.0842,
+      "text": "kuelekeza."
+    },
+    {
+      "index": 17,
+      "left": 12.9096,
+      "top": 14.6496,
+      "width": 8.7527,
+      "height": 2.0842,
+      "text": "Vilevile,"
+    },
+    {
+      "index": 18,
+      "left": 23.842,
+      "top": 14.6496,
+      "width": 15.4492,
+      "height": 2.0842,
+      "text": "hutambulisha"
+    },
+    {
+      "index": 19,
+      "left": 41.4707,
+      "top": 14.6496,
+      "width": 6.8485,
+      "height": 2.0842,
+      "text": "hatari"
+    },
+    {
+      "index": 20,
+      "left": 50.4988,
+      "top": 14.6496,
+      "width": 12.1397,
+      "height": 2.0842,
+      "text": "inayoweza"
+    },
+    {
+      "index": 21,
+      "left": 64.818,
+      "top": 14.6496,
+      "width": 9.0711,
+      "height": 2.0842,
+      "text": "kutokea"
+    },
+    {
+      "index": 22,
+      "left": 76.0687,
+      "top": 14.6496,
+      "width": 8.4774,
+      "height": 2.0842,
+      "text": "endapo"
+    },
+    {
+      "index": 23,
+      "left": 12.9096,
+      "top": 16.9944,
+      "width": 11.3023,
+      "height": 2.0842,
+      "text": "hutofuata"
+    },
+    {
+      "index": 24,
+      "left": 26.3146,
+      "top": 16.9944,
+      "width": 12.567,
+      "height": 2.0842,
+      "text": "maelekezo."
+    },
+    {
+      "index": 25,
+      "left": 40.9841,
+      "top": 16.9944,
+      "width": 10.6226,
+      "height": 2.0842,
+      "text": "Zifuatazo"
+    },
+    {
+      "index": 26,
+      "left": 53.7094,
+      "top": 16.9944,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 27,
+      "left": 57.8913,
+      "top": 16.9944,
+      "width": 7.8694,
+      "height": 2.0842,
+      "text": "baadhi"
+    },
+    {
+      "index": 28,
+      "left": 67.8634,
+      "top": 16.9944,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 29,
+      "left": 72.7967,
+      "top": 16.9944,
+      "width": 7.0951,
+      "height": 2.0842,
+      "text": "alama"
+    },
+    {
+      "index": 30,
+      "left": 81.9945,
+      "top": 16.9944,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 31,
+      "left": 12.9096,
+      "top": 19.3391,
+      "width": 11.9389,
+      "height": 2.0842,
+      "text": "tahadhari."
+    },
+    {
+      "index": 32,
+      "left": 16.4151,
+      "top": 33.6203,
+      "width": 7.9472,
+      "height": 2.2829,
+      "text": "Alama"
+    },
+    {
+      "index": 33,
+      "left": 25.3078,
+      "top": 33.6203,
+      "width": 3.0689,
+      "height": 2.2829,
+      "text": "ya"
+    },
+    {
+      "index": 34,
+      "left": 29.3223,
+      "top": 33.6203,
+      "width": 6.386,
+      "height": 2.2829,
+      "text": "moto"
+    },
+    {
+      "index": 35,
+      "left": 49.4764,
+      "top": 33.6203,
+      "width": 7.7214,
+      "height": 2.2829,
+      "text": "Alama"
+    },
+    {
+      "index": 36,
+      "left": 57.8849,
+      "top": 33.6203,
+      "width": 2.9918,
+      "height": 2.2829,
+      "text": "ya"
+    },
+    {
+      "index": 37,
+      "left": 61.5638,
+      "top": 33.6203,
+      "width": 8.6149,
+      "height": 2.2829,
+      "text": "umeme"
+    },
+    {
+      "index": 38,
+      "left": 70.8659,
+      "top": 33.6203,
+      "width": 10.1894,
+      "height": 2.2829,
+      "text": "mkubwa"
+    },
+    {
+      "index": 39,
+      "left": 14.2494,
+      "top": 49.4433,
+      "width": 8.2539,
+      "height": 2.371,
+      "text": "Alama"
+    },
+    {
+      "index": 40,
+      "left": 23.4853,
+      "top": 49.4433,
+      "width": 3.1874,
+      "height": 2.371,
+      "text": "ya"
+    },
+    {
+      "index": 41,
+      "left": 27.6546,
+      "top": 49.4433,
+      "width": 7.6275,
+      "height": 2.371,
+      "text": "hatari"
+    },
+    {
+      "index": 42,
+      "left": 49.0246,
+      "top": 49.5971,
+      "width": 7.8164,
+      "height": 2.371,
+      "text": "Alama"
+    },
+    {
+      "index": 43,
+      "left": 57.3885,
+      "top": 49.5971,
+      "width": 3.0443,
+      "height": 2.371,
+      "text": "ya"
+    },
+    {
+      "index": 44,
+      "left": 60.9805,
+      "top": 49.5971,
+      "width": 5.636,
+      "height": 2.371,
+      "text": "usafi"
+    },
+    {
+      "index": 45,
+      "left": 67.164,
+      "top": 49.5971,
+      "width": 3.6993,
+      "height": 2.371,
+      "text": "wa"
+    },
+    {
+      "index": 46,
+      "left": 71.4108,
+      "top": 49.5971,
+      "width": 11.7815,
+      "height": 2.371,
+      "text": "mazingira"
+    },
+    {
+      "index": 47,
+      "left": 15.6978,
+      "top": 65.4947,
+      "width": 7.7266,
+      "height": 2.2195,
+      "text": "Alama"
+    },
+    {
+      "index": 48,
+      "left": 24.3437,
+      "top": 65.4947,
+      "width": 2.9838,
+      "height": 2.2195,
+      "text": "ya"
+    },
+    {
+      "index": 49,
+      "left": 28.2468,
+      "top": 65.4947,
+      "width": 7.7236,
+      "height": 2.2195,
+      "text": "kivuko"
+    },
+    {
+      "index": 50,
+      "left": 36.8896,
+      "top": 65.4947,
+      "width": 4.2267,
+      "height": 2.2195,
+      "text": "cha"
+    },
+    {
+      "index": 51,
+      "left": 15.6978,
+      "top": 67.4368,
+      "width": 9.4674,
+      "height": 2.2195,
+      "text": "waenda"
+    },
+    {
+      "index": 52,
+      "left": 26.0845,
+      "top": 67.4368,
+      "width": 4.9628,
+      "height": 2.2195,
+      "text": "kwa"
+    },
+    {
+      "index": 53,
+      "left": 31.9665,
+      "top": 67.4368,
+      "width": 7.409,
+      "height": 2.2195,
+      "text": "miguu"
+    },
+    {
+      "index": 54,
+      "left": 57.4328,
+      "top": 65.4947,
+      "width": 7.7266,
+      "height": 2.2195,
+      "text": "Alama"
+    },
+    {
+      "index": 55,
+      "left": 66.0787,
+      "top": 65.4947,
+      "width": 2.9838,
+      "height": 2.2195,
+      "text": "ya"
+    },
+    {
+      "index": 56,
+      "left": 69.9817,
+      "top": 65.4947,
+      "width": 9.4186,
+      "height": 2.2195,
+      "text": "mlipuko"
+    },
+    {
+      "index": 57,
+      "left": 14.6096,
+      "top": 85.2616,
+      "width": 7.719,
+      "height": 2.2173,
+      "text": "Alama"
+    },
+    {
+      "index": 58,
+      "left": 23.1218,
+      "top": 85.2616,
+      "width": 2.9808,
+      "height": 2.2173,
+      "text": "ya"
+    },
+    {
+      "index": 59,
+      "left": 26.8959,
+      "top": 85.2616,
+      "width": 8.2437,
+      "height": 2.2173,
+      "text": "hifadhi"
+    },
+    {
+      "index": 60,
+      "left": 35.9329,
+      "top": 85.2616,
+      "width": 2.9808,
+      "height": 2.2173,
+      "text": "ya"
+    },
+    {
+      "index": 61,
+      "left": 20.866,
+      "top": 87.2017,
+      "width": 11.792,
+      "height": 2.2173,
+      "text": "wanyama"
+    },
+    {
+      "index": 62,
+      "left": 55.5538,
+      "top": 85.2616,
+      "width": 7.3958,
+      "height": 2.2173,
+      "text": "Alama"
+    },
+    {
+      "index": 63,
+      "left": 63.5931,
+      "top": 85.2616,
+      "width": 2.8706,
+      "height": 2.2173,
+      "text": "ya"
+    },
+    {
+      "index": 64,
+      "left": 67.1071,
+      "top": 85.2616,
+      "width": 3.4725,
+      "height": 2.2173,
+      "text": "reli"
+    },
+    {
+      "index": 65,
+      "left": 71.2232,
+      "top": 85.2616,
+      "width": 11.6453,
+      "height": 2.2173,
+      "text": "inakatisha"
+    },
+    {
+      "index": 66,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 67,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 68,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 69,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 70,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 71,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "52"
+    },
+    {
+      "index": 72,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 73,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:42"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg058_n0001",
+      "text": "Matumizi ya alama za tahadhari katika mazingira yetu"
+    },
+    {
+      "id": "pg058_n0002",
+      "text": "Alama za tahadhari hutumika kuonya, kukataza na kuelekeza."
+    },
+    {
+      "id": "pg058_n0003",
+      "text": "Vilevile, hutambulisha hatari inayoweza kutokea endapo"
+    },
+    {
+      "id": "pg058_n0004",
+      "text": "hutofuata maelekezo."
+    },
+    {
+      "id": "pg058_n0005",
+      "text": "Zifuatazo ni baadhi ya alama za"
+    },
+    {
+      "id": "pg058_n0006",
+      "text": "tahadhari."
+    },
+    {
+      "id": "pg058_n0007",
+      "text": "Alama ya moto Alama ya umeme mkubwa"
+    },
+    {
+      "id": "pg058_n0008",
+      "text": "Alama ya hatari Alama ya usafi wa mazingira"
+    },
+    {
+      "id": "pg058_n0009",
+      "text": "Alama ya kivuko cha Alama ya mlipuko"
+    },
+    {
+      "id": "pg058_n0010",
+      "text": "waenda kwa miguu"
+    },
+    {
+      "id": "pg058_n0011",
+      "text": "Alama ya hifadhi ya Alama ya reli inakatisha"
+    },
+    {
+      "id": "pg058_n0012",
+      "text": "wanyama"
+    },
+    {
+      "id": "pg058_n0013",
+      "text": "52"
+    },
+    {
+      "id": "pg058_n0014",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 52 23/07/2021 15:42"
+    }
+  ]
+}

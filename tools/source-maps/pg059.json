@@ -1,0 +1,530 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "53"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "53"
+    },
+    {
+      "index": 2,
+      "left": 59.9792,
+      "top": 22.6119,
+      "width": 7.4138,
+      "height": 2.1492,
+      "text": "Alama"
+    },
+    {
+      "index": 3,
+      "left": 68.0764,
+      "top": 22.6119,
+      "width": 2.8662,
+      "height": 2.1492,
+      "text": "ya"
+    },
+    {
+      "index": 4,
+      "left": 71.6261,
+      "top": 22.6119,
+      "width": 11.9085,
+      "height": 2.1492,
+      "text": "watembea"
+    },
+    {
+      "index": 5,
+      "left": 65.3234,
+      "top": 24.4924,
+      "width": 4.8056,
+      "height": 2.1492,
+      "text": "kwa"
+    },
+    {
+      "index": 6,
+      "left": 71.0191,
+      "top": 24.4924,
+      "width": 7.1744,
+      "height": 2.1492,
+      "text": "miguu"
+    },
+    {
+      "index": 7,
+      "left": 19.0029,
+      "top": 22.6119,
+      "width": 7.9123,
+      "height": 2.1492,
+      "text": "Alama"
+    },
+    {
+      "index": 8,
+      "left": 28.4915,
+      "top": 22.6119,
+      "width": 3.0277,
+      "height": 2.1492,
+      "text": "ya"
+    },
+    {
+      "index": 9,
+      "left": 33.0955,
+      "top": 22.6119,
+      "width": 4.0786,
+      "height": 2.1492,
+      "text": "taa"
+    },
+    {
+      "index": 10,
+      "left": 38.7501,
+      "top": 22.6119,
+      "width": 2.7353,
+      "height": 2.1492,
+      "text": "za"
+    },
+    {
+      "index": 11,
+      "left": 23.8492,
+      "top": 24.7026,
+      "width": 12.7785,
+      "height": 2.1492,
+      "text": "barabarani"
+    },
+    {
+      "index": 12,
+      "left": 15.5916,
+      "top": 42.0209,
+      "width": 7.4819,
+      "height": 2.1492,
+      "text": "Alama"
+    },
+    {
+      "index": 13,
+      "left": 23.9637,
+      "top": 42.0209,
+      "width": 2.8893,
+      "height": 2.1492,
+      "text": "ya"
+    },
+    {
+      "index": 14,
+      "left": 27.7431,
+      "top": 42.0209,
+      "width": 7.479,
+      "height": 2.1492,
+      "text": "kivuko"
+    },
+    {
+      "index": 15,
+      "left": 36.1122,
+      "top": 42.0209,
+      "width": 4.0929,
+      "height": 2.1492,
+      "text": "cha"
+    },
+    {
+      "index": 16,
+      "left": 21.4511,
+      "top": 44.0955,
+      "width": 3.5014,
+      "height": 2.1492,
+      "text": "wa"
+    },
+    {
+      "index": 17,
+      "left": 25.8426,
+      "top": 43.9263,
+      "width": 8.5027,
+      "height": 2.371,
+      "text": "nafunzi"
+    },
+    {
+      "index": 18,
+      "left": 61.5526,
+      "top": 41.2824,
+      "width": 7.4819,
+      "height": 2.1492,
+      "text": "Alama"
+    },
+    {
+      "index": 19,
+      "left": 69.9246,
+      "top": 41.2824,
+      "width": 2.8893,
+      "height": 2.1492,
+      "text": "ya"
+    },
+    {
+      "index": 20,
+      "left": 73.7041,
+      "top": 41.2824,
+      "width": 4.1609,
+      "height": 2.1492,
+      "text": "njia"
+    },
+    {
+      "index": 21,
+      "left": 78.7551,
+      "top": 41.2824,
+      "width": 2.8893,
+      "height": 2.1492,
+      "text": "ya"
+    },
+    {
+      "index": 22,
+      "left": 61.5526,
+      "top": 43.6271,
+      "width": 12.947,
+      "height": 2.1492,
+      "text": "waendesha"
+    },
+    {
+      "index": 23,
+      "left": 75.3897,
+      "top": 43.6271,
+      "width": 8.4815,
+      "height": 2.1492,
+      "text": "baiskeli"
+    },
+    {
+      "index": 24,
+      "left": 15.4501,
+      "top": 49.6188,
+      "width": 5.6095,
+      "height": 2.0842,
+      "text": "Jibu"
+    },
+    {
+      "index": 25,
+      "left": 21.9515,
+      "top": 49.6188,
+      "width": 11.0955,
+      "height": 2.0842,
+      "text": "maswali"
+    },
+    {
+      "index": 26,
+      "left": 33.9389,
+      "top": 49.6188,
+      "width": 13.5303,
+      "height": 2.0842,
+      "text": "yafuatayo"
+    },
+    {
+      "index": 27,
+      "left": 15.4501,
+      "top": 52.2765,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "1."
+    },
+    {
+      "index": 28,
+      "left": 20.6466,
+      "top": 52.2765,
+      "width": 4.8668,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 29,
+      "left": 27.6328,
+      "top": 52.2765,
+      "width": 7.0951,
+      "height": 2.0842,
+      "text": "alama"
+    },
+    {
+      "index": 30,
+      "left": 36.8472,
+      "top": 52.2765,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 31,
+      "left": 41.5218,
+      "top": 52.2765,
+      "width": 11.199,
+      "height": 2.0842,
+      "text": "tahadhari"
+    },
+    {
+      "index": 32,
+      "left": 54.8402,
+      "top": 52.2765,
+      "width": 17.2301,
+      "height": 2.0842,
+      "text": "zinazopatikana"
+    },
+    {
+      "index": 33,
+      "left": 74.1897,
+      "top": 52.2765,
+      "width": 7.9124,
+      "height": 2.0842,
+      "text": "shuleni"
+    },
+    {
+      "index": 34,
+      "left": 84.2215,
+      "top": 52.2765,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "au"
+    },
+    {
+      "index": 35,
+      "left": 20.6481,
+      "top": 54.6213,
+      "width": 12.0795,
+      "height": 2.0842,
+      "text": "nyumbani."
+    },
+    {
+      "index": 36,
+      "left": 15.4501,
+      "top": 58.0738,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "2."
+    },
+    {
+      "index": 37,
+      "left": 20.6466,
+      "top": 58.0738,
+      "width": 2.4463,
+      "height": 2.0842,
+      "text": "Ni"
+    },
+    {
+      "index": 38,
+      "left": 24.0135,
+      "top": 58.0738,
+      "width": 7.0951,
+      "height": 2.0842,
+      "text": "alama"
+    },
+    {
+      "index": 39,
+      "left": 32.0292,
+      "top": 58.0738,
+      "width": 4.9499,
+      "height": 2.0842,
+      "text": "gani"
+    },
+    {
+      "index": 40,
+      "left": 37.8997,
+      "top": 58.0738,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 41,
+      "left": 41.3756,
+      "top": 58.0738,
+      "width": 11.199,
+      "height": 2.0842,
+      "text": "tahadhari"
+    },
+    {
+      "index": 42,
+      "left": 53.4952,
+      "top": 58.0738,
+      "width": 15.0448,
+      "height": 2.0842,
+      "text": "zinazotumika"
+    },
+    {
+      "index": 43,
+      "left": 69.4606,
+      "top": 58.0738,
+      "width": 13.7141,
+      "height": 2.0842,
+      "text": "barabarani?"
+    },
+    {
+      "index": 44,
+      "left": 15.4501,
+      "top": 61.5263,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "3."
+    },
+    {
+      "index": 45,
+      "left": 20.6466,
+      "top": 61.5263,
+      "width": 7.3704,
+      "height": 2.0842,
+      "text": "Alama"
+    },
+    {
+      "index": 46,
+      "left": 28.9376,
+      "top": 61.5263,
+      "width": 9.5529,
+      "height": 2.0842,
+      "text": "ifuatayo"
+    },
+    {
+      "index": 47,
+      "left": 39.4111,
+      "top": 61.5263,
+      "width": 9.1198,
+      "height": 2.0842,
+      "text": "inakupa"
+    },
+    {
+      "index": 48,
+      "left": 49.4515,
+      "top": 61.5263,
+      "width": 11.199,
+      "height": 2.0842,
+      "text": "tahadhari"
+    },
+    {
+      "index": 49,
+      "left": 61.5711,
+      "top": 61.5263,
+      "width": 6.0139,
+      "height": 2.0842,
+      "text": "gani?"
+    },
+    {
+      "index": 50,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 51,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 52,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 53,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 54,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 55,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "53"
+    },
+    {
+      "index": 56,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 57,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:42"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg059_n0001",
+      "text": "Alama ya taa za Alama ya watembea"
+    },
+    {
+      "id": "pg059_n0002",
+      "text": "barabarani kwa miguu"
+    },
+    {
+      "id": "pg059_n0003",
+      "text": "Alama ya njia ya"
+    },
+    {
+      "id": "pg059_n0004",
+      "text": "Alama ya kivuko cha"
+    },
+    {
+      "id": "pg059_n0005",
+      "text": "wa nafunzi waendesha baiskeli"
+    },
+    {
+      "id": "pg059_n0006",
+      "text": "Jibu maswali yafuatayo"
+    },
+    {
+      "id": "pg059_n0007",
+      "text": "1."
+    },
+    {
+      "id": "pg059_n0008",
+      "text": "Taja alama za tahadhari zinazopatikana shuleni au"
+    },
+    {
+      "id": "pg059_n0009",
+      "text": "nyumbani."
+    },
+    {
+      "id": "pg059_n0010",
+      "text": "2."
+    },
+    {
+      "id": "pg059_n0011",
+      "text": "Ni alama gani za tahadhari zinazotumika barabarani?"
+    },
+    {
+      "id": "pg059_n0012",
+      "text": "3."
+    },
+    {
+      "id": "pg059_n0013",
+      "text": "Alama ifuatayo inakupa tahadhari gani?"
+    },
+    {
+      "id": "pg059_n0014",
+      "text": "5533"
+    },
+    {
+      "id": "pg059_n0015",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 53 23/07/2021 15:42"
+    }
+  ]
+}

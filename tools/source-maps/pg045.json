@@ -1,0 +1,1230 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "39"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "39"
+    },
+    {
+      "index": 2,
+      "left": 15.4501,
+      "top": 9.9117,
+      "width": 5.4088,
+      "height": 2.0842,
+      "text": "Njia"
+    },
+    {
+      "index": 3,
+      "left": 21.7508,
+      "top": 9.9117,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 4,
+      "left": 25.5306,
+      "top": 9.9117,
+      "width": 12.5096,
+      "height": 2.0842,
+      "text": "kujikinga"
+    },
+    {
+      "index": 5,
+      "left": 38.9322,
+      "top": 9.9117,
+      "width": 3.2837,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 6,
+      "left": 43.1078,
+      "top": 9.9117,
+      "width": 7.6538,
+      "height": 2.0842,
+      "text": "Virusi"
+    },
+    {
+      "index": 7,
+      "left": 51.6535,
+      "top": 9.9117,
+      "width": 4.7234,
+      "height": 2.0842,
+      "text": "vya"
+    },
+    {
+      "index": 8,
+      "left": 57.2687,
+      "top": 9.9117,
+      "width": 10.6226,
+      "height": 2.0842,
+      "text": "UKIMWI"
+    },
+    {
+      "index": 9,
+      "left": 68.7832,
+      "top": 9.9117,
+      "width": 7.901,
+      "height": 2.0842,
+      "text": "(VVU)"
+    },
+    {
+      "index": 10,
+      "left": 15.4501,
+      "top": 12.2002,
+      "width": 9.0625,
+      "height": 2.0842,
+      "text": "UKIMWI"
+    },
+    {
+      "index": 11,
+      "left": 25.4331,
+      "top": 12.2002,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 12,
+      "left": 28.4329,
+      "top": 12.2002,
+      "width": 6.3007,
+      "height": 2.0842,
+      "text": "kifupi"
+    },
+    {
+      "index": 13,
+      "left": 35.6542,
+      "top": 12.2002,
+      "width": 4.0265,
+      "height": 2.0842,
+      "text": "cha"
+    },
+    {
+      "index": 14,
+      "left": 40.6013,
+      "top": 12.2002,
+      "width": 11.2048,
+      "height": 2.0842,
+      "text": "Upungufu"
+    },
+    {
+      "index": 15,
+      "left": 52.7266,
+      "top": 12.2002,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 16,
+      "left": 57.0714,
+      "top": 12.2002,
+      "width": 6.4298,
+      "height": 2.0842,
+      "text": "Kinga"
+    },
+    {
+      "index": 17,
+      "left": 64.4218,
+      "top": 12.2002,
+      "width": 8.7785,
+      "height": 2.0842,
+      "text": "Mwilini."
+    },
+    {
+      "index": 18,
+      "left": 15.4501,
+      "top": 14.545,
+      "width": 4.9901,
+      "height": 2.0842,
+      "text": "VVU"
+    },
+    {
+      "index": 19,
+      "left": 21.3607,
+      "top": 14.545,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 20,
+      "left": 24.3605,
+      "top": 14.545,
+      "width": 6.3007,
+      "height": 2.0842,
+      "text": "kifupi"
+    },
+    {
+      "index": 21,
+      "left": 31.5818,
+      "top": 14.545,
+      "width": 4.0265,
+      "height": 2.0842,
+      "text": "cha"
+    },
+    {
+      "index": 22,
+      "left": 36.5289,
+      "top": 14.545,
+      "width": 6.3781,
+      "height": 2.0842,
+      "text": "Virusi"
+    },
+    {
+      "index": 23,
+      "left": 43.8276,
+      "top": 14.545,
+      "width": 4.1269,
+      "height": 2.0842,
+      "text": "vya"
+    },
+    {
+      "index": 24,
+      "left": 48.8751,
+      "top": 14.545,
+      "width": 9.8024,
+      "height": 2.0842,
+      "text": "UKIMWI."
+    },
+    {
+      "index": 25,
+      "left": 15.4501,
+      "top": 17.6282,
+      "width": 5.991,
+      "height": 2.0842,
+      "text": "Vifaa"
+    },
+    {
+      "index": 26,
+      "left": 22.3616,
+      "top": 17.6282,
+      "width": 17.9127,
+      "height": 2.0842,
+      "text": "vinavyochangia"
+    },
+    {
+      "index": 27,
+      "left": 41.1949,
+      "top": 17.6282,
+      "width": 13.7027,
+      "height": 2.0842,
+      "text": "maambukizi"
+    },
+    {
+      "index": 28,
+      "left": 55.8182,
+      "top": 17.6282,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 29,
+      "left": 59.5693,
+      "top": 17.6282,
+      "width": 4.9901,
+      "height": 2.0842,
+      "text": "VVU"
+    },
+    {
+      "index": 30,
+      "left": 20.3913,
+      "top": 31.2287,
+      "width": 7.5242,
+      "height": 1.949,
+      "text": "wembe"
+    },
+    {
+      "index": 31,
+      "left": 40.0309,
+      "top": 31.2287,
+      "width": 8.1096,
+      "height": 1.949,
+      "text": "mswaki"
+    },
+    {
+      "index": 32,
+      "left": 23.93,
+      "top": 54.9878,
+      "width": 7.9066,
+      "height": 1.949,
+      "text": "chanuo"
+    },
+    {
+      "index": 33,
+      "left": 41.8363,
+      "top": 54.3752,
+      "width": 6.81,
+      "height": 1.949,
+      "text": "kitana"
+    },
+    {
+      "index": 34,
+      "left": 53.9784,
+      "top": 56.4231,
+      "width": 8.4779,
+      "height": 1.949,
+      "text": "sindano"
+    },
+    {
+      "index": 35,
+      "left": 76.6596,
+      "top": 56.0131,
+      "width": 3.9675,
+      "height": 1.949,
+      "text": "pini"
+    },
+    {
+      "index": 36,
+      "left": 57.541,
+      "top": 31.3624,
+      "width": 8.1197,
+      "height": 1.949,
+      "text": "sindano"
+    },
+    {
+      "index": 37,
+      "left": 66.2803,
+      "top": 31.3624,
+      "width": 2.5356,
+      "height": 1.949,
+      "text": "ya"
+    },
+    {
+      "index": 38,
+      "left": 69.4355,
+      "top": 31.3624,
+      "width": 8.2435,
+      "height": 1.949,
+      "text": "kutogea"
+    },
+    {
+      "index": 39,
+      "left": 78.2986,
+      "top": 31.3624,
+      "width": 7.9139,
+      "height": 1.949,
+      "text": "masikio"
+    },
+    {
+      "index": 40,
+      "left": 57.541,
+      "top": 33.3114,
+      "width": 2.7084,
+      "height": 1.949,
+      "text": "au"
+    },
+    {
+      "index": 41,
+      "left": 61.1102,
+      "top": 33.3114,
+      "width": 10.201,
+      "height": 1.949,
+      "text": "kushonea"
+    },
+    {
+      "index": 42,
+      "left": 72.1721,
+      "top": 33.3114,
+      "width": 5.3924,
+      "height": 1.949,
+      "text": "nguo"
+    },
+    {
+      "index": 43,
+      "left": 15.4501,
+      "top": 60.0646,
+      "width": 7.1295,
+      "height": 2.0842,
+      "text": "Soma"
+    },
+    {
+      "index": 44,
+      "left": 23.4715,
+      "top": 60.0646,
+      "width": 8.509,
+      "height": 2.0842,
+      "text": "habari"
+    },
+    {
+      "index": 45,
+      "left": 32.8724,
+      "top": 60.0646,
+      "width": 4.2875,
+      "height": 2.0842,
+      "text": "hii,"
+    },
+    {
+      "index": 46,
+      "left": 38.0517,
+      "top": 60.0646,
+      "width": 7.1553,
+      "height": 2.0842,
+      "text": "kisha"
+    },
+    {
+      "index": 47,
+      "left": 46.099,
+      "top": 60.0646,
+      "width": 4.9757,
+      "height": 2.0842,
+      "text": "jibu"
+    },
+    {
+      "index": 48,
+      "left": 51.9666,
+      "top": 60.0646,
+      "width": 11.0949,
+      "height": 2.0842,
+      "text": "maswali"
+    },
+    {
+      "index": 49,
+      "left": 15.4501,
+      "top": 62.6136,
+      "width": 8.0558,
+      "height": 2.0842,
+      "text": "Furaha"
+    },
+    {
+      "index": 50,
+      "left": 24.7534,
+      "top": 62.6136,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 51,
+      "left": 28.0802,
+      "top": 62.6136,
+      "width": 10.4075,
+      "height": 2.0842,
+      "text": "mwalimu"
+    },
+    {
+      "index": 52,
+      "left": 39.7352,
+      "top": 62.6136,
+      "width": 7.032,
+      "height": 2.0842,
+      "text": "katika"
+    },
+    {
+      "index": 53,
+      "left": 48.0147,
+      "top": 62.6136,
+      "width": 5.8332,
+      "height": 2.0842,
+      "text": "shule"
+    },
+    {
+      "index": 54,
+      "left": 55.0955,
+      "top": 62.6136,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 55,
+      "left": 59.1736,
+      "top": 62.6136,
+      "width": 10.462,
+      "height": 2.0842,
+      "text": "Mpakani."
+    },
+    {
+      "index": 56,
+      "left": 70.8831,
+      "top": 62.6136,
+      "width": 16.2092,
+      "height": 2.0842,
+      "text": "Aliwafundisha"
+    },
+    {
+      "index": 57,
+      "left": 15.4501,
+      "top": 65.2189,
+      "width": 11.7755,
+      "height": 2.0842,
+      "text": "wanafunzi"
+    },
+    {
+      "index": 58,
+      "left": 29.3334,
+      "top": 65.2189,
+      "width": 10.2182,
+      "height": 2.0842,
+      "text": "kujikinga"
+    },
+    {
+      "index": 59,
+      "left": 41.6595,
+      "top": 65.2189,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 60,
+      "left": 46.641,
+      "top": 65.2189,
+      "width": 6.3781,
+      "height": 2.0842,
+      "text": "Virusi"
+    },
+    {
+      "index": 61,
+      "left": 55.127,
+      "top": 65.2189,
+      "width": 4.1269,
+      "height": 2.0842,
+      "text": "vya"
+    },
+    {
+      "index": 62,
+      "left": 61.3674,
+      "top": 65.2189,
+      "width": 9.8022,
+      "height": 2.0842,
+      "text": "UKIMWI."
+    },
+    {
+      "index": 63,
+      "left": 73.2776,
+      "top": 65.2189,
+      "width": 13.8116,
+      "height": 2.0842,
+      "text": "Mwanafunzi"
+    },
+    {
+      "index": 64,
+      "left": 15.4501,
+      "top": 67.8242,
+      "width": 7.7318,
+      "height": 2.0842,
+      "text": "mmoja"
+    },
+    {
+      "index": 65,
+      "left": 25.317,
+      "top": 67.8242,
+      "width": 11.5776,
+      "height": 2.0842,
+      "text": "alimuuliza"
+    },
+    {
+      "index": 66,
+      "left": 39.0297,
+      "top": 67.8242,
+      "width": 11.1474,
+      "height": 2.0842,
+      "text": "mwalimu,"
+    },
+    {
+      "index": 67,
+      "left": 52.3119,
+      "top": 67.8242,
+      "width": 16.5763,
+      "height": 2.0842,
+      "text": "utamtambuaje"
+    },
+    {
+      "index": 68,
+      "left": 71.0233,
+      "top": 67.8242,
+      "width": 4.4825,
+      "height": 2.0842,
+      "text": "mtu"
+    },
+    {
+      "index": 69,
+      "left": 77.6409,
+      "top": 67.8242,
+      "width": 9.4496,
+      "height": 2.0842,
+      "text": "mwenye"
+    },
+    {
+      "index": 70,
+      "left": 15.4501,
+      "top": 70.4295,
+      "width": 6.0541,
+      "height": 2.0842,
+      "text": "VVU?"
+    },
+    {
+      "index": 71,
+      "left": 23.46,
+      "top": 70.4295,
+      "width": 10.3157,
+      "height": 2.0842,
+      "text": "Mwalimu"
+    },
+    {
+      "index": 72,
+      "left": 35.7302,
+      "top": 70.4295,
+      "width": 7.5884,
+      "height": 2.0842,
+      "text": "alijibu,"
+    },
+    {
+      "index": 73,
+      "left": 45.2745,
+      "top": 70.4295,
+      "width": 9.7192,
+      "height": 2.0842,
+      "text": "kwamba"
+    },
+    {
+      "index": 74,
+      "left": 56.9495,
+      "top": 70.4295,
+      "width": 7.8666,
+      "height": 2.0842,
+      "text": "huwezi"
+    },
+    {
+      "index": 75,
+      "left": 66.772,
+      "top": 70.4295,
+      "width": 13.651,
+      "height": 2.0842,
+      "text": "kumtambua"
+    },
+    {
+      "index": 76,
+      "left": 82.3789,
+      "top": 70.4295,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 77,
+      "left": 15.4501,
+      "top": 73.0348,
+      "width": 15.3173,
+      "height": 2.0842,
+      "text": "kumwangalia"
+    },
+    {
+      "index": 78,
+      "left": 32.0894,
+      "top": 73.0348,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 79,
+      "left": 38.1292,
+      "top": 73.0348,
+      "width": 8.3283,
+      "height": 2.0842,
+      "text": "macho."
+    },
+    {
+      "index": 80,
+      "left": 47.7795,
+      "top": 73.0348,
+      "width": 1.9874,
+      "height": 2.0842,
+      "text": "Ili"
+    },
+    {
+      "index": 81,
+      "left": 51.0891,
+      "top": 73.0348,
+      "width": 13.651,
+      "height": 2.0842,
+      "text": "kumtambua"
+    },
+    {
+      "index": 82,
+      "left": 66.0622,
+      "top": 73.0348,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 83,
+      "left": 69.4635,
+      "top": 73.0348,
+      "width": 7.4163,
+      "height": 2.0842,
+      "text": "lazima"
+    },
+    {
+      "index": 84,
+      "left": 78.2019,
+      "top": 73.0348,
+      "width": 8.8875,
+      "height": 2.0842,
+      "text": "apimwe"
+    },
+    {
+      "index": 85,
+      "left": 15.4501,
+      "top": 75.64,
+      "width": 12.481,
+      "height": 2.0842,
+      "text": "hospitalini."
+    },
+    {
+      "index": 86,
+      "left": 28.8889,
+      "top": 75.64,
+      "width": 13.8116,
+      "height": 2.0842,
+      "text": "Mwanafunzi"
+    },
+    {
+      "index": 87,
+      "left": 43.6584,
+      "top": 75.64,
+      "width": 10.9581,
+      "height": 2.0842,
+      "text": "mwingine"
+    },
+    {
+      "index": 88,
+      "left": 55.5744,
+      "top": 75.64,
+      "width": 8.7556,
+      "height": 2.0842,
+      "text": "aliuliza,"
+    },
+    {
+      "index": 89,
+      "left": 65.2879,
+      "top": 75.64,
+      "width": 12.8825,
+      "height": 2.0842,
+      "text": "tunawezaje"
+    },
+    {
+      "index": 90,
+      "left": 79.1282,
+      "top": 75.64,
+      "width": 7.9612,
+      "height": 2.0842,
+      "text": "kupata"
+    },
+    {
+      "index": 91,
+      "left": 15.4501,
+      "top": 78.2453,
+      "width": 13.7027,
+      "height": 2.0842,
+      "text": "maambukizi"
+    },
+    {
+      "index": 92,
+      "left": 30.8132,
+      "top": 78.2453,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 93,
+      "left": 35.3043,
+      "top": 78.2453,
+      "width": 6.0541,
+      "height": 2.0842,
+      "text": "VVU?"
+    },
+    {
+      "index": 94,
+      "left": 43.0189,
+      "top": 78.2453,
+      "width": 10.3157,
+      "height": 2.0842,
+      "text": "Mwalimu"
+    },
+    {
+      "index": 95,
+      "left": 54.9951,
+      "top": 78.2453,
+      "width": 8.6208,
+      "height": 2.0842,
+      "text": "alisema"
+    },
+    {
+      "index": 96,
+      "left": 65.2764,
+      "top": 78.2453,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 97,
+      "left": 69.0161,
+      "top": 78.2453,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 98,
+      "left": 75.3942,
+      "top": 78.2453,
+      "width": 11.7038,
+      "height": 2.0842,
+      "text": "kuchangia"
+    },
+    {
+      "index": 99,
+      "left": 15.4501,
+      "top": 80.8506,
+      "width": 5.6698,
+      "height": 2.0842,
+      "text": "vifaa"
+    },
+    {
+      "index": 100,
+      "left": 22.0519,
+      "top": 80.8506,
+      "width": 8.0243,
+      "height": 2.0842,
+      "text": "vyenye"
+    },
+    {
+      "index": 101,
+      "left": 31.0083,
+      "top": 80.8506,
+      "width": 5.4604,
+      "height": 2.0842,
+      "text": "ncha"
+    },
+    {
+      "index": 102,
+      "left": 37.4007,
+      "top": 80.8506,
+      "width": 4.7664,
+      "height": 2.0842,
+      "text": "kali."
+    },
+    {
+      "index": 103,
+      "left": 43.0992,
+      "top": 80.8506,
+      "width": 7.1926,
+      "height": 2.0842,
+      "text": "Mfano"
+    },
+    {
+      "index": 104,
+      "left": 51.2238,
+      "top": 80.8506,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 105,
+      "left": 55.5801,
+      "top": 80.8506,
+      "width": 5.6698,
+      "height": 2.0842,
+      "text": "vifaa"
+    },
+    {
+      "index": 106,
+      "left": 62.182,
+      "top": 80.8506,
+      "width": 6.1975,
+      "height": 2.0842,
+      "text": "hivyo"
+    },
+    {
+      "index": 107,
+      "left": 69.3115,
+      "top": 80.8506,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 108,
+      "left": 72.3227,
+      "top": 80.8506,
+      "width": 9.6704,
+      "height": 2.0842,
+      "text": "sindano,"
+    },
+    {
+      "index": 109,
+      "left": 82.9252,
+      "top": 80.8506,
+      "width": 4.1584,
+      "height": 2.0842,
+      "text": "pini"
+    },
+    {
+      "index": 110,
+      "left": 15.4501,
+      "top": 83.4559,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 111,
+      "left": 19.4989,
+      "top": 83.4559,
+      "width": 9.6389,
+      "height": 2.0842,
+      "text": "nyembe."
+    },
+    {
+      "index": 112,
+      "left": 30.3131,
+      "top": 83.4559,
+      "width": 8.0128,
+      "height": 2.0842,
+      "text": "Vilevile"
+    },
+    {
+      "index": 113,
+      "left": 39.5012,
+      "top": 83.4559,
+      "width": 5.6698,
+      "height": 2.0842,
+      "text": "vifaa"
+    },
+    {
+      "index": 114,
+      "left": 46.3462,
+      "top": 83.4559,
+      "width": 4.1269,
+      "height": 2.0842,
+      "text": "vya"
+    },
+    {
+      "index": 115,
+      "left": 51.6483,
+      "top": 83.4559,
+      "width": 5.3228,
+      "height": 2.0842,
+      "text": "usafi"
+    },
+    {
+      "index": 116,
+      "left": 58.1466,
+      "top": 83.4559,
+      "width": 6.3007,
+      "height": 2.0842,
+      "text": "kama"
+    },
+    {
+      "index": 117,
+      "left": 65.6225,
+      "top": 83.4559,
+      "width": 7.9153,
+      "height": 2.0842,
+      "text": "vitana,"
+    },
+    {
+      "index": 118,
+      "left": 74.7131,
+      "top": 83.4559,
+      "width": 8.3283,
+      "height": 2.0842,
+      "text": "chanuo"
+    },
+    {
+      "index": 119,
+      "left": 84.2166,
+      "top": 83.4559,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 120,
+      "left": 15.4501,
+      "top": 86.0612,
+      "width": 9.94,
+      "height": 2.0842,
+      "text": "miswaki."
+    },
+    {
+      "index": 121,
+      "left": 26.3107,
+      "top": 86.0612,
+      "width": 3.5619,
+      "height": 2.0842,
+      "text": "Pia"
+    },
+    {
+      "index": 122,
+      "left": 30.7932,
+      "top": 86.0612,
+      "width": 6.6162,
+      "height": 2.0842,
+      "text": "taulo,"
+    },
+    {
+      "index": 123,
+      "left": 38.3299,
+      "top": 86.0612,
+      "width": 7.7662,
+      "height": 2.0842,
+      "text": "dodoki"
+    },
+    {
+      "index": 124,
+      "left": 47.0167,
+      "top": 86.0612,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 125,
+      "left": 50.8109,
+      "top": 86.0612,
+      "width": 5.6698,
+      "height": 2.0842,
+      "text": "vifaa"
+    },
+    {
+      "index": 126,
+      "left": 57.4012,
+      "top": 86.0612,
+      "width": 4.1269,
+      "height": 2.0842,
+      "text": "vya"
+    },
+    {
+      "index": 127,
+      "left": 62.4487,
+      "top": 86.0612,
+      "width": 10.3301,
+      "height": 2.0842,
+      "text": "kunyolea"
+    },
+    {
+      "index": 128,
+      "left": 73.6993,
+      "top": 86.0612,
+      "width": 8.7097,
+      "height": 2.0842,
+      "text": "nywele."
+    },
+    {
+      "index": 129,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 130,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 131,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 132,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 133,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 134,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "39"
+    },
+    {
+      "index": 135,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 136,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg045_n0001",
+      "text": "Njia za kujikinga na Virusi vya UKIMWI (VVU)"
+    },
+    {
+      "id": "pg045_n0002",
+      "text": "UKIMWI ni kifupi cha Upungufu wa Kinga Mwilini."
+    },
+    {
+      "id": "pg045_n0003",
+      "text": "VVU ni kifupi cha Virusi vya UKIMWI."
+    },
+    {
+      "id": "pg045_n0004",
+      "text": "Vifaa vinavyochangia maambukizi ya VVU"
+    },
+    {
+      "id": "pg045_n0005",
+      "text": "wembe mswaki sindano ya kutogea masikio"
+    },
+    {
+      "id": "pg045_n0006",
+      "text": "au kushonea nguo"
+    },
+    {
+      "id": "pg045_n0007",
+      "text": "kitana"
+    },
+    {
+      "id": "pg045_n0008",
+      "text": "chanuo"
+    },
+    {
+      "id": "pg045_n0009",
+      "text": "pini"
+    },
+    {
+      "id": "pg045_n0010",
+      "text": "sindano"
+    },
+    {
+      "id": "pg045_n0011",
+      "text": "Soma habari hii, kisha jibu maswali"
+    },
+    {
+      "id": "pg045_n0012",
+      "text": "Furaha ni mwalimu katika shule ya Mpakani."
+    },
+    {
+      "id": "pg045_n0013",
+      "text": "Aliwafundisha"
+    },
+    {
+      "id": "pg045_n0014",
+      "text": "wanafunzi kujikinga na Virusi vya UKIMWI."
+    },
+    {
+      "id": "pg045_n0015",
+      "text": "Mwanafunzi"
+    },
+    {
+      "id": "pg045_n0016",
+      "text": "mmoja alimuuliza mwalimu, utamtambuaje mtu mwenye"
+    },
+    {
+      "id": "pg045_n0017",
+      "text": "VVU?"
+    },
+    {
+      "id": "pg045_n0018",
+      "text": "Mwalimu alijibu, kwamba huwezi kumtambua kwa"
+    },
+    {
+      "id": "pg045_n0019",
+      "text": "kumwangalia kwa macho."
+    },
+    {
+      "id": "pg045_n0020",
+      "text": "Ili kumtambua ni lazima apimwe"
+    },
+    {
+      "id": "pg045_n0021",
+      "text": "hospitalini."
+    },
+    {
+      "id": "pg045_n0022",
+      "text": "Mwanafunzi mwingine aliuliza, tunawezaje kupata"
+    },
+    {
+      "id": "pg045_n0023",
+      "text": "maambukizi ya VVU?"
+    },
+    {
+      "id": "pg045_n0024",
+      "text": "Mwalimu alisema ni kwa kuchangia"
+    },
+    {
+      "id": "pg045_n0025",
+      "text": "vifaa vyenye ncha kali."
+    },
+    {
+      "id": "pg045_n0026",
+      "text": "Mfano wa vifaa hivyo ni sindano, pini"
+    },
+    {
+      "id": "pg045_n0027",
+      "text": "na nyembe."
+    },
+    {
+      "id": "pg045_n0028",
+      "text": "Vilevile vifaa vya usafi kama vitana, chanuo na"
+    },
+    {
+      "id": "pg045_n0029",
+      "text": "miswaki."
+    },
+    {
+      "id": "pg045_n0030",
+      "text": "Pia taulo, dodoki na vifaa vya kunyolea nywele."
+    },
+    {
+      "id": "pg045_n0031",
+      "text": "3399"
+    },
+    {
+      "id": "pg045_n0032",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 39 23/07/2021 15:41"
+    }
+  ]
+}

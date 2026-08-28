@@ -1,0 +1,454 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 47.4776,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "14"
+    },
+    {
+      "index": 1,
+      "left": 12.8483,
+      "top": 9.2778,
+      "width": 7.0177,
+      "height": 2.0842,
+      "text": "Faida"
+    },
+    {
+      "index": 2,
+      "left": 20.7579,
+      "top": 9.2778,
+      "width": 3.2292,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 3,
+      "left": 24.879,
+      "top": 9.2778,
+      "width": 5.8562,
+      "height": 2.0842,
+      "text": "kula"
+    },
+    {
+      "index": 4,
+      "left": 31.6271,
+      "top": 9.2778,
+      "width": 11.7755,
+      "height": 2.0842,
+      "text": "matunda"
+    },
+    {
+      "index": 5,
+      "left": 44.2945,
+      "top": 9.2778,
+      "width": 20.0168,
+      "height": 2.0842,
+      "text": "yaliyosafishwa"
+    },
+    {
+      "index": 6,
+      "left": 12.8483,
+      "top": 12.6741,
+      "width": 6.989,
+      "height": 2.0842,
+      "text": "Hatua"
+    },
+    {
+      "index": 7,
+      "left": 20.7579,
+      "top": 12.6741,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 8,
+      "left": 24.2337,
+      "top": 12.6741,
+      "width": 10.5509,
+      "height": 2.0842,
+      "text": "kusafisha"
+    },
+    {
+      "index": 9,
+      "left": 35.7052,
+      "top": 12.6741,
+      "width": 10.2756,
+      "height": 2.0842,
+      "text": "matunda"
+    },
+    {
+      "index": 10,
+      "left": 18.6776,
+      "top": 38.1606,
+      "width": 8.5732,
+      "height": 1.8938,
+      "text": "Kuokota"
+    },
+    {
+      "index": 11,
+      "left": 28.0873,
+      "top": 38.1606,
+      "width": 6.095,
+      "height": 1.8938,
+      "text": "tunda"
+    },
+    {
+      "index": 12,
+      "left": 41.9887,
+      "top": 37.9785,
+      "width": 9.2194,
+      "height": 1.8938,
+      "text": "Kuandaa"
+    },
+    {
+      "index": 13,
+      "left": 52.0447,
+      "top": 37.9785,
+      "width": 5.1517,
+      "height": 1.8938,
+      "text": "vifaa"
+    },
+    {
+      "index": 14,
+      "left": 58.0329,
+      "top": 37.9785,
+      "width": 3.7498,
+      "height": 1.8938,
+      "text": "vya"
+    },
+    {
+      "index": 15,
+      "left": 41.9887,
+      "top": 39.6619,
+      "width": 10.1732,
+      "height": 1.8938,
+      "text": "kusafishia"
+    },
+    {
+      "index": 16,
+      "left": 52.9984,
+      "top": 39.6619,
+      "width": 6.7673,
+      "height": 1.8938,
+      "text": "tunda."
+    },
+    {
+      "index": 17,
+      "left": 41.9887,
+      "top": 41.3453,
+      "width": 4.2918,
+      "height": 1.8938,
+      "text": "Maji"
+    },
+    {
+      "index": 18,
+      "left": 47.117,
+      "top": 41.3453,
+      "width": 3.5335,
+      "height": 1.8938,
+      "text": "safi"
+    },
+    {
+      "index": 19,
+      "left": 51.487,
+      "top": 41.3453,
+      "width": 2.611,
+      "height": 1.8938,
+      "text": "na"
+    },
+    {
+      "index": 20,
+      "left": 54.9345,
+      "top": 41.3453,
+      "width": 8.0859,
+      "height": 1.8938,
+      "text": "salama,"
+    },
+    {
+      "index": 21,
+      "left": 41.9887,
+      "top": 43.2391,
+      "width": 6.2644,
+      "height": 1.8938,
+      "text": "bakuli"
+    },
+    {
+      "index": 22,
+      "left": 49.0896,
+      "top": 43.2391,
+      "width": 2.611,
+      "height": 1.8938,
+      "text": "na"
+    },
+    {
+      "index": 23,
+      "left": 52.5372,
+      "top": 43.2391,
+      "width": 8.6175,
+      "height": 1.8938,
+      "text": "kikombe"
+    },
+    {
+      "index": 24,
+      "left": 43.6044,
+      "top": 17.1295,
+      "width": 1.4448,
+      "height": 2.1042,
+      "text": "2"
+    },
+    {
+      "index": 25,
+      "left": 66.7388,
+      "top": 37.9785,
+      "width": 9.3292,
+      "height": 1.8938,
+      "text": "Kusafisha"
+    },
+    {
+      "index": 26,
+      "left": 76.6687,
+      "top": 37.9785,
+      "width": 5.8368,
+      "height": 1.8938,
+      "text": "tunda"
+    },
+    {
+      "index": 27,
+      "left": 68.4267,
+      "top": 17.1295,
+      "width": 1.4448,
+      "height": 2.1042,
+      "text": "3"
+    },
+    {
+      "index": 28,
+      "left": 14.048,
+      "top": 17.2041,
+      "width": 1.4448,
+      "height": 2.1042,
+      "text": "1"
+    },
+    {
+      "index": 29,
+      "left": 50.6351,
+      "top": 73.9393,
+      "width": 6.0607,
+      "height": 1.993,
+      "text": "Kuwa"
+    },
+    {
+      "index": 30,
+      "left": 57.5761,
+      "top": 73.9393,
+      "width": 2.7479,
+      "height": 1.993,
+      "text": "na"
+    },
+    {
+      "index": 31,
+      "left": 61.2043,
+      "top": 73.9393,
+      "width": 4.8952,
+      "height": 1.993,
+      "text": "afya"
+    },
+    {
+      "index": 32,
+      "left": 66.9798,
+      "top": 73.9393,
+      "width": 6.5598,
+      "height": 1.993,
+      "text": "njema"
+    },
+    {
+      "index": 33,
+      "left": 74.4199,
+      "top": 73.9393,
+      "width": 2.7479,
+      "height": 1.993,
+      "text": "na"
+    },
+    {
+      "index": 34,
+      "left": 50.6351,
+      "top": 75.8591,
+      "width": 8.7263,
+      "height": 1.993,
+      "text": "kucheza"
+    },
+    {
+      "index": 35,
+      "left": 60.2417,
+      "top": 75.8591,
+      "width": 4.5112,
+      "height": 1.993,
+      "text": "kwa"
+    },
+    {
+      "index": 36,
+      "left": 65.6332,
+      "top": 75.8591,
+      "width": 7.2344,
+      "height": 1.993,
+      "text": "furaha"
+    },
+    {
+      "index": 37,
+      "left": 15.1347,
+      "top": 74.1108,
+      "width": 4.7827,
+      "height": 1.993,
+      "text": "Kula"
+    },
+    {
+      "index": 38,
+      "left": 20.7977,
+      "top": 74.1108,
+      "width": 6.4145,
+      "height": 1.993,
+      "text": "tunda"
+    },
+    {
+      "index": 39,
+      "left": 28.0925,
+      "top": 74.1108,
+      "width": 13.8436,
+      "height": 1.993,
+      "text": "lililosafishwa"
+    },
+    {
+      "index": 40,
+      "left": 17.1026,
+      "top": 52.8536,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "4"
+    },
+    {
+      "index": 41,
+      "left": 50.1172,
+      "top": 53.0817,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "5"
+    },
+    {
+      "index": 42,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 43,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 44,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 45,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 46,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 47,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "14"
+    },
+    {
+      "index": 48,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 49,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg020_n0001",
+      "text": "Faida ya kula matunda yaliyosafishwa"
+    },
+    {
+      "id": "pg020_n0002",
+      "text": "Hatua za kusafisha matunda"
+    },
+    {
+      "id": "pg020_n0003",
+      "text": "1 2 3"
+    },
+    {
+      "id": "pg020_n0004",
+      "text": "Kuokota tunda Kuandaa vifaa vya Kusafisha tunda"
+    },
+    {
+      "id": "pg020_n0005",
+      "text": "kusafishia tunda."
+    },
+    {
+      "id": "pg020_n0006",
+      "text": "Maji safi na salama,"
+    },
+    {
+      "id": "pg020_n0007",
+      "text": "bakuli na kikombe"
+    },
+    {
+      "id": "pg020_n0008",
+      "text": "4 5"
+    },
+    {
+      "id": "pg020_n0009",
+      "text": "Kula tunda lililosafishwa Kuwa na afya njema na"
+    },
+    {
+      "id": "pg020_n0010",
+      "text": "kucheza kwa furaha"
+    },
+    {
+      "id": "pg020_n0011",
+      "text": "14"
+    },
+    {
+      "id": "pg020_n0012",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 14 23/07/2021 15:41"
+    }
+  ]
+}

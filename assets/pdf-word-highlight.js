@@ -27,6 +27,59 @@
     return Array.prototype.slice.call(document.querySelectorAll(".pdf-word"));
   }
 
+  function ensureSemanticWords() {
+    var root = document.querySelector(".semantic-page .page-inner");
+    if (!root || root.querySelector(".semantic-word")) return;
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+      acceptNode: function (node) {
+        if (!node.nodeValue || !node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+        var parent = node.parentElement;
+        if (!parent || parent.closest(".sr-only, script, style")) return NodeFilter.FILTER_REJECT;
+        return NodeFilter.FILTER_ACCEPT;
+      }
+    });
+    var textNodes = [];
+    while (walker.nextNode()) textNodes.push(walker.currentNode);
+    textNodes.forEach(function (node) {
+      var fragment = document.createDocumentFragment();
+      node.nodeValue.split(/(\s+)/).forEach(function (part) {
+        if (!part) return;
+        if (/^\s+$/.test(part)) {
+          fragment.appendChild(document.createTextNode(part));
+          return;
+        }
+        var span = document.createElement("span");
+        span.className = "pdf-word semantic-word";
+        span.textContent = part;
+        fragment.appendChild(span);
+      });
+      node.parentNode.replaceChild(fragment, node);
+    });
+  }
+
+  function alignSemanticCues(entry) {
+    var pageWords = words();
+    if (!pageWords.length || !pageWords[0].classList.contains("semantic-word")) return;
+    var cursor = 0;
+    var lastMatch = 0;
+    (entry.words || []).forEach(function (cue) {
+      if (cue.targetPatch !== undefined || cue.targetImage) return;
+      var wanted = normalize(cue.text);
+      var found = -1;
+      for (var index = cursor; index < Math.min(pageWords.length, cursor + 10); index += 1) {
+        if (normalize(pageWords[index].textContent) === wanted) { found = index; break; }
+      }
+      if (found >= 0) {
+        cue.semanticIndex = found;
+        cursor = found + 1;
+        lastMatch = found;
+      } else {
+        cue.semanticIndex = Math.min(cursor, pageWords.length - 1);
+        if (cue.semanticIndex < 0) cue.semanticIndex = lastMatch;
+      }
+    });
+  }
+
   function clear() {
     if (activeWord) activeWord.classList.remove("pdf-word-active");
     activeWord = null;
@@ -156,7 +209,7 @@
       clear();
       return;
     } else {
-      target = words()[Number(cue.sourceIndex || 0)];
+      target = words()[cue.semanticIndex !== undefined ? Number(cue.semanticIndex) : Number(cue.sourceIndex || 0)];
     }
     if (!target || target === activeWord) return;
     clear();
@@ -166,6 +219,7 @@
 
   function playRecorded(entry) {
     recordedEntry = entry;
+    alignSemanticCues(entry);
     recordedStopAt = null;
     var footerIndex = (entry.words || []).findIndex(function (cue, index, cues) {
       return /^AFYA$/i.test(cue.text || "") && cues[index + 1] && /^NA$/i.test(cues[index + 1].text || "");
@@ -244,6 +298,8 @@
     });
     return panel;
   }
+
+  ensureSemanticWords();
 
   document.addEventListener("click", function (event) {
     var button = event.target && event.target.closest ? event.target.closest("button") : null;

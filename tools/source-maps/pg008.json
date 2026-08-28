@@ -1,0 +1,422 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 48.1037,
+      "top": 92.3399,
+      "width": 1.2522,
+      "height": 1.8237,
+      "text": "2"
+    },
+    {
+      "index": 1,
+      "left": 12.9096,
+      "top": 9.2778,
+      "width": 9.9916,
+      "height": 2.0842,
+      "text": "Sehemu"
+    },
+    {
+      "index": 2,
+      "left": 23.7932,
+      "top": 9.2778,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 3,
+      "left": 27.573,
+      "top": 9.2778,
+      "width": 3.8946,
+      "height": 2.0842,
+      "text": "nje"
+    },
+    {
+      "index": 4,
+      "left": 32.3595,
+      "top": 9.2778,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 5,
+      "left": 36.1394,
+      "top": 9.2778,
+      "width": 7.4192,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 6,
+      "left": 44.4504,
+      "top": 9.2778,
+      "width": 3.9141,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 7,
+      "left": 49.2564,
+      "top": 9.2778,
+      "width": 13.1836,
+      "height": 2.0842,
+      "text": "binadamu"
+    },
+    {
+      "index": 8,
+      "left": 12.9096,
+      "top": 12.6084,
+      "width": 8.7527,
+      "height": 2.0842,
+      "text": "Angalia"
+    },
+    {
+      "index": 9,
+      "left": 22.583,
+      "top": 12.6084,
+      "width": 6.1057,
+      "height": 2.0842,
+      "text": "picha"
+    },
+    {
+      "index": 10,
+      "left": 29.6092,
+      "top": 12.6084,
+      "width": 3.4615,
+      "height": 2.0842,
+      "text": "hii,"
+    },
+    {
+      "index": 11,
+      "left": 33.9913,
+      "top": 12.6084,
+      "width": 5.8734,
+      "height": 2.0842,
+      "text": "kisha"
+    },
+    {
+      "index": 12,
+      "left": 40.7853,
+      "top": 12.6084,
+      "width": 4.1154,
+      "height": 2.0842,
+      "text": "jibu"
+    },
+    {
+      "index": 13,
+      "left": 45.8213,
+      "top": 12.6084,
+      "width": 6.5215,
+      "height": 2.0842,
+      "text": "swali."
+    },
+    {
+      "index": 14,
+      "left": 12.9096,
+      "top": 68.1011,
+      "width": 4.8668,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 15,
+      "left": 18.697,
+      "top": 68.1011,
+      "width": 8.5692,
+      "height": 2.0842,
+      "text": "sehemu"
+    },
+    {
+      "index": 16,
+      "left": 28.1868,
+      "top": 68.1011,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 17,
+      "left": 31.6626,
+      "top": 68.1011,
+      "width": 3.2923,
+      "height": 2.0842,
+      "text": "nje"
+    },
+    {
+      "index": 18,
+      "left": 35.8755,
+      "top": 68.1011,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 19,
+      "left": 39.3514,
+      "top": 68.1011,
+      "width": 6.0512,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 20,
+      "left": 46.3231,
+      "top": 68.1011,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 21,
+      "left": 50.668,
+      "top": 68.1011,
+      "width": 11.4342,
+      "height": 2.0842,
+      "text": "binadamu"
+    },
+    {
+      "index": 22,
+      "left": 12.9096,
+      "top": 72.7177,
+      "width": 5.5149,
+      "height": 2.0842,
+      "text": "Kazi"
+    },
+    {
+      "index": 23,
+      "left": 19.3164,
+      "top": 72.7177,
+      "width": 3.2292,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 24,
+      "left": 23.4376,
+      "top": 72.7177,
+      "width": 10.9725,
+      "height": 2.0842,
+      "text": "kufanya"
+    },
+    {
+      "index": 25,
+      "left": 12.9096,
+      "top": 76.0483,
+      "width": 6.8944,
+      "height": 2.0842,
+      "text": "Chora"
+    },
+    {
+      "index": 26,
+      "left": 20.6672,
+      "top": 76.0483,
+      "width": 6.0512,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 27,
+      "left": 27.5816,
+      "top": 76.0483,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 28,
+      "left": 31.8691,
+      "top": 76.0483,
+      "width": 11.4342,
+      "height": 2.0842,
+      "text": "binadamu"
+    },
+    {
+      "index": 29,
+      "left": 44.1665,
+      "top": 76.0483,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 30,
+      "left": 47.9033,
+      "top": 76.0483,
+      "width": 9.3091,
+      "height": 2.0842,
+      "text": "uoneshe"
+    },
+    {
+      "index": 31,
+      "left": 58.0757,
+      "top": 76.0483,
+      "width": 8.5692,
+      "height": 2.0842,
+      "text": "sehemu"
+    },
+    {
+      "index": 32,
+      "left": 67.5081,
+      "top": 76.0483,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 33,
+      "left": 70.9266,
+      "top": 76.0483,
+      "width": 3.2923,
+      "height": 2.0842,
+      "text": "nje"
+    },
+    {
+      "index": 34,
+      "left": 75.0821,
+      "top": 76.0483,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 35,
+      "left": 78.5006,
+      "top": 76.0483,
+      "width": 6.0512,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 36,
+      "left": 12.9096,
+      "top": 78.393,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 37,
+      "left": 18.5479,
+      "top": 78.393,
+      "width": 10.4591,
+      "height": 2.0842,
+      "text": "kuandika"
+    },
+    {
+      "index": 38,
+      "left": 29.9276,
+      "top": 78.393,
+      "width": 7.6888,
+      "height": 2.0842,
+      "text": "majina"
+    },
+    {
+      "index": 39,
+      "left": 38.5369,
+      "top": 78.393,
+      "width": 5.3801,
+      "height": 2.0842,
+      "text": "yake"
+    },
+    {
+      "index": 40,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 41,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 42,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 43,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 44,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 45,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 0.598,
+      "height": 0.7816,
+      "text": "2"
+    },
+    {
+      "index": 46,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 47,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg008_n0001",
+      "text": "Sehemu za nje za mwili wa binadamu"
+    },
+    {
+      "id": "pg008_n0002",
+      "text": "Angalia picha hii, kisha jibu swali."
+    },
+    {
+      "id": "pg008_n0003",
+      "text": "Taja sehemu za nje za mwili wa binadamu"
+    },
+    {
+      "id": "pg008_n0004",
+      "text": "Kazi ya kufanya"
+    },
+    {
+      "id": "pg008_n0005",
+      "text": "Chora mwili wa binadamu na uoneshe sehemu za nje za mwili"
+    },
+    {
+      "id": "pg008_n0006",
+      "text": "kwa kuandika majina yake"
+    },
+    {
+      "id": "pg008_n0007",
+      "text": "2"
+    },
+    {
+      "id": "pg008_n0008",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 2 23/07/2021 15:41"
+    }
+  ]
+}

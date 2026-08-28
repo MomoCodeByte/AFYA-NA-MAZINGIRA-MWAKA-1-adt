@@ -1,0 +1,354 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "49"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "49"
+    },
+    {
+      "index": 2,
+      "left": 22.9782,
+      "top": 9.1497,
+      "width": 12.0332,
+      "height": 2.5012,
+      "text": "Maswali"
+    },
+    {
+      "index": 3,
+      "left": 15.4501,
+      "top": 12.4836,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "1."
+    },
+    {
+      "index": 4,
+      "left": 20.6467,
+      "top": 12.4836,
+      "width": 4.8668,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 5,
+      "left": 26.434,
+      "top": 12.4836,
+      "width": 11.2506,
+      "height": 2.0842,
+      "text": "mazingira"
+    },
+    {
+      "index": 6,
+      "left": 38.6052,
+      "top": 12.4836,
+      "width": 9.9888,
+      "height": 2.0842,
+      "text": "hatarishi"
+    },
+    {
+      "index": 7,
+      "left": 49.5146,
+      "top": 12.4836,
+      "width": 9.8167,
+      "height": 2.0842,
+      "text": "yaliyopo"
+    },
+    {
+      "index": 8,
+      "left": 60.2519,
+      "top": 12.4836,
+      "width": 11.3395,
+      "height": 2.0842,
+      "text": "nyumbani"
+    },
+    {
+      "index": 9,
+      "left": 72.512,
+      "top": 12.4836,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "au"
+    },
+    {
+      "index": 10,
+      "left": 76.3062,
+      "top": 12.4836,
+      "width": 8.6524,
+      "height": 2.0842,
+      "text": "shuleni."
+    },
+    {
+      "index": 11,
+      "left": 15.4501,
+      "top": 15.5668,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "2."
+    },
+    {
+      "index": 12,
+      "left": 20.6467,
+      "top": 15.5668,
+      "width": 5.8046,
+      "height": 2.0842,
+      "text": "Eleza"
+    },
+    {
+      "index": 13,
+      "left": 28.2324,
+      "top": 15.5668,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 14,
+      "left": 34.7316,
+      "top": 15.5668,
+      "width": 6.3007,
+      "height": 2.0842,
+      "text": "kifupi"
+    },
+    {
+      "index": 15,
+      "left": 42.8138,
+      "top": 15.5668,
+      "width": 7.8752,
+      "height": 2.0842,
+      "text": "namna"
+    },
+    {
+      "index": 16,
+      "left": 52.4702,
+      "top": 15.5668,
+      "width": 19.7625,
+      "height": 2.0842,
+      "text": "utakavyomshauri"
+    },
+    {
+      "index": 17,
+      "left": 74.0139,
+      "top": 15.5668,
+      "width": 5.7357,
+      "height": 2.0842,
+      "text": "rafiki"
+    },
+    {
+      "index": 18,
+      "left": 81.5309,
+      "top": 15.5668,
+      "width": 5.5579,
+      "height": 2.0842,
+      "text": "yako"
+    },
+    {
+      "index": 19,
+      "left": 20.6481,
+      "top": 17.9116,
+      "width": 14.0038,
+      "height": 2.0842,
+      "text": "anayependa"
+    },
+    {
+      "index": 20,
+      "left": 35.5725,
+      "top": 17.9116,
+      "width": 8.8875,
+      "height": 2.0842,
+      "text": "kwenda"
+    },
+    {
+      "index": 21,
+      "left": 45.3806,
+      "top": 17.9116,
+      "width": 8.6151,
+      "height": 2.0842,
+      "text": "kwenye"
+    },
+    {
+      "index": 22,
+      "left": 54.9162,
+      "top": 17.9116,
+      "width": 11.2506,
+      "height": 2.0842,
+      "text": "mazingira"
+    },
+    {
+      "index": 23,
+      "left": 67.0874,
+      "top": 17.9116,
+      "width": 10.7287,
+      "height": 2.0842,
+      "text": "hatarishi."
+    },
+    {
+      "index": 24,
+      "left": 15.5997,
+      "top": 23.0018,
+      "width": 10.1408,
+      "height": 2.0842,
+      "text": "Vitendo"
+    },
+    {
+      "index": 25,
+      "left": 26.6324,
+      "top": 23.0018,
+      "width": 11.8127,
+      "height": 2.0842,
+      "text": "hatarishi"
+    },
+    {
+      "index": 26,
+      "left": 16.8118,
+      "top": 27.5862,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "1"
+    },
+    {
+      "index": 27,
+      "left": 16.8118,
+      "top": 56.5726,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "3"
+    },
+    {
+      "index": 28,
+      "left": 52.2819,
+      "top": 27.8323,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "2"
+    },
+    {
+      "index": 29,
+      "left": 52.2819,
+      "top": 56.8187,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "4"
+    },
+    {
+      "index": 30,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 31,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 32,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 33,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 34,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 35,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "49"
+    },
+    {
+      "index": 36,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 37,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:42"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg055_n0001",
+      "text": "Maswali"
+    },
+    {
+      "id": "pg055_n0002",
+      "text": "1."
+    },
+    {
+      "id": "pg055_n0003",
+      "text": "Taja mazingira hatarishi yaliyopo nyumbani au shuleni."
+    },
+    {
+      "id": "pg055_n0004",
+      "text": "2."
+    },
+    {
+      "id": "pg055_n0005",
+      "text": "Eleza kwa kifupi namna utakavyomshauri rafiki yako"
+    },
+    {
+      "id": "pg055_n0006",
+      "text": "anayependa kwenda kwenye mazingira hatarishi."
+    },
+    {
+      "id": "pg055_n0007",
+      "text": "Vitendo hatarishi"
+    },
+    {
+      "id": "pg055_n0008",
+      "text": "1 2"
+    },
+    {
+      "id": "pg055_n0009",
+      "text": "3 4"
+    },
+    {
+      "id": "pg055_n0010",
+      "text": "4499"
+    },
+    {
+      "id": "pg055_n0011",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 49 23/07/2021 15:42"
+    }
+  ]
+}

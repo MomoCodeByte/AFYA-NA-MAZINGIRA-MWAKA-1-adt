@@ -1,0 +1,746 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 47.4776,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "12"
+    },
+    {
+      "index": 1,
+      "left": 12.8096,
+      "top": 9.4821,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "3."
+    },
+    {
+      "index": 2,
+      "left": 18.0062,
+      "top": 9.4821,
+      "width": 5.8046,
+      "height": 2.0842,
+      "text": "Eleza"
+    },
+    {
+      "index": 3,
+      "left": 24.7313,
+      "top": 9.4821,
+      "width": 8.2451,
+      "height": 2.0842,
+      "text": "sababu"
+    },
+    {
+      "index": 4,
+      "left": 33.897,
+      "top": 9.4821,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 5,
+      "left": 37.6482,
+      "top": 9.4821,
+      "width": 9.0711,
+      "height": 2.0842,
+      "text": "kutunza"
+    },
+    {
+      "index": 6,
+      "left": 47.6398,
+      "top": 9.4821,
+      "width": 8.8416,
+      "height": 2.0842,
+      "text": "chakula"
+    },
+    {
+      "index": 7,
+      "left": 57.4021,
+      "top": 9.4821,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 8,
+      "left": 63.0403,
+      "top": 9.4821,
+      "width": 16.3698,
+      "height": 2.0842,
+      "text": "kukining’iniza."
+    },
+    {
+      "index": 9,
+      "left": 12.8096,
+      "top": 12.5654,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "4."
+    },
+    {
+      "index": 10,
+      "left": 18.0062,
+      "top": 12.5654,
+      "width": 12.3548,
+      "height": 2.0842,
+      "text": "Orodhesha"
+    },
+    {
+      "index": 11,
+      "left": 31.2815,
+      "top": 12.5654,
+      "width": 5.6698,
+      "height": 2.0842,
+      "text": "vifaa"
+    },
+    {
+      "index": 12,
+      "left": 37.8719,
+      "top": 12.5654,
+      "width": 16.7971,
+      "height": 2.0842,
+      "text": "vinavyotumika"
+    },
+    {
+      "index": 13,
+      "left": 55.5896,
+      "top": 12.5654,
+      "width": 9.0711,
+      "height": 2.0842,
+      "text": "kutunza"
+    },
+    {
+      "index": 14,
+      "left": 65.5812,
+      "top": 12.5654,
+      "width": 9.5815,
+      "height": 2.0842,
+      "text": "chakula."
+    },
+    {
+      "index": 15,
+      "left": 12.8096,
+      "top": 15.6486,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "5."
+    },
+    {
+      "index": 16,
+      "left": 18.0062,
+      "top": 15.6486,
+      "width": 4.8668,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 17,
+      "left": 23.7935,
+      "top": 15.6486,
+      "width": 4.1211,
+      "height": 2.0842,
+      "text": "njia"
+    },
+    {
+      "index": 18,
+      "left": 28.8352,
+      "top": 15.6486,
+      "width": 9.6704,
+      "height": 2.0842,
+      "text": "nyingine"
+    },
+    {
+      "index": 19,
+      "left": 39.4263,
+      "top": 15.6486,
+      "width": 5.5006,
+      "height": 2.0842,
+      "text": "mbili"
+    },
+    {
+      "index": 20,
+      "left": 45.8474,
+      "top": 15.6486,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 21,
+      "left": 49.3233,
+      "top": 15.6486,
+      "width": 9.0711,
+      "height": 2.0842,
+      "text": "kutunza"
+    },
+    {
+      "index": 22,
+      "left": 59.3149,
+      "top": 15.6486,
+      "width": 9.5815,
+      "height": 2.0842,
+      "text": "chakula."
+    },
+    {
+      "index": 23,
+      "left": 12.8096,
+      "top": 22.6099,
+      "width": 5.7357,
+      "height": 2.0842,
+      "text": "Maji"
+    },
+    {
+      "index": 24,
+      "left": 19.4372,
+      "top": 22.6099,
+      "width": 4.9385,
+      "height": 2.0842,
+      "text": "safi"
+    },
+    {
+      "index": 25,
+      "left": 25.2676,
+      "top": 22.6099,
+      "width": 3.2837,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 26,
+      "left": 29.4432,
+      "top": 22.6099,
+      "width": 9.5586,
+      "height": 2.0842,
+      "text": "salama"
+    },
+    {
+      "index": 27,
+      "left": 12.8096,
+      "top": 25.2677,
+      "width": 4.7234,
+      "height": 2.0842,
+      "text": "Maji"
+    },
+    {
+      "index": 28,
+      "left": 18.6342,
+      "top": 25.2677,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 29,
+      "left": 21.8147,
+      "top": 25.2677,
+      "width": 9.2001,
+      "height": 2.0842,
+      "text": "muhimu"
+    },
+    {
+      "index": 30,
+      "left": 32.1161,
+      "top": 25.2677,
+      "width": 7.032,
+      "height": 2.0842,
+      "text": "katika"
+    },
+    {
+      "index": 31,
+      "left": 40.2493,
+      "top": 25.2677,
+      "width": 8.8875,
+      "height": 2.0842,
+      "text": "maisha."
+    },
+    {
+      "index": 32,
+      "left": 50.2381,
+      "top": 25.2677,
+      "width": 10.4247,
+      "height": 2.0842,
+      "text": "Unaweza"
+    },
+    {
+      "index": 33,
+      "left": 61.7641,
+      "top": 25.2677,
+      "width": 7.9612,
+      "height": 2.0842,
+      "text": "kupata"
+    },
+    {
+      "index": 34,
+      "left": 70.8265,
+      "top": 25.2677,
+      "width": 4.8151,
+      "height": 2.0842,
+      "text": "maji"
+    },
+    {
+      "index": 35,
+      "left": 76.7429,
+      "top": 25.2677,
+      "width": 7.8149,
+      "height": 2.0842,
+      "text": "kutoka"
+    },
+    {
+      "index": 36,
+      "left": 12.8096,
+      "top": 27.6124,
+      "width": 8.5692,
+      "height": 2.0842,
+      "text": "sehemu"
+    },
+    {
+      "index": 37,
+      "left": 22.3553,
+      "top": 27.6124,
+      "width": 13.3298,
+      "height": 2.0842,
+      "text": "mbalimbali."
+    },
+    {
+      "index": 38,
+      "left": 36.6616,
+      "top": 27.6124,
+      "width": 8.8445,
+      "height": 2.0842,
+      "text": "Sehemu"
+    },
+    {
+      "index": 39,
+      "left": 46.4827,
+      "top": 27.6124,
+      "width": 4.6259,
+      "height": 2.0842,
+      "text": "hizo"
+    },
+    {
+      "index": 40,
+      "left": 52.085,
+      "top": 27.6124,
+      "width": 2.0792,
+      "height": 2.0842,
+      "text": "ni"
+    },
+    {
+      "index": 41,
+      "left": 55.1422,
+      "top": 27.6124,
+      "width": 6.3007,
+      "height": 2.0842,
+      "text": "kama"
+    },
+    {
+      "index": 42,
+      "left": 62.4194,
+      "top": 27.6124,
+      "width": 5.8677,
+      "height": 2.0842,
+      "text": "mito,"
+    },
+    {
+      "index": 43,
+      "left": 69.2635,
+      "top": 27.6124,
+      "width": 11.4371,
+      "height": 2.0842,
+      "text": "mabomba"
+    },
+    {
+      "index": 44,
+      "left": 81.6785,
+      "top": 27.6124,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 45,
+      "left": 12.8096,
+      "top": 29.9572,
+      "width": 7.9583,
+      "height": 2.0842,
+      "text": "visima."
+    },
+    {
+      "index": 46,
+      "left": 12.8096,
+      "top": 33.3441,
+      "width": 6.989,
+      "height": 2.0842,
+      "text": "Hatua"
+    },
+    {
+      "index": 47,
+      "left": 20.7192,
+      "top": 33.3441,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 48,
+      "left": 24.195,
+      "top": 33.3441,
+      "width": 7.9612,
+      "height": 2.0842,
+      "text": "kupata"
+    },
+    {
+      "index": 49,
+      "left": 33.0768,
+      "top": 33.3441,
+      "width": 4.8151,
+      "height": 2.0842,
+      "text": "maji"
+    },
+    {
+      "index": 50,
+      "left": 38.8125,
+      "top": 33.3441,
+      "width": 3.8888,
+      "height": 2.0842,
+      "text": "safi"
+    },
+    {
+      "index": 51,
+      "left": 43.622,
+      "top": 33.3441,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 52,
+      "left": 47.4161,
+      "top": 33.3441,
+      "width": 8.1591,
+      "height": 2.0842,
+      "text": "salama"
+    },
+    {
+      "index": 53,
+      "left": 63.8506,
+      "top": 37.3904,
+      "width": 1.3401,
+      "height": 1.9518,
+      "text": "3"
+    },
+    {
+      "index": 54,
+      "left": 43.659,
+      "top": 37.3904,
+      "width": 1.3401,
+      "height": 1.9518,
+      "text": "2"
+    },
+    {
+      "index": 55,
+      "left": 13.9224,
+      "top": 37.4595,
+      "width": 1.3401,
+      "height": 1.9518,
+      "text": "1"
+    },
+    {
+      "index": 56,
+      "left": 19.2941,
+      "top": 55.9441,
+      "width": 12.0045,
+      "height": 1.9518,
+      "text": "Kuchemsha"
+    },
+    {
+      "index": 57,
+      "left": 32.1607,
+      "top": 55.9441,
+      "width": 4.5091,
+      "height": 1.9518,
+      "text": "maji"
+    },
+    {
+      "index": 58,
+      "left": 65.9935,
+      "top": 56.4602,
+      "width": 8.4059,
+      "height": 1.9518,
+      "text": "Kuchuja"
+    },
+    {
+      "index": 59,
+      "left": 75.2615,
+      "top": 56.4602,
+      "width": 4.5091,
+      "height": 1.9518,
+      "text": "maji"
+    },
+    {
+      "index": 60,
+      "left": 44.7467,
+      "top": 56.055,
+      "width": 4.4231,
+      "height": 1.9518,
+      "text": "Maji"
+    },
+    {
+      "index": 61,
+      "left": 50.0319,
+      "top": 56.055,
+      "width": 9.3754,
+      "height": 1.9518,
+      "text": "yanapoa"
+    },
+    {
+      "index": 62,
+      "left": 18.8936,
+      "top": 84.6113,
+      "width": 10.1605,
+      "height": 1.9545,
+      "text": "Kuhifadhi"
+    },
+    {
+      "index": 63,
+      "left": 29.9174,
+      "top": 84.6113,
+      "width": 4.5155,
+      "height": 1.9545,
+      "text": "maji"
+    },
+    {
+      "index": 64,
+      "left": 35.2961,
+      "top": 84.6113,
+      "width": 8.0789,
+      "height": 1.9545,
+      "text": "kwenye"
+    },
+    {
+      "index": 65,
+      "left": 56.3751,
+      "top": 84.6113,
+      "width": 8.5926,
+      "height": 1.9545,
+      "text": "Kunywa"
+    },
+    {
+      "index": 66,
+      "left": 65.8309,
+      "top": 84.6113,
+      "width": 4.5155,
+      "height": 1.9545,
+      "text": "maji"
+    },
+    {
+      "index": 67,
+      "left": 71.2097,
+      "top": 84.6113,
+      "width": 3.6468,
+      "height": 1.9545,
+      "text": "safi"
+    },
+    {
+      "index": 68,
+      "left": 75.7198,
+      "top": 84.6113,
+      "width": 2.6948,
+      "height": 1.9545,
+      "text": "na"
+    },
+    {
+      "index": 69,
+      "left": 20.1247,
+      "top": 86.5659,
+      "width": 8.4554,
+      "height": 1.9545,
+      "text": "chombo"
+    },
+    {
+      "index": 70,
+      "left": 29.4434,
+      "top": 86.5659,
+      "width": 3.6468,
+      "height": 1.9545,
+      "text": "safi"
+    },
+    {
+      "index": 71,
+      "left": 62.7486,
+      "top": 86.5659,
+      "width": 7.6513,
+      "height": 1.9545,
+      "text": "salama"
+    },
+    {
+      "index": 72,
+      "left": 57.6212,
+      "top": 62.1739,
+      "width": 1.4911,
+      "height": 2.1717,
+      "text": "5"
+    },
+    {
+      "index": 73,
+      "left": 18.7224,
+      "top": 62.2509,
+      "width": 1.4911,
+      "height": 2.1717,
+      "text": "4"
+    },
+    {
+      "index": 74,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 75,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 76,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 77,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 78,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 79,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "12"
+    },
+    {
+      "index": 80,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 81,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg018_n0001",
+      "text": "3."
+    },
+    {
+      "id": "pg018_n0002",
+      "text": "Eleza sababu ya kutunza chakula kwa kukining’iniza."
+    },
+    {
+      "id": "pg018_n0003",
+      "text": "4."
+    },
+    {
+      "id": "pg018_n0004",
+      "text": "Orodhesha vifaa vinavyotumika kutunza chakula."
+    },
+    {
+      "id": "pg018_n0005",
+      "text": "5."
+    },
+    {
+      "id": "pg018_n0006",
+      "text": "Taja njia nyingine mbili za kutunza chakula."
+    },
+    {
+      "id": "pg018_n0007",
+      "text": "Maji safi na salama"
+    },
+    {
+      "id": "pg018_n0008",
+      "text": "Maji ni muhimu katika maisha."
+    },
+    {
+      "id": "pg018_n0009",
+      "text": "Unaweza kupata maji kutoka"
+    },
+    {
+      "id": "pg018_n0010",
+      "text": "sehemu mbalimbali."
+    },
+    {
+      "id": "pg018_n0011",
+      "text": "Sehemu hizo ni kama mito, mabomba na"
+    },
+    {
+      "id": "pg018_n0012",
+      "text": "visima."
+    },
+    {
+      "id": "pg018_n0013",
+      "text": "Hatua za kupata maji safi na salama"
+    },
+    {
+      "id": "pg018_n0014",
+      "text": "1 2 3"
+    },
+    {
+      "id": "pg018_n0015",
+      "text": "Kuchemsha maji Maji yanapoa"
+    },
+    {
+      "id": "pg018_n0016",
+      "text": "Kuchuja maji"
+    },
+    {
+      "id": "pg018_n0017",
+      "text": "4 5"
+    },
+    {
+      "id": "pg018_n0018",
+      "text": "Kuhifadhi maji kwenye Kunywa maji safi na"
+    },
+    {
+      "id": "pg018_n0019",
+      "text": "chombo safi salama"
+    },
+    {
+      "id": "pg018_n0020",
+      "text": "12"
+    },
+    {
+      "id": "pg018_n0021",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 12 23/07/2021 15:41"
+    }
+  ]
+}

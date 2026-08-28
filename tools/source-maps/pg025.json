@@ -1,0 +1,342 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "19"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "19"
+    },
+    {
+      "index": 2,
+      "left": 17.5014,
+      "top": 57.4022,
+      "width": 1.5987,
+      "height": 2.3284,
+      "text": "3"
+    },
+    {
+      "index": 3,
+      "left": 56.9615,
+      "top": 57.4022,
+      "width": 1.5987,
+      "height": 2.3284,
+      "text": "4"
+    },
+    {
+      "index": 4,
+      "left": 22.7076,
+      "top": 85.8721,
+      "width": 10.3566,
+      "height": 2.0103,
+      "text": "Kusafisha"
+    },
+    {
+      "index": 5,
+      "left": 33.9521,
+      "top": 85.8721,
+      "width": 5.3055,
+      "height": 2.0103,
+      "text": "ulimi"
+    },
+    {
+      "index": 6,
+      "left": 53.2757,
+      "top": 85.8721,
+      "width": 11.5101,
+      "height": 2.0103,
+      "text": "Kusukutua"
+    },
+    {
+      "index": 7,
+      "left": 65.6737,
+      "top": 85.8721,
+      "width": 4.5504,
+      "height": 2.0103,
+      "text": "kwa"
+    },
+    {
+      "index": 8,
+      "left": 71.112,
+      "top": 85.8721,
+      "width": 4.6444,
+      "height": 2.0103,
+      "text": "maji"
+    },
+    {
+      "index": 9,
+      "left": 76.6444,
+      "top": 85.8721,
+      "width": 3.7509,
+      "height": 2.0103,
+      "text": "safi"
+    },
+    {
+      "index": 10,
+      "left": 62.459,
+      "top": 87.7707,
+      "width": 2.7717,
+      "height": 2.0103,
+      "text": "na"
+    },
+    {
+      "index": 11,
+      "left": 66.1187,
+      "top": 87.7707,
+      "width": 7.8698,
+      "height": 2.0103,
+      "text": "salama"
+    },
+    {
+      "index": 12,
+      "left": 15.5086,
+      "top": 9.6877,
+      "width": 9.3226,
+      "height": 2.4146,
+      "text": "Hatua"
+    },
+    {
+      "index": 13,
+      "left": 25.8645,
+      "top": 9.6877,
+      "width": 3.3456,
+      "height": 2.4146,
+      "text": "za"
+    },
+    {
+      "index": 14,
+      "left": 30.2434,
+      "top": 9.6877,
+      "width": 14.9042,
+      "height": 2.4146,
+      "text": "kusafisha"
+    },
+    {
+      "index": 15,
+      "left": 46.1809,
+      "top": 9.6877,
+      "width": 11.2862,
+      "height": 2.4146,
+      "text": "kinywa"
+    },
+    {
+      "index": 16,
+      "left": 17.5751,
+      "top": 14.4769,
+      "width": 1.6579,
+      "height": 2.4146,
+      "text": "1"
+    },
+    {
+      "index": 17,
+      "left": 16.4292,
+      "top": 28.7968,
+      "width": 8.8875,
+      "height": 2.0842,
+      "text": "Kuweka"
+    },
+    {
+      "index": 18,
+      "left": 26.2373,
+      "top": 28.7968,
+      "width": 6.3437,
+      "height": 2.0842,
+      "text": "dawa"
+    },
+    {
+      "index": 19,
+      "left": 33.5016,
+      "top": 28.7968,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 20,
+      "left": 37.2528,
+      "top": 28.7968,
+      "width": 6.2519,
+      "height": 2.0842,
+      "text": "meno"
+    },
+    {
+      "index": 21,
+      "left": 44.4253,
+      "top": 28.7968,
+      "width": 8.6151,
+      "height": 2.0842,
+      "text": "kwenye"
+    },
+    {
+      "index": 22,
+      "left": 53.961,
+      "top": 28.7968,
+      "width": 8.5548,
+      "height": 2.0842,
+      "text": "mswaki"
+    },
+    {
+      "index": 23,
+      "left": 16.5751,
+      "top": 35.5944,
+      "width": 1.6579,
+      "height": 2.4146,
+      "text": "2"
+    },
+    {
+      "index": 24,
+      "left": 22.4989,
+      "top": 35.5293,
+      "width": 1.6678,
+      "height": 2.4146,
+      "text": "a"
+    },
+    {
+      "index": 25,
+      "left": 42.297,
+      "top": 35.5293,
+      "width": 1.6612,
+      "height": 2.4146,
+      "text": "b"
+    },
+    {
+      "index": 26,
+      "left": 64.9424,
+      "top": 35.5293,
+      "width": 1.3389,
+      "height": 2.4146,
+      "text": "c"
+    },
+    {
+      "index": 27,
+      "left": 43.3154,
+      "top": 50.5456,
+      "width": 9.7163,
+      "height": 2.0842,
+      "text": "Kusugua"
+    },
+    {
+      "index": 28,
+      "left": 53.9523,
+      "top": 50.5456,
+      "width": 6.2519,
+      "height": 2.0842,
+      "text": "meno"
+    },
+    {
+      "index": 29,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 30,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 31,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 32,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 33,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 34,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "19"
+    },
+    {
+      "index": 35,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 36,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg025_n0001",
+      "text": "H a t u a z a kus a fisha kinywa"
+    },
+    {
+      "id": "pg025_n0002",
+      "text": "1"
+    },
+    {
+      "id": "pg025_n0003",
+      "text": "Kuweka dawa ya meno kwenye mswaki"
+    },
+    {
+      "id": "pg025_n0004",
+      "text": "2 a b c"
+    },
+    {
+      "id": "pg025_n0005",
+      "text": "Kusugua meno"
+    },
+    {
+      "id": "pg025_n0006",
+      "text": "3 4"
+    },
+    {
+      "id": "pg025_n0007",
+      "text": "Kusafisha ulimi Kusukutua kwa maji safi"
+    },
+    {
+      "id": "pg025_n0008",
+      "text": "na salama"
+    },
+    {
+      "id": "pg025_n0009",
+      "text": "1199"
+    },
+    {
+      "id": "pg025_n0010",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 19 23/07/2021 15:41"
+    }
+  ]
+}

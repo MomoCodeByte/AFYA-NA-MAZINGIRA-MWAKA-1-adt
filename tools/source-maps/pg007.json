@@ -1,0 +1,378 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.6441,
+      "top": 92.3399,
+      "width": 1.2522,
+      "height": 1.8237,
+      "text": "11"
+    },
+    {
+      "index": 1,
+      "left": 25.0092,
+      "top": 8.859,
+      "width": 12.3165,
+      "height": 4.947,
+      "text": "Sura"
+    },
+    {
+      "index": 2,
+      "left": 39.2457,
+      "top": 8.859,
+      "width": 6.9516,
+      "height": 4.947,
+      "text": "ya"
+    },
+    {
+      "index": 3,
+      "left": 48.1172,
+      "top": 8.859,
+      "width": 22.0585,
+      "height": 4.947,
+      "text": "Kwanza"
+    },
+    {
+      "index": 4,
+      "left": 36.5774,
+      "top": 16.7387,
+      "width": 8.2529,
+      "height": 2.5792,
+      "text": "Mwili"
+    },
+    {
+      "index": 5,
+      "left": 45.8314,
+      "top": 16.7387,
+      "width": 4.3936,
+      "height": 2.5792,
+      "text": "wa"
+    },
+    {
+      "index": 6,
+      "left": 51.226,
+      "top": 16.7387,
+      "width": 14.7967,
+      "height": 2.5792,
+      "text": "binadamu"
+    },
+    {
+      "index": 7,
+      "left": 15.5094,
+      "top": 23.28,
+      "width": 14.8365,
+      "height": 2.5012,
+      "text": "Utangulizi"
+    },
+    {
+      "index": 8,
+      "left": 15.5094,
+      "top": 26.8744,
+      "width": 7.2184,
+      "height": 2.0842,
+      "text": "Katika"
+    },
+    {
+      "index": 9,
+      "left": 23.5795,
+      "top": 26.8744,
+      "width": 4.9098,
+      "height": 2.0842,
+      "text": "sura"
+    },
+    {
+      "index": 10,
+      "left": 29.3411,
+      "top": 26.8744,
+      "width": 2.7216,
+      "height": 2.0842,
+      "text": "hii"
+    },
+    {
+      "index": 11,
+      "left": 32.9144,
+      "top": 26.8744,
+      "width": 11.3137,
+      "height": 2.0842,
+      "text": "utajifunza"
+    },
+    {
+      "index": 12,
+      "left": 45.0799,
+      "top": 26.8744,
+      "width": 8.0903,
+      "height": 2.0842,
+      "text": "kuhusu"
+    },
+    {
+      "index": 13,
+      "left": 54.0219,
+      "top": 26.8744,
+      "width": 6.0512,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 14,
+      "left": 60.9249,
+      "top": 26.8744,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 15,
+      "left": 65.2009,
+      "top": 26.8744,
+      "width": 21.8876,
+      "height": 2.0842,
+      "text": "binadamu.Utabaini"
+    },
+    {
+      "index": 16,
+      "left": 15.5094,
+      "top": 29.4797,
+      "width": 8.5692,
+      "height": 2.0842,
+      "text": "sehemu"
+    },
+    {
+      "index": 17,
+      "left": 25.154,
+      "top": 29.4797,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 18,
+      "left": 28.7847,
+      "top": 29.4797,
+      "width": 3.2923,
+      "height": 2.0842,
+      "text": "nje"
+    },
+    {
+      "index": 19,
+      "left": 33.1525,
+      "top": 29.4797,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 20,
+      "left": 36.7832,
+      "top": 29.4797,
+      "width": 6.0512,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 21,
+      "left": 43.9098,
+      "top": 29.4797,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 22,
+      "left": 48.4095,
+      "top": 29.4797,
+      "width": 12.1741,
+      "height": 2.0842,
+      "text": "binadamu."
+    },
+    {
+      "index": 23,
+      "left": 61.6591,
+      "top": 29.4797,
+      "width": 8.0128,
+      "height": 2.0842,
+      "text": "Vilevile"
+    },
+    {
+      "index": 24,
+      "left": 70.7473,
+      "top": 29.4797,
+      "width": 10.766,
+      "height": 2.0842,
+      "text": "utaelezea"
+    },
+    {
+      "index": 25,
+      "left": 82.5888,
+      "top": 29.4797,
+      "width": 4.4939,
+      "height": 2.0842,
+      "text": "kazi"
+    },
+    {
+      "index": 26,
+      "left": 15.5094,
+      "top": 32.085,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 27,
+      "left": 18.9852,
+      "top": 32.085,
+      "width": 8.5692,
+      "height": 2.0842,
+      "text": "sehemu"
+    },
+    {
+      "index": 28,
+      "left": 28.475,
+      "top": 32.085,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 29,
+      "left": 31.9508,
+      "top": 32.085,
+      "width": 3.2923,
+      "height": 2.0842,
+      "text": "nje"
+    },
+    {
+      "index": 30,
+      "left": 36.1637,
+      "top": 32.085,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 31,
+      "left": 39.6396,
+      "top": 32.085,
+      "width": 6.0512,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 32,
+      "left": 46.6114,
+      "top": 32.085,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 33,
+      "left": 50.9562,
+      "top": 32.085,
+      "width": 12.1741,
+      "height": 2.0842,
+      "text": "binadamu."
+    },
+    {
+      "index": 34,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 35,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 36,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 37,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 38,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 39,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 0.598,
+      "height": 0.7816,
+      "text": "1"
+    },
+    {
+      "index": 40,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 41,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg007_n0001",
+      "text": "Sura ya Kwanza"
+    },
+    {
+      "id": "pg007_n0002",
+      "text": "Mwili wa binadamu"
+    },
+    {
+      "id": "pg007_n0003",
+      "text": "Utangulizi"
+    },
+    {
+      "id": "pg007_n0004",
+      "text": "Katika sura hii utajifunza kuhusu mwili wa binadamu.Utabaini"
+    },
+    {
+      "id": "pg007_n0005",
+      "text": "sehemu za nje za mwili wa binadamu."
+    },
+    {
+      "id": "pg007_n0006",
+      "text": "Vilevile utaelezea kazi"
+    },
+    {
+      "id": "pg007_n0007",
+      "text": "za sehemu za nje za mwili wa binadamu."
+    },
+    {
+      "id": "pg007_n0008",
+      "text": "11"
+    },
+    {
+      "id": "pg007_n0009",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 1 23/07/2021 15:41"
+    }
+  ]
+}

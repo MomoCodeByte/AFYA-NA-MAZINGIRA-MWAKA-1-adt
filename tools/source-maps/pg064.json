@@ -1,0 +1,482 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 47.4776,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "58"
+    },
+    {
+      "index": 1,
+      "left": 20.0626,
+      "top": 9.5764,
+      "width": 7.3244,
+      "height": 2.5012,
+      "text": "Zoezi"
+    },
+    {
+      "index": 2,
+      "left": 28.3601,
+      "top": 9.5764,
+      "width": 2.747,
+      "height": 2.5012,
+      "text": "la"
+    },
+    {
+      "index": 3,
+      "left": 32.0801,
+      "top": 9.5764,
+      "width": 1.5612,
+      "height": 2.5012,
+      "text": "1"
+    },
+    {
+      "index": 4,
+      "left": 12.5345,
+      "top": 12.9103,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "1."
+    },
+    {
+      "index": 5,
+      "left": 17.731,
+      "top": 12.9103,
+      "width": 4.8668,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 6,
+      "left": 23.5184,
+      "top": 12.9103,
+      "width": 11.2564,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 7,
+      "left": 35.6954,
+      "top": 12.9103,
+      "width": 11.9963,
+      "height": 2.0842,
+      "text": "wafugwao"
+    },
+    {
+      "index": 8,
+      "left": 48.6122,
+      "top": 12.9103,
+      "width": 12.0795,
+      "height": 2.0842,
+      "text": "nyumbani."
+    },
+    {
+      "index": 9,
+      "left": 12.5345,
+      "top": 15.6243,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "2."
+    },
+    {
+      "index": 10,
+      "left": 17.731,
+      "top": 15.6243,
+      "width": 4.8668,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 11,
+      "left": 23.5184,
+      "top": 15.6243,
+      "width": 5.8533,
+      "height": 2.0842,
+      "text": "faida"
+    },
+    {
+      "index": 12,
+      "left": 30.2923,
+      "top": 15.6243,
+      "width": 4.124,
+      "height": 2.0842,
+      "text": "nne"
+    },
+    {
+      "index": 13,
+      "left": 35.3369,
+      "top": 15.6243,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 14,
+      "left": 38.8127,
+      "top": 15.6243,
+      "width": 11.2564,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 15,
+      "left": 50.9897,
+      "top": 15.6243,
+      "width": 12.7362,
+      "height": 2.0842,
+      "text": "wafugwao."
+    },
+    {
+      "index": 16,
+      "left": 12.5345,
+      "top": 18.3383,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "3."
+    },
+    {
+      "index": 17,
+      "left": 17.731,
+      "top": 18.3383,
+      "width": 4.8668,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 18,
+      "left": 23.5184,
+      "top": 18.3383,
+      "width": 11.2564,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 19,
+      "left": 35.6954,
+      "top": 18.3383,
+      "width": 14.4454,
+      "height": 2.0842,
+      "text": "wasiofugwa."
+    },
+    {
+      "index": 20,
+      "left": 12.5345,
+      "top": 21.0523,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "4."
+    },
+    {
+      "index": 21,
+      "left": 17.731,
+      "top": 21.0523,
+      "width": 5.8046,
+      "height": 2.0842,
+      "text": "Eleza"
+    },
+    {
+      "index": 22,
+      "left": 24.4562,
+      "top": 21.0523,
+      "width": 5.8533,
+      "height": 2.0842,
+      "text": "faida"
+    },
+    {
+      "index": 23,
+      "left": 31.2301,
+      "top": 21.0523,
+      "width": 5.5006,
+      "height": 2.0842,
+      "text": "mbili"
+    },
+    {
+      "index": 24,
+      "left": 37.6512,
+      "top": 21.0523,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 25,
+      "left": 41.1271,
+      "top": 21.0523,
+      "width": 11.2564,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 26,
+      "left": 53.3041,
+      "top": 21.0523,
+      "width": 14.4454,
+      "height": 2.0842,
+      "text": "wasiofugwa."
+    },
+    {
+      "index": 27,
+      "left": 12.5345,
+      "top": 23.7663,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "5."
+    },
+    {
+      "index": 28,
+      "left": 17.731,
+      "top": 23.7663,
+      "width": 4.8668,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 29,
+      "left": 25.5488,
+      "top": 23.7663,
+      "width": 11.2564,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 30,
+      "left": 39.7562,
+      "top": 23.7663,
+      "width": 13.7055,
+      "height": 2.0842,
+      "text": "wasiofugwa"
+    },
+    {
+      "index": 31,
+      "left": 56.4128,
+      "top": 23.7663,
+      "width": 17.7779,
+      "height": 2.0842,
+      "text": "wanaopatikana"
+    },
+    {
+      "index": 32,
+      "left": 77.1418,
+      "top": 23.7663,
+      "width": 7.032,
+      "height": 2.0842,
+      "text": "katika"
+    },
+    {
+      "index": 33,
+      "left": 17.7325,
+      "top": 26.1111,
+      "width": 11.2506,
+      "height": 2.0842,
+      "text": "mazingira"
+    },
+    {
+      "index": 34,
+      "left": 29.9037,
+      "top": 26.1111,
+      "width": 6.2978,
+      "height": 2.0842,
+      "text": "yako."
+    },
+    {
+      "index": 35,
+      "left": 12.5345,
+      "top": 31.0969,
+      "width": 8.7871,
+      "height": 2.0842,
+      "text": "Mimea"
+    },
+    {
+      "index": 36,
+      "left": 22.2135,
+      "top": 31.0969,
+      "width": 3.2292,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 37,
+      "left": 26.3346,
+      "top": 31.0969,
+      "width": 5.7845,
+      "height": 2.0842,
+      "text": "aina"
+    },
+    {
+      "index": 38,
+      "left": 33.011,
+      "top": 31.0969,
+      "width": 14.9817,
+      "height": 2.0842,
+      "text": "mbalimbali"
+    },
+    {
+      "index": 39,
+      "left": 18.7776,
+      "top": 86.5519,
+      "width": 13.5087,
+      "height": 2.3448,
+      "text": "biringanya"
+    },
+    {
+      "index": 40,
+      "left": 59.7103,
+      "top": 86.5519,
+      "width": 8.6692,
+      "height": 2.3448,
+      "text": "mbuyu"
+    },
+    {
+      "index": 41,
+      "left": 16.943,
+      "top": 55.3346,
+      "width": 10.3017,
+      "height": 2.3448,
+      "text": "mpunga"
+    },
+    {
+      "index": 42,
+      "left": 62.6669,
+      "top": 55.3346,
+      "width": 7.3109,
+      "height": 2.3448,
+      "text": "alizeti"
+    },
+    {
+      "index": 43,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 44,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 45,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 46,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 47,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 48,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "58"
+    },
+    {
+      "index": 49,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 50,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:42"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg064_n0001",
+      "text": "Zoezi la 1"
+    },
+    {
+      "id": "pg064_n0002",
+      "text": "1."
+    },
+    {
+      "id": "pg064_n0003",
+      "text": "Taja wanyama wafugwao nyumbani."
+    },
+    {
+      "id": "pg064_n0004",
+      "text": "2."
+    },
+    {
+      "id": "pg064_n0005",
+      "text": "Taja faida nne za wanyama wafugwao."
+    },
+    {
+      "id": "pg064_n0006",
+      "text": "3."
+    },
+    {
+      "id": "pg064_n0007",
+      "text": "Taja wanyama wasiofugwa."
+    },
+    {
+      "id": "pg064_n0008",
+      "text": "4."
+    },
+    {
+      "id": "pg064_n0009",
+      "text": "Eleza faida mbili za wanyama wasiofugwa."
+    },
+    {
+      "id": "pg064_n0010",
+      "text": "5."
+    },
+    {
+      "id": "pg064_n0011",
+      "text": "Taja wanyama wasiofugwa wanaopatikana katika"
+    },
+    {
+      "id": "pg064_n0012",
+      "text": "mazingira yako."
+    },
+    {
+      "id": "pg064_n0013",
+      "text": "Mimea ya aina mbalimbali"
+    },
+    {
+      "id": "pg064_n0014",
+      "text": "mpunga alizeti"
+    },
+    {
+      "id": "pg064_n0015",
+      "text": "biringanya mbuyu"
+    },
+    {
+      "id": "pg064_n0016",
+      "text": "58"
+    },
+    {
+      "id": "pg064_n0017",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 58 23/07/2021 15:42"
+    }
+  ]
+}

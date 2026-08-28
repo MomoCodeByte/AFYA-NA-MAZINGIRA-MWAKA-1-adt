@@ -1,0 +1,150 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 47.4776,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "48"
+    },
+    {
+      "index": 1,
+      "left": 12.7826,
+      "top": 9.1855,
+      "width": 12.9825,
+      "height": 2.0842,
+      "text": "Mazingira"
+    },
+    {
+      "index": 2,
+      "left": 26.6571,
+      "top": 9.1855,
+      "width": 11.8127,
+      "height": 2.0842,
+      "text": "hatarishi"
+    },
+    {
+      "index": 3,
+      "left": 13.9948,
+      "top": 12.8837,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "1"
+    },
+    {
+      "index": 4,
+      "left": 53.1781,
+      "top": 12.9063,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "2"
+    },
+    {
+      "index": 5,
+      "left": 13.9947,
+      "top": 45.6773,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "3"
+    },
+    {
+      "index": 6,
+      "left": 50.831,
+      "top": 45.1234,
+      "width": 1.5205,
+      "height": 2.2145,
+      "text": "4"
+    },
+    {
+      "index": 7,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 8,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 9,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 10,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 11,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 12,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "48"
+    },
+    {
+      "index": 13,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 14,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:42"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg054_n0001",
+      "text": "Mazingira hatarishi"
+    },
+    {
+      "id": "pg054_n0002",
+      "text": "1 2"
+    },
+    {
+      "id": "pg054_n0003",
+      "text": "4"
+    },
+    {
+      "id": "pg054_n0004",
+      "text": "3"
+    },
+    {
+      "id": "pg054_n0005",
+      "text": "48"
+    },
+    {
+      "id": "pg054_n0006",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 48 23/07/2021 15:42"
+    }
+  ]
+}

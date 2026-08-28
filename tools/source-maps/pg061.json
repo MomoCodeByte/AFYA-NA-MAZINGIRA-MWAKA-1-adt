@@ -1,0 +1,546 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "55"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "55"
+    },
+    {
+      "index": 2,
+      "left": 31.9685,
+      "top": 7.9143,
+      "width": 12.3165,
+      "height": 4.947,
+      "text": "Sura"
+    },
+    {
+      "index": 3,
+      "left": 46.205,
+      "top": 7.9143,
+      "width": 6.9516,
+      "height": 4.947,
+      "text": "ya"
+    },
+    {
+      "index": 4,
+      "left": 55.0766,
+      "top": 7.9143,
+      "width": 13.1684,
+      "height": 4.947,
+      "text": "Tano"
+    },
+    {
+      "index": 5,
+      "left": 30.8471,
+      "top": 15.7565,
+      "width": 10.6125,
+      "height": 2.4735,
+      "text": "Viumbe"
+    },
+    {
+      "index": 6,
+      "left": 42.4197,
+      "top": 15.7565,
+      "width": 4.4636,
+      "height": 2.4735,
+      "text": "hai"
+    },
+    {
+      "index": 7,
+      "left": 47.8432,
+      "top": 15.7565,
+      "width": 9.2605,
+      "height": 2.4735,
+      "text": "katika"
+    },
+    {
+      "index": 8,
+      "left": 58.0637,
+      "top": 15.7565,
+      "width": 14.0451,
+      "height": 2.4735,
+      "text": "mazingira"
+    },
+    {
+      "index": 9,
+      "left": 15.6575,
+      "top": 21.1122,
+      "width": 14.8365,
+      "height": 2.5012,
+      "text": "Utangulizi"
+    },
+    {
+      "index": 10,
+      "left": 15.6575,
+      "top": 23.7076,
+      "width": 7.2184,
+      "height": 2.0842,
+      "text": "Katika"
+    },
+    {
+      "index": 11,
+      "left": 23.7134,
+      "top": 23.7076,
+      "width": 4.9098,
+      "height": 2.0842,
+      "text": "sura"
+    },
+    {
+      "index": 12,
+      "left": 29.4606,
+      "top": 23.7076,
+      "width": 2.7216,
+      "height": 2.0842,
+      "text": "hii"
+    },
+    {
+      "index": 13,
+      "left": 33.0196,
+      "top": 23.7076,
+      "width": 11.3137,
+      "height": 2.0842,
+      "text": "utajifunza"
+    },
+    {
+      "index": 14,
+      "left": 45.1707,
+      "top": 23.7076,
+      "width": 8.0903,
+      "height": 2.0842,
+      "text": "kuhusu"
+    },
+    {
+      "index": 15,
+      "left": 54.0984,
+      "top": 23.7076,
+      "width": 8.1935,
+      "height": 2.0842,
+      "text": "viumbe"
+    },
+    {
+      "index": 16,
+      "left": 63.1293,
+      "top": 23.7076,
+      "width": 4.2559,
+      "height": 2.0842,
+      "text": "hai."
+    },
+    {
+      "index": 17,
+      "left": 68.2227,
+      "top": 23.7076,
+      "width": 9.9113,
+      "height": 2.0842,
+      "text": "Utaweza"
+    },
+    {
+      "index": 18,
+      "left": 78.9714,
+      "top": 23.7076,
+      "width": 8.3254,
+      "height": 2.0842,
+      "text": "kubaini"
+    },
+    {
+      "index": 19,
+      "left": 15.6575,
+      "top": 26.0524,
+      "width": 4.9585,
+      "height": 2.0842,
+      "text": "aina"
+    },
+    {
+      "index": 20,
+      "left": 22.0471,
+      "top": 26.0524,
+      "width": 12.5899,
+      "height": 2.0842,
+      "text": "mbalimbali"
+    },
+    {
+      "index": 21,
+      "left": 36.0681,
+      "top": 26.0524,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 22,
+      "left": 40.3298,
+      "top": 26.0524,
+      "width": 11.2564,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 23,
+      "left": 53.0172,
+      "top": 26.0524,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 24,
+      "left": 57.3219,
+      "top": 26.0524,
+      "width": 8.3369,
+      "height": 2.0842,
+      "text": "mimea,"
+    },
+    {
+      "index": 25,
+      "left": 67.0899,
+      "top": 26.0524,
+      "width": 8.0128,
+      "height": 2.0842,
+      "text": "Vilevile"
+    },
+    {
+      "index": 26,
+      "left": 76.5337,
+      "top": 26.0524,
+      "width": 10.766,
+      "height": 2.0842,
+      "text": "utaelezea"
+    },
+    {
+      "index": 27,
+      "left": 15.6575,
+      "top": 28.3971,
+      "width": 5.8533,
+      "height": 2.0842,
+      "text": "faida"
+    },
+    {
+      "index": 28,
+      "left": 22.3841,
+      "top": 28.3971,
+      "width": 2.5553,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 29,
+      "left": 25.8141,
+      "top": 28.3971,
+      "width": 11.2564,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 30,
+      "left": 37.9437,
+      "top": 28.3971,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 31,
+      "left": 41.692,
+      "top": 28.3971,
+      "width": 7.597,
+      "height": 2.0842,
+      "text": "mimea"
+    },
+    {
+      "index": 32,
+      "left": 50.1623,
+      "top": 28.3971,
+      "width": 7.032,
+      "height": 2.0842,
+      "text": "katika"
+    },
+    {
+      "index": 33,
+      "left": 58.0675,
+      "top": 28.3971,
+      "width": 8.1476,
+      "height": 2.0842,
+      "text": "maisha"
+    },
+    {
+      "index": 34,
+      "left": 67.0899,
+      "top": 28.3971,
+      "width": 5.5579,
+      "height": 2.0842,
+      "text": "yako"
+    },
+    {
+      "index": 35,
+      "left": 73.521,
+      "top": 28.3971,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 36,
+      "left": 77.2263,
+      "top": 28.3971,
+      "width": 4.0265,
+      "height": 2.0842,
+      "text": "kila"
+    },
+    {
+      "index": 37,
+      "left": 82.1261,
+      "top": 28.3971,
+      "width": 5.1765,
+      "height": 2.0842,
+      "text": "siku."
+    },
+    {
+      "index": 38,
+      "left": 15.6575,
+      "top": 65.4054,
+      "width": 5.5149,
+      "height": 2.0842,
+      "text": "Kazi"
+    },
+    {
+      "index": 39,
+      "left": 22.0643,
+      "top": 65.4054,
+      "width": 3.2292,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 40,
+      "left": 26.1855,
+      "top": 65.4054,
+      "width": 10.9725,
+      "height": 2.0842,
+      "text": "kufanya"
+    },
+    {
+      "index": 41,
+      "left": 15.6575,
+      "top": 68.8017,
+      "width": 7.0607,
+      "height": 2.0842,
+      "text": "Elezea"
+    },
+    {
+      "index": 42,
+      "left": 23.6388,
+      "top": 68.8017,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 43,
+      "left": 29.277,
+      "top": 68.8017,
+      "width": 6.3007,
+      "height": 2.0842,
+      "text": "kifupi"
+    },
+    {
+      "index": 44,
+      "left": 36.4983,
+      "top": 68.8017,
+      "width": 4.2961,
+      "height": 2.0842,
+      "text": "vitu"
+    },
+    {
+      "index": 45,
+      "left": 41.715,
+      "top": 68.8017,
+      "width": 14.6777,
+      "height": 2.0842,
+      "text": "unavyoviona"
+    },
+    {
+      "index": 46,
+      "left": 57.3133,
+      "top": 68.8017,
+      "width": 7.032,
+      "height": 2.0842,
+      "text": "katika"
+    },
+    {
+      "index": 47,
+      "left": 65.2659,
+      "top": 68.8017,
+      "width": 6.1057,
+      "height": 2.0842,
+      "text": "picha"
+    },
+    {
+      "index": 48,
+      "left": 15.6575,
+      "top": 72.6797,
+      "width": 13.4876,
+      "height": 2.0842,
+      "text": "Kutambua"
+    },
+    {
+      "index": 49,
+      "left": 30.037,
+      "top": 72.6797,
+      "width": 12.8994,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 50,
+      "left": 43.8283,
+      "top": 72.6797,
+      "width": 14.9817,
+      "height": 2.0842,
+      "text": "mbalimbali"
+    },
+    {
+      "index": 51,
+      "left": 21.9395,
+      "top": 86.8495,
+      "width": 6.3559,
+      "height": 2.5792,
+      "text": "Paka"
+    },
+    {
+      "index": 52,
+      "left": 60.6557,
+      "top": 86.8495,
+      "width": 6.5043,
+      "height": 2.5792,
+      "text": "Mjusi"
+    },
+    {
+      "index": 53,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 54,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 55,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 56,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 57,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 58,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "55"
+    },
+    {
+      "index": 59,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 60,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:42"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg061_n0001",
+      "text": "Sura ya Tano"
+    },
+    {
+      "id": "pg061_n0002",
+      "text": "Viumbe hai katika mazingira"
+    },
+    {
+      "id": "pg061_n0003",
+      "text": "Utangulizi"
+    },
+    {
+      "id": "pg061_n0004",
+      "text": "Katika sura hii utajifunza kuhusu viumbe hai."
+    },
+    {
+      "id": "pg061_n0005",
+      "text": "Utaweza kubaini"
+    },
+    {
+      "id": "pg061_n0006",
+      "text": "aina mbalimbali ya wanyama na mimea, Vilevile utaelezea"
+    },
+    {
+      "id": "pg061_n0007",
+      "text": "faida za wanyama na mimea katika maisha yako ya kila siku."
+    },
+    {
+      "id": "pg061_n0008",
+      "text": "Kazi ya kufanya"
+    },
+    {
+      "id": "pg061_n0009",
+      "text": "Elezea kwa kifupi vitu unavyoviona katika picha"
+    },
+    {
+      "id": "pg061_n0010",
+      "text": "Kutambua wanyama mbalimbali"
+    },
+    {
+      "id": "pg061_n0011",
+      "text": "Paka Mjusi"
+    },
+    {
+      "id": "pg061_n0012",
+      "text": "5555"
+    },
+    {
+      "id": "pg061_n0013",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 55 23/07/2021 15:42"
+    }
+  ]
+}

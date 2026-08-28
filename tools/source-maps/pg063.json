@@ -1,0 +1,202 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "57"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "57"
+    },
+    {
+      "index": 2,
+      "left": 15.9802,
+      "top": 39.2302,
+      "width": 7.3848,
+      "height": 2.0842,
+      "text": "Jadili"
+    },
+    {
+      "index": 3,
+      "left": 24.2568,
+      "top": 39.2302,
+      "width": 3.2837,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 4,
+      "left": 28.4324,
+      "top": 39.2302,
+      "width": 11.563,
+      "height": 2.0842,
+      "text": "wenzako"
+    },
+    {
+      "index": 5,
+      "left": 40.8873,
+      "top": 39.2302,
+      "width": 4.9385,
+      "height": 2.0842,
+      "text": "sifa"
+    },
+    {
+      "index": 6,
+      "left": 46.7177,
+      "top": 39.2302,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 7,
+      "left": 50.4975,
+      "top": 39.2302,
+      "width": 12.8991,
+      "height": 2.0842,
+      "text": "wanyama"
+    },
+    {
+      "index": 8,
+      "left": 64.2885,
+      "top": 39.2302,
+      "width": 13.5389,
+      "height": 2.0842,
+      "text": "wafuatao:"
+    },
+    {
+      "index": 9,
+      "left": 27.125,
+      "top": 10.221,
+      "width": 2.6133,
+      "height": 2.5792,
+      "text": "3."
+    },
+    {
+      "index": 10,
+      "left": 21.2489,
+      "top": 28.2836,
+      "width": 2.6133,
+      "height": 2.5792,
+      "text": "5."
+    },
+    {
+      "index": 11,
+      "left": 61.4025,
+      "top": 10.221,
+      "width": 2.6133,
+      "height": 2.5792,
+      "text": "4."
+    },
+    {
+      "index": 12,
+      "left": 61.4025,
+      "top": 25.745,
+      "width": 2.6133,
+      "height": 2.5792,
+      "text": "6."
+    },
+    {
+      "index": 13,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 14,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 15,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 16,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 17,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 18,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "57"
+    },
+    {
+      "index": 19,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 20,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:42"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg063_n0001",
+      "text": "3."
+    },
+    {
+      "id": "pg063_n0002",
+      "text": "4."
+    },
+    {
+      "id": "pg063_n0003",
+      "text": "6."
+    },
+    {
+      "id": "pg063_n0004",
+      "text": "5."
+    },
+    {
+      "id": "pg063_n0005",
+      "text": "Jadili na wenzako sifa za wanyama wafuatao:"
+    },
+    {
+      "id": "pg063_n0006",
+      "text": "5577"
+    },
+    {
+      "id": "pg063_n0007",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 57 23/07/2021 15:42"
+    }
+  ]
+}

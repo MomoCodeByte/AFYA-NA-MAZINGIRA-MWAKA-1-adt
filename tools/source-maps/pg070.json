@@ -1,0 +1,166 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 47.4776,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "64"
+    },
+    {
+      "index": 1,
+      "left": 12.9096,
+      "top": 9.2778,
+      "width": 7.7375,
+      "height": 2.0842,
+      "text": "Kutoa"
+    },
+    {
+      "index": 2,
+      "left": 22.1915,
+      "top": 9.2778,
+      "width": 10.6914,
+      "height": 2.0842,
+      "text": "huduma"
+    },
+    {
+      "index": 3,
+      "left": 34.4273,
+      "top": 9.2778,
+      "width": 3.2292,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 4,
+      "left": 39.2008,
+      "top": 9.2778,
+      "width": 10.1522,
+      "height": 2.0842,
+      "text": "kwanza"
+    },
+    {
+      "index": 5,
+      "left": 50.8971,
+      "top": 9.2778,
+      "width": 5.6067,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 6,
+      "left": 58.0481,
+      "top": 9.2778,
+      "width": 5.2109,
+      "height": 2.0842,
+      "text": "mtu"
+    },
+    {
+      "index": 7,
+      "left": 64.8034,
+      "top": 9.2778,
+      "width": 14.9184,
+      "height": 2.0842,
+      "text": "aliyenaswa"
+    },
+    {
+      "index": 8,
+      "left": 81.2675,
+      "top": 9.2778,
+      "width": 3.2837,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 9,
+      "left": 12.9096,
+      "top": 11.6226,
+      "width": 9.4066,
+      "height": 2.0842,
+      "text": "umeme"
+    },
+    {
+      "index": 10,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 11,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 12,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 13,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 14,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 15,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "64"
+    },
+    {
+      "index": 16,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 17,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:42"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg070_n0001",
+      "text": "Kutoa huduma ya kwanza kwa mtu aliyenaswa na"
+    },
+    {
+      "id": "pg070_n0002",
+      "text": "umeme"
+    },
+    {
+      "id": "pg070_n0003",
+      "text": "64"
+    },
+    {
+      "id": "pg070_n0004",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 64 23/07/2021 15:42"
+    }
+  ]
+}

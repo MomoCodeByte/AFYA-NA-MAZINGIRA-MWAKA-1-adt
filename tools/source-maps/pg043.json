@@ -1,0 +1,546 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "37"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "37"
+    },
+    {
+      "index": 2,
+      "left": 15.4501,
+      "top": 9.2216,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "1."
+    },
+    {
+      "index": 3,
+      "left": 20.6467,
+      "top": 9.2216,
+      "width": 7.0808,
+      "height": 2.0842,
+      "text": "Funua"
+    },
+    {
+      "index": 4,
+      "left": 28.648,
+      "top": 9.2216,
+      "width": 9.2173,
+      "height": 2.0842,
+      "text": "mfuniko"
+    },
+    {
+      "index": 5,
+      "left": 38.7859,
+      "top": 9.2216,
+      "width": 3.4242,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 6,
+      "left": 43.1307,
+      "top": 9.2216,
+      "width": 6.7022,
+      "height": 2.0842,
+      "text": "shimo"
+    },
+    {
+      "index": 7,
+      "left": 50.7535,
+      "top": 9.2216,
+      "width": 2.0878,
+      "height": 2.0842,
+      "text": "la"
+    },
+    {
+      "index": 8,
+      "left": 53.7619,
+      "top": 9.2216,
+      "width": 5.4547,
+      "height": 2.0842,
+      "text": "choo"
+    },
+    {
+      "index": 9,
+      "left": 60.1372,
+      "top": 9.2216,
+      "width": 6.2548,
+      "height": 2.0842,
+      "text": "kabla"
+    },
+    {
+      "index": 10,
+      "left": 67.3126,
+      "top": 9.2216,
+      "width": 14.1529,
+      "height": 2.0842,
+      "text": "hujakitumia."
+    },
+    {
+      "index": 11,
+      "left": 15.4501,
+      "top": 11.9356,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "2."
+    },
+    {
+      "index": 12,
+      "left": 20.6466,
+      "top": 11.9356,
+      "width": 7.032,
+      "height": 2.0842,
+      "text": "Tumia"
+    },
+    {
+      "index": 13,
+      "left": 28.5992,
+      "top": 11.9356,
+      "width": 5.4547,
+      "height": 2.0842,
+      "text": "choo"
+    },
+    {
+      "index": 14,
+      "left": 34.9745,
+      "top": 11.9356,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 15,
+      "left": 40.6127,
+      "top": 11.9356,
+      "width": 8.0903,
+      "height": 2.0842,
+      "text": "usahihi"
+    },
+    {
+      "index": 16,
+      "left": 49.6236,
+      "top": 11.9356,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 17,
+      "left": 55.2618,
+      "top": 11.9356,
+      "width": 8.9363,
+      "height": 2.0842,
+      "text": "kulenga"
+    },
+    {
+      "index": 18,
+      "left": 65.1186,
+      "top": 11.9356,
+      "width": 7.4421,
+      "height": 2.0842,
+      "text": "shimo."
+    },
+    {
+      "index": 19,
+      "left": 15.4501,
+      "top": 14.6496,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "3."
+    },
+    {
+      "index": 20,
+      "left": 20.6466,
+      "top": 14.6496,
+      "width": 9.441,
+      "height": 2.0842,
+      "text": "Jisafishe"
+    },
+    {
+      "index": 21,
+      "left": 31.9151,
+      "top": 14.6496,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 22,
+      "left": 38.4604,
+      "top": 14.6496,
+      "width": 9.2948,
+      "height": 2.0842,
+      "text": "kutumia"
+    },
+    {
+      "index": 23,
+      "left": 49.5828,
+      "top": 14.6496,
+      "width": 4.8151,
+      "height": 2.0842,
+      "text": "maji"
+    },
+    {
+      "index": 24,
+      "left": 56.2254,
+      "top": 14.6496,
+      "width": 3.8888,
+      "height": 2.0842,
+      "text": "safi"
+    },
+    {
+      "index": 25,
+      "left": 61.9419,
+      "top": 14.6496,
+      "width": 7.2328,
+      "height": 2.0842,
+      "text": "baada"
+    },
+    {
+      "index": 26,
+      "left": 71.0024,
+      "top": 14.6496,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 27,
+      "left": 75.6606,
+      "top": 14.6496,
+      "width": 11.4284,
+      "height": 2.0842,
+      "text": "kujisaidia."
+    },
+    {
+      "index": 28,
+      "left": 20.6481,
+      "top": 16.9944,
+      "width": 8.7527,
+      "height": 2.0842,
+      "text": "Vilevile,"
+    },
+    {
+      "index": 29,
+      "left": 30.2612,
+      "top": 16.9944,
+      "width": 10.1035,
+      "height": 2.0842,
+      "text": "unaweza"
+    },
+    {
+      "index": 30,
+      "left": 41.225,
+      "top": 16.9944,
+      "width": 13.651,
+      "height": 2.0842,
+      "text": "kujipangusa"
+    },
+    {
+      "index": 31,
+      "left": 55.7364,
+      "top": 16.9944,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 32,
+      "left": 61.3144,
+      "top": 16.9944,
+      "width": 9.2948,
+      "height": 2.0842,
+      "text": "kutumia"
+    },
+    {
+      "index": 33,
+      "left": 71.4695,
+      "top": 16.9944,
+      "width": 9.2145,
+      "height": 2.0842,
+      "text": "karatasi"
+    },
+    {
+      "index": 34,
+      "left": 81.5443,
+      "top": 16.9944,
+      "width": 5.5522,
+      "height": 2.0842,
+      "text": "laini."
+    },
+    {
+      "index": 35,
+      "left": 15.4501,
+      "top": 19.7084,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "4."
+    },
+    {
+      "index": 36,
+      "left": 20.6466,
+      "top": 19.7084,
+      "width": 7.5855,
+      "height": 2.0842,
+      "text": "Funika"
+    },
+    {
+      "index": 37,
+      "left": 29.1527,
+      "top": 19.7084,
+      "width": 6.7022,
+      "height": 2.0842,
+      "text": "shimo"
+    },
+    {
+      "index": 38,
+      "left": 36.7755,
+      "top": 19.7084,
+      "width": 2.0878,
+      "height": 2.0842,
+      "text": "la"
+    },
+    {
+      "index": 39,
+      "left": 39.7839,
+      "top": 19.7084,
+      "width": 5.4547,
+      "height": 2.0842,
+      "text": "choo"
+    },
+    {
+      "index": 40,
+      "left": 46.1592,
+      "top": 19.7084,
+      "width": 6.1086,
+      "height": 2.0842,
+      "text": "vizuri"
+    },
+    {
+      "index": 41,
+      "left": 53.1883,
+      "top": 19.7084,
+      "width": 7.2328,
+      "height": 2.0842,
+      "text": "baada"
+    },
+    {
+      "index": 42,
+      "left": 61.3417,
+      "top": 19.7084,
+      "width": 2.8306,
+      "height": 2.0842,
+      "text": "ya"
+    },
+    {
+      "index": 43,
+      "left": 65.0928,
+      "top": 19.7084,
+      "width": 11.4284,
+      "height": 2.0842,
+      "text": "kujisaidia."
+    },
+    {
+      "index": 44,
+      "left": 15.4501,
+      "top": 56.7261,
+      "width": 2.171,
+      "height": 2.0842,
+      "text": "5."
+    },
+    {
+      "index": 45,
+      "left": 20.6466,
+      "top": 56.7261,
+      "width": 6.6649,
+      "height": 2.0842,
+      "text": "Nawa"
+    },
+    {
+      "index": 46,
+      "left": 28.2321,
+      "top": 56.7261,
+      "width": 6.1086,
+      "height": 2.0842,
+      "text": "vizuri"
+    },
+    {
+      "index": 47,
+      "left": 35.2613,
+      "top": 56.7261,
+      "width": 8.3684,
+      "height": 2.0842,
+      "text": "mikono"
+    },
+    {
+      "index": 48,
+      "left": 44.5503,
+      "top": 56.7261,
+      "width": 4.7176,
+      "height": 2.0842,
+      "text": "kwa"
+    },
+    {
+      "index": 49,
+      "left": 50.1885,
+      "top": 56.7261,
+      "width": 4.8151,
+      "height": 2.0842,
+      "text": "maji"
+    },
+    {
+      "index": 50,
+      "left": 55.9243,
+      "top": 56.7261,
+      "width": 3.8888,
+      "height": 2.0842,
+      "text": "safi"
+    },
+    {
+      "index": 51,
+      "left": 60.7337,
+      "top": 56.7261,
+      "width": 2.8736,
+      "height": 2.0842,
+      "text": "na"
+    },
+    {
+      "index": 52,
+      "left": 64.5279,
+      "top": 56.7261,
+      "width": 8.1906,
+      "height": 2.0842,
+      "text": "sabuni."
+    },
+    {
+      "index": 53,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 54,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 55,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 56,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 57,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 58,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "37"
+    },
+    {
+      "index": 59,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 60,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg043_n0001",
+      "text": "1."
+    },
+    {
+      "id": "pg043_n0002",
+      "text": "Funua mfuniko wa shimo la choo kabla hujakitumia."
+    },
+    {
+      "id": "pg043_n0003",
+      "text": "2."
+    },
+    {
+      "id": "pg043_n0004",
+      "text": "Tumia choo kwa usahihi kwa kulenga shimo."
+    },
+    {
+      "id": "pg043_n0005",
+      "text": "3."
+    },
+    {
+      "id": "pg043_n0006",
+      "text": "Jisafishe kwa kutumia maji safi baada ya kujisaidia."
+    },
+    {
+      "id": "pg043_n0007",
+      "text": "Vilevile, unaweza kujipangusa kwa kutumia karatasi laini."
+    },
+    {
+      "id": "pg043_n0008",
+      "text": "4."
+    },
+    {
+      "id": "pg043_n0009",
+      "text": "Funika shimo la choo vizuri baada ya kujisaidia."
+    },
+    {
+      "id": "pg043_n0010",
+      "text": "5."
+    },
+    {
+      "id": "pg043_n0011",
+      "text": "Nawa vizuri mikono kwa maji safi na sabuni."
+    },
+    {
+      "id": "pg043_n0012",
+      "text": "3377"
+    },
+    {
+      "id": "pg043_n0013",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 37 23/07/2021 15:41"
+    }
+  ]
+}

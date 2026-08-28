@@ -1,0 +1,314 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "23"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "23"
+    },
+    {
+      "index": 2,
+      "left": 15.4501,
+      "top": 9.2216,
+      "width": 8.7871,
+      "height": 2.0842,
+      "text": "Vitendo"
+    },
+    {
+      "index": 3,
+      "left": 25.1578,
+      "top": 9.2216,
+      "width": 4.1269,
+      "height": 2.0842,
+      "text": "vya"
+    },
+    {
+      "index": 4,
+      "left": 30.2052,
+      "top": 9.2216,
+      "width": 7.8207,
+      "height": 2.0842,
+      "text": "kukata"
+    },
+    {
+      "index": 5,
+      "left": 38.9465,
+      "top": 9.2216,
+      "width": 6.7538,
+      "height": 2.0842,
+      "text": "kucha"
+    },
+    {
+      "index": 6,
+      "left": 15.6422,
+      "top": 44.5725,
+      "width": 8.042,
+      "height": 2.0933,
+      "text": "Kukata"
+    },
+    {
+      "index": 7,
+      "left": 24.6088,
+      "top": 44.5725,
+      "width": 6.7833,
+      "height": 2.0933,
+      "text": "kucha"
+    },
+    {
+      "index": 8,
+      "left": 32.3167,
+      "top": 44.5725,
+      "width": 4.7382,
+      "height": 2.0933,
+      "text": "kwa"
+    },
+    {
+      "index": 9,
+      "left": 37.9795,
+      "top": 44.5725,
+      "width": 9.3353,
+      "height": 2.0933,
+      "text": "kutumia"
+    },
+    {
+      "index": 10,
+      "left": 15.6422,
+      "top": 47.1892,
+      "width": 7.0627,
+      "height": 2.0933,
+      "text": "kikata"
+    },
+    {
+      "index": 11,
+      "left": 23.6294,
+      "top": 47.1892,
+      "width": 6.7833,
+      "height": 2.0933,
+      "text": "kucha"
+    },
+    {
+      "index": 12,
+      "left": 53.5626,
+      "top": 44.5725,
+      "width": 8.042,
+      "height": 2.0933,
+      "text": "Kukata"
+    },
+    {
+      "index": 13,
+      "left": 62.0395,
+      "top": 44.5725,
+      "width": 6.7833,
+      "height": 2.0933,
+      "text": "kucha"
+    },
+    {
+      "index": 14,
+      "left": 69.2563,
+      "top": 44.5725,
+      "width": 4.7382,
+      "height": 2.0933,
+      "text": "kwa"
+    },
+    {
+      "index": 15,
+      "left": 74.4295,
+      "top": 44.5725,
+      "width": 9.3353,
+      "height": 2.0933,
+      "text": "kutumia"
+    },
+    {
+      "index": 16,
+      "left": 53.5626,
+      "top": 47.1892,
+      "width": 8.0939,
+      "height": 2.0933,
+      "text": "wembe"
+    },
+    {
+      "index": 17,
+      "left": 16.8359,
+      "top": 15.6299,
+      "width": 1.7444,
+      "height": 2.2801,
+      "text": "1"
+    },
+    {
+      "index": 18,
+      "left": 31.4834,
+      "top": 84.2833,
+      "width": 10.7841,
+      "height": 2.0933,
+      "text": "Kusafisha"
+    },
+    {
+      "index": 19,
+      "left": 43.1922,
+      "top": 84.2833,
+      "width": 8.4049,
+      "height": 2.0933,
+      "text": "mikono"
+    },
+    {
+      "index": 20,
+      "left": 52.5217,
+      "top": 84.2833,
+      "width": 4.7382,
+      "height": 2.0933,
+      "text": "kwa"
+    },
+    {
+      "index": 21,
+      "left": 58.1845,
+      "top": 84.2833,
+      "width": 4.8362,
+      "height": 2.0933,
+      "text": "maji"
+    },
+    {
+      "index": 22,
+      "left": 63.9453,
+      "top": 84.2833,
+      "width": 2.8861,
+      "height": 2.0933,
+      "text": "na"
+    },
+    {
+      "index": 23,
+      "left": 67.756,
+      "top": 84.2833,
+      "width": 7.4832,
+      "height": 2.0933,
+      "text": "sabuni"
+    },
+    {
+      "index": 24,
+      "left": 52.8391,
+      "top": 14.9317,
+      "width": 1.7444,
+      "height": 2.2801,
+      "text": "2"
+    },
+    {
+      "index": 25,
+      "left": 34.5606,
+      "top": 55.9781,
+      "width": 1.7444,
+      "height": 2.2801,
+      "text": "3"
+    },
+    {
+      "index": 26,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 27,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 28,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 29,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 30,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 31,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "23"
+    },
+    {
+      "index": 32,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 33,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg029_n0001",
+      "text": "Vitendo vya kukata kucha"
+    },
+    {
+      "id": "pg029_n0002",
+      "text": "2"
+    },
+    {
+      "id": "pg029_n0003",
+      "text": "1"
+    },
+    {
+      "id": "pg029_n0004",
+      "text": "Kukata kucha kwa kutumia Kukata kucha kwa kutumia"
+    },
+    {
+      "id": "pg029_n0005",
+      "text": "kikata kucha wembe"
+    },
+    {
+      "id": "pg029_n0006",
+      "text": "3"
+    },
+    {
+      "id": "pg029_n0007",
+      "text": "Kusafisha mikono kwa maji na sabuni"
+    },
+    {
+      "id": "pg029_n0008",
+      "text": "2233"
+    },
+    {
+      "id": "pg029_n0009",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 23 23/07/2021 15:41"
+    }
+  ]
+}

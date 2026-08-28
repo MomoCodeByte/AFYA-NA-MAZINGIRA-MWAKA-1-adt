@@ -1,0 +1,198 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "15"
+    },
+    {
+      "index": 1,
+      "left": 50.018,
+      "top": 92.3399,
+      "width": 2.5044,
+      "height": 1.8237,
+      "text": "15"
+    },
+    {
+      "index": 2,
+      "left": 15.4501,
+      "top": 9.278,
+      "width": 11.6041,
+      "height": 2.0808,
+      "text": "Madhara"
+    },
+    {
+      "index": 3,
+      "left": 27.9446,
+      "top": 9.278,
+      "width": 3.2238,
+      "height": 2.0808,
+      "text": "ya"
+    },
+    {
+      "index": 4,
+      "left": 32.0588,
+      "top": 9.278,
+      "width": 5.8464,
+      "height": 2.0808,
+      "text": "kula"
+    },
+    {
+      "index": 5,
+      "left": 38.7956,
+      "top": 9.278,
+      "width": 11.7558,
+      "height": 2.0808,
+      "text": "matunda"
+    },
+    {
+      "index": 6,
+      "left": 51.4419,
+      "top": 9.278,
+      "width": 5.0104,
+      "height": 2.0808,
+      "text": "bila"
+    },
+    {
+      "index": 7,
+      "left": 57.3427,
+      "top": 9.278,
+      "width": 12.8438,
+      "height": 2.0808,
+      "text": "kusafisha"
+    },
+    {
+      "index": 8,
+      "left": 17.2309,
+      "top": 12.5602,
+      "width": 1.4287,
+      "height": 2.0808,
+      "text": "1"
+    },
+    {
+      "index": 9,
+      "left": 63.2037,
+      "top": 12.5602,
+      "width": 1.4287,
+      "height": 2.0808,
+      "text": "2"
+    },
+    {
+      "index": 10,
+      "left": 21.0301,
+      "top": 39.0023,
+      "width": 1.6051,
+      "height": 2.3377,
+      "text": "3"
+    },
+    {
+      "index": 11,
+      "left": 52.5953,
+      "top": 39.0023,
+      "width": 1.6051,
+      "height": 2.3377,
+      "text": "4"
+    },
+    {
+      "index": 12,
+      "left": 24.7598,
+      "top": 65.0401,
+      "width": 1.7271,
+      "height": 2.5153,
+      "text": "5"
+    },
+    {
+      "index": 13,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 14,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 15,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 16,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 17,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 18,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 1.1959,
+      "height": 0.7816,
+      "text": "15"
+    },
+    {
+      "index": 19,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 20,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg021_n0001",
+      "text": "Madhara ya kula matunda bila kusafisha"
+    },
+    {
+      "id": "pg021_n0002",
+      "text": "1 2"
+    },
+    {
+      "id": "pg021_n0003",
+      "text": "3 4"
+    },
+    {
+      "id": "pg021_n0004",
+      "text": "5"
+    },
+    {
+      "id": "pg021_n0005",
+      "text": "1155"
+    },
+    {
+      "id": "pg021_n0006",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 15 23/07/2021 15:41"
+    }
+  ]
+}

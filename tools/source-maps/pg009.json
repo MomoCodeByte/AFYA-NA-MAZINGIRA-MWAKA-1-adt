@@ -1,0 +1,638 @@
+{
+  "words": [
+    {
+      "index": 0,
+      "left": 50.6441,
+      "top": 92.3399,
+      "width": 1.2522,
+      "height": 1.8237,
+      "text": "33"
+    },
+    {
+      "index": 1,
+      "left": 15.4501,
+      "top": 9.2778,
+      "width": 5.5149,
+      "height": 2.0842,
+      "text": "Kazi"
+    },
+    {
+      "index": 2,
+      "left": 21.8569,
+      "top": 9.2778,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 3,
+      "left": 25.6367,
+      "top": 9.2778,
+      "width": 9.897,
+      "height": 2.0842,
+      "text": "sehemu"
+    },
+    {
+      "index": 4,
+      "left": 36.4257,
+      "top": 9.2778,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 5,
+      "left": 40.2055,
+      "top": 9.2778,
+      "width": 3.8946,
+      "height": 2.0842,
+      "text": "nje"
+    },
+    {
+      "index": 6,
+      "left": 44.992,
+      "top": 9.2778,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 7,
+      "left": 48.7718,
+      "top": 9.2778,
+      "width": 7.4192,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 8,
+      "left": 57.0829,
+      "top": 9.2778,
+      "width": 3.9138,
+      "height": 2.0842,
+      "text": "wa"
+    },
+    {
+      "index": 9,
+      "left": 61.8886,
+      "top": 9.2778,
+      "width": 13.1836,
+      "height": 2.0842,
+      "text": "binadamu"
+    },
+    {
+      "index": 10,
+      "left": 15.4501,
+      "top": 12.6084,
+      "width": 7.858,
+      "height": 2.0842,
+      "text": "Kiungo"
+    },
+    {
+      "index": 11,
+      "left": 24.2286,
+      "top": 12.6084,
+      "width": 4.9499,
+      "height": 2.0842,
+      "text": "gani"
+    },
+    {
+      "index": 12,
+      "left": 30.0991,
+      "top": 12.6084,
+      "width": 4.0265,
+      "height": 2.0842,
+      "text": "cha"
+    },
+    {
+      "index": 13,
+      "left": 35.0462,
+      "top": 12.6084,
+      "width": 6.0512,
+      "height": 2.0842,
+      "text": "mwili"
+    },
+    {
+      "index": 14,
+      "left": 42.018,
+      "top": 12.6084,
+      "width": 12.6731,
+      "height": 2.0842,
+      "text": "kinatumika"
+    },
+    {
+      "index": 15,
+      "left": 55.6117,
+      "top": 12.6084,
+      "width": 7.0349,
+      "height": 2.0842,
+      "text": "kuona"
+    },
+    {
+      "index": 16,
+      "left": 63.5671,
+      "top": 12.6084,
+      "width": 4.2961,
+      "height": 2.0842,
+      "text": "vitu"
+    },
+    {
+      "index": 17,
+      "left": 68.7838,
+      "top": 12.6084,
+      "width": 13.6539,
+      "height": 2.0842,
+      "text": "mbalimbali?"
+    },
+    {
+      "index": 18,
+      "left": 75.8861,
+      "top": 21.8011,
+      "width": 1.7357,
+      "height": 2.2688,
+      "text": "3"
+    },
+    {
+      "index": 19,
+      "left": 24.1584,
+      "top": 22.252,
+      "width": 1.7357,
+      "height": 2.2688,
+      "text": "1"
+    },
+    {
+      "index": 20,
+      "left": 50.6572,
+      "top": 23.1835,
+      "width": 1.7357,
+      "height": 2.2688,
+      "text": "2"
+    },
+    {
+      "index": 21,
+      "left": 29.4989,
+      "top": 42.5355,
+      "width": 1.7357,
+      "height": 2.2688,
+      "text": "4"
+    },
+    {
+      "index": 22,
+      "left": 76.195,
+      "top": 41.7429,
+      "width": 1.7357,
+      "height": 2.2688,
+      "text": "5"
+    },
+    {
+      "index": 23,
+      "left": 22.9782,
+      "top": 53.0582,
+      "width": 7.3244,
+      "height": 2.5012,
+      "text": "Zoezi"
+    },
+    {
+      "index": 24,
+      "left": 31.2757,
+      "top": 53.0582,
+      "width": 2.747,
+      "height": 2.5012,
+      "text": "la"
+    },
+    {
+      "index": 25,
+      "left": 34.9958,
+      "top": 53.0582,
+      "width": 1.5612,
+      "height": 2.5012,
+      "text": "1"
+    },
+    {
+      "index": 26,
+      "left": 15.4501,
+      "top": 56.8177,
+      "width": 5.2941,
+      "height": 2.0842,
+      "text": "Taja"
+    },
+    {
+      "index": 27,
+      "left": 21.6361,
+      "top": 56.8177,
+      "width": 6.8138,
+      "height": 2.0842,
+      "text": "rangi"
+    },
+    {
+      "index": 28,
+      "left": 29.3417,
+      "top": 56.8177,
+      "width": 2.8879,
+      "height": 2.0842,
+      "text": "za"
+    },
+    {
+      "index": 29,
+      "left": 33.1216,
+      "top": 56.8177,
+      "width": 11.4629,
+      "height": 2.0842,
+      "text": "maumbo"
+    },
+    {
+      "index": 30,
+      "left": 45.4764,
+      "top": 56.8177,
+      "width": 14.7434,
+      "height": 2.0842,
+      "text": "uliyoyaona"
+    },
+    {
+      "index": 31,
+      "left": 15.4501,
+      "top": 60.1483,
+      "width": 3.4759,
+      "height": 2.0842,
+      "text": "(a)"
+    },
+    {
+      "index": 32,
+      "left": 21.9028,
+      "top": 60.1483,
+      "width": 6.751,
+      "height": 2.0842,
+      "text": "Umbo"
+    },
+    {
+      "index": 33,
+      "left": 29.5743,
+      "top": 60.1483,
+      "width": 7.8752,
+      "height": 2.0842,
+      "text": "namba"
+    },
+    {
+      "index": 34,
+      "left": 38.3701,
+      "top": 60.1483,
+      "width": 1.4311,
+      "height": 2.0842,
+      "text": "1"
+    },
+    {
+      "index": 35,
+      "left": 40.7217,
+      "top": 60.1483,
+      "width": 4.167,
+      "height": 2.0842,
+      "text": "lina"
+    },
+    {
+      "index": 36,
+      "left": 45.8093,
+      "top": 60.1483,
+      "width": 29.5993,
+      "height": 2.0842,
+      "text": "rangi................................"
+    },
+    {
+      "index": 37,
+      "left": 15.4501,
+      "top": 63.5351,
+      "width": 3.4701,
+      "height": 2.0842,
+      "text": "(b)"
+    },
+    {
+      "index": 38,
+      "left": 21.9028,
+      "top": 63.5351,
+      "width": 6.751,
+      "height": 2.0842,
+      "text": "Umbo"
+    },
+    {
+      "index": 39,
+      "left": 29.5743,
+      "top": 63.5351,
+      "width": 7.8752,
+      "height": 2.0842,
+      "text": "namba"
+    },
+    {
+      "index": 40,
+      "left": 38.3701,
+      "top": 63.5351,
+      "width": 1.4311,
+      "height": 2.0842,
+      "text": "2"
+    },
+    {
+      "index": 41,
+      "left": 40.7217,
+      "top": 63.5351,
+      "width": 4.167,
+      "height": 2.0842,
+      "text": "lina"
+    },
+    {
+      "index": 42,
+      "left": 45.8093,
+      "top": 63.5351,
+      "width": 29.5993,
+      "height": 2.0842,
+      "text": "rangi................................"
+    },
+    {
+      "index": 43,
+      "left": 15.4501,
+      "top": 66.922,
+      "width": 3.1919,
+      "height": 2.0842,
+      "text": "(c)"
+    },
+    {
+      "index": 44,
+      "left": 21.9028,
+      "top": 66.922,
+      "width": 6.751,
+      "height": 2.0842,
+      "text": "Umbo"
+    },
+    {
+      "index": 45,
+      "left": 29.5743,
+      "top": 66.922,
+      "width": 7.8752,
+      "height": 2.0842,
+      "text": "namba"
+    },
+    {
+      "index": 46,
+      "left": 38.3701,
+      "top": 66.922,
+      "width": 1.4311,
+      "height": 2.0842,
+      "text": "3"
+    },
+    {
+      "index": 47,
+      "left": 40.7217,
+      "top": 66.922,
+      "width": 4.167,
+      "height": 2.0842,
+      "text": "lina"
+    },
+    {
+      "index": 48,
+      "left": 45.8093,
+      "top": 66.922,
+      "width": 29.5993,
+      "height": 2.0842,
+      "text": "rangi................................"
+    },
+    {
+      "index": 49,
+      "left": 15.4501,
+      "top": 70.3089,
+      "width": 3.516,
+      "height": 2.0842,
+      "text": "(d)"
+    },
+    {
+      "index": 50,
+      "left": 21.9028,
+      "top": 70.3089,
+      "width": 6.751,
+      "height": 2.0842,
+      "text": "Umbo"
+    },
+    {
+      "index": 51,
+      "left": 29.5743,
+      "top": 70.3089,
+      "width": 7.8752,
+      "height": 2.0842,
+      "text": "namba"
+    },
+    {
+      "index": 52,
+      "left": 38.3701,
+      "top": 70.3089,
+      "width": 1.4311,
+      "height": 2.0842,
+      "text": "4"
+    },
+    {
+      "index": 53,
+      "left": 40.7217,
+      "top": 70.3089,
+      "width": 4.167,
+      "height": 2.0842,
+      "text": "lina"
+    },
+    {
+      "index": 54,
+      "left": 45.8093,
+      "top": 70.3089,
+      "width": 29.5993,
+      "height": 2.0842,
+      "text": "rangi................................"
+    },
+    {
+      "index": 55,
+      "left": 15.4501,
+      "top": 73.6958,
+      "width": 3.2923,
+      "height": 2.0842,
+      "text": "(e)"
+    },
+    {
+      "index": 56,
+      "left": 21.9028,
+      "top": 73.6958,
+      "width": 6.751,
+      "height": 2.0842,
+      "text": "Umbo"
+    },
+    {
+      "index": 57,
+      "left": 29.5743,
+      "top": 73.6958,
+      "width": 7.8752,
+      "height": 2.0842,
+      "text": "namba"
+    },
+    {
+      "index": 58,
+      "left": 38.3701,
+      "top": 73.6958,
+      "width": 1.4311,
+      "height": 2.0842,
+      "text": "5"
+    },
+    {
+      "index": 59,
+      "left": 40.7217,
+      "top": 73.6958,
+      "width": 4.167,
+      "height": 2.0842,
+      "text": "lina"
+    },
+    {
+      "index": 60,
+      "left": 45.8093,
+      "top": 73.6958,
+      "width": 29.5993,
+      "height": 2.0842,
+      "text": "rangi................................"
+    },
+    {
+      "index": 61,
+      "left": 15.4501,
+      "top": 81.2737,
+      "width": 7.4966,
+      "height": 2.0842,
+      "text": "Macho"
+    },
+    {
+      "index": 62,
+      "left": 23.8673,
+      "top": 81.2737,
+      "width": 14.5401,
+      "height": 2.0842,
+      "text": "humwezesha"
+    },
+    {
+      "index": 63,
+      "left": 39.3279,
+      "top": 81.2737,
+      "width": 11.4342,
+      "height": 2.0842,
+      "text": "binadamu"
+    },
+    {
+      "index": 64,
+      "left": 51.6827,
+      "top": 81.2737,
+      "width": 7.7748,
+      "height": 2.0842,
+      "text": "kuona."
+    },
+    {
+      "index": 65,
+      "left": 7.0807,
+      "top": 97.705,
+      "width": 2.8091,
+      "height": 0.7816,
+      "text": "AFYA"
+    },
+    {
+      "index": 66,
+      "left": 10.1888,
+      "top": 97.705,
+      "width": 1.4938,
+      "height": 0.7816,
+      "text": "NA"
+    },
+    {
+      "index": 67,
+      "left": 11.9816,
+      "top": 97.705,
+      "width": 5.9752,
+      "height": 0.7816,
+      "text": "MAZINGIRA"
+    },
+    {
+      "index": 68,
+      "left": 18.2557,
+      "top": 97.705,
+      "width": 4.0631,
+      "height": 0.7816,
+      "text": "MWAKA"
+    },
+    {
+      "index": 69,
+      "left": 22.6178,
+      "top": 97.705,
+      "width": 2.9295,
+      "height": 0.7816,
+      "text": "1.indd"
+    },
+    {
+      "index": 70,
+      "left": 26.4442,
+      "top": 97.705,
+      "width": 0.598,
+      "height": 0.7816,
+      "text": "3"
+    },
+    {
+      "index": 71,
+      "left": 85.0325,
+      "top": 97.705,
+      "width": 5.3816,
+      "height": 0.7816,
+      "text": "23/07/2021"
+    },
+    {
+      "index": 72,
+      "left": 91.311,
+      "top": 97.705,
+      "width": 2.6908,
+      "height": 0.7816,
+      "text": "15:41"
+    }
+  ],
+  "transcript": [
+    {
+      "id": "pg009_n0001",
+      "text": "Kazi za sehemu za nje za mwili wa binadamu"
+    },
+    {
+      "id": "pg009_n0002",
+      "text": "Kiungo gani cha mwili kinatumika kuona vitu mbalimbali?"
+    },
+    {
+      "id": "pg009_n0008",
+      "text": "Zoezi la 1"
+    },
+    {
+      "id": "pg009_n0009",
+      "text": "Taja rangi za maumbo uliyoyaona"
+    },
+    {
+      "id": "pg009_n0010",
+      "text": "(a) Umbo namba 1 lina rangi................................"
+    },
+    {
+      "id": "pg009_n0011",
+      "text": "(b) Umbo namba 2 lina rangi................................"
+    },
+    {
+      "id": "pg009_n0012",
+      "text": "(c) Umbo namba 3 lina rangi................................"
+    },
+    {
+      "id": "pg009_n0013",
+      "text": "(d) Umbo namba 4 lina rangi................................"
+    },
+    {
+      "id": "pg009_n0014",
+      "text": "(e) Umbo namba 5 lina rangi................................"
+    },
+    {
+      "id": "pg009_n0015",
+      "text": "Macho humwezesha binadamu kuona."
+    },
+    {
+      "id": "pg009_n0016",
+      "text": "33"
+    },
+    {
+      "id": "pg009_n0017",
+      "text": "AFYA NA MAZINGIRA MWAKA 1.indd 3 23/07/2021 15:41"
+    }
+  ]
+}

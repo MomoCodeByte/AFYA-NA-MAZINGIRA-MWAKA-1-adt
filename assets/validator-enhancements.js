@@ -4,6 +4,7 @@
   var page = meta ? Number(meta.content) : 0;
   var transcript = document.querySelector(".accessible-transcript");
   if (!transcript) return;
+  var semanticGenerated = Boolean(document.querySelector(".semantic-generated-page"));
   var fixes = {
     3: {},
     8: { replace: { pg008_n0002: "Angalia na bainisha picha hii, kisha jibu swali.", pg008_n0005: "Chora au chunguza mwili wa binadamu na uoneshe sehemu za nje za mwili" }, remove: ["pg008_n0006"], after: { pg008_n0002: ["Picha inaonesha mtoto wa kiume akiwa amesimama na kunyoosha mikono. Mistari inaelekeza sehemu za nje za mwili kama kichwa, macho, masikio, pua, mdomo, mikono, vidole, tumbo, miguu na nyayo."] }, visual: [["Angalia picha hii kisha jibu swali", "Angalia na bainisha picha hii, kisha jibu swali."], ["Chora mwili wa binadamu na uoneshe sehemu za nje za mwili", "Chora au chunguza mwili wa binadamu na uoneshe sehemu za nje za mwili"], ["kwa kuandika majina yake", ""]] },
@@ -113,8 +114,8 @@
     var matched = nodes.slice(found, found + wanted.length), left = Math.min.apply(null, matched.map(function (n) { return parseFloat(n.style.left); })), top = Math.min.apply(null, matched.map(function (n) { return parseFloat(n.style.top); })), right = Math.max.apply(null, matched.map(function (n) { return parseFloat(n.style.left) + parseFloat(n.style.width); })), bottom = Math.max.apply(null, matched.map(function (n) { return parseFloat(n.style.top) + parseFloat(n.style.height); }));
     var box = document.createElement("div"); box.className = "validator-visible-patch" + (newText ? "" : " validator-removal-patch"); box.dataset.validatorPatch = String(document.querySelectorAll(".validator-visible-patch").length); box.dataset.validatorPage = String(page); newText.split(/(\s+)/).forEach(function (part) { if (/^\s+$/.test(part)) box.appendChild(document.createTextNode(part)); else if (part) { var word = document.createElement("span"); word.className = "validator-display-word"; word.textContent = part; box.appendChild(word); } }); box.style.left = Math.max(0, left - 0.35) + "%"; box.style.top = Math.max(0, top - 0.25) + "%"; box.style.width = Math.min(96 - left, newText ? Math.max(right - left + 1.5, 48) : right - left + 1.2) + "%"; box.style.minHeight = Math.max(2.7, bottom - top + 0.7) + "%"; if (!newText && page === 13) box.style.background = "rgb(246,252,254)"; document.querySelector(".page-shell").appendChild(box);
   }
-  (fix.visual || []).forEach(function (pair) { patchVisible(pair[0], pair[1]); });
-  if (fix.note) {
+  if (!semanticGenerated) (fix.visual || []).forEach(function (pair) { patchVisible(pair[0], pair[1]); });
+  if (fix.note && !semanticGenerated) {
     var note = document.createElement("div");
     note.className = "validator-visible-patch validator-visible-note";
     note.dataset.validatorPatch = String(document.querySelectorAll(".validator-visible-patch").length);
@@ -122,7 +123,7 @@
     fix.note.split(/(\s+)/).forEach(function (part) { if (/^\s+$/.test(part)) note.appendChild(document.createTextNode(part)); else if (part) { var word = document.createElement("span"); word.className = "validator-display-word"; word.textContent = part; note.appendChild(word); } });
     document.querySelector(".page-shell").appendChild(note);
   }
-  if (page === 9) {
+  if (page === 9 && !semanticGenerated) {
     var shell = document.querySelector(".page-shell");
     var cover = document.createElement("div");
     cover.className = "validator-shape-cover";
