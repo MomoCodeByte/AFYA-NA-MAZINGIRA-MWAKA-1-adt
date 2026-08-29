@@ -171,23 +171,26 @@ main{width:100%;padding:18px 10px 112px;box-sizing:border-box}
 .book-page-canvas{position:relative;width:100%;aspect-ratio:900/1239;overflow:hidden;background:#fff;container-type:inline-size}
 .book-page-canvas>.semantic-art-layer{position:absolute;inset:0;width:100%;height:100%;object-fit:fill}
 .book-page-canvas>.positioned-semantic-content{position:absolute;inset:0}
+.book-page-canvas.is-cropped>.semantic-art-layer,.book-page-canvas.is-cropped>.positioned-semantic-content{height:calc(100% / var(--book-crop-ratio));bottom:auto}
 .exercise-response-workspace{
   width:100%;
   max-width:68rem;
   margin:clamp(1.5rem,4vw,3rem) auto 0;
-  padding:clamp(1rem,3vw,2.5rem);
-  border-radius:1rem;
-  background:#f4fbfe;
+  padding:clamp(.75rem,2vw,1.5rem) 0;
+  background:#fff;
   color:#17252c;
   display:grid;
   gap:clamp(1.25rem,2.5vw,2rem);
-  font-family:Arial,sans-serif;
+  font-family:"Comic Sans MS","Segoe Print",cursive;
 }
 .exercise-response-workspace *{box-sizing:border-box}
 .exercise-response{min-width:0;margin:0;padding:0;border:0;display:grid;gap:.65rem}
-.exercise-response+.exercise-response{padding-top:clamp(1rem,2vw,1.5rem);border-top:1px solid #b9dfec}
-.exercise-response-prompt,.exercise-response-instruction{margin:0;color:#17252c;font-family:Arial,sans-serif;font-size:clamp(1rem,1.5vw,1.2rem);font-weight:600;line-height:1.5}
-.exercise-response-instruction{padding-bottom:.25rem;color:#075985}
+.exercise-response+.exercise-response{padding-top:clamp(.75rem,1.6vw,1.2rem)}
+.exercise-source-question,.exercise-source-instruction,.exercise-source-context{display:block;min-width:0;color:#202020;font:italic clamp(1rem,1.7vw,1.3rem)/1.5 "Comic Sans MS","Segoe Print",cursive}
+.exercise-source-question .semantic-text-group,.exercise-source-instruction .semantic-text-group,.exercise-source-context .semantic-text-group{position:static!important;display:block!important;min-height:0!important;margin:0!important;padding:0!important}
+.exercise-source-question .semantic-positioned-word,.exercise-source-instruction .semantic-positioned-word,.exercise-source-context .semantic-positioned-word{position:static!important;display:inline!important;width:auto!important;max-width:100%!important;height:auto!important;font-size:inherit!important;line-height:inherit!important;white-space:normal!important;overflow-wrap:anywhere!important}
+.exercise-source-instruction{font-weight:700;color:#075985}
+.has-no-source-question{display:none}
 .exercise-response-input,.exercise-response-textarea,.exercise-response-select{
   display:block;
   width:100%;
@@ -225,9 +228,15 @@ main{width:100%;padding:18px 10px 112px;box-sizing:border-box}
 }
 .exercise-response-choice input{width:1.25rem;height:1.25rem;flex:0 0 auto;margin:0;accent-color:#087da9}
 .exercise-response-choice:focus-within{outline:3px solid rgba(14,165,233,.38);outline-offset:2px}
+.exercise-inline-answer-layer{position:absolute;z-index:6;inset:0;pointer-events:none;font-family:Arial,sans-serif}
+.exercise-inline-answer-control{position:absolute;display:block;min-width:0;pointer-events:auto}
+.exercise-inline-answer-control .exercise-response-input,.exercise-inline-answer-control .exercise-response-select{min-height:clamp(28px,3.8cqw,44px);padding:.2cqw .55cqw;font-size:clamp(12px,1.45cqw,16px)}
+.exercise-inline-answer-control.is-table-answer .exercise-response-select{min-height:clamp(22px,3.4cqw,36px);padding:.08cqw .45cqw;font-size:clamp(10px,1.25cqw,14px)}
+.exercise-printed-blank{opacity:0!important;pointer-events:none!important}
+.page-narration-hook{max-width:1px!important;white-space:normal!important;overflow-wrap:anywhere!important;contain:layout paint!important}
 @media(max-width:640px){
   .semantic-generated-page.is-responsive-book-page{padding:.5rem}
-  .exercise-response-workspace{margin-top:1rem;padding:.9rem;gap:1.25rem;border-radius:.7rem}
+  .exercise-response-workspace{margin-top:1rem;padding:.75rem 0;gap:1.25rem}
   .exercise-response-textarea{min-height:96px}
   .exercise-response-textarea.is-explanation{min-height:128px}
   .exercise-response-choice-list{display:grid;grid-template-columns:1fr}

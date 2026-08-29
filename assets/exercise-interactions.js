@@ -6,6 +6,7 @@
   var titleMeta = document.querySelector('meta[name="title-id"]');
   var pageNumber = pageMeta ? String(Number(pageMeta.content)) : "";
   var sectionId = titleMeta ? titleMeta.content : "page-" + pageNumber;
+  var sourceCardMap = new WeakMap();
   if (!pageNumber) return;
 
   function element(tag, className, text) {
@@ -96,20 +97,24 @@
     return best && best.score >= 0.48 ? best.groups : [];
   }
 
-  function exactSourcePrompt(page, item, fallback) {
+  function sourceInfo(page, item, fallback, allowAnchorOnly) {
     var wanted = item.anchor || fallback || item.prompt;
     var groups = findAnchor(page, wanted);
-    if (!groups.length) return fallback || item.prompt || wanted;
+    if (!groups.length) {
+      return { prompt: fallback || item.prompt || wanted, groups: [] };
+    }
     var exact = groups.map(function (group) { return group.textContent; })
       .join(" ")
       .replace(/\s+/g, " ")
       .trim();
     var exactComparison = normalize(exact).replace(/^\d+\s+/, "");
     var fallbackComparison = normalize(fallback || item.prompt || wanted).replace(/^\d+\s+/, "");
-    if (exactComparison.indexOf(fallbackComparison) !== -1 || fallbackComparison.indexOf(exactComparison) !== -1) {
-      return exact;
-    }
-    return fallback || item.prompt || wanted;
+    var verified = allowAnchorOnly || exactComparison.indexOf(fallbackComparison) !== -1 || fallbackComparison.indexOf(exactComparison) !== -1;
+    return {
+      prompt: verified ? exact : (fallback || item.prompt || wanted),
+      groups: groups,
+      verified: verified,
+    };
   }
 
   function preparePage(page) {
@@ -138,16 +143,133 @@
     return "Jibu la swali: " + prompt;
   }
 
-  function responseCard(prompt, id) {
+  function sourceQuestion(card, info) {
+    if (!info.groups.length) {
+      card.classList.add("has-no-source-question");
+      return;
+    }
+    var source = element("div", "exercise-source-question");
+    info.groups.forEach(function (group) {
+      group.classList.add("exercise-source-group");
+      source.appendChild(group);
+    });
+    card.appendChild(source);
+  }
+
+  function responseCard(workspace, info, id) {
+    var existing = null;
+    info.groups.some(function (group) {
+      existing = sourceCardMap.get(group) || null;
+      return Boolean(existing);
+    });
+    if (existing) return existing;
     var card = element("section", "exercise-response");
     card.dataset.exerciseId = id;
-    card.appendChild(element("p", "exercise-response-prompt", prompt));
+    sourceQuestion(card, info);
+    info.groups.forEach(function (group) { sourceCardMap.set(group, card); });
+    workspace.appendChild(card);
     return card;
   }
 
-  function addTextResponse(workspace, page, item) {
-    var prompt = exactSourcePrompt(page, item, item.prompt);
-    var card = responseCard(prompt, item.id);
+  function unionRect(nodes) {
+    var rects = [];
+    nodes.forEach(function (node) {
+      var words = node.matches && node.matches(".semantic-positioned-word")
+        ? [node]
+        : node.querySelectorAll(".semantic-positioned-word");
+      Array.prototype.forEach.call(words, function (word) { rects.push(word.getBoundingClientRect()); });
+    });
+    if (!rects.length) return null;
+    return rects.reduce(function (result, rect) {
+      return {
+        left: Math.min(result.left, rect.left),
+        top: Math.min(result.top, rect.top),
+        right: Math.max(result.right, rect.right),
+        bottom: Math.max(result.bottom, rect.bottom),
+        width: Math.max(result.right, rect.right) - Math.min(result.left, rect.left),
+        height: Math.max(result.bottom, rect.bottom) - Math.min(result.top, rect.top),
+      };
+    });
+  }
+
+  function inlineLayer(page) {
+    var canvas = page.querySelector(".book-page-canvas");
+    var layer = canvas.querySelector(".exercise-inline-answer-layer");
+    if (!layer) {
+      layer = element("div", "exercise-inline-answer-layer");
+      canvas.appendChild(layer);
+    }
+    return layer;
+  }
+
+  function printedBlank(groups) {
+    var answer = null;
+    groups.some(function (group) {
+      return Array.prototype.some.call(group.querySelectorAll(".semantic-positioned-word"), function (word) {
+        if (!word.classList.contains("exercise-printed-blank") && /_{3,}|\.{4,}/.test(word.textContent)) {
+          answer = word;
+          return true;
+        }
+        return false;
+      });
+    });
+    return answer;
+  }
+
+  function placeInlineControl(page, targetNodes, control, id, replaceAllWords) {
+    var canvas = page.querySelector(".book-page-canvas");
+    var canvasRect = canvas.getBoundingClientRect();
+    var targetRect = unionRect(targetNodes);
+    if (!targetRect || !canvasRect.width) return false;
+    var wrapper = element("label", "exercise-inline-answer-control");
+    wrapper.dataset.exerciseId = id;
+    wrapper.style.left = ((targetRect.left - canvasRect.left) / canvasRect.width * 100) + "%";
+    wrapper.style.top = ((targetRect.top - canvasRect.top) / canvasRect.height * 100) + "%";
+    var baseWidth = targetRect.width / canvasRect.width * 100;
+    wrapper.style.width = Math.min(72, Math.max(replaceAllWords ? 26 : 14, baseWidth)) + "%";
+    wrapper.appendChild(control);
+    inlineLayer(page).appendChild(wrapper);
+    targetNodes.forEach(function (node) {
+      var words = node.matches && node.matches(".semantic-positioned-word")
+        ? [node]
+        : node.querySelectorAll(".semantic-positioned-word");
+      Array.prototype.forEach.call(words, function (word) {
+        word.classList.add("exercise-printed-blank");
+        word.setAttribute("aria-hidden", "true");
+      });
+    });
+    return true;
+  }
+
+  function placeManifestControl(page, position, control, id) {
+    if (!position) return false;
+    var wrapper = element("label", "exercise-inline-answer-control");
+    wrapper.dataset.exerciseId = id;
+    wrapper.style.left = position.left + "%";
+    wrapper.style.top = position.top + "%";
+    wrapper.style.width = position.width + "%";
+    wrapper.appendChild(control);
+    inlineLayer(page).appendChild(wrapper);
+    return true;
+  }
+
+  function placeBelowSourceControl(page, groups, control, id) {
+    var canvas = page.querySelector(".book-page-canvas");
+    var canvasRect = canvas.getBoundingClientRect();
+    var sourceRect = unionRect(groups);
+    if (!sourceRect || !canvasRect.width) return false;
+    var left = (sourceRect.left - canvasRect.left) / canvasRect.width * 100;
+    var wrapper = element("label", "exercise-inline-answer-control is-table-answer");
+    wrapper.dataset.exerciseId = id;
+    wrapper.style.left = left + "%";
+    wrapper.style.top = (((sourceRect.bottom - canvasRect.top) / canvasRect.height * 100) + 0.2) + "%";
+    wrapper.style.width = Math.max(28, Math.min(42, 56 - left)) + "%";
+    wrapper.appendChild(control);
+    inlineLayer(page).appendChild(wrapper);
+    return true;
+  }
+
+  function textControl(item, prompt) {
     var longAnswer = item.type === "textarea";
     var control = element(longAnswer ? "textarea" : "input", longAnswer ? "exercise-response-textarea" : "exercise-response-input");
     if (longAnswer) {
@@ -157,16 +279,24 @@
       control.type = "text";
     }
     control.setAttribute("aria-label", accessibleName(prompt));
+    control.dataset.exerciseId = item.id;
     bindValue(control, item.id);
-    card.appendChild(control);
-    workspace.appendChild(card);
+    return control;
   }
 
-  function addSelectResponse(workspace, page, item, row) {
-    var id = row ? item.id + "-" + row.id : item.id;
-    var seed = row ? (row.prompt || row.anchor) : item.prompt;
-    var prompt = row ? seed : exactSourcePrompt(page, item, seed);
-    var card = responseCard(prompt, id);
+  function addTextResponse(workspace, page, item) {
+    var info = sourceInfo(page, item, item.prompt, false);
+    var control = textControl(item, info.prompt);
+    if (item.position && placeManifestControl(page, item.position, control, item.id)) return;
+    var blank = item.type !== "textarea" ? printedBlank(info.groups) : null;
+    if (blank && placeInlineControl(page, [blank], control, item.id, false)) {
+      return;
+    }
+    var card = responseCard(workspace, info, item.id);
+    card.appendChild(control);
+  }
+
+  function selectControl(item, id, prompt) {
     var select = element("select", "exercise-response-select");
     var emptyOption = element("option", "", "—");
     emptyOption.value = "";
@@ -177,20 +307,39 @@
       select.appendChild(optionNode);
     });
     select.setAttribute("aria-label", accessibleName(prompt));
+    select.dataset.exerciseId = id;
     bindValue(select, id);
+    return select;
+  }
+
+  function addSelectResponse(workspace, page, item, row) {
+    var id = row ? item.id + "-" + row.id : item.id;
+    var seed = row ? (row.prompt || row.anchor) : item.prompt;
+    if (row && pageNumber === "13") {
+      var answerGroups = findAnchor(page, row.anchor);
+      var inlineSelect = selectControl(item, id, seed);
+      if (answerGroups.length && placeInlineControl(page, answerGroups, inlineSelect, id, true)) return;
+    }
+    if (row && pageNumber === "50" && window.innerWidth > 480) {
+      var questionGroups = findAnchor(page, row.prompt);
+      var tableSelect = selectControl(item, id, seed);
+      if (questionGroups.length && placeBelowSourceControl(page, questionGroups, tableSelect, id)) return;
+    }
+    var info = sourceInfo(page, { anchor: row ? row.prompt : item.anchor, prompt: seed }, seed, false);
+    var select = selectControl(item, id, info.prompt);
+    var blank = printedBlank(info.groups);
+    if (blank && placeInlineControl(page, [blank], select, id, false)) return;
+    var card = responseCard(workspace, info, id);
     card.appendChild(select);
-    workspace.appendChild(card);
   }
 
   function addRadioResponse(workspace, page, item, row, options) {
     var id = row ? item.id + "-" + row.id : item.id;
     var seed = row ? row.prompt : item.prompt;
-    var prompt = row
-      ? exactSourcePrompt(page, { anchor: row.prompt, prompt: row.prompt }, seed)
-      : seed;
-    var fieldset = element("fieldset", "exercise-response exercise-response-options");
-    fieldset.dataset.exerciseId = id;
-    fieldset.appendChild(element("legend", "exercise-response-prompt", prompt));
+    var lookup = row ? { anchor: row.prompt, prompt: row.prompt } : item;
+    var info = sourceInfo(page, lookup, seed, !row && Boolean(item.anchor));
+    var card = responseCard(workspace, info, id);
+    card.classList.add("exercise-response-options");
     var choices = element("div", "exercise-response-choice-list");
     var saved = stored(id);
     (options || item.options || []).forEach(function (option) {
@@ -200,7 +349,7 @@
       input.name = id;
       input.value = option;
       input.checked = saved === option;
-      input.setAttribute("aria-label", accessibleName(prompt) + " — " + option);
+      input.setAttribute("aria-label", accessibleName(info.prompt) + " — " + option);
       input.addEventListener("change", function () {
         if (input.checked) remember(id, option);
       });
@@ -208,8 +357,7 @@
       label.appendChild(element("span", "", option));
       choices.appendChild(label);
     });
-    fieldset.appendChild(choices);
-    workspace.appendChild(fieldset);
+    card.appendChild(choices);
   }
 
   function renderItem(workspace, page, item) {
@@ -219,7 +367,15 @@
       return;
     }
     if (item.type === "true_false") {
-      workspace.appendChild(element("p", "exercise-response-instruction", exactSourcePrompt(page, item, item.prompt)));
+      var instructionInfo = sourceInfo(page, item, item.prompt, false);
+      if (instructionInfo.groups.length) {
+        var instruction = element("div", "exercise-source-instruction");
+        instructionInfo.groups.forEach(function (group) {
+          group.classList.add("exercise-source-group");
+          instruction.appendChild(group);
+        });
+        workspace.appendChild(instruction);
+      }
       (item.rows || []).forEach(function (row) {
         addRadioResponse(workspace, page, item, row, ["Kweli", "Sikweli"]);
       });
@@ -236,12 +392,73 @@
     addTextResponse(workspace, page, item);
   }
 
+  function groupTop(group) {
+    var word = group.querySelector(".semantic-positioned-word");
+    return word ? (parseFloat(word.style.top) || 0) : 0;
+  }
+
+  function finalizeStackedFlow(entry, page, workspace, originalGroups) {
+    if (entry.layout !== "stacked") return;
+    var movedGroups = Array.prototype.slice.call(workspace.querySelectorAll(".exercise-source-group"));
+    if (!movedGroups.length) return;
+    var movedOrders = movedGroups.map(function (group) {
+      return Number(group.dataset.exerciseSourceOrder);
+    }).filter(function (order) { return Number.isFinite(order); });
+    if (!movedOrders.length) return;
+    var start = Math.min.apply(null, movedOrders);
+    var end = Math.max.apply(null, movedOrders);
+    while (start > 0) {
+      var previous = originalGroups[start - 1];
+      var previousText = normalize(previous.textContent);
+      if (!/^H[1-6]$/.test(previous.tagName) && !/^(maswali|zoezi|jibu|kazi ya kufanya)\b/.test(previousText)) break;
+      start -= 1;
+    }
+
+    originalGroups.forEach(function (group, order) {
+      group.dataset.exerciseSourceOrder = String(order);
+      if (order < start || order > end || group.closest(".exercise-response-workspace") || group.querySelector(".exercise-printed-blank")) return;
+      var context = element("div", "exercise-source-context");
+      context.dataset.flowOrder = String(order);
+      group.classList.add("exercise-source-group");
+      context.appendChild(group);
+      workspace.appendChild(context);
+    });
+
+    Array.prototype.forEach.call(workspace.children, function (child, index) {
+      if (child.dataset.flowOrder) return;
+      var orders = Array.prototype.slice.call(child.querySelectorAll(".exercise-source-group")).map(function (group) {
+        return Number(group.dataset.exerciseSourceOrder);
+      }).filter(function (order) { return Number.isFinite(order); });
+      child.dataset.flowOrder = orders.length ? String(Math.min.apply(null, orders)) : String(10000 + index);
+    });
+    Array.prototype.slice.call(workspace.children)
+      .sort(function (a, b) { return Number(a.dataset.flowOrder) - Number(b.dataset.flowOrder); })
+      .forEach(function (child) { workspace.appendChild(child); });
+
+    var cropTop = groupTop(originalGroups[start]);
+    var viewport = page.querySelector(".book-page-viewport");
+    var canvas = page.querySelector(".book-page-canvas");
+    if (cropTop <= 3) {
+      viewport.hidden = true;
+      return;
+    }
+    var cropRatio = Math.max(0.02, (cropTop - 1.25) / 100);
+    canvas.classList.add("is-cropped");
+    canvas.style.setProperty("--book-crop-ratio", String(cropRatio));
+    canvas.style.aspectRatio = "900 / " + (1239 * cropRatio);
+  }
+
   function render(entry, page) {
     if (!entry || page.querySelector(":scope > .exercise-response-workspace")) return;
+    var originalGroups = lineGroups(page);
+    originalGroups.forEach(function (group, order) {
+      group.dataset.exerciseSourceOrder = String(order);
+    });
     var workspace = element("section", "exercise-response-workspace");
     workspace.dataset.page = pageNumber;
     workspace.setAttribute("aria-label", entry.title || "Sehemu za kujibu");
     (entry.items || []).forEach(function (item) { renderItem(workspace, page, item); });
+    finalizeStackedFlow(entry, page, workspace, originalGroups);
     if (workspace.querySelector("input, textarea, select")) page.appendChild(workspace);
   }
 
