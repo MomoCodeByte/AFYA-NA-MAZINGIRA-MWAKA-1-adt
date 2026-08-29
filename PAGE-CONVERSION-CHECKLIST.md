@@ -25,13 +25,14 @@ Final audit: 72/72 pages use semantic HTML; no page uses a full-page screenshot 
 ## Interactive exercise phase 1
 
 - Removed the blue gradient edge decoration from every page and every reusable artwork layer.
-- Added answer controls directly to the printed questions on 40 exercise pages, covering 146 manifest activities plus any remaining printed dotted or underscored blanks.
-- Normal questions receive an answer line beside or immediately below their wording; printed blanks become interactive fields in their original positions.
-- Supported controls: short text inputs, expandable text areas, multiple-choice radio options, True/False options, single-answer selectors, and matching selectors.
-- Answers are saved automatically in the reader's local browser storage and restored when the page is reopened.
+- Added 155 independent answer spaces on all 40 digitally answerable exercise pages: 98 short-text inputs, 27 textareas, 5 multiple-choice questions, 5 True/False rows, 8 single-answer selectors, and 12 matching selectors.
+- Every answer space now appears immediately below its corresponding question in a normal-flow response workspace. The workspace grows the existing web page vertically; it does not cover, shrink, rewrite, or hide the original textbook content.
+- Five drawing-only tasks on pages 8, 10, 15, 17, and 49 intentionally have no digital answer field. Their full printed instructions remain visible.
+- Text inputs have a minimum 44-pixel touch height. Textareas are at least 96 pixels tall, explanation responses are at least 128 pixels tall, and all textareas resize vertically.
+- Controls use the full available width, have no visible labels or placeholders, and have question-specific accessible names. Radio choices use 44-pixel minimum touch targets and keyboard-visible focus styling.
+- Answers are saved automatically under stable keys containing the book ID, page/section ID, and question ID, then restored when the page is reopened.
 - Submit and result buttons are intentionally deferred to the next phase.
-- Reflowed 23 densely printed exercise pages so every question and field occupies its own row inside the original exercise box; the page-72 arrangement supplied by the user was checked with zero field-to-text collisions, including while a field is focused.
-- Restyled every answer control as a clear white writing area with a cyan outline, rounded corners, internal padding, and a readable placeholder. Long-answer questions have taller text areas instead of thin answer lines.
-- On phones, controls remain proportional inside the printed page and expand into a readable 44-pixel input or 76-pixel text area when focused, above the viewer toolbar.
-- Browser checks covered multiple-choice (page 9), matching (page 13), writing and printed-blank fields (pages 12, 47, 56, and 72), road-sign answers (page 60), True/False (page 56), answer persistence, and a non-exercise page (page 14). Pages 39 and 59 received final question-specific spacing corrections.
-- Final browser audit covered all 40 interactive pages and 173 rendered controls at desktop width: zero controls outside the page, zero clipped reflow panels or rows, and zero contacts with visible printed text. The phone-width audit covered the same 40 pages with zero controls outside the page and zero panel or row overflow.
+- The responsive page container is 100% wide up to 80rem (1280 pixels), centered, and padded responsively. The original semantic book canvas remains complete above each normal-flow answer workspace.
+- Browser audits covered every interactive page at 320, 375, 768, 1024, and 1280 pixels. All five widths passed with no page-level horizontal overflow, field/card overlap, undersized non-radio controls, missing accessible names, visible placeholders, hidden original question markers, or drawing-task controls.
+- Multiple-choice wording (page 9), matching labels (page 13), True/False rows (page 56), long-answer sizing (pages 56 and 72), and answer persistence across refresh (page 72) received additional targeted checks.
+- The book still contains exactly 72 web pages. No source text, narration/accessibility identifier, image, illustration, section, or page was removed by this answer-space update.
