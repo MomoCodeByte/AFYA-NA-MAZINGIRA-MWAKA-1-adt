@@ -348,7 +348,7 @@ def build_page(page: int, words: list[dict], transcript: list[dict], colours: di
   <link href="./content/tailwind_output.css" rel="stylesheet">
   <link href="./assets/libs/fontawesome/css/all.min.css" rel="stylesheet">
   <link href="./assets/fonts.css" rel="stylesheet">
-  <link rel="stylesheet" href="./assets/reader.css?v=semantic31">
+  <link rel="stylesheet" href="./assets/reader.css?v=semantic32">
 </head>
 <body>
   <main>
@@ -367,8 +367,6 @@ def build_page(page: int, words: list[dict], transcript: list[dict], colours: di
   <script src="./assets/sign-language-video-muted.js?v=1"></script>
   <script src="./assets/audio-speed-default.js?v=1"></script>
   <script src="./assets/base.bundle.local.js?v=audio085"></script>
-  <script src="./content/exercises.js?v=8"></script>
-  <script src="./assets/exercise-interactions.js?v=25"></script>
 </body>
 </html>
 '''
@@ -446,6 +444,7 @@ def main() -> None:
         source = source.replace("reader.css?v=semantic28", "reader.css?v=semantic29")
         source = source.replace("reader.css?v=semantic29", "reader.css?v=semantic30")
         source = source.replace("reader.css?v=semantic30", "reader.css?v=semantic31")
+        source = source.replace("reader.css?v=semantic31", "reader.css?v=semantic32")
         if page == 69 and "page-narration-hook" not in source:
             words, transcript = parse_legacy(page)
             anchor = transcript[0]
@@ -474,48 +473,6 @@ def main() -> None:
                 "</body>",
                 '  <script src="./assets/validator-enhancements.js?v=semantic2"></script>\n</body>',
             )
-        if "exercise-interactions.js" not in source:
-            source = source.replace(
-                '  <script src="./assets/validator-enhancements.js?v=semantic2"></script>',
-                '  <script src="./assets/exercise-interactions.js?v=25"></script>\n'
-                '  <script src="./assets/validator-enhancements.js?v=semantic2"></script>',
-            )
-        if "content/exercises.js" not in source:
-            source = source.replace(
-                '  <script src="./assets/exercise-interactions.js?v=2"></script>',
-                '  <script src="./content/exercises.js?v=8"></script>\n'
-                '  <script src="./assets/exercise-interactions.js?v=25"></script>',
-            )
-        source = source.replace("content/exercises.js?v=2", "content/exercises.js?v=3")
-        source = source.replace("content/exercises.js?v=3", "content/exercises.js?v=4")
-        source = source.replace("content/exercises.js?v=4", "content/exercises.js?v=5")
-        source = source.replace("content/exercises.js?v=5", "content/exercises.js?v=6")
-        source = source.replace("content/exercises.js?v=6", "content/exercises.js?v=7")
-        source = source.replace("content/exercises.js?v=7", "content/exercises.js?v=8")
-        source = source.replace("exercise-interactions.js?v=1", "exercise-interactions.js?v=2")
-        source = source.replace("exercise-interactions.js?v=2", "exercise-interactions.js?v=3")
-        source = source.replace("exercise-interactions.js?v=3", "exercise-interactions.js?v=4")
-        source = source.replace("exercise-interactions.js?v=4", "exercise-interactions.js?v=5")
-        source = source.replace("exercise-interactions.js?v=5", "exercise-interactions.js?v=6")
-        source = source.replace("exercise-interactions.js?v=6", "exercise-interactions.js?v=7")
-        source = source.replace("exercise-interactions.js?v=7", "exercise-interactions.js?v=8")
-        source = source.replace("exercise-interactions.js?v=8", "exercise-interactions.js?v=9")
-        source = source.replace("exercise-interactions.js?v=9", "exercise-interactions.js?v=10")
-        source = source.replace("exercise-interactions.js?v=10", "exercise-interactions.js?v=11")
-        source = source.replace("exercise-interactions.js?v=11", "exercise-interactions.js?v=12")
-        source = source.replace("exercise-interactions.js?v=12", "exercise-interactions.js?v=13")
-        source = source.replace("exercise-interactions.js?v=13", "exercise-interactions.js?v=14")
-        source = source.replace("exercise-interactions.js?v=14", "exercise-interactions.js?v=15")
-        source = source.replace("exercise-interactions.js?v=15", "exercise-interactions.js?v=16")
-        source = source.replace("exercise-interactions.js?v=16", "exercise-interactions.js?v=17")
-        source = source.replace("exercise-interactions.js?v=17", "exercise-interactions.js?v=18")
-        source = source.replace("exercise-interactions.js?v=18", "exercise-interactions.js?v=19")
-        source = source.replace("exercise-interactions.js?v=19", "exercise-interactions.js?v=20")
-        source = source.replace("exercise-interactions.js?v=20", "exercise-interactions.js?v=21")
-        source = source.replace("exercise-interactions.js?v=21", "exercise-interactions.js?v=22")
-        source = source.replace("exercise-interactions.js?v=22", "exercise-interactions.js?v=23")
-        source = source.replace("exercise-interactions.js?v=23", "exercise-interactions.js?v=24")
-        source = source.replace("exercise-interactions.js?v=24", "exercise-interactions.js?v=25")
         target.write_text(source, encoding="utf-8")
         if border_cleanup_needed:
             art_file = ART_DIR / f"pg{page:03d}-art.png"
